@@ -1,0 +1,1056 @@
+{
+  "team": "DAL",
+  "team_name": "Dallas Stars",
+  "roster_count": 26,
+  "results": [
+    {
+      "player": {
+        "id": 8473994,
+        "name": "Jamie Benn",
+        "first": "Jamie",
+        "last": "Benn",
+        "pos": "L",
+        "sweater": 14
+      },
+      "birth_date": "1989-07-18",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jamie-benn-signs-one-year-contract-with-dallas-stars",
+        "date": "2026-07-03",
+        "headline": "Benn signs 1-year, $850,000 contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jamie Benn signed a one-year, $850,000 contract with the Dallas Stars on Friday. He can make an additional $1.15 million in performance bonuses."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476278,
+        "name": "Colin Blackwell",
+        "first": "Colin",
+        "last": "Blackwell",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "1993-03-28",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-colin-blackwell-to-two-year-1-55-million-contract-070125",
+        "date": "2025-07-01",
+        "headline": "Dallas Stars sign forward Colin Blackwell to two-year, $1.55 million contract",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 775000,
+          "total_value_usd": 1550000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "**FRISCO, Texas** \u2013 Dallas Stars General Manager **Jim Nill** announced today that the club has signed forward **Colin Blackwell** to a two-year contract, which begins in the 2025-26 season and runs through the 2026-27 season. The two-year contract is worth $1.55 million and has an average annual value (AAV) of $775,00"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480840,
+        "name": "Oskar B\u00e4ck",
+        "first": "Oskar",
+        "last": "B\u00e4ck",
+        "pos": "C",
+        "sweater": 10
+      },
+      "birth_date": "2000-03-12",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-oskar-back-to-a-two-year-contract-extension-010225",
+        "date": "2025-01-02",
+        "headline": "Dallas Stars sign Oskar B\u00e4ck to a two-year contract extension",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 825000,
+          "total_value_usd": 1650000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "**FRISCO, Texas \u2013** Dallas Stars General Manager **Jim Nill** announced today that the club has signed forward [Oskar B\u00e4ck](https://www.nhl.com/stars/player/oskar-b%C3%A4ck-8480840) to a two-year contract extension, which will run through the 2026-27 season. The two-year deal has an average annual value (AAV) of $825,0"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475168,
+        "name": "Matt Duchene",
+        "first": "Matt",
+        "last": "Duchene",
+        "pos": "C",
+        "sweater": 95
+      },
+      "birth_date": "1991-01-16",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matt-duchene-signs-4-year-contract-with-dallas-stars",
+        "date": "2025-06-19",
+        "headline": "Duchene signs 4-year, $18 million contract to remain with Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4500000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Matt Duchene signed a four-year, $18 million contract with the Dallas Stars on Thursday. It has an average annual value of $4.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476889,
+        "name": "Radek Faksa",
+        "first": "Radek",
+        "last": "Faksa",
+        "pos": "C",
+        "sweater": 12
+      },
+      "birth_date": "1994-01-09",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/radek-faksa-signs-3-year-contract-to-return-to-dallas-stars",
+        "date": "2025-07-01",
+        "headline": "Faksa signs 3-year, $6 million contract to return to Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2000000,
+          "total_value_usd": 6000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Radek Faksa signed a three-year, $6 million contract with the Dallas Stars on Tuesday. It has an average annual value of $2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-02",
+        "headline": "Stars trade Radek Faksa to St. Louis for future considerations",
+        "url": "https://www.nhl.com/stars/news/dallas-stars-trade-forward-radek-faksa-to-st-louis-for-future-considerations-070224"
+      }
+    },
+    {
+      "player": {
+        "id": 8478449,
+        "name": "Roope Hintz",
+        "first": "Roope",
+        "last": "Hintz",
+        "pos": "C",
+        "sweater": 24
+      },
+      "birth_date": "1996-11-17",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/roope-hintz-signs-deal-with-dallas-338169702",
+        "date": "2022-11-30",
+        "headline": "Hintz signs eight-year, $67.6 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8450000,
+          "total_value_usd": 67600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Roope Hintz signed an eight-year, $67.6 million contract with the Dallas Stars on Tuesday. It has an average annual value of $8.45 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484829,
+        "name": "Justin Hryckowian",
+        "first": "Justin",
+        "last": "Hryckowian",
+        "pos": "C",
+        "sweater": 49
+      },
+      "birth_date": "2001-02-23",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-justin-hryckowian-to-two-year-one-way-contract-extension-010726",
+        "date": "2026-01-07",
+        "headline": "Dallas Stars sign forward Justin Hryckowian to two-year, one-way contract extension",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 950000,
+          "total_value_usd": 1900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "**FRISCO, Texas** \u2013 Dallas Stars General Manager **Jim Nill** announced today that the club has signed forward [Justin Hryckowian](https://www.nhl.com/player/8484829) to a two-year, one-way contract extension that will run through the 2027-28 season. The two-year deal is worth $1.9 million ($950,000 AAV)."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484938,
+        "name": "Arttu Hyry",
+        "first": "Arttu",
+        "last": "Hyry",
+        "pos": "R",
+        "sweater": 25
+      },
+      "birth_date": "2001-04-06",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-forwards-arttu-hyry-and-artem-shlaine-and-goaltender-brandon-halverson-070126",
+        "date": "2026-07-01",
+        "headline": "Dallas Stars sign forwards Arttu Hyry and Artem Shlaine and goaltender Brandon Halverson",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "*FRISCO, Texas** \\-- Dallas Stars General Manager **Jim Nill** announced today that the club has signed forward **Arttu Hyry** to a two-year contract, which will run through the 2027-28 season. The contract will begin in the 2026-27 season, with the first year of the two-year contract as a two-way and the second year a"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482740,
+        "name": "Wyatt Johnston",
+        "first": "Wyatt",
+        "last": "Johnston",
+        "pos": "C",
+        "sweater": 53
+      },
+      "birth_date": "2003-05-14",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/wyatt-johnston-signs-5-year-contract-with-dallas-stars",
+        "date": "2025-03-09",
+        "headline": "Johnston signs 5-year, $42 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 8400000,
+          "total_value_usd": 42000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Wyatt Johnston signed a five-year, $42 million contract with the Dallas Stars on Saturday. The contract, which begins next season, has an average annual value of $8.4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481641,
+        "name": "Joel Kiviranta",
+        "first": "Joel",
+        "last": "Kiviranta",
+        "pos": "L",
+        "sweater": 22
+      },
+      "birth_date": "1996-03-23",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/joel-kiviranta-signs-one-year-contract-with-dallas-stars",
+        "date": "2026-07-02",
+        "headline": "Kiviranta signs 1-year, $1 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1000000,
+          "total_value_usd": 1000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Joel Kiviranta signed a one-year, $1 million contract with the Dallas Stars on Wednesday. The 30-year-old forward had nine points (three goals, six assists) in 51 games for the Colorado Avalanche last season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474102,
+        "name": "David Perron",
+        "first": "David",
+        "last": "Perron",
+        "pos": "L",
+        "sweater": 16
+      },
+      "birth_date": "1988-05-28",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/david-perron-signs-one-year-contract-with-dallas-stars",
+        "date": "2026-10-16",
+        "headline": "Perron signs one-year contract with Stars, will play 20th NHL season",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "David Perron signed a one-year, $850,000 contract with the Dallas Stars on Friday. The 38-year-old forward had 28 points (13 goals, 15 assists) in 65 regular-season games for the Ottawa Senators and Detroit Red Wings last season, including three goals in 16 games with Detroit after he was acquired in a trade March 5."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478420,
+        "name": "Mikko Rantanen",
+        "first": "Mikko",
+        "last": "Rantanen",
+        "pos": "R",
+        "sweater": 96
+      },
+      "birth_date": "1996-10-29",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/mikko-rantanen-traded-to-stars-by-hurricanes-for-logan-stankoven",
+        "date": "2025-03-08",
+        "headline": "Rantanen traded to Stars by Hurricanes, signs 8-year, $96 million contract",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 12000000,
+          "total_value_usd": 96000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "It was an offer Mikko Rantanen and the Dallas Stars couldn\u2019t refuse. After weeks of uncertainly about his future NHL home, Rantanen was traded to Dallas by the Carolina Hurricanes on Friday, and then signed an eight-year, $96 million contract."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-12",
+        "headline": "Rantanen \u2018tried my best\u2019 with Hurricanes, happy to be with Stars after trade",
+        "url": "https://www.nhl.com/news/mikko-rantanen-happy-to-be-with-stars-after-trade-from-hurricanes"
+      }
+    },
+    {
+      "player": {
+        "id": 8480027,
+        "name": "Jason Robertson",
+        "first": "Jason",
+        "last": "Robertson",
+        "pos": "L",
+        "sweater": 21
+      },
+      "birth_date": "1999-07-22",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jason-robertson-signs-1-year-contract-with-dallas-stars",
+        "date": "2026-07-22",
+        "headline": "Robertson signs 1-year, $12 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 12000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Jason Robertson signed a one-year, $12 million contract with the Dallas Stars on Tuesday. The forward, who turned 27 on Wednesday, was a restricted free agent and avoided a salary arbitration hearing."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475794,
+        "name": "Tyler Seguin",
+        "first": "Tyler",
+        "last": "Seguin",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "1992-01-31",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/stars-gm-jim-nill-agrees-jamie-benn-tyler-seguin-need-to-be-better-303384256",
+        "date": "2018-12-30",
+        "headline": "Benn, Seguin need to be better, Stars GM agrees",
+        "signing_team": "DAL",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9850000,
+          "total_value_usd": 78800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "anager Jim Nill does not condone the language used by CEO Jim Lites regarding the play of forwards Jamie Benn and Tyler Seguin on Friday but said he agreed with the message that the team needs more out of its top players. \"We've talked about that (the language) and addressed that internally,\" Nill told \"Off The Rush\" o"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479351,
+        "name": "Sam Steel",
+        "first": "Sam",
+        "last": "Steel",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "1998-02-03",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sam-steel-signs-2-year-contract-with-dallas-stars",
+        "date": "2025-02-15",
+        "headline": "Steel signs 2-year, $4.2 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2100000,
+          "total_value_usd": 4200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sam Steel signed a two-year, $4.2 million contract with the Dallas Stars on Friday. It has an average annual value of $2.1 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sam-steel-signs-4-year-deal-with-dallas",
+        "date": "2026-09-23",
+        "headline": "Steel signs 4-year, $14.8 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "start_yr": 2027,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3700000,
+          "total_value_usd": 14800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Sam Steel signed a four-year, $14.8 million contract with the Dallas Stars on Monday. It begins next season and has an average annual value of $3.7 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483425,
+        "name": "Lian Bichsel",
+        "first": "Lian",
+        "last": "Bichsel",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "2004-05-18",
+      "draft_team": "DAL",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnowV0xlVnNCMzVzUURCQkczNUI1dHpFX09LX1pHaHhBMkdscDlTZjBTcE1OTGtVYm1LV3c2c2VBOURiOGc2TlI3akVOTHl0VFB5UHQyR2xVazhaYTU1Tnc1Ry13b2V1X21YLTV5eGV6SWtBWUFKaEVNdEd3SDVNYXo1bUs3Z0ZxcnhVLWc5VmRwb1FTVS0zMm5OWTBsNTBLbGZjWkFSRWwtOXpIcnFzWg?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2023-11-29",
+        "headline": "Stars sign defenseman Lian Bichsel to a three-year entry-level contract | Dallas Stars",
+        "signing_team": "DAL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Stars sign defenseman Lian Bichsel to a three-year entry-level contract | Dallas Stars"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477335,
+        "name": "Kyle Burroughs",
+        "first": "Kyle",
+        "last": "Burroughs",
+        "pos": "D",
+        "sweater": 28
+      },
+      "birth_date": "1995-07-12",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-kyle-burroughs-to-one-year-two-way-contract-070626",
+        "date": "2026-07-06",
+        "headline": "Dallas Stars sign defenseman Kyle Burroughs to one-year, two-way contract",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "*FRISCO, Texas \u2013** Dallas Stars General Manager **Jim Nill** announced today that the club has signed defenseman **Kyle Burroughs** to a one-year, two-way contract. \u201cWe are happy to welcome Kyle and his family to the Stars organization,\u201d said Nill."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478476,
+        "name": "Kyle Capobianco",
+        "first": "Kyle",
+        "last": "Capobianco",
+        "pos": "D",
+        "sweater": 20
+      },
+      "birth_date": "1997-08-13",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-kyle-capobianco-and-defenseman-luke-krys-to-contract-extensions-062426",
+        "date": "2026-06-24",
+        "headline": "Dallas Stars sign Kyle Capobianco and Luke Krys to contract extensions",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": "2026-27",
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "RISCO, Texas** \\-- Dallas Stars General Manager **Jim Nill** announced today that the club has signed defenseman **Kyle Capobianco** to a two-year, one-way contract extension that will run through the 2027-28 season. The two-year deal is worth $850,000 for the first year and $900,000 for the second."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481581,
+        "name": "Thomas Harley",
+        "first": "Thomas",
+        "last": "Harley",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "2001-08-19",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/thomas-harley-signs-8-year-contract-with-dallas-stars",
+        "date": "2025-10-29",
+        "headline": "Harley signs 8-year, $84.7 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10587000,
+          "total_value_usd": 84700000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Thomas Harley signed an eight-year, $84.7 million contract with the Dallas Stars on Tuesday. It has an average annual value of $10.587 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480036,
+        "name": "Miro Heiskanen",
+        "first": "Miro",
+        "last": "Heiskanen",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1999-07-18",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dallas-stars-miro-heiskanen-contract-325676894",
+        "date": "2021-07-19",
+        "headline": "Heiskanen signs eight-year, $67.6 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2021-22",
+        "end_season": "2028-29",
+        "start_yr": 2021,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8450000,
+          "total_value_usd": 67600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Miro Heiskanen signed an eight-year, $67.6 million contract with the Dallas Stars on Saturday. It has an average annual value of $8.45 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476902,
+        "name": "Esa Lindell",
+        "first": "Esa",
+        "last": "Lindell",
+        "pos": "D",
+        "sweater": 23
+      },
+      "birth_date": "1994-05-23",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/esa-lindell-signs-five-year-contract-with-dallas-stars",
+        "date": "2024-09-19",
+        "headline": "Lindell signs 5-year, $26.25 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5250000,
+          "total_value_usd": 26250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Esa Lindell signed a five-year, $26.25 million contract with the Dallas Stars on Tuesday. It has an average annual value of $5.25 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480878,
+        "name": "Nils Lundkvist",
+        "first": "Nils",
+        "last": "Lundkvist",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "2000-07-27",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-nils-lundkvist-to-two-year-3-5-million-contract-extension-041726",
+        "date": "2026-04-17",
+        "headline": "Dallas Stars sign defenseman Nils Lundkvist to two-year, $3.5 million contract extension",
+        "signing_team": "DAL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1750000,
+          "total_value_usd": 3500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2027-20",
+          "status_hint": null,
+          "quote": "**FRISCO, Texas** \u2013 Dallas Stars General Manager **Jim Nill** announced today that the club has signed defenseman [Nils Lundkvist](https://www.nhl.com/player/8480878) to a two-year contract extension, which begins in the 2026-27 season and runs through the 2027-2028 season. The two-year contract is worth $3.5 million a"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-09-20",
+        "headline": "Lundkvist traded to Stars by Rangers",
+        "url": "https://www.nhl.com/news/nils-lundkvist-traded-to-stars-by-rangers-335648344"
+      }
+    },
+    {
+      "player": {
+        "id": 8474574,
+        "name": "Tyler Myers",
+        "first": "Tyler",
+        "last": "Myers",
+        "pos": "D",
+        "sweater": 57
+      },
+      "birth_date": "1990-02-01",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tyler-myers-agrees-to-3-year-contract-with-canucks",
+        "date": "2024-06-27",
+        "headline": "Myers signs 3-year, $9 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3000000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tyler Myers signed a three-year, $9 million contract with the Vancouver Canucks on Thursday. It has an average annual value of $3 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-05",
+        "headline": "Myers traded to Stars by Canucks for draft picks",
+        "url": "https://www.nhl.com/news/tyler-myers-traded-to-dallas-stars-by-vancouver-canucks"
+      }
+    },
+    {
+      "player": {
+        "id": 8485468,
+        "name": "Trey Taylor",
+        "first": "Trey",
+        "last": "Taylor",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "2002-02-04",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-trey-taylor-to-a-two-year-entry-level-contract-032425",
+        "date": "2025-03-24",
+        "headline": "Dallas Stars sign defenseman Trey Taylor to a two-year entry-level contract",
+        "signing_team": "DAL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "*FRISCO, Texas** \u2013 Dallas Stars General Manager **Jim Nill** announced today that the club has signed defenseman **Trey Taylor** to a two-year, entry-level contract that will begin in 2025-26. Taylor will report to the Texas Stars of the American Hockey League for the remainder of the year."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479193,
+        "name": "Casey DeSmith",
+        "first": "Casey",
+        "last": "DeSmith",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "1991-08-13",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-goaltender-casey-desmith-to-a-three-year-contract-070124",
+        "date": "2024-07-01",
+        "headline": "Stars sign Casey DeSmith to a three-year contract",
+        "signing_team": "DAL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1000000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "SCO, Texas** \\-\\- Dallas Stars General Manager **Jim Nill** announced today that the club has signed goaltender **Casey DeSmith** to a three-year contract, which will run through the 2026-27 season. The three-year deal is worth $3 million and has an average annual value (AAV) of $1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-casey-desmith-to-a-two-year-5-million-contract-extension-092926",
+        "date": "2026-09-30",
+        "headline": "Dallas Stars sign Casey DeSmith to a two-year, $5 million contract extension",
+        "signing_team": "DAL",
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "start_yr": 2027,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2500000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "*FRISCO, Texas** \u2013 Dallas Stars General Manager **Jim Nill** announced today that the club has signed goaltender [Casey DeSmith](https://www.nhl.com/player/8479193) to a two-year contract extension, which begins at the start of the 2027-28 season and runs through the 2028-29 season. The two-year contract extension is w"
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479979,
+        "name": "Jake Oettinger",
+        "first": "Jake",
+        "last": "Oettinger",
+        "pos": "G",
+        "sweater": 29
+      },
+      "birth_date": "1998-12-18",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-oettinger-signs-8-year-deal-with-dallas",
+        "date": "2024-10-18",
+        "headline": "Oettinger signs 8-year, $66 million contract with Stars",
+        "signing_team": "DAL",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8250000,
+          "total_value_usd": 66000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake Oettinger signed an eight-year, $66 million contract with the Dallas Stars on Thursday. The contract, which will begin next season, has an average annual value of $8.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

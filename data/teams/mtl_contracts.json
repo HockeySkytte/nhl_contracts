@@ -1,0 +1,2517 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "MTL",
+  "team_name": "Montreal Canadiens",
+  "generated_at_utc": "2026-11-26T22:49:27Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/MTL/current",
+  "summary": {
+    "roster_players": 26,
+    "contracts_with_verified_source_url": 26,
+    "contracts_matched_nhlpa": 26,
+    "contracts_with_public_aav": 26,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 100969333,
+    "cap_penalties_count": 2,
+    "total_cap_penalties_usd": 5184410,
+    "combined_roster_plus_penalties_usd": 106153743
+  },
+  "contracts": [
+    {
+      "player_id": 8476981,
+      "player_name": "Josh Anderson",
+      "position": "R",
+      "sweater_number": 17,
+      "birth_date": "1994-05-07",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2020-10-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 7,
+      "aav_usd": 5500000,
+      "total_value_usd": 38500000,
+      "start_season": "2021-22",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/canadiens-sign-forward-josh-anderson-to-a-seven-year-contract-extensio-319393200",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/canadiens-acquire-josh-anderson-from-the-blue-jackets-319318650"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "CBJ",
+          "aav_usd": 669375,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 669375,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 669375,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 669375,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 1850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 1850000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483424,
+      "player_name": "Owen Beck",
+      "position": "C",
+      "sweater_number": 62,
+      "birth_date": "2004-02-03",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2022-10-04",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 860000,
+      "total_value_usd": 2580000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHZHczVTOXhiWXFBckh3bXlnZ1cyQVM5ZXRNOHU2OVYyaV9yNlRsQ1JCTm03MkJFbTNpSGwtMW52M2t3REU2WEJ5NC0wMTltRzlHMTRmRlYtbWphblhNa2U0dGdXNjJzQlNvRmgxVHlYSUwtTnlkbXNVcTdMTUtIbGlmLVdqaW90alhhLVEzUnBCb1hHdUphLQ?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 860000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 860000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 860000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 860000,
+          "total_salary_usd": 835000,
+          "base_salary_usd": 835000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 860000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482132,
+      "player_name": "Brett Berard",
+      "position": "L",
+      "sweater_number": 37,
+      "birth_date": "2002-09-09",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-07-09",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFhvMzZUX3l6ekhIU0tmV2lKMkxxNVNDQ3hVT0Rad3FFMW1LQzk0aUw3MG5lSGNGUG04Wi1TcWdvWW1Bb19IaE5iQnNGbjZ0UGxPMmhMTmdCSS05b2s2V0d2c0dUeVJrWEpvaVRsUm9YN2ZGbDlhb2poelU2V3R4OGYxNHJESDhsZDBQNWlhOHk1NVB2ODRxdkVCWkRTbFlWSURKRmh4dUtpZjQtbDJuWWV4bl9QUk04LTVrNVpHSnM?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/canadiens/news/canadiens-acquire-forward-brett-berard-from-the-new-york-rangers-june-26-2026"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 175000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        }
+      }
+    },
+    {
+      "player_id": 8482737,
+      "player_name": "Zachary Bolduc",
+      "position": "R",
+      "sweater_number": 76,
+      "birth_date": "2003-02-24",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-09-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 4200000,
+      "total_value_usd": 16800000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/zachary-bolduc-signs-4-year-contract-with-montreal-canadiens",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/zachary-bolduc-traded-to-montreal-canadiens-by-st-louis-blues-for-logan-mailloux"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4200000,
+      "current_season_base_salary_usd": 3700000,
+      "current_season_signing_bonus_usd": 500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 4200000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 3700000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481540,
+      "player_name": "Cole Caufield",
+      "position": "R",
+      "sweater_number": 13,
+      "birth_date": "2001-01-02",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2023-06-05",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 7850000,
+      "total_value_usd": 62800000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/cole-caufield-agrees-to-deal-with-montreal-344733870",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8705000,
+      "current_season_base_salary_usd": 8705000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 880833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 7850000,
+          "total_salary_usd": 9975000,
+          "base_salary_usd": 4975000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 7850000,
+          "total_salary_usd": 9975000,
+          "base_salary_usd": 4975000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 7850000,
+          "total_salary_usd": 9975000,
+          "base_salary_usd": 9975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 7850000,
+          "total_salary_usd": 8705000,
+          "base_salary_usd": 8705000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476479,
+      "player_name": "Phillip Danault",
+      "position": "C",
+      "sweater_number": 24,
+      "birth_date": "1993-02-24",
+      "current_team": "MTL",
+      "signing_team": "LAK",
+      "signed_date": "2021-07-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 5500000,
+      "total_value_usd": 33000000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/danault-signs-six-year-contract-with-kings-325843750",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/los-angeles-kings-trade-phillip-danault-to-montreal-canadiens"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 3250000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 912500,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 912500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 3083333,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 3083333,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 3083333,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 3250000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 3250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "LAK",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484984,
+      "player_name": "Ivan Demidov",
+      "position": "R",
+      "sweater_number": 93,
+      "birth_date": "2005-12-10",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 8,
+      "aav_usd": 940833,
+      "total_value_usd": 7526664,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/canadiens/news/eight-year-contract-extension-for-ivan-demidov-july-1-2026",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 9125000,
+        "total_value_usd": 73000000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-07-01",
+        "source_url": "https://www.nhl.com/news/ivan-demidov-signs-eight-year-contract-with-montreal-canadiens"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 940833,
+          "total_salary_usd": 872500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 940833,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 940833,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8478133,
+      "player_name": "Jake Evans",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "1996-06-02",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2025-03-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 2850000,
+      "total_value_usd": 11400000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-evans-signs-four-year-contract-with-montreal-canadiens",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3300000,
+      "current_season_base_salary_usd": 3300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 2850000,
+          "total_salary_usd": 3550000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 750000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 2850000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482775,
+      "player_name": "Oliver Kapanen",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "2003-07-29",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2024-06-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 930833,
+      "total_value_usd": 2792499,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-oliver-kapanen-june-15",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 942500,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 92500,
+      "minor_league_salary_usd": 80000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 930833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 930833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 930833,
+          "total_salary_usd": 942500,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        }
+      }
+    },
+    {
+      "player_id": 8475184,
+      "player_name": "Chris Kreider",
+      "position": "L",
+      "sweater_number": 22,
+      "birth_date": "1991-04-30",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-09-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2150000,
+      "total_value_usd": 2150000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/one-year-contract-for-chris-kreider-sept-12-2026",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2150000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1300000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "NYR",
+          "aav_usd": 800000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "NYR",
+          "aav_usd": 800000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NYR",
+          "aav_usd": 800000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NYR",
+          "aav_usd": 2475000,
+          "total_salary_usd": 2350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "NYR",
+          "aav_usd": 2475000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYR",
+          "aav_usd": 4625000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 4625000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 4625000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 4625000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 6500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 6500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 2150000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1300000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477946,
+      "player_name": "Dylan Larkin",
+      "position": "C",
+      "sweater_number": 89,
+      "birth_date": "1996-07-30",
+      "current_team": "MTL",
+      "signing_team": "DET",
+      "signed_date": "2023-03-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8700000,
+      "total_value_usd": 69600000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dylan-larkin-signs-8-year-contract-with-detroit-red-wings-341683002",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-spin-dylan-larkin-montreal-canadiens-trade-2026"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 6100000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 6100000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 6100000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 6100000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 6100000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 8700000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 8700000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 8700000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 8700000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481618,
+      "player_name": "Alex Newhook",
+      "position": "C",
+      "sweater_number": 15,
+      "birth_date": "2001-01-28",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2023-07-11",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 4,
+      "aav_usd": 2900000,
+      "total_value_usd": 11600000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alex-newhook-signs-deal-with-montreal-345301792",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": {
+        "term_years": 4,
+        "aav_usd": 5550000,
+        "total_value_usd": 22200000,
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "signed_date": "2026-09-15",
+        "source_url": "https://www.nhl.com/news/alex-newhook-signs-four-year-contract-with-montreal-canadiens"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/montreal-acquires-alex-newhook-from-colorado-in-exchange-for-draft-pic-345043034"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2100000,
+      "current_season_base_salary_usd": 2100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 908333,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 782500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 908333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 908333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 2900000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 2900000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2700000,
+          "base_salary_usd": 2700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483515,
+      "player_name": "Juraj Slafkovsk\u00fd",
+      "position": "L",
+      "sweater_number": 20,
+      "birth_date": "2004-03-30",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2024-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 7600000,
+      "total_value_usd": 60800000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/eight-year-contract-extension-for-juraj-slafkovsky",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 7600000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 7600000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480018,
+      "player_name": "Nick Suzuki",
+      "position": "C",
+      "sweater_number": 14,
+      "birth_date": "1999-08-10",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2021-10-12",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 7875000,
+      "total_value_usd": 63000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/eight-year-contract-extension-for-nick-suzuki-326754204",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 6250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 7875000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5999986,
+          "signing_bonus_usd": 4000014,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 7875000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 7875000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 7875000,
+          "total_salary_usd": 8750000,
+          "base_salary_usd": 8750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 7875000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480074,
+      "player_name": "Alexandre Texier",
+      "position": "L",
+      "sweater_number": 85,
+      "birth_date": "1999-09-13",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-01-14",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2500000,
+      "total_value_usd": 5000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/two-year-contract-extension-for-alexandre-texier-2026",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2857000,
+      "current_season_base_salary_usd": 2857000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2857000,
+          "base_salary_usd": 2857000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484403,
+      "player_name": "Florian Xhekaj",
+      "position": "L",
+      "sweater_number": 63,
+      "birth_date": "2004-06-27",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2024-04-09",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 891667,
+      "total_value_usd": 2675001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-florian-xhekaj-2024",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 935000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 85000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 891667,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 891667,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 891667,
+          "total_salary_usd": 935000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478851,
+      "player_name": "Alexandre Carrier",
+      "position": "D",
+      "sweater_number": 45,
+      "birth_date": "1996-10-08",
+      "current_team": "MTL",
+      "signing_team": "NSH",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3750000,
+      "total_value_usd": 11250000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/predators/news/predators-agree-to-terms-with-alexandre-carrier-on-three-year-11-25-million-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-justin-barron-from-montreal-2024-12-18"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2800000,
+      "current_season_base_salary_usd": 2800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NSH",
+          "aav_usd": 669000,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 669000,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 669000,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 669000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 669000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 733333,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 733333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 733333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 4600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480865,
+      "player_name": "Noah Dobson",
+      "position": "D",
+      "sweater_number": 53,
+      "birth_date": "2000-01-07",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2025-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 9500000,
+      "total_value_usd": 76000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/noah-dobson-traded-to-canadiens-by-islanders-gets-eight-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/noah-dobson-traded-to-canadiens-by-islanders-gets-eight-year-contract"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 12000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 11000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 11000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 11000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483686,
+      "player_name": "Adam Engstrom",
+      "position": "D",
+      "sweater_number": 42,
+      "birth_date": "2003-11-17",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2024-05-03",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 896667,
+      "total_value_usd": 2690001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzYyMXZKRW1NSXhfdHZTYnZJSGxfUHRsUmR0X29vUzhTaUZvVVJ6SWdYZWVQaU1pRDVMYzcyWDEwRm5ZRTM2ak0tbGVsTzB5SncyYkpWcElBT2xZeWgyOFl4MzlCeUtMOWZkQktaZ3JSNGM2N2RkZXZmNTdSNU5uT0YxTERJTEw5UEMySHZOeEFza3VNUURfSGR3?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 896667,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 896667,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 896667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482087,
+      "player_name": "Kaiden Guhle",
+      "position": "D",
+      "sweater_number": 21,
+      "birth_date": "2002-01-18",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2024-07-31",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 5550000,
+      "total_value_usd": 33300000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/six-year-contract-extension-for-kaiden-guhle-july-31",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5250000,
+      "current_season_base_salary_usd": 5250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 5550000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 5550000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483457,
+      "player_name": "Lane Hutson",
+      "position": "D",
+      "sweater_number": 48,
+      "birth_date": "2004-02-14",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2025-10-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 8850000,
+      "total_value_usd": 70800000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/lane-hutson-signs-8-year-contract-extension-with-montreal-canadiens",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 12000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 11000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 8850000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 11000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476875,
+      "player_name": "Mike Matheson",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1994-02-27",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2025-11-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 6000000,
+      "total_value_usd": 30000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mike-matheson-signs-5-year-deal-with-montreal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 5000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "FLA",
+          "aav_usd": 4875000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 4875000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 4875000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 4875000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 4875000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 4875000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 4875000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 4875000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484220,
+      "player_name": "David Reinbacher",
+      "position": "D",
+      "sweater_number": 64,
+      "birth_date": "2004-10-25",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2023-07-05",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 921000,
+      "total_value_usd": 2763000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/three-year-entry-level-contract-for-david-reinbacher-345221606",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 921000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482964,
+      "player_name": "Arber Xhekaj",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "2001-01-30",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-09-15",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 1500000,
+      "total_value_usd": 1500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/one-year-contract-for-arber-xhekaj-sept-15-2026",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 828333,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 828333,
+          "total_salary_usd": 820000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 828333,
+          "total_salary_usd": 835000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482487,
+      "player_name": "Jakub Dobes",
+      "position": "G",
+      "sweater_number": 75,
+      "birth_date": "2001-05-27",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2026-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 965000,
+      "total_value_usd": 2895000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canadiens/news/three-year-contract-extension-for-jakub-dobes-july-2-2026",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": {
+        "term_years": 3,
+        "aav_usd": 5350000,
+        "total_value_usd": 16050000,
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "signed_date": "2026-07-02",
+        "source_url": "https://www.nhl.com/news/jakub-dobes-signs-three-year-contract-with-montreal-canadiens"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 965000,
+          "total_salary_usd": 1030000,
+          "base_salary_usd": 1030000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 965000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484170,
+      "player_name": "Jacob Fowler",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "2004-11-24",
+      "current_team": "MTL",
+      "signing_team": "MTL",
+      "signed_date": "2025-04-04",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 938333,
+      "total_value_usd": 2814999,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-jacob-fowler",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 938333,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 938333,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "retained_salary",
+      "player_id": 8475848,
+      "player_name": "Brendan Gallagher",
+      "event_date": "2026-07-01",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 3250000,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "notes": "50% retained salary on Brendan Gallagher's final contract year ($6.5M AAV)."
+    },
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": null,
+      "player_name": "Team Performance Bonus Overage (2025-26 carryover)",
+      "event_date": "2026-08-01",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1934410,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+      "notes": "2025-26 performance bonus carryover (including Ivan Demidov and Oliver Kapanen ELC bonuses)."
+    }
+  ]
+}

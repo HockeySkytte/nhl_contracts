@@ -1,0 +1,960 @@
+{
+  "team": "LAK",
+  "team_name": "Los Angeles Kings",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8476469,
+        "name": "Joel Armia",
+        "first": "Joel",
+        "last": "Armia",
+        "pos": "R",
+        "sweater": 40
+      },
+      "birth_date": "1993-05-31",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/corey-perry-signs-1-year-contract-with-los-angeles-kings",
+        "date": "2025-07-01",
+        "headline": "Perry signs 1-year, $2 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2500000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "to let my play speak and go from there. I\u2019ve got to get them on my side and go from there.\u201d The Kings also signed Joel Armia to a two-year, $5 million contract on Tuesday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482124,
+        "name": "Quinton Byfield",
+        "first": "Quinton",
+        "last": "Byfield",
+        "pos": "R",
+        "sweater": 55
+      },
+      "birth_date": "2002-08-19",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/quinton-byfield-signs-five-year-contract-with-kings-as-restricted-free-agent",
+        "date": "2024-07-16",
+        "headline": "Byfield signs 5-year, $31.25 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2024-25",
+        "end_season": "2028-29",
+        "start_yr": 2024,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 6250000,
+          "total_value_usd": 31250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Quinton Byfield signed a five-year, $31.25 million contract with the Los Angeles Kings on Monday. It has an average annual value of $6.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477942,
+        "name": "Kevin Fiala",
+        "first": "Kevin",
+        "last": "Fiala",
+        "pos": "L",
+        "sweater": 22
+      },
+      "birth_date": "1996-07-22",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kevin-fiala-traded-to-los-angeles-kings-by-minnesota-wild-334775358",
+        "date": "2022-07-05",
+        "headline": "Fiala signs 7-year deal with Kings day after trade from Wild",
+        "signing_team": "LAK",
+        "start_season": "2022-23",
+        "end_season": "2028-29",
+        "start_yr": 2022,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7875000,
+          "total_value_usd": 55125000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Kevin Fiala signed a seven-year, $55.125 million contract with the Los Angeles Kings on Thursday, one day after he was acquired in a trade with the Minnesota Wild. It has an average annual value of $7.875 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-07-05",
+        "headline": "Kings shift focus to re-signing Kempe, Anderson after trade for Fiala",
+        "url": "https://www.nhl.com/news/los-angeles-kings-focused-on-re-signing-adrian-kempe-and-mikey-anderso-334814320"
+      }
+    },
+    {
+      "player": {
+        "id": 8475287,
+        "name": "Erik Haula",
+        "first": "Erik",
+        "last": "Haula",
+        "pos": "L",
+        "sweater": 56
+      },
+      "birth_date": "1991-03-23",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/kings-sign-forward-erik-haula-to-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "Kings Sign Forward Erik Haula To Two-Year Contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3600000,
+          "total_value_usd": 7200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The LA Kings have signed forward **Erik Haula** to a two-year contract with an average annual value (AAV) of $3,600,000 through the 2027-28 season. Haula, 35, skated in a career-high 81 games last season for the Nashville Predators, posting 14 goals and 28 points (14-24=38) with 118 hits, 51 blocked shots, 64 penalty m"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482726,
+        "name": "Samuel Helenius",
+        "first": "Samuel",
+        "last": "Helenius",
+        "pos": "C",
+        "sweater": 79
+      },
+      "birth_date": "2002-11-26",
+      "draft_team": "LAK",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FEN3hGUmJmWVE2NWxVOVhzU2ViaXVEalVoUEd3MTEwZHZJZkR6LWdlR1NaNGE5UHZTX1FCT3QzeWl2ZWJNZmFxUnUwSDhjSUk0czIweURlaDV2Yy1ydXh5TmdCelVOTm1UVjlwcUV1RUowZEtLQ0JHWXpTMTlWSGNuMHR2aGx5UXhYQVlXYWx5VW1MRV9V?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-12-02",
+        "headline": "Kings sign Samuel Helenius to two-year, $1.75M extension",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kings sign Samuel Helenius to two-year, $1.75M extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477960,
+        "name": "Adrian Kempe",
+        "first": "Adrian",
+        "last": "Kempe",
+        "pos": "R",
+        "sweater": 9
+      },
+      "birth_date": "1996-09-13",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/adrian-kempe-signs-eight-year-contract-with-los-angeles-kings",
+        "date": "2025-11-17",
+        "headline": "Kempe signs 8-year, $85 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10625000,
+          "total_value_usd": 85000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Adrian Kempe signed an eight-year, $85 million contract with the Los Angeles Kings on Monday. It has an average annual value of $10.625 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-07-05",
+        "headline": "Kings shift focus to re-signing Kempe, Anderson after trade for Fiala",
+        "url": "https://www.nhl.com/news/los-angeles-kings-focused-on-re-signing-adrian-kempe-and-mikey-anderso-334814320"
+      }
+    },
+    {
+      "player": {
+        "id": 8482155,
+        "name": "Alex Laferriere",
+        "first": "Alex",
+        "last": "Laferriere",
+        "pos": "R",
+        "sweater": 14
+      },
+      "birth_date": "2001-10-28",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/alex-laferriere-signs-3-year-contract-with-los-angeles-kings",
+        "date": "2025-08-02",
+        "headline": "Laferriere signs 3-year, $12.3 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4100000,
+          "total_value_usd": 12300000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Alex Laferriere signed a three-year, $12.3 million contract with the Los Angeles Kings on Saturday. It has an average annual value of $4.1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-25",
+        "headline": "INSIDER: Alex Laferriere Staking His Claim On First Line",
+        "url": "https://www.nhl.com/kings/news/insider-alex-laferriere-staking-his-claim-on-top-forward-line-for-los-angeles-kings"
+      }
+    },
+    {
+      "player": {
+        "id": 8476872,
+        "name": "Scott Laughton",
+        "first": "Scott",
+        "last": "Laughton",
+        "pos": "C",
+        "sweater": 21
+      },
+      "birth_date": "1994-05-30",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/kings-sign-forward-scott-laughton-to-three-year-contract",
+        "date": "2026-07-01",
+        "headline": "Kings Sign Forward Scott Laughton To Three-Year Contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3500000,
+          "total_value_usd": 10500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "The LA Kings have signed forward **Scott Laughton** to a three-year contract extension worth an average annual value (AAV) of $3,500,000 through the 2028-29 season. Laughton, 32, registered five goals and eight points (5-3=8) in 21 regular-season games for the Kings last season after being acquired via trade from the T"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Laughton traded to Kings by Maple Leafs for conditional 3rd-round pick in 2026",
+        "url": "https://www.nhl.com/news/scott-laughton-traded-to-los-angeles-kings-by-toronto-maple-leafs-for-pick"
+      }
+    },
+    {
+      "player": {
+        "id": 8481732,
+        "name": "Andre Lee",
+        "first": "Andre",
+        "last": "Lee",
+        "pos": "L",
+        "sweater": 47
+      },
+      "birth_date": "2000-07-26",
+      "draft_team": "LAK",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnVxel9sUzJBQnluLTFQVUx2dWQ4OGZJVl81YlpJYTdVLXNZM29pUEVGeVFsZlYyam1QX041NVJDN2RhSkpVQ24tRlFMeERLZk9rX2REblktRnFMUlAxMl8xLTZaTVJGakE1S0x5dFdRbFZHaE0tRGJFMm5QOWdIeWpGWE9ZenM?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2025-03-08",
+        "headline": "LA Kings Sign Forward Andre Lee To a Two-Year Contract | Los Angeles Kings",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "LA Kings Sign Forward Andre Lee To a Two-Year Contract | Los Angeles Kings"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479675,
+        "name": "Trevor Moore",
+        "first": "Trevor",
+        "last": "Moore",
+        "pos": "L",
+        "sweater": 12
+      },
+      "birth_date": "1995-03-31",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/trevor-moore-signs-five-year-21-million-contract-with-kings-338819028",
+        "date": "2022-12-16",
+        "headline": "Moore signs 5-year, $21 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4200000,
+          "total_value_usd": 21000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Trevor Moore signed a five-year, $21 million contract with the Los Angeles Kings on Thursday. It has an average annual value of $4.2 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478550,
+        "name": "Artemi Panarin",
+        "first": "Artemi",
+        "last": "Panarin",
+        "pos": "L",
+        "sweater": 10
+      },
+      "birth_date": "1991-10-30",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/artemi-panarin-traded-to-kings-by-rangers-signs-two-year-contract",
+        "date": "2026-02-05",
+        "headline": "Panarin traded to Kings by Rangers, signs 2-year contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 11000000,
+          "total_value_usd": 22000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Artemi Panarin was traded to the Los Angeles Kings by the New York Rangers on Wednesday and signed a two-year, $22 million contract. It has an average annual value of $11 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-02-06",
+        "headline": "Panarin says trade to Kings was 'perfect timing' ahead of Olympic break",
+        "url": "https://www.nhl.com/news/artemi-panarin-adjusting-to-kings-with-upcoming-olympic-break"
+      }
+    },
+    {
+      "player": {
+        "id": 8470621,
+        "name": "Corey Perry",
+        "first": "Corey",
+        "last": "Perry",
+        "pos": "R",
+        "sweater": 90
+      },
+      "birth_date": "1985-05-16",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/kings-sign-forward-corey-perry-to-one-year-contract-x4411",
+        "date": "2026-07-01",
+        "headline": "Kings Sign Forward Corey Perry To One-Year Contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1000000,
+          "total_value_usd": 1000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The LA Kings have signed forward **Corey Perry** to a one-year contract with an average annual value (AAV) of $1,000,000, and up to an additional $500,000 in performance bonuses, through the 2026-27 season. Perry, 41, split the 2025-26 season between the Kings and Tampa Bay Lightning."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Perry traded to Lightning by Kings for 2nd-round pick in 2028 Draft",
+        "url": "https://www.nhl.com/news/corey-perry-traded-to-tampa-bay-lightning-by-los-angeles-kings"
+      }
+    },
+    {
+      "player": {
+        "id": 8481532,
+        "name": "Alex Turcotte",
+        "first": "Alex",
+        "last": "Turcotte",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "2001-02-26",
+      "draft_team": "LAK",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaC02SlEyZWRjZzhoek92RUxrc2NRa2lMaDdpSHloMDdIWWtkZGh2TFRuc1VqeEJDZjZXY004bm1ZNk53OW81NGV3U0NLSXh3X3pad21rM21keXl3TTZ4c1E1aFN4Y1NOR2Fpakh1NG4za1AwaUZIZ3JycDBCcXluSEZ1WFNoVFJmaU80aGxyRGRnc2dQTVpMSVJyTWY3MHNoWFUya3pn?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2024-06-22",
+        "headline": "Kings re-sign forward Alex Turcotte to three-year contract",
+        "signing_team": "LAK",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kings re-sign forward Alex Turcotte to three-year contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475692,
+        "name": "Mats Zuccarello",
+        "first": "Mats",
+        "last": "Zuccarello",
+        "pos": "R",
+        "sweater": 36
+      },
+      "birth_date": "1987-09-01",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/kings-sign-forward-mats-zuccarello-to-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "Kings Sign Forward Mats Zuccarello To One-Year Contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1000000,
+          "total_value_usd": 1000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The LA Kings have signed forward **Mats Zuccarello** to a one-year contract worth an average annual value (AAV) of $1,000,000, and up to an additional $5,500,000 in performance bonuses, through the 2026-27 season. Zuccarello, 38, skated in 59 games for the Minnesota Wild in the 2025-26 campaign, recording 15 goals and "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479998,
+        "name": "Mikey Anderson",
+        "first": "Mikey",
+        "last": "Anderson",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1999-05-25",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mikey-anderson-signs-eight-year-contract-with-los-angeles-kings-341088756",
+        "date": "2023-02-15",
+        "headline": "Anderson signs 8-year, $33 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 4125000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "Mikey Anderson signed an eight-year, $33 million contract with the Los Angeles Kings on Wednesday. The contract, which starts next season and runs through 2030-31, has an average annual value of $4.125 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-07-05",
+        "headline": "Kings shift focus to re-signing Kempe, Anderson after trade for Fiala",
+        "url": "https://www.nhl.com/news/los-angeles-kings-focused-on-re-signing-adrian-kempe-and-mikey-anderso-334814320"
+      }
+    },
+    {
+      "player": {
+        "id": 8476879,
+        "name": "Cody Ceci",
+        "first": "Cody",
+        "last": "Ceci",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1993-12-21",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/la-kings-sign-cody-ceci",
+        "date": "2025-07-01",
+        "headline": "LA Kings Sign Defensemen Cody Ceci",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4500000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "The LA Kings have signed defensemen **Cody Ceci** to a four-year contract with an average annual value (AAV) of $4,500,000 through the 2028-29 season. Ceci, 31, joins the Kings after splitting the 2024-25 campaign with the San Jose Sharks and Dallas Stars, recording 24 points (4-20=24) with 24 penalty minutes (PIM) and"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482730,
+        "name": "Brandt Clarke",
+        "first": "Brandt",
+        "last": "Clarke",
+        "pos": "D",
+        "sweater": 92
+      },
+      "birth_date": "2003-02-09",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brandt-clarke-signs-five-year-contract-with-los-angeles-kings",
+        "date": "2026-06-30",
+        "headline": "Clarke signs 5-year, $37 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 7400000,
+          "total_value_usd": 37000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Brandt Clarke](https://www.nhl.com/kings/player/brandt-clarke-8482730) signed a five-year, $37 million contract with the Los Angeles Kings on Friday. It has an average annual value of $7.4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474563,
+        "name": "Drew Doughty",
+        "first": "Drew",
+        "last": "Doughty",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1989-12-08",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/drew-doughty-agrees-to-eight-year-extension-with-los-angeles-kings-299348832",
+        "date": "2018-07-01",
+        "headline": "Doughty signs eight-year extension with Kings",
+        "signing_team": "LAK",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 11000000,
+          "total_value_usd": 88000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "Drew Doughty signed an eight-year, $88 million contract extension with the Los Angeles Kings on Sunday. The contract has an average annual value of $11 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475208,
+        "name": "Brian Dumoulin",
+        "first": "Brian",
+        "last": "Dumoulin",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "1991-09-06",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/la-kings-sign-brian-dumoulin",
+        "date": "2025-07-01",
+        "headline": "LA Kings Sign Defensemen Brian Dumoulin",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The LA Kings have signed defensemen **Brian Dumoulin** to a three-year contract with an AAV of $4,000,000 through the 2027-28 season. Dumoulin, 33, split the 2024-25 season with the New Jersey Devils and Anaheim Ducks, posting 19 assists and 22 points (3-19=22) with 14 penalty minutes (PIM) in 80 combined regular-seaso"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476441,
+        "name": "Joel Edmundson",
+        "first": "Joel",
+        "last": "Edmundson",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1993-06-28",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2024-25-season",
+        "date": "2024-07-18",
+        "headline": "Kings bring back Kuemper in trade, sign free agents Foegele, Edmundson",
+        "signing_team": "LAK",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": ", was brought in to bring tenacity in a middle-six role. The 28-year-old signed a three-year contract on July 1."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-18",
+        "headline": "Kings bring back Kuemper in trade, sign free agents Foegele, Edmundson",
+        "url": "https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2024-25-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8476979,
+        "name": "Erik Gustafsson",
+        "first": "Erik",
+        "last": "Gustafsson",
+        "pos": "D",
+        "sweater": 64
+      },
+      "birth_date": "1992-03-14",
+      "draft_team": "EDM",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjBfV3Jzb090YjU4RUJvVU1uQWhBQnRrME5SV1lLWUM4SGNYNWc2d2dwZFZhZG92MHFZT0RFRlVWYUpmMURfRWEyWWpicGI2Zy15SWdLcnlVZlN3UEQ5Y2Y3RzZNUnlxbE5PVHhhdnpKSDdPRllWTDFmYzE2UnJiSVhHZUlIRldfUTNJcDRtQkZPZ3M?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-01",
+        "headline": "Kings Sign Erik Gustafsson To One-Year Contract",
+        "signing_team": "LAK",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kings Sign Erik Gustafsson To One-Year Contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482922,
+        "name": "Kirill Kirsanov",
+        "first": "Kirill",
+        "last": "Kirsanov",
+        "pos": "D",
+        "sweater": 78
+      },
+      "birth_date": "2002-09-19",
+      "draft_team": "LAK",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGFmSXV3NFJ6SnpqTGthZUdtUUNSMWRrMWVwYW1HTW1sOHhmcDVJMFVXU25XZjl5NWJvSlRFMFZleVhJMzlWUmVIaGU2aExpcXR0N2pFUEhfX0tIekM0ZlNPNVBaQXR3UDZIRFVKcjVqTEZvZjk1M2xONmMzZ05rX2pDY19wUW84cEp0cVozdzItQ3JhQmVqYXJGd2Z5OXYxVG9sVmZtcDQ3Zw?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2025-06-01",
+        "headline": "LA Kings Sign Defenseman Kirill Kirsanov To a Two-Year Entry-Level Contract | Los Angeles Kings",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "LA Kings Sign Defenseman Kirill Kirsanov To a Two-Year Entry-Level Contract | Los Angeles Kings"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476341,
+        "name": "Anton Forsberg",
+        "first": "Anton",
+        "last": "Forsberg",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "1992-11-27",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kings/news/la-kings-sign-anton-forsberg",
+        "date": "2025-07-01",
+        "headline": "LA Kings Sign Goaltender Anton Forsberg",
+        "signing_team": "LAK",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2250000,
+          "total_value_usd": 4500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The LA Kings have goaltender **Anton Forsberg** to a two-year contract with an AAV of $2,250,000 through the 2026-27 season. Forsberg, 32, played in 30 games for the Ottawa Senators last season, posting a 11-12-3 record with a .901 save percentage (SV%), 2.72 goals-against average (GAA) and three shutouts, the latter t"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475311,
+        "name": "Darcy Kuemper",
+        "first": "Darcy",
+        "last": "Kuemper",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "1990-05-05",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/darcy-kuemper-signs-five-year-26-25-million-contract-with-washington-c-334785652",
+        "date": "2022-07-13",
+        "headline": "Kuemper signs five-year, $26.25 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5250000,
+          "total_value_usd": 26250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**ARLINGTON, Va.** -- Darcy Kuemper signed a five-year, $26.25 million contract with the Washington Capitals on Wednesday. It has an average annual value of $5.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-22",
+        "headline": "Kings, Capitals each enjoying results of Kuemper-Dubois trade",
+        "url": "https://www.nhl.com/news/kuemper-dubois-trade-worked-out-for-both-los-angeles-and-washington"
+      }
+    }
+  ]
+}

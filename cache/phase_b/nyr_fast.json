@@ -1,0 +1,979 @@
+{
+  "team": "NYR",
+  "team_name": "New York Rangers",
+  "roster_count": 28,
+  "results": [
+    {
+      "player": {
+        "id": 8477416,
+        "name": "Oliver Bjorkstrand",
+        "first": "Oliver",
+        "last": "Bjorkstrand",
+        "pos": "R",
+        "sweater": 28
+      },
+      "birth_date": "1995-04-10",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanFGa1E5WElWT3pCb1FvTy1NWEpTZmFOTXlYQWs3RWMtMFZ0ckN2U2tLSjF0bmZuQVJEU3RnM01YQnAzU3pLeWFPTHpsQWFWblhoWjEzMS1LejdKRE1lc1Y2c0NrdEQ2VlJfcjlYSzlXT25VWWxTT0hHa3pLNWNwSHFCb0s3bFF3QUhqLTh3WWRYYVZQRU1rbVdaYVNzd0gtNE5pREI4OGtXbEE?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2026-07-01",
+        "headline": "Rangers sign forward Oliver Bjorkstrand to one-year, $4.5 million contract",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 4500000,
+          "total_value_usd": 4500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rangers sign forward Oliver Bjorkstrand to one-year, $4.5 million contract"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-oliver-bjorkstrand",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482877,
+        "name": "Jaroslav Chmelar",
+        "first": "Jaroslav",
+        "last": "Chmelar",
+        "pos": "R",
+        "sweater": 49
+      },
+      "birth_date": "2003-07-20",
+      "draft_team": "NYR",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482157,
+        "name": "Will Cuylle",
+        "first": "Will",
+        "last": "Cuylle",
+        "pos": "L",
+        "sweater": 50
+      },
+      "birth_date": "2002-02-05",
+      "draft_team": "NYR",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0tZbFZtTjA1bUhqMWRteTh4UXAxZFZGM3FJZnhvaWJFMHo3YnVhSEVzR3pETTVNbHBSYWRkSlVCeFBhZVdhWjdQVXFLbEYwRDdjdDNqLXNacDFQRV9JRnRfTWx2dkZVYjlESUFwZXJ4U0s4eUtkMW05bXBEMnZOX0E0Rk1fMkhZbDRMSXE2cE1CNi1z?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-07-01",
+        "headline": "Rangers re-sign LW Will Cuylle to two-year, $7.8M deal",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3900000,
+          "total_value_usd": 7800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rangers re-sign LW Will Cuylle to two-year, $7.8M deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-will-cuylle",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481604,
+        "name": "Pavel Dorofeyev",
+        "first": "Pavel",
+        "last": "Dorofeyev",
+        "pos": "R",
+        "sweater": 16
+      },
+      "birth_date": "2000-10-26",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pavel-dorofeyev-signs-7-year-contract-with-new-york-rangers",
+        "date": "2026-06-30",
+        "headline": "Dorofeyev signs 7-year, $77 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 11000000,
+          "total_value_usd": 77000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Pavel Dorofeyev signed a seven-year, $77 million contract with the New York Rangers on Tuesday. It has an average annual value of $11 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-27",
+        "headline": "Dorofeyev traded to Rangers by Golden Knights",
+        "url": "https://www.nhl.com/news/pavel-dorofeyev-traded-to-new-york-rangers-by-vegas-golden-knights"
+      }
+    },
+    {
+      "player": {
+        "id": 8478446,
+        "name": "Glenn Gawdin",
+        "first": "Glenn",
+        "last": "Gawdin",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "1997-03-25",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-glenn-gawdin",
+        "date": "2026-07-02",
+        "headline": "Rangers Agree to Terms with Glenn Gawdin",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rangers President and General Manager Chris Drury announced today that the team has agreed to terms with forward Glenn Gawdin on a two-year contract. Gawdin, 29, skated in 71 games for the Ontario Reign of the American Hockey League (AHL) during the 2025-26 season, notching 16 goals and 35 assists for 51 points."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481789,
+        "name": "Tye Kartye",
+        "first": "Tye",
+        "last": "Kartye",
+        "pos": "L",
+        "sweater": 24
+      },
+      "birth_date": "2001-04-30",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-sign-forward-tye-kartye-to-a-two-year-contract-pr",
+        "date": "2025-07-05",
+        "headline": "Seattle Kraken Sign Forward Tye Kartye to Two-Year Contract",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1250000,
+          "total_value_usd": 2500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "5, 2025) \u2014** Today, Seattle Kraken General Manager Jason Botterill announced that the club has re-signed forward **Tye Kartye** to a two-year contract ($1.25M AAV) starting in the 2025-26 season. \"We\u2019re happy to keep Tye within the organization for two more years,\u201d said Botterill, \u201cTye has worked to develop his game wi"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483690,
+        "name": "Noah Laba",
+        "first": "Noah",
+        "last": "Laba",
+        "pos": "C",
+        "sweater": 42
+      },
+      "birth_date": "2003-08-04",
+      "draft_team": "NYR",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2xTUjY0cHVqLUw0ZlRBSU5sYUVEMzA3WnlGVGhySnFJRVpGVnotX1pOSnk4ZmU2M09ObWtYU1k5Um1XOEpQUXFjc0c5Rk4ybHhDSmdZX3QwRnhsUzkxMDZBcHlsWVNtT1hSM3pQQmo2QmR6cDVoWTQ4MklGUVd5cmVEWmNtR3Y2eEtHV00wYXpsYWJEZk12ZElwcw?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2025-03-18",
+        "headline": "Rangers sign Noah Laba to two-year, entry-level contract",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Rangers sign Noah Laba to two-year, entry-level contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482109,
+        "name": "Alexis Lafreni\u00e8re",
+        "first": "Alexis",
+        "last": "Lafreni\u00e8re",
+        "pos": "L",
+        "sweater": 13
+      },
+      "birth_date": "2001-10-11",
+      "draft_team": "NYR",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476468,
+        "name": "J.T. Miller",
+        "first": "J.T.",
+        "last": "Miller",
+        "pos": "C",
+        "sweater": 10
+      },
+      "birth_date": "1993-03-14",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/j-t-miller-canucks-agree-to-seven-year-contract-335457260",
+        "date": "2022-09-06",
+        "headline": "Miller agrees to seven-year, $56 million contract extension with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2023-24",
+        "end_season": "2029-30",
+        "start_yr": 2023,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 8000000,
+          "total_value_usd": 56000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "J.T. Miller agreed to a seven-year, $56 million contract extension with the Vancouver Canucks on Friday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-02",
+        "headline": "K\u2019Andre Miller traded to Hurricanes by Rangers, signs 8-year, $60 million contract",
+        "url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract"
+      }
+    },
+    {
+      "player": {
+        "id": 8484210,
+        "name": "Gabe Perreault",
+        "first": "Gabe",
+        "last": "Perreault",
+        "pos": "R",
+        "sweater": 94
+      },
+      "birth_date": "2005-05-07",
+      "draft_team": "NYR",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479390,
+        "name": "Taylor Raddysh",
+        "first": "Taylor",
+        "last": "Raddysh",
+        "pos": "R",
+        "sweater": 14
+      },
+      "birth_date": "1998-02-18",
+      "draft_team": "TBL",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFaQjVLRUhQQVVlalNtZTctX25pX0tlSTFvOWhLYXN3VHVvY1ZkMDF1T2dDZGVIVjR0VFJfT2Y2NHZEcmdJWEdJQXluTENoVk1CNGktckdvZE5maXdVNVRLUHJVTmUxT1pqdHg3NjR0QXlDSmZsYzNXRVhsX1c1SElWVnBDQUUxLXVhTU5pRmRfM3ZLM0I4dkpFZThLa3FwLTBNdVNB?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2025-07-01",
+        "headline": "Rangers sign Taylor Raddysh to two-year, $1.5 million AAV deal",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1500000,
+          "total_value_usd": 1500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rangers sign Taylor Raddysh to two-year, $1.5 million AAV deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-taylor-raddysh",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482460,
+        "name": "Matt Rempe",
+        "first": "Matt",
+        "last": "Rempe",
+        "pos": "C",
+        "sweater": 73
+      },
+      "birth_date": "2002-06-29",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matt-rempe-signs-2-year-contract-with-new-york-rangers",
+        "date": "2025-06-18",
+        "headline": "Rempe signs 2-year, $1.95 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 975000,
+          "total_value_usd": 1950000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Matt Rempe signed a two-year, $1.95 million contract with the New York Rangers on Wednesday. It has an average annual value of $975,000."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484136,
+        "name": "Max Sasson",
+        "first": "Max",
+        "last": "Sasson",
+        "pos": "C",
+        "sweater": 63
+      },
+      "birth_date": "2000-09-05",
+      "draft_team": null,
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2RTbnJRWHc0TDJsMGdEeEpYRlpnMTRrak5ORjJIRUItREZLMUpwbmdwWlo3anRHdzRqQXJ5M19UMnA4cEFxZ1ItMGM3bXVyTWd4YzliNlFWcE1DUE8yVDVPaGpnMHk2THVXTzlsQjB6TkFmbWhVYVJqWmxDZ2ZoS20xQWo?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2025-12-15",
+        "headline": "Canucks, F Sasson agree on two-year, $2M contract",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Canucks, F Sasson agree on two-year, $2M contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-20",
+        "headline": "Sasson traded to Rangers from Canucks",
+        "url": "https://www.nhl.com/news/max-sasson-traded-to-new-york-rangers-from-vancouver-canucks"
+      }
+    },
+    {
+      "player": {
+        "id": 8483669,
+        "name": "Adam Sykora",
+        "first": "Adam",
+        "last": "Sykora",
+        "pos": "L",
+        "sweater": 38
+      },
+      "birth_date": "2004-09-07",
+      "draft_team": "NYR",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480009,
+        "name": "Eeli Tolvanen",
+        "first": "Eeli",
+        "last": "Tolvanen",
+        "pos": "R",
+        "sweater": 17
+      },
+      "birth_date": "1999-04-22",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/eeli-tolvanen-signs-1-year-deal-with-new-york-rangers",
+        "date": "2026-09-02",
+        "headline": "Tolvanen signs 1-year contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1500000,
+          "total_value_usd": 1500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Eeli Tolvanen signed a one-year, $1.5 million contract with the New York Rangers on Wednesday. The 27-year-old forward had 36 points (12 goals, 24 assists) in 78 games for the Seattle Kraken last season, when he also had three points (one goal, two assists) in five games for Team Finland at the 2026 Winter Olympics to "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480813,
+        "name": "Joseph Veleno",
+        "first": "Joseph",
+        "last": "Veleno",
+        "pos": "C",
+        "sweater": 90
+      },
+      "birth_date": "2000-01-13",
+      "draft_team": "DET",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476459,
+        "name": "Mika Zibanejad",
+        "first": "Mika",
+        "last": "Zibanejad",
+        "pos": "C",
+        "sweater": 93
+      },
+      "birth_date": "1993-04-18",
+      "draft_team": "OTT",
+      "active": {
+        "source": "ESPN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2VsczNuRlVrVWtITjBxZ3JvQ2NJai1CN0pCQXNCYUUydXpMYmk5ZU4yTjI0dVZJblB0Y2phYVh6NXRCbFRjZy1vLTZRSnIyUk5haElMczVfdk9fZEtaUWZwUVdHeGtWVmJvR2tFcjBfS09qQ3hGSHM4WW4xUWNPTHBSSG1tT1o2MDI0c0h5dG5uZFRLWlY5am5tX2Q5aU1Ya2VOandwZV92MlN1YmVJQ293?oc=5",
+        "source_domain": "https://www.espn.com",
+        "date": "2021-10-10",
+        "headline": "New York Rangers, center Mika Zibanejad agree to eight-year, $68 million contract",
+        "signing_team": "NYR",
+        "start_season": "2021-22",
+        "end_season": "2028-29",
+        "start_yr": 2021,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8500000,
+          "total_value_usd": 68000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "New York Rangers, center Mika Zibanejad agree to eight-year, $68 million contract"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/new-york-rangers-mika-zibanejad-contract-extension-326730892",
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-14",
+        "headline": "Rangers' Zibanejad pens heartfelt goodbye to Kreider after trade",
+        "url": "https://www.nhl.com/news/zibanejad-instagram-goodbye-kreider-rangers-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8480434,
+        "name": "Sean Durzi",
+        "first": "Sean",
+        "last": "Durzi",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1998-10-21",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sean-durzi-signs-4-year-contract-with-utah-hockey-club",
+        "date": "2024-06-30",
+        "headline": "Durzi signs 4-year contract to stay with Utah Hockey Club",
+        "signing_team": "UTA",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sean Durzi signed a four-year contract with the Utah Hockey Club on Sunday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Trocheck traded to Mammoth by Rangers for Durzi, prospect, draft pick",
+        "url": "https://www.nhl.com/news/vincent-trocheck-traded-to-utah-mammoth-by-new-york-rangers"
+      }
+    },
+    {
+      "player": {
+        "id": 8479323,
+        "name": "Adam Fox",
+        "first": "Adam",
+        "last": "Fox",
+        "pos": "D",
+        "sweater": 23
+      },
+      "birth_date": "1998-02-17",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/rangers-fox-agree-to-seven-year-contract-327470086",
+        "date": "2021-11-01",
+        "headline": "Fox agrees to seven-year, $66.5 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2021-22",
+        "end_season": "2027-28",
+        "start_yr": 2021,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 9500000,
+          "total_value_usd": 66500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Adam Fox agreed to a seven-year, $66.5 million contract with the New York Rangers on Monday. It has an average annual value of $9.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478882,
+        "name": "Vladislav Gavrikov",
+        "first": "Vladislav",
+        "last": "Gavrikov",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1995-11-21",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/vladislav-gavrikov-signs-7-year-contract-with-new-york-rangers",
+        "date": "2025-07-02",
+        "headline": "Gavrikov signs 7-year, $49 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7000000,
+          "total_value_usd": 49000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Vladislav Gavrikov signed a seven-year, $49 million contract with the New York Rangers on Tuesday. It has an average annual value of $7 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482666,
+        "name": "Scott Morrow",
+        "first": "Scott",
+        "last": "Morrow",
+        "pos": "D",
+        "sweater": 60
+      },
+      "birth_date": "2002-11-01",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-scott-morrow",
+        "date": "2026-08-19",
+        "headline": "Rangers Agree to Terms with Scott Morrow",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ngers President and General Manager Chris Drury announced today that the team has agreed to terms with defensemen Scott Morrow on a one-year contract. Morrow, 23, appeared in 29 games for the Rangers during the 2025-26 season and registered six assists."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-01",
+        "headline": "Rangers Acquire Scott Morrow, First-Round Pick and Second-Round Pick in Exchange for K\u2019Andre Miller",
+        "url": "https://www.nhl.com/rangers/news/rangers-acquire-scott-morrow-first-round-pick-and-second-round-pick-in-exchange-for-k-andre-miller"
+      }
+    },
+    {
+      "player": {
+        "id": 8477969,
+        "name": "Marcus Pettersson",
+        "first": "Marcus",
+        "last": "Pettersson",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "1996-05-08",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/marcus-pettersson-agrees-to-six-year-contract-with-vancouver",
+        "date": "2025-02-06",
+        "headline": "Marcus Pettersson signs 6-year, $33 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5500000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Marcus Pettersson signed a six-year, $33 million contract with the Vancouver Canucks on Wednesday. It has an average annual value of $5.5 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Marcus Pettersson traded to Rangers by Canucks",
+        "url": "https://www.nhl.com/news/marcus-pettersson-traded-to-new-york-rangers-by-vancouver-canucks"
+      }
+    },
+    {
+      "player": {
+        "id": 8481525,
+        "name": "Matthew Robertson",
+        "first": "Matthew",
+        "last": "Robertson",
+        "pos": "D",
+        "sweater": 29
+      },
+      "birth_date": "2001-03-09",
+      "draft_team": "NYR",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPci0yQkpsS3dTRUV1eFY2M0M4RXBrd1l1OGh2V25OWUpEMEZkbC1QOU9hSV9tUlZ1LTRwcXViUDZfWE9sWlFOVUpfTWtGTlVNMWQ0NTZ1TG90djFFbkEteVhyZUUwbTNfTnVSd0x2bE42MU5RTi1OakpEekdSbG9WSGJUNW03LWdUX1R3R0dCN052YVBQbGVLSXE5Ukd4ZE9l0gGqAUFVX3lxTFA1Rnh6Wm5YY1gwSG13QWM1cGZhVWJuVzY0VG1nUFl2VTItRkJBbXVmUFBrQURMNFBUTXRRc0xjYWF4a0h1NlFfTG8zTGNlamR6aFdpWlBjdjZjQ3dGM2Y3VUZ6M18xei02SnZ5WWZtcVNOVHU4NV9DbGc4emVBZU5aR1d1eHpNX1d6ZnZmOXI0cUFpRlU2bkpCMG9kYm5WNmxDbWZ3UjNMcGxR?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-06-20",
+        "headline": "New York Rangers sign D Matthew Robertson to a two-year extension",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "New York Rangers sign D Matthew Robertson to a two-year extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482073,
+        "name": "Braden Schneider",
+        "first": "Braden",
+        "last": "Schneider",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "2001-09-20",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/braden-schneider-signs-1-year-deal-with-new-york-rangers",
+        "date": "2026-07-13",
+        "headline": "Schneider signs 1-year, $5.5 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 5500000,
+          "total_value_usd": 5500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Braden Schneider signed a one-year, $5.5 million contract with the New York Rangers on Monday. The 24-year-old defenseman, who was a restricted free agent, avoided a salary arbitration hearing."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485957,
+        "name": "Alberts Smits",
+        "first": "Alberts",
+        "last": "Smits",
+        "pos": "D",
+        "sweater": 12
+      },
+      "birth_date": "2007-12-02",
+      "draft_team": "NYR",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482193,
+        "name": "Dylan Garand",
+        "first": "Dylan",
+        "last": "Garand",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "2002-06-07",
+      "draft_team": "NYR",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlo3VjFIRXAxaFBKcTRNdERIQ21EU3ZhbnVqemt5NG1ia3Z5MWMwTU93WmYxUGZ5RUxrQ2JBWEFQZlBYdmpmT1Z5YWhwT0dOQkJQN0JOM1JPZU9FY3hoTkFXVkFnaFRQTHJySmkwZmt6RFl1WGlJeDhuSGllRjhWTkdZaGJHMlNzUDROdS1Da2c?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2026-06-21",
+        "headline": "Rangers sign G Dylan Garand to two-year extension",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rangers sign G Dylan Garand to two-year extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476914,
+        "name": "Joonas Korpisalo",
+        "first": "Joonas",
+        "last": "Korpisalo",
+        "pos": "G",
+        "sweater": 70
+      },
+      "birth_date": "1994-04-28",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ottawa-senators-sign-joonas-korpisalo-to-5-year-contract-344850288",
+        "date": "2023-07-02",
+        "headline": "Korpisalo signs 5-year, $20 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4000000,
+          "total_value_usd": 20000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Joonas Korpisalo](https://www.nhl.com/player/joonas-korpisalo-8476914) signed a five-year, $20 million contract with the Ottawa Senators on Saturday. It has an annual average value of $4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Korpisalo traded to Rangers by Bruins for Vaisanen, draft pick",
+        "url": "https://www.nhl.com/news/joonas-korpisalo-traded-to-new-york-rangers-by-boston-bruins"
+      }
+    },
+    {
+      "player": {
+        "id": 8478048,
+        "name": "Igor Shesterkin",
+        "first": "Igor",
+        "last": "Shesterkin",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "1995-12-30",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/igor-shesterkin-signs-eight-year-contract-with-new-york-rangers",
+        "date": "2024-12-08",
+        "headline": "Shesterkin signs 8-year, $92 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 11500000,
+          "total_value_usd": 92000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Igor Shesterkin signed an eight-year, $92 million contract with the New York Rangers on Saturday. It has an average annual value of $11.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

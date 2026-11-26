@@ -1,0 +1,2697 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "WSH",
+  "team_name": "Washington Capitals",
+  "generated_at_utc": "2026-11-26T22:49:32Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/WSH/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 104935404,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 104935404
+  },
+  "contracts": [
+    {
+      "player_id": 8478463,
+      "player_name": "Anthony Beauvillier",
+      "position": "R",
+      "sweater_number": 72,
+      "birth_date": "1997-06-08",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2750000,
+      "total_value_usd": 5500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-anthony-beauvillier",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/anthony-beauvillier-traded-to-capitals-by-penguins"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2375000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1525000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 4150000,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 4150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 4150000,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 4150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 4150000,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 4150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3125000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 2275000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2375000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1525000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479400,
+      "player_name": "Pierre-Luc Dubois",
+      "position": "C",
+      "sweater_number": 80,
+      "birth_date": "1998-06-24",
+      "current_team": "WSH",
+      "signing_team": "LAK",
+      "signed_date": "2023-06-27",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8500000,
+      "total_value_usd": 68000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzlKRFBZVGxvVnktdk9pdkJBY0FFQmpUU1pIM3JWRTlOUTRuNFZEQkpyUHRKSGt5cnlZWWRMMnUwM0xQY3ZNSWxyRHRrc3hfdDRRYVNBOWZGMmhFLXRrbzFFLUV4LWIwbWVHb0xCSXlmd1k2SkVqNzlxTmxyWmlxNHYzM3AyVzhfTy0wdXA3YkJvbE1LbWoyOERGZllrVkVqNEk0Sk5hVXc3Z0tyNHExRC1wS0U0OU5vX0JxMEFxdw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/kuemper-dubois-trade-worked-out-for-both-los-angeles-and-washington"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9100000,
+      "current_season_base_salary_usd": 7100000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6650000,
+          "base_salary_usd": 6650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 8500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 8500000,
+          "total_salary_usd": 11250000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 3250000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 8500000,
+          "total_salary_usd": 11350000,
+          "base_salary_usd": 8100000,
+          "signing_bonus_usd": 3250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 8500000,
+          "total_salary_usd": 9100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483573,
+      "player_name": "Ethen Frank",
+      "position": "R",
+      "sweater_number": 53,
+      "birth_date": "1998-02-05",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-03-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "total_value_usd": 4000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-ethen-frank",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 205000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476432,
+      "player_name": "Boone Jenner",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "1993-06-15",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 6000000,
+      "total_value_usd": 24000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/boone-jenner-signs-4-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 5000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "CBJ",
+          "aav_usd": 775625,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "CBJ",
+          "aav_usd": 775625,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 775625,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 775625,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479385,
+      "player_name": "Jordan Kyrou",
+      "position": "R",
+      "sweater_number": 25,
+      "birth_date": "1998-05-05",
+      "current_team": "WSH",
+      "signing_team": "STL",
+      "signed_date": "2022-09-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8125000,
+      "total_value_usd": 65000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jordan-kyrou-signs-8-year-extension-with-blues-335535744",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/jordan-kyrou-traded-to-washington-capitals-by-st-louis-blues"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 8250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 752000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 752000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 752000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 752000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 752000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 2800000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 10900000,
+          "base_salary_usd": 10900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 8125000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 10500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 8125000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484186,
+      "player_name": "Ryan Leonard",
+      "position": "R",
+      "sweater_number": 9,
+      "birth_date": "2005-01-21",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-03-31",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "total_value_usd": 2850000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/ryan-leonard-signs-entry-level-deal-with-washington",
+      "secondary_source_url": "https://www.nhl.com/capitals/news/capitals-sign-ryan-leonard",
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 10500000,
+        "total_value_usd": 84000000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-09-15",
+        "source_url": "https://www.nhl.com/news/ryan-leonard-signs-8-year-deal-with-washington"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8483491,
+      "player_name": "Ivan Miroshnichenko",
+      "position": "L",
+      "sweater_number": 63,
+      "birth_date": "2004-02-04",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-10-31",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 925000,
+      "total_value_usd": 1850000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-ivan-miroshnichenko",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 50000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8471214,
+      "player_name": "Alex Ovechkin",
+      "position": "L",
+      "sweater_number": 8,
+      "birth_date": "1985-09-17",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 41 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 4250000,
+      "total_value_usd": 4250000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-alex-ovechkin",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 3250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 9538462,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 9500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 9500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 11500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 9500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481656,
+      "player_name": "Aliaksei Protas",
+      "position": "L",
+      "sweater_number": 21,
+      "birth_date": "2001-01-06",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2024-01-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 5,
+      "aav_usd": 3375000,
+      "total_value_usd": 16875000,
+      "start_season": "2024-25",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/washington-capitals-aliaksei-protas-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 790500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 790500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 790500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 790500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 790500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 3375000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 3375000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 3375000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484999,
+      "player_name": "Ilya Protas",
+      "position": "L",
+      "sweater_number": 62,
+      "birth_date": "2006-07-18",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2024-07-06",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 908500,
+      "total_value_usd": 2725500,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-sign-ilya-protas",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 947500,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 908500,
+          "total_salary_usd": 872500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 908500,
+          "total_salary_usd": 872500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 908500,
+          "total_salary_usd": 947500,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482088,
+      "player_name": "Justin Sourdif",
+      "position": "C",
+      "sweater_number": 34,
+      "birth_date": "2002-03-24",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 825000,
+      "total_value_usd": 1650000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-sign-justin-sourdif",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 6350000,
+        "total_value_usd": 50800000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-09-16",
+        "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-justin-sourdif"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-justin-sourdif-from-the-florida-panthers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 846250,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 846250,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 846250,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 846250,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 825000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 825000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478440,
+      "player_name": "Dylan Strome",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1997-03-07",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2023-02-04",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2023-24",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dylan-strome-signs-5-year-contract-with-washington-capitals-340683010",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477949,
+      "player_name": "Alex Tuch",
+      "position": "R",
+      "sweater_number": 89,
+      "birth_date": "1996-05-10",
+      "current_team": "WSH",
+      "signing_team": "BUF",
+      "signed_date": "2026-06-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 10500000,
+      "total_value_usd": 84000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alex-tuch-traded-to-washington-capitals-by-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/alex-tuch-traded-to-washington-capitals-by-buffalo-sabres"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 15700000,
+      "current_season_base_salary_usd": 5700000,
+      "current_season_signing_bonus_usd": 10000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 10500000,
+          "total_salary_usd": 15700000,
+          "base_salary_usd": 5700000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476880,
+      "player_name": "Tom Wilson",
+      "position": "R",
+      "sweater_number": 43,
+      "birth_date": "1994-03-29",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2023-08-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 6528571,
+      "total_value_usd": 45699997,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tom-wilson-signs-seven-year-contract-with-washington-capitals-345518300",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5625000,
+      "current_season_base_salary_usd": 3625000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 4100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 4100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 5166667,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 6528571,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 6528571,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 6528571,
+          "total_salary_usd": 5625000,
+          "base_salary_usd": 3625000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479345,
+      "player_name": "Jakob Chychrun",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "1998-03-31",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-03-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 9000000,
+      "total_value_usd": 72000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jakob-chychrun-signs-eight-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/senators-trade-jakob-chychrun-to-capitals"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 400000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 5300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 4600000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 9000000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 9000000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479576,
+      "player_name": "Vincent Desharnais",
+      "position": "D",
+      "sweater_number": 73,
+      "birth_date": "1996-05-29",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 4200000,
+      "total_value_usd": 16800000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/vincent-desharnais-signs-four-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5650000,
+      "current_season_base_salary_usd": 3650000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2275000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1725000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 950000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 4200000,
+          "total_salary_usd": 5650000,
+          "base_salary_usd": 3650000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480796,
+      "player_name": "Martin Feh\u00e9rv\u00e1ry",
+      "position": "D",
+      "sweater_number": 42,
+      "birth_date": "1999-10-06",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 6000000,
+      "total_value_usd": 42000000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/martin-fehervary-signs-7-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 792000,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 792000,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 792000,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 792000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 792000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 2675000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 2675000,
+          "total_salary_usd": 2550000,
+          "base_salary_usd": 1550000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 2675000,
+          "total_salary_usd": 2075000,
+          "base_salary_usd": 1075000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475718,
+      "player_name": "Justin Holl",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1992-01-30",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 900000,
+      "total_value_usd": 900000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-sign-justin-holl-jonny-brodzinski-and-josh-dunne",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 742500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 675000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 675000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484873,
+      "player_name": "Cole Hutson",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "2006-06-28",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-03-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 948333,
+      "total_value_usd": 2844999,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/cole-hutson-signs-three-year-contract-with-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 948333,
+          "total_salary_usd": 872500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 948333,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8480043,
+      "player_name": "Timothy Liljegren",
+      "position": "D",
+      "sweater_number": 27,
+      "birth_date": "1999-04-30",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-05-20",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 3250000,
+      "total_value_usd": 6500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/timothy-liljegren-signs-two-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-timothy-liljegren-from-the-san-jose-sharks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3700000,
+      "current_season_base_salary_usd": 2200000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2400000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1600000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3700000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478911,
+      "player_name": "Matt Roy",
+      "position": "D",
+      "sweater_number": 3,
+      "birth_date": "1995-03-01",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 5750000,
+      "total_value_usd": 34500000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matt-roy-signs-6-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/senators-trade-jakob-chychrun-to-capitals"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "LAK",
+          "aav_usd": 833750,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 833750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 3150000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 3150000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 5750000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480873,
+      "player_name": "Rasmus Sandin",
+      "position": "D",
+      "sweater_number": 38,
+      "birth_date": "2000-03-07",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2024-03-06",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 5,
+      "aav_usd": 4600000,
+      "total_value_usd": 23000000,
+      "start_season": "2024-25",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/rasmus-sandin-signs-5-year-deal-with-washington",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/rasmus-sandin-traded-to-washington-capitals-for-erik-gustafsson-from-t-341628004"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 450000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481030,
+      "player_name": "Jack St. Ivany",
+      "position": "D",
+      "sweater_number": 29,
+      "birth_date": "1999-07-22",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2026-11-23",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 800000,
+      "total_value_usd": 1600000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-jack-st-ivany",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/capitals/news/capitals-claim-defenseman-jack-st-ivany"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 857500,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 857500,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 800000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479292,
+      "player_name": "Charlie Lindgren",
+      "position": "G",
+      "sweater_number": 79,
+      "birth_date": "1993-12-18",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-03-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 3000000,
+      "total_value_usd": 9000000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/charlie-lindgren-signs-3-year-deal-with-washington",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 115000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480313,
+      "player_name": "Logan Thompson",
+      "position": "G",
+      "sweater_number": 48,
+      "birth_date": "1997-02-25",
+      "current_team": "WSH",
+      "signing_team": "WSH",
+      "signed_date": "2025-01-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 5850000,
+      "total_value_usd": 35100000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/logan-thompson-signs-6-year-deal-with-washington",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/logan-thompson-traded-to-washington-capitals-from-vegas-golden-knights"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6850000,
+      "current_season_base_salary_usd": 4850000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/washington-capitals",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 800000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 766667,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 766667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 766667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WSH",
+          "aav_usd": 5850000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WSH",
+          "aav_usd": 5850000,
+          "total_salary_usd": 6850000,
+          "base_salary_usd": 4850000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

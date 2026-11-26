@@ -1,0 +1,2731 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "NJD",
+  "team_name": "New Jersey Devils",
+  "generated_at_utc": "2026-11-26T22:49:28Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/NJD/current",
+  "summary": {
+    "roster_players": 23,
+    "contracts_with_verified_source_url": 23,
+    "contracts_matched_nhlpa": 23,
+    "contracts_with_public_aav": 23,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 104333750,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 104333750
+  },
+  "contracts": [
+    {
+      "player_id": 8480003,
+      "player_name": "Jesper Boqvist",
+      "position": "C",
+      "sweater_number": 70,
+      "birth_date": "1998-10-30",
+      "current_team": "NJD",
+      "signing_team": "FLA",
+      "signed_date": "2025-03-06",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1500000,
+      "total_value_usd": 3000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-jesper-boqvist-on-two-year-contract-extension",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWUyb3pPT3RsV1c1QXBYcFA0VVdOQlBWTG9OVkduU0RnallpQUdJejRHYjI0MmRGaTJ3b0VvUXl4VHM3M00zdHpRM2xneHhUU0doSEdJUXJIWnBtdjE4YTc1cXZyQXd6YzdGb2psYnBFQ3Vnb0ZqUjlncUtRa1lNUGVnRl9RNDJyT2Zkcm1yNzhwQ19ncmxaemJqNGQtekZ6SHpHV2tiLTFmNFk?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-jersey-devils-trade-goalie-jacob-markstrom-to-florida-panthers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479407,
+      "player_name": "Jesper Bratt",
+      "position": "L",
+      "sweater_number": 63,
+      "birth_date": "1998-07-30",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2023-06-16",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 7875000,
+      "total_value_usd": 63000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jesper-bratt-agrees-to-deal-with-new-jersey-344852550",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/devils-general-manager-tom-fitzgerald-chats-trade-deadline-jesper-brat-330503784"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 749167,
+          "total_salary_usd": 732500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 82500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 749167,
+          "total_salary_usd": 732500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 82500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 749167,
+          "total_salary_usd": 782500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 82500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2050000,
+          "base_salary_usd": 2050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3450000,
+          "base_salary_usd": 3450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 5450000,
+          "total_salary_usd": 5450000,
+          "base_salary_usd": 5450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 7875000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 7875000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 7875000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 7875000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477015,
+      "player_name": "Connor Brown",
+      "position": "R",
+      "sweater_number": 16,
+      "birth_date": "1994-01-14",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 3000000,
+      "total_value_usd": 12000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/brown-signs-with-devils-release-7-1-25",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "TOR",
+          "aav_usd": 688125,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "TOR",
+          "aav_usd": 688125,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 688125,
+          "total_salary_usd": 717500,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 688125,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 3600000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 3600000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 3600000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482146,
+      "player_name": "Luke Evangelista",
+      "position": "R",
+      "sweater_number": 77,
+      "birth_date": "2002-02-21",
+      "current_team": "NJD",
+      "signing_team": "NSH",
+      "signed_date": "2025-10-04",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3000000,
+      "total_value_usd": 6000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/predators/news/predators-sign-luke-evangelista-to-two-year-6-million-contract-2025-10-04",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 5,
+        "aav_usd": 7250000,
+        "total_value_usd": 36250000,
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "signed_date": "2026-09-16",
+        "source_url": "https://www.nhl.com/news/luke-evangelista-signs-5-year-contract-with-new-jersey-devils"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/luke-evangelista-ready-to-rock-after-trade-to-new-jersey"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3750000,
+      "current_season_base_salary_usd": 3750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 795500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 795500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 795500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 795500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 795500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479996,
+      "player_name": "Cody Glass",
+      "position": "C",
+      "sweater_number": 12,
+      "birth_date": "1999-04-01",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2500000,
+      "total_value_usd": 5000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/glass-2-year-deal-release-7-2-25",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/devils/news/devils-acquire-glass-release-3-7-25"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481721,
+      "player_name": "Arseny Gritsyuk",
+      "position": "R",
+      "sweater_number": 81,
+      "birth_date": "2001-03-15",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2026-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 3250000,
+      "total_value_usd": 9750000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/gritsyuk-re-signs-release-6-30-26",
+      "secondary_source_url": "https://www.nhl.com/news/arseny-gritsyuk-signs-3-year-contract-with-new-jersey-devils",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484177,
+      "player_name": "Lenni Hameenaho",
+      "position": "R",
+      "sweater_number": 29,
+      "birth_date": "2004-11-07",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-05-08",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 965000,
+      "total_value_usd": 2895000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/devils/news/hameenaho-inks-elc-with-devils-release-5-8-25",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8480002,
+      "player_name": "Nico Hischier",
+      "position": "C",
+      "sweater_number": 13,
+      "birth_date": "1999-01-04",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2019-10-18",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 7,
+      "aav_usd": 7250000,
+      "total_value_usd": 50750000,
+      "start_season": "2020-21",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/release-hischier-signs-seven-year-deal-310241124",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 5,
+        "aav_usd": 11700000,
+        "total_value_usd": 58500000,
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "signed_date": "2026-07-01",
+        "source_url": "https://www.nhl.com/news/nico-hischier-signs-5-year-deal-with-new-jersey-begins-in-2027-2028"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8500000,
+      "current_season_base_salary_usd": 8500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 7250000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481559,
+      "player_name": "Jack Hughes",
+      "position": "C",
+      "sweater_number": 86,
+      "birth_date": "2001-05-14",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2021-11-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 8000000,
+      "total_value_usd": 64000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/new-jersey-devils-jack-hughes-signs-contract-returns-to-lineup-328476644",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 8000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483695,
+      "player_name": "Amadeus Lombardi",
+      "position": "C",
+      "sweater_number": 93,
+      "birth_date": "2003-06-05",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2026-07-03",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (60 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/devils/news/lombardi-signing-release-7-3-26",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/devils/news/lombardi-acquired-from-detroit-release-6-25-26"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 175000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 840000,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 840000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 840000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 840000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        }
+      }
+    },
+    {
+      "player_id": 8477511,
+      "player_name": "Anthony Mantha",
+      "position": "R",
+      "sweater_number": 39,
+      "birth_date": "1994-09-16",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2026-07-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 4750000,
+      "total_value_usd": 9500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/anthony-mantha-video-call-with-new-jersey-gm-sold-forward-on-devils",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5400000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 4400000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 3300000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3050000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 3300000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 5700000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 300000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 5700000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 5300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 5700000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 5700000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 4400000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478414,
+      "player_name": "Timo Meier",
+      "position": "R",
+      "sweater_number": 28,
+      "birth_date": "1996-10-08",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2023-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8800000,
+      "total_value_usd": 70400000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/timo-meier-signs-eight-year-contract-with-new-jersey-devils-344881706",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-trade-timo-meier-new-jersey-san-jose-341562334"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7750000,
+      "current_season_base_salary_usd": 3350000,
+      "current_season_signing_bonus_usd": 4400000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 3300000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 3300000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 8800000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 8800000,
+          "total_salary_usd": 11100000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 5750000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 8800000,
+          "total_salary_usd": 10750000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5750000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 8800000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 4400000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476474,
+      "player_name": "Stefan Noesen",
+      "position": "R",
+      "sweater_number": 11,
+      "birth_date": "1993-02-12",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 2750000,
+      "total_value_usd": 8250000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/noesen-returns-to-devils-on-3-year-deal-release-7-1-24",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2750000,
+      "current_season_base_salary_usd": 2750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 660000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 660000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 1725000,
+          "total_salary_usd": 1725000,
+          "base_salary_usd": 1725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478542,
+      "player_name": "Evan Rodrigues",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1993-07-28",
+      "current_team": "NJD",
+      "signing_team": "FLA",
+      "signed_date": "2023-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 3018750,
+      "total_value_usd": 12075000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/evan-rodrigues-signs-four-year-contract-with-florida-panthers-345182468",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-jersey-devils-trade-goalie-jacob-markstrom-to-florida-panthers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3075000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 2225000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 3018750,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 2225000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 3018750,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 2225000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 3018750,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 2225000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 3018750,
+          "total_salary_usd": 3075000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 2225000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480990,
+      "player_name": "Declan Chisholm",
+      "position": "D",
+      "sweater_number": 47,
+      "birth_date": "2000-01-12",
+      "current_team": "NJD",
+      "signing_team": "WSH",
+      "signed_date": "2025-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1600000,
+      "total_value_usd": 3200000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/declan-chisholm-signs-two-year-contract-with-washington-capitals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/devils/news/chisholm-acquired-from-washington-release-6-25-26"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1600000,
+      "current_season_base_salary_usd": 1600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 815000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 815000,
+          "total_salary_usd": 835000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 815000,
+          "total_salary_usd": 835000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475455,
+      "player_name": "Brenden Dillon",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "1990-11-13",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 4000000,
+      "total_value_usd": 12000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/dillon-3-year-deal-with-devils-release-7-1-24",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "DAL",
+          "aav_usd": 743333,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "DAL",
+          "aav_usd": 743333,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 743333,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "SJS",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 3270000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 3270000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 3270000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 3270000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 3270000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 3900000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 3900000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 3900000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 3900000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476462,
+      "player_name": "Dougie Hamilton",
+      "position": "D",
+      "sweater_number": 7,
+      "birth_date": "1993-06-17",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2021-07-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 7,
+      "aav_usd": 9000000,
+      "total_value_usd": 63000000,
+      "start_season": "2021-22",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dougie-hamilton-signing-update-news-status-325804808",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/devils/news/dougie-hamilton-thriving-for-new-jersey-devils-following-trade-speculation-x4645"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8400000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 7400000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "BOS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "BOS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "BOS",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CGY",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CGY",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 6300000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 5550000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 6300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 12600000,
+          "base_salary_usd": 10600000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 12600000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 2600000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 11550000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 10550000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 8400000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7400000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482684,
+      "player_name": "Luke Hughes",
+      "position": "D",
+      "sweater_number": 43,
+      "birth_date": "2003-09-09",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-10-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 9000000,
+      "total_value_usd": 63000000,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/luke-hughes-signs-7-year-contract-with-new-jersey-devils",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 9000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480192,
+      "player_name": "Johnathan Kovacevic",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1997-07-12",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-03-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 4000000,
+      "total_value_usd": 20000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/kovacevic-re-signs-with-devils-release-3-7-25",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/devils/news/kovacevic-acquired-by-devils-release-6-30-24"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4750000,
+      "current_season_base_salary_usd": 1750000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 792500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 792500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 766667,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 766667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 766667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477488,
+      "player_name": "Brett Pesce",
+      "position": "D",
+      "sweater_number": 22,
+      "birth_date": "1994-11-15",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 5500000,
+      "total_value_usd": 33000000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/pesce-joins-devils-on-6-year-contract-release-7-1-24",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 809167,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 809167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 809167,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 4025000,
+          "total_salary_usd": 4025000,
+          "base_salary_usd": 4025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478399,
+      "player_name": "Jonas Siegenthaler",
+      "position": "D",
+      "sweater_number": 71,
+      "birth_date": "1997-05-06",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2022-07-26",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 5,
+      "aav_usd": 3400000,
+      "total_value_usd": 17000000,
+      "start_season": "2023-24",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jonas-siegenthaler-signs-five-year-contract-extension-with-new-jersey--335098550",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/washington-capitals-trade-jonas-siegenthaler-to-new-jersey-devils-323533892"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 695500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 695500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 695500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 695500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 695500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 3400000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 3400000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474596,
+      "player_name": "Jake Allen",
+      "position": "G",
+      "sweater_number": 34,
+      "birth_date": "1990-08-07",
+      "current_team": "NJD",
+      "signing_team": "NJD",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 1800000,
+      "total_value_usd": 9000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-allen-signs-5-year-deal-to-stay-with-new-jersey",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/canadiens/news/jake-allen-traded-to-new-jersey-for-a-conditional-third-round-pick-in-2025"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 1250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "STL",
+          "aav_usd": 840000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "STL",
+          "aav_usd": 840000,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "STL",
+          "aav_usd": 840000,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "STL",
+          "aav_usd": 800000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2014-15": {
+          "team": "STL",
+          "aav_usd": 800000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 4350000,
+          "total_salary_usd": 3850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 4350000,
+          "total_salary_usd": 4350000,
+          "base_salary_usd": 4350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 4350000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 4350000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 2875000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 2875000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 3850000,
+          "total_salary_usd": 4400000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476945,
+      "player_name": "Connor Hellebuyck",
+      "position": "G",
+      "sweater_number": 37,
+      "birth_date": "1993-05-19",
+      "current_team": "NJD",
+      "signing_team": "WPG",
+      "signed_date": "2023-10-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 8500000,
+      "total_value_usd": 59500000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/devils-getting-boost-from-connor-hellebuyck-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 7500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-jersey-devils",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 667500,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 667500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 667500,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 6166667,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NJD",
+          "aav_usd": 8500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

@@ -1,0 +1,2707 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "CAR",
+  "team_name": "Carolina Hurricanes",
+  "generated_at_utc": "2026-11-26T22:49:25Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/CAR/current",
+  "summary": {
+    "roster_players": 23,
+    "contracts_with_verified_source_url": 23,
+    "contracts_matched_nhlpa": 23,
+    "contracts_with_public_aav": 23,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 96505134,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 96505134
+  },
+  "contracts": [
+    {
+      "player_id": 8478427,
+      "player_name": "Sebastian Aho",
+      "position": "C",
+      "sweater_number": 20,
+      "birth_date": "1997-07-26",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2023-07-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 9750000,
+      "total_value_usd": 78000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sebastian-aho-signs-eight-year-contract-with-carolina-hurricanes-345441394",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/carolina-hurricanes-match-sebastian-aho-offer-sheet-308203062"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 8459000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 11300000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 8459000,
+          "total_salary_usd": 10570000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 9870000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 8459000,
+          "total_salary_usd": 7700000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 6950000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 8459000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 5250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 8459000,
+          "total_salary_usd": 6025000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 5250000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 9750000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 9750000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 9750000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482809,
+      "player_name": "Jackson Blake",
+      "position": "R",
+      "sweater_number": 53,
+      "birth_date": "2003-08-03",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-07-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 5043556,
+      "total_value_usd": 40348448,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jackson-blake-signs-8-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 905833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 905833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 905833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 5043556,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477478,
+      "player_name": "William Carrier",
+      "position": "L",
+      "sweater_number": 28,
+      "birth_date": "1994-12-20",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 2100000,
+      "total_value_usd": 12600000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/william-carrier-signs-6-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2375000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1525000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "BUF",
+          "aav_usd": 669500,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 669500,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 669500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 669500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 669500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 300000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 1050000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2375000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1525000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475235,
+      "player_name": "Nicolas Deslauriers",
+      "position": "L",
+      "sweater_number": 44,
+      "birth_date": "1991-02-22",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2026-06-20",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nicolas-deslauriers-signs-2-year-contract-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/hurricanes/news/canes-acquire-nicolas-deslauriers-from-flyers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "LAK",
+          "aav_usd": 613333,
+          "total_salary_usd": 595000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 60000
+        },
+        "2012-13": {
+          "team": "LAK",
+          "aav_usd": 613333,
+          "total_salary_usd": 620000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 60000
+        },
+        "2013-14": {
+          "team": "BUF",
+          "aav_usd": 613333,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 637500,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 637500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 1750000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 1750000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PHI",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477940,
+      "player_name": "Nikolaj Ehlers",
+      "position": "L",
+      "sweater_number": 27,
+      "birth_date": "1996-02-14",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-07-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 8500000,
+      "total_value_usd": 51000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nikolaj-ehlers-signs-6-year-deal-with-carolina",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 9000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475791,
+      "player_name": "Taylor Hall",
+      "position": "L",
+      "sweater_number": 71,
+      "birth_date": "1991-11-14",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-04-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 3166667,
+      "total_value_usd": 9500001,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/taylor-hall-signs-3-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-taylor-hall-to-hurricanes"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3425000,
+      "current_season_base_salary_usd": 3425000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "EDM",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "EDM",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "EDM",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "EDM",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "EDM",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 3166667,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3166667,
+          "total_salary_usd": 3425000,
+          "base_salary_usd": 3425000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476873,
+      "player_name": "Mark Jankowski",
+      "position": "L",
+      "sweater_number": 77,
+      "birth_date": "1994-09-13",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2026-05-11",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1850000,
+      "total_value_usd": 3700000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mark-jankowski-signs-2-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-fifth-round-pick-in-2026-nhl-draft-from-carolina-2025-03-07"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 1675000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 1675000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 800000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482093,
+      "player_name": "Seth Jarvis",
+      "position": "R",
+      "sweater_number": 24,
+      "birth_date": "2002-02-01",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-09-04",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 7420087,
+      "total_value_usd": 59360696,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/seth-jarvis-signs-eight-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 7420087,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 7420087,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 7420087,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480829,
+      "player_name": "Jesperi Kotkaniemi",
+      "position": "C",
+      "sweater_number": 82,
+      "birth_date": "2000-07-06",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2022-03-22",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 4820000,
+      "total_value_usd": 38560000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/carolina-hurricanes-sign-jesperi-kotkaniemi-to-eight-year-contract-332090668",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/carolina-hurricanes-sign-jesperi-kotkaniemi-326080624"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4820000,
+      "current_season_base_salary_usd": 4820000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 6100035,
+          "total_salary_usd": 6100035,
+          "base_salary_usd": 6100015,
+          "signing_bonus_usd": 20,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 4820000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 4820000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 4820000,
+          "total_salary_usd": 4820000,
+          "base_salary_usd": 4820000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 4820000,
+          "total_salary_usd": 4820000,
+          "base_salary_usd": 4820000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 4820000,
+          "total_salary_usd": 4820000,
+          "base_salary_usd": 4820000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476921,
+      "player_name": "Jordan Martinook",
+      "position": "L",
+      "sweater_number": 48,
+      "birth_date": "1992-07-25",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3075000,
+      "total_value_usd": 9225000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jordan-martinook-signs-3-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2375000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1525000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "PHX",
+          "aav_usd": 658250,
+          "total_salary_usd": 608250,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 83250,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "PHX",
+          "aav_usd": 658250,
+          "total_salary_usd": 633250,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 83250,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "PHX",
+          "aav_usd": 658250,
+          "total_salary_usd": 733250,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 83250,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 612500,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 95000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 612500,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 1850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 1850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2700000,
+          "base_salary_usd": 2700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 3075000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2800000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 3075000,
+          "total_salary_usd": 3050000,
+          "base_salary_usd": 3050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3075000,
+          "total_salary_usd": 2375000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1525000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480762,
+      "player_name": "Eric Robinson",
+      "position": "L",
+      "sweater_number": 50,
+      "birth_date": "1995-06-14",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-06-20",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 1700000,
+      "total_value_usd": 6800000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/carolina-hurricanes-sign-eric-robinson-to-four-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1700000,
+      "current_season_base_salary_usd": 1700000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8473533,
+      "player_name": "Jordan Staal",
+      "position": "C",
+      "sweater_number": 11,
+      "birth_date": "1988-09-10",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2023-06-25",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 2918750,
+      "total_value_usd": 11675000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jordan-staal-signs-deal-to-stay-with-carolina-345001370",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2165000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1315000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PIT",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "CAR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "CAR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 2918750,
+          "total_salary_usd": 3450000,
+          "base_salary_usd": 3450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 2918750,
+          "total_salary_usd": 3410000,
+          "base_salary_usd": 3410000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 2918750,
+          "total_salary_usd": 2650000,
+          "base_salary_usd": 2650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 2918750,
+          "total_salary_usd": 2165000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1315000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482702,
+      "player_name": "Logan Stankoven",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "2003-02-26",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 6000000,
+      "total_value_usd": 48000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/logan-stankoven-signs-eight-year-contract-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/logan-stankoven-built-to-play-for-carolina-hurricanes-in-nhl-playoffs"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 2500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 825500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 825500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 825500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 825500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 825500,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480830,
+      "player_name": "Andrei Svechnikov",
+      "position": "R",
+      "sweater_number": 37,
+      "birth_date": "2000-03-26",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2021-08-26",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 7750000,
+      "total_value_usd": 62000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/andrei-svechnikov-signing-update-news-status-325807286",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1999963,
+          "signing_bonus_usd": 4000037,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478970,
+      "player_name": "Jalen Chatfield",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "1996-05-15",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-06-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3025000,
+      "total_value_usd": 9075000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jalen-chatfield-signs-3-year-deal-with-carolina",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2325000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 1475000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 765000,
+          "total_salary_usd": 710000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 765000,
+          "total_salary_usd": 765000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 765000,
+          "total_salary_usd": 820000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 3025000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2750000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 3025000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3025000,
+          "total_salary_usd": 2325000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 1475000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476906,
+      "player_name": "Shayne Gostisbehere",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1993-04-20",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3200000,
+      "total_value_usd": 9600000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/hurricanes/news/canes-sign-gostisbehere-to-three-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/shayne-gostisbehere-traded-to-carolina-hurricanes-from-arizona-coyotes-341687084"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2400000,
+      "current_season_base_salary_usd": 1400000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 4500000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2250000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 4125000,
+          "total_salary_usd": 4125000,
+          "base_salary_usd": 4125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 3200000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3200000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480817,
+      "player_name": "K'Andre Miller",
+      "position": "D",
+      "sweater_number": 19,
+      "birth_date": "2000-01-21",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 7500000,
+      "total_value_usd": 60000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 7500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 3872000,
+          "total_salary_usd": 3098000,
+          "base_salary_usd": 2748000,
+          "signing_bonus_usd": 350000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 3872000,
+          "total_salary_usd": 4646000,
+          "base_salary_usd": 4646000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482100,
+      "player_name": "Alexander Nikishin",
+      "position": "D",
+      "sweater_number": 21,
+      "birth_date": "2001-10-02",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2026-10-25",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 3000000,
+      "total_value_usd": 3000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/hurricanes/news/canes-sign-nikishin-to-one-year-contract",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWhCb21jSUhWWDlRY0w0ZzlaamlRU0NpblVoWTVTSUN1Z2x6VWZBQ0V5Q0tIeVFMdm1aSXlDUzYtTElSb0l3T0YzVTc1M09iWlkyQmJHdXc4R2xCOUhBRnF3Mlc2UnBCY3RTSkN1dnltMF8tUzdWS0F4U0xGLVlXLWV1dm9MNk54OGF5dVNSSWp0akVzODZCdmdSZTNhMDBPRmN2aU1n?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476958,
+      "player_name": "Jaccob Slavin",
+      "position": "D",
+      "sweater_number": 74,
+      "birth_date": "1994-05-01",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 6396074,
+      "total_value_usd": 51168592,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jaccob-slavin-signs-8-year-contract-to-stay-with-carolina-hurricanes",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 5000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 742500,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 742500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 742500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 6396074,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 6396074,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479976,
+      "player_name": "Juuso V\u00e4lim\u00e4ki",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1998-10-06",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2026-06-24",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 900000,
+      "total_value_usd": 900000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/hurricanes/news/canes-sign-juuso-valimaki-to-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 1550000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 1550000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "UTA",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480336,
+      "player_name": "Sean Walker",
+      "position": "D",
+      "sweater_number": 26,
+      "birth_date": "1994-11-13",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 5,
+      "aav_usd": 3615000,
+      "total_value_usd": 18075000,
+      "start_season": "2024-25",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/hurricanes/news/canes-sign-walker-to-five-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3075000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 2225000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 745000,
+          "total_salary_usd": 720000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 65000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 745000,
+          "total_salary_usd": 770000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 65000
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 2650000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 2650000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 2650000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 2650000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 3615000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 3615000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 3615000,
+          "total_salary_usd": 3075000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 2225000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483548,
+      "player_name": "Brandon Bussi",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "1998-06-25",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2026-02-16",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 1900000,
+      "total_value_usd": 5700000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/hurricanes/news/canes-sign-bussi-to-three-year-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/hurricanes/news/canes-acquire-brandon-bussi-off-waivers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 150000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 150000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481611,
+      "player_name": "Pyotr Kochetkov",
+      "position": "G",
+      "sweater_number": 52,
+      "birth_date": "1999-06-25",
+      "current_team": "CAR",
+      "signing_team": "CAR",
+      "signed_date": "2022-11-24",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 2000000,
+      "total_value_usd": 8000000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/pyotr-kochetkov-signs-deal-with-carolina-337944210",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 2,
+        "aav_usd": 3950000,
+        "total_value_usd": 7900000,
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "signed_date": "2026-09-26",
+        "source_url": "https://www.nhl.com/news/pyotr-kochetkov-signs-two-year-contract-with-carolina-hurricanes"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

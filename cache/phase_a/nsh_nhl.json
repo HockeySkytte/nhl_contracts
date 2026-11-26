@@ -1,0 +1,827 @@
+{
+  "team": "NSH",
+  "team_name": "Nashville Predators",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8482145,
+        "name": "Mavrik Bourque",
+        "first": "Mavrik",
+        "last": "Bourque",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "2002-01-08",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mavrik-bourque-signs-6-year-contract-with-nashville-predators",
+        "date": "2026-07-05",
+        "headline": "Bourque signs 6-year, $33 million contract with Predators",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5500000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Mavrik Bourque signed a six-year, $33 million contract with the Nashville Predators on Saturday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Predators Acquire Mavrik Bourque, Ilya Lyubushkin From Dallas",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-mavrik-bourque-ilya-lyubushkin-from-dallas-2026-07-01"
+      }
+    },
+    {
+      "player": {
+        "id": 8479525,
+        "name": "Ross Colton",
+        "first": "Ross",
+        "last": "Colton",
+        "pos": "C",
+        "sweater": 79
+      },
+      "birth_date": "1996-09-11",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ross-colton-signs-four-year-contract-with-colorado-avalanche-344922428",
+        "date": "2023-07-17",
+        "headline": "Colton signs 4-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ross Colton signed a four-year contract with the Colorado Avalanche on Monday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-16",
+        "headline": "Colton traded to Predators by Avalanche for Chrona, 2 draft picks",
+        "url": "https://www.nhl.com/news/ross-colton-traded-to-nashville-predators-by-colorado-avalanche"
+      }
+    },
+    {
+      "player": {
+        "id": 8480835,
+        "name": "Jack Drury",
+        "first": "Jack",
+        "last": "Drury",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "2000-02-03",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-jack-drury-to-five-year-22-5-million-contract-2026-06-28",
+        "date": "2026-06-28",
+        "headline": "Predators Sign Jack Drury to Five-Year, $22.5 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4500000,
+          "total_value_usd": 22500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "s President of Hockey Operations/General Manager Chris MacFarland announced today that the team has signed forward Jack Drury to a five-year, $22.5 million contract. Drury, 26 (2/3/00), was acquired by the Predators along with forward Chase Bradley and a third-round pick in the 2029 NHL Draft from the Colorado Avalanch"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-02",
+        "headline": "Following Trade From Colorado, Drury Excited to Prove His Worth With Preds",
+        "url": "https://www.nhl.com/predators/news/following-trade-from-colorado-drury-excited-to-prove-his-worth-with-preds-2026-07-02"
+      }
+    },
+    {
+      "player": {
+        "id": 8481726,
+        "name": "Adam Edstrom",
+        "first": "Adam",
+        "last": "Edstrom",
+        "pos": "C",
+        "sweater": 84
+      },
+      "birth_date": "2000-10-12",
+      "draft_team": "NYR",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-27",
+        "headline": "Predators Acquire Adam Edstrom From NY Rangers",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-adam-edstrom-from-ny-rangers-2026-06-27"
+      }
+    },
+    {
+      "player": {
+        "id": 8476887,
+        "name": "Filip Forsberg",
+        "first": "Filip",
+        "last": "Forsberg",
+        "pos": "L",
+        "sweater": 9
+      },
+      "birth_date": "1994-08-13",
+      "draft_team": "WSH",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-02",
+        "headline": "Following Trade From Seattle, Wright Excited for Fresh Opportunity With Preds",
+        "url": "https://www.nhl.com/predators/news/following-trade-from-seattle-wright-excited-for-fresh-opportunity-with-preds-2026-11-02"
+      }
+    },
+    {
+      "player": {
+        "id": 8481535,
+        "name": "Nils Hoglander",
+        "first": "Nils",
+        "last": "Hoglander",
+        "pos": "L",
+        "sweater": 21
+      },
+      "birth_date": "2000-12-20",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nils-hoglander-signs-3-year-contract-with-canucks",
+        "date": "2024-10-06",
+        "headline": "Hoglander signs 3-year, $9 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3000000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nils Hoglander signed a three-year, $9 million contract with the Vancouver Canucks on Sunday. The contract, which has an average annual value of $3 million, will begin with the 2025-26 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-02",
+        "headline": "Following Trade From Seattle, Wright Excited for Fresh Opportunity With Preds",
+        "url": "https://www.nhl.com/predators/news/following-trade-from-seattle-wright-excited-for-fresh-opportunity-with-preds-2026-11-02"
+      }
+    },
+    {
+      "player": {
+        "id": 8477021,
+        "name": "Alexander Kerfoot",
+        "first": "Alexander",
+        "last": "Kerfoot",
+        "pos": "C",
+        "sweater": 14
+      },
+      "birth_date": "1994-08-11",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-alexander-kerfoot-to-two-year-7-million-contract-2026-07-01",
+        "date": "2026-07-01",
+        "headline": "Predators Sign Alexander Kerfoot to Two-Year, $7 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3500000,
+          "total_value_usd": 7000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "sident of Hockey Operations/General Manager Chris MacFarland announced today that the team has signed forward Alexander Kerfoot (KUHR-fuht) to a two-year, $7 million contract. Kerfoot, 31 (8/11/94), recorded 13 points (7g-6a), 30 hits and 27 blocked shots in 34 games for the Utah Mammoth in the 2025-26 season, missing "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476539,
+        "name": "Jonathan Marchessault",
+        "first": "Jonathan",
+        "last": "Marchessault",
+        "pos": "C",
+        "sweater": 81
+      },
+      "birth_date": "1990-12-27",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475158,
+        "name": "Ryan O'Reilly",
+        "first": "Ryan",
+        "last": "O'Reilly",
+        "pos": "C",
+        "sweater": 90
+      },
+      "birth_date": "1991-02-07",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nashville-predators-sign-ryan-oreilly-to-contract-344912990",
+        "date": "2023-07-01",
+        "headline": "O'Reilly signs 4-year, $18 million contract with Predators",
+        "signing_team": "NSH",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4500000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ryan O'Reilly signed a four-year $18 million contract with the Nashville Predators on Saturday. It has an average annual value of $4.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8486189,
+        "name": "Vitali Pinchuk",
+        "first": "Vitali",
+        "last": "Pinchuk",
+        "pos": "C",
+        "sweater": 51
+      },
+      "birth_date": "2002-01-11",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-vitali-pinchuk-to-one-year-entry-level-contract",
+        "date": "2026-04-27",
+        "headline": "Predators Sign Vitali Pinchuk to One-Year, Entry-Level Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "ril 27, 2026) \u2013 Nashville Predators General Manager Barry Trotz announced today that the team has signed forward Vitali Pinchuk to a one-year, entry-level contract for the 2026-27 season. Pinchuk, 24 (1/11/02), was third in the KHL in goals (31) and tied for sixth in points (66) in 2025-26, appearing in 65 games for Di"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483513,
+        "name": "Reid Schaefer",
+        "first": "Reid",
+        "last": "Schaefer",
+        "pos": "L",
+        "sweater": 49
+      },
+      "birth_date": "2003-09-21",
+      "draft_team": "EDM",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Trotz Talks Trade Deadline, Looks Ahead to What's Next for Preds",
+        "url": "https://www.nhl.com/predators/news/trotz-talks-trade-deadline-looks-ahead-to-what-s-next-for-preds-2026-03-06"
+      }
+    },
+    {
+      "player": {
+        "id": 8474564,
+        "name": "Steven Stamkos",
+        "first": "Steven",
+        "last": "Stamkos",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "1990-02-07",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/steven-stamkos-signs-with-nashville-predators-as-free-agent",
+        "date": "2024-07-02",
+        "headline": "Stamkos signs 4-year contract with Predators after leaving Lightning",
+        "signing_team": "NSH",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 8000000,
+          "total_value_usd": 32000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "** The Nashville Predators made an aggressive push Monday to try to compete for the Stanley Cup, adding forwards Steven Stamkos and Jonathan Marchessault, defenseman Brady Skjei and goaltender Scott Wedgewood on the first day of NHL free agency. After the Predators (47-30-5) finished as the first wild card into the Sta"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Trotz Talks Trade Deadline, Looks Ahead to What's Next for Preds",
+        "url": "https://www.nhl.com/predators/news/trotz-talks-trade-deadline-looks-ahead-to-what-s-next-for-preds-2026-03-06"
+      }
+    },
+    {
+      "player": {
+        "id": 8483524,
+        "name": "Shane Wright",
+        "first": "Shane",
+        "last": "Wright",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "2004-01-05",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/shane-wright-signs-deal-with-seattle-334963538",
+        "date": "2022-07-13",
+        "headline": "Wright, No. 4 pick in 2022 NHL Draft, signs contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "[Shane Wright](https://www.nhl.com/player/shane-wright-8483524) signed a three-year, entry-level contract with the Seattle Kraken on Wednesday. The 18-year-old forward was the No."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-03",
+        "headline": "Wright traded to Predators by Kraken, was No. 4 pick in 2022 NHL Draft",
+        "url": "https://www.nhl.com/news/shane-wright-traded-to-nashville-predators-by-seattle-kraken-for-matthew-wood"
+      }
+    },
+    {
+      "player": {
+        "id": 8479980,
+        "name": "Nicolas Hague",
+        "first": "Nicolas",
+        "last": "Hague",
+        "pos": "D",
+        "sweater": 41
+      },
+      "birth_date": "1998-12-05",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/nicolas-hague-traded-to-nashville-from-vegas-signs-4-year-contract",
+        "date": "2025-06-30",
+        "headline": "Hague traded to Predators by Golden Knights, signs 4-year, $22 million contract",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5500000,
+          "total_value_usd": 22000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Nicolas Hague was traded to the Nashville Predators by the Vegas Golden Knights and signed a four-year, $22 million contract on Monday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-30",
+        "headline": "Predators Acquire Nicolas Hague, Conditional Third-Round Pick in 2027 NHL Draft From Vegas",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-nicolas-hague-conditional-third-round-pick-in-2027-nhl-draft-from-vegas-2025-06-29"
+      }
+    },
+    {
+      "player": {
+        "id": 8482094,
+        "name": "Daemon Hunt",
+        "first": "Daemon",
+        "last": "Hunt",
+        "pos": "D",
+        "sweater": 52
+      },
+      "birth_date": "2002-05-15",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-defenseman-daemon-hunt-to-a-one-year-contract-070526",
+        "date": "2026-07-05",
+        "headline": "Minnesota Wild Signs Defenseman Daemon Hunt to One-Year Contract",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 900000,
+          "total_value_usd": 900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ns and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed defenseman **Daemon Hunt** to a one-year, $900,000 contract for the 2026-27 season. Hunt, 24 (5/15/02), established career highs in games played (34), assists (six), penalty minutes (six) and blocked shots (43) last seas"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-24",
+        "headline": "Predators Claim Daemon Hunt on Waivers From Minnesota",
+        "url": "https://www.nhl.com/predators/news/predators-claim-daemon-hunt-on-waivers-from-minnesota-2026-10-24"
+      }
+    },
+    {
+      "player": {
+        "id": 8474600,
+        "name": "Roman Josi",
+        "first": "Roman",
+        "last": "Josi",
+        "pos": "D",
+        "sweater": 59
+      },
+      "birth_date": "1990-06-01",
+      "draft_team": "NSH",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Trotz Talks Trade Deadline, Looks Ahead to What's Next for Preds",
+        "url": "https://www.nhl.com/predators/news/trotz-talks-trade-deadline-looks-ahead-to-what-s-next-for-preds-2026-03-06"
+      }
+    },
+    {
+      "player": {
+        "id": 8480950,
+        "name": "Ilya Lyubushkin",
+        "first": "Ilya",
+        "last": "Lyubushkin",
+        "pos": "D",
+        "sweater": 46
+      },
+      "birth_date": "1994-04-06",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-ilya-lyubushkin-to-a-three-year-contract-070124",
+        "date": "2024-07-01",
+        "headline": "Stars sign Ilya Lyubushkin to a three-year contract",
+        "signing_team": "DAL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3250000,
+          "total_value_usd": 9750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "ISCO, Texas** \\-\\- Dallas Stars General Manager **Jim Nill** announced today that the club has signed defenseman **Ilya Lyubushkin** to a three-year contract, which will run through the 2026-27 season. The three-year deal is worth $9.75 million and has an average annual value (AAV) of $3.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Predators Acquire Mavrik Bourque, Ilya Lyubushkin From Dallas",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-mavrik-bourque-ilya-lyubushkin-from-dallas-2026-07-01"
+      }
+    },
+    {
+      "player": {
+        "id": 8480246,
+        "name": "Nick Perbix",
+        "first": "Nick",
+        "last": "Perbix",
+        "pos": "D",
+        "sweater": 48
+      },
+      "birth_date": "1998-06-15",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-nick-perbix-to-two-year-5-5-million-contract-2025-07-01",
+        "date": "2025-07-01",
+        "headline": "Predators Sign Nick Perbix to Two-Year, $5.5 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2750000,
+          "total_value_usd": 5500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "uly 1, 2025) - Nashville Predators General Manager Barry Trotz announced today that the team has signed defenseman Nick Perbix to a two-year, $5.5 million contract. Perbix, 27 (6/15/98), completed his third full NHL season in 2024-25 with Tampa Bay, scoring a career-high six goals and adding 19 points and a +8 rating i"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476869,
+        "name": "Brady Skjei",
+        "first": "Brady",
+        "last": "Skjei",
+        "pos": "D",
+        "sweater": 76
+      },
+      "birth_date": "1994-03-26",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-agree-to-terms-with-brady-skjei-on-seven-year-49-million-contract",
+        "date": "2024-07-01",
+        "headline": "Predators Agree to Terms with Brady Skjei on Seven-Year, $49 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7000000,
+          "total_value_usd": 49000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nashville Predators General Manager Barry Trotz announced today that the team has agreed to terms with defenseman Brady Skjei (SHAY) on a seven-year, $49 million contract ($7 million AAV). \u201cWe feel Brady Skjei has developed into one of the NHL\u2019s top two-way defensemen, and his high-end ability to skate and move the puc"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481593,
+        "name": "Jayden Struble",
+        "first": "Jayden",
+        "last": "Struble",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "2001-09-08",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jayden-struble-avoids-arbitration-signs-two-year-contract-with-montreal-canadiens",
+        "date": "2025-07-28",
+        "headline": "Struble signs 2-year, $2.825 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1412500,
+          "total_value_usd": 2825000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jayden Struble signed a two-year, $2.825 million contract with the Montreal Canadiens on Monday. It has an average annual value of $1.4125 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-09",
+        "headline": "Predators Acquire Jayden Struble From Montreal",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-jayden-struble-from-montreal-2026-10-09"
+      }
+    },
+    {
+      "player": {
+        "id": 8482806,
+        "name": "William Trudeau",
+        "first": "William",
+        "last": "Trudeau",
+        "pos": "D",
+        "sweater": 85
+      },
+      "birth_date": "2002-10-11",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-william-trudeau",
+        "date": "2026-07-06",
+        "headline": "Rangers Agree to Terms with William Trudeau",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ers President and General Manager Chris Drury announced today that the team has agreed to terms with defenseman William Trudeau on a one-year contract. Trudeau, 23, appeared in 62 games for the Laval Rocket of the American Hockey League (AHL) during the 2025-26 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-09-26",
+        "headline": "Predators Claim William Trudeau on Waivers From NY Rangers",
+        "url": "https://www.nhl.com/predators/news/predators-claim-william-trudeau-on-waivers-from-ny-rangers-2026-09-26"
+      }
+    },
+    {
+      "player": {
+        "id": 8482482,
+        "name": "Adam Wilsby",
+        "first": "Adam",
+        "last": "Wilsby",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "2000-08-07",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-adam-wilsby-to-two-year-contract-2025-02-09",
+        "date": "2025-02-09",
+        "headline": "Predators Sign Adam Wilsby to Two-Year Contract",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 775000,
+          "total_value_usd": 1550000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "eb. 9, 2025) \u2013 Nashville Predators General Manager Barry Trotz announced today that the team has signed defenseman Adam Wilsby to a two-year contract worth $775,000 at the NHL level in 2025-26 (two-way) and $775,000 in 2026-27 (one-way)."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481020,
+        "name": "Justus Annunen",
+        "first": "Justus",
+        "last": "Annunen",
+        "pos": "G",
+        "sweater": 29
+      },
+      "birth_date": "2000-03-11",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-justus-annunen-to-two-year-2-5-million-contract-2025-01-05",
+        "date": "2026-01-05",
+        "headline": "Predators Sign Justus Annunen to Two-Year, $2.5 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1250000,
+          "total_value_usd": 2500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "n. 5, 2026) \u2013Nashville Predators General Manager Barry Trotz announced today that the team has signed goaltender Justus Annunen to a two-year, $2.5 million contract beginning in the 2026-27 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-01",
+        "headline": "Wedgewood traded to Avalanche by Predators for Annunen",
+        "url": "https://www.nhl.com/news/nashville-trades-justus-annunen-to-colorado-for-scott-wedgewood"
+      }
+    },
+    {
+      "player": {
+        "id": 8477424,
+        "name": "Juuse Saros",
+        "first": "Juuse",
+        "last": "Saros",
+        "pos": "G",
+        "sweater": 74
+      },
+      "birth_date": "1995-04-19",
+      "draft_team": "NSH",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

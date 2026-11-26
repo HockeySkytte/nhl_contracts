@@ -1,0 +1,894 @@
+{
+  "team": "TBL",
+  "team_name": "Tampa Bay Lightning",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8478519,
+        "name": "Anthony Cirelli",
+        "first": "Anthony",
+        "last": "Cirelli",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "1997-07-15",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/anthony-cirelli-signs-eight-year-extension-with-tampa-bay-lightning-334959270",
+        "date": "2022-07-13",
+        "headline": "Cirelli signs eight-year, $50 million extension with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6250000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Anthony Cirelli signed an eight-year, $50 million contract extension with the Tampa Bay Lightning on Wednesday that begins next season. It has an average annual value of $6.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483447,
+        "name": "Conor Geekie",
+        "first": "Conor",
+        "last": "Geekie",
+        "pos": "C",
+        "sweater": 94
+      },
+      "birth_date": "2004-05-05",
+      "draft_team": "ARI",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Sergachev traded to Utah Hockey Club by Lightning",
+        "url": "https://www.nhl.com/news/mikhail-sergachev-traded-to-utah-from-tampa-bay-lightning"
+      }
+    },
+    {
+      "player": {
+        "id": 8476878,
+        "name": "Zemgus Girgensons",
+        "first": "Zemgus",
+        "last": "Girgensons",
+        "pos": "C",
+        "sweater": 28
+      },
+      "birth_date": "1994-01-05",
+      "draft_team": "BUF",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFc0OGFPNjA5TzVPLXIxZFZmcUJwUGJqWXJWbldjaG9jYXB5MGpGRWNYNzJmU091LUo5VHhWZGduSnZKMHFYQ3Z1NjJXZ2duOFdzemlIc0ZlVWtGMjBwY2xDVW11MVhZWloyVC02UHNJMDJ2QnBtNE12c0Y1NWNyRFE1Zm80cnJTYW5mYnYybHp2XzVXa05NWmtnTXRweFd3ZXJZME5ENlhWZURoSk9wT0xfY0M?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2024-07-01",
+        "headline": "Lightning sign long-time Sabres forward Zemgus Girgensons to three-year deal",
+        "signing_team": "BUF",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lightning sign long-time Sabres forward Zemgus Girgensons to three-year deal"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482201,
+        "name": "Gage Goncalves",
+        "first": "Gage",
+        "last": "Goncalves",
+        "pos": "C",
+        "sweater": 93
+      },
+      "birth_date": "2001-01-16",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-gage-goncalves-to-a-two-year-contract",
+        "date": "2025-07-01",
+        "headline": "Lightning re-sign forward Gage Goncalves to a two-year contract",
+        "signing_team": "TBL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1200000,
+          "total_value_usd": 2400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**TAMPA BAY \u2013** The Tampa Bay Lightning have re-signed forward Gage Goncalves to a two-year contract worth an AAV of $1.2 million, vice president and general manager Julien BriseBois announced today. Goncalves, 24, made his NHL debut with the Lightning on January 11, 2024, at AMALIE Arena, logging 9:00 of time on ice i"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476826,
+        "name": "Yanni Gourde",
+        "first": "Yanni",
+        "last": "Gourde",
+        "pos": "C",
+        "sweater": 37
+      },
+      "birth_date": "1991-12-15",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/yanni-gourde-signs-six-year-contract-with-tampa-bay-lightning",
+        "date": "2025-06-02",
+        "headline": "Gourde signs 6-year contract with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 2330000,
+          "total_value_usd": 13980000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Yanni Gourde signed a six-year, $13.98 million contract with the Tampa Bay Lightning on Monday. It has an average annual value of $2.33 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-12",
+        "headline": "Lightning hope Gourde, Bjorkstrand are missing links after 3-team trade",
+        "url": "https://www.nhl.com/news/tampa-bay-lightning-hope-yanni-gourde-oliver-bjorkstrand-are-missing-links-after-3-team-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8477404,
+        "name": "Jake Guentzel",
+        "first": "Jake",
+        "last": "Guentzel",
+        "pos": "C",
+        "sweater": 59
+      },
+      "birth_date": "1994-10-06",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-guentzel-signs-7-year-deal-with-tampa-bay",
+        "date": "2024-07-01",
+        "headline": "Guentzel signs 7-year, $63 million contract with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 9000000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake Guentzel signed a seven-year, $63 million contract with the Tampa Bay Lightning on Monday. It has an average annual value of $9 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-30",
+        "headline": "Guentzel traded to Lightning by Hurricanes for 3rd-round pick in 2025 Draft",
+        "url": "https://www.nhl.com/news/jake-guentzel-traded-to-tampa-bay-by-carolina"
+      }
+    },
+    {
+      "player": {
+        "id": 8479542,
+        "name": "Brandon Hagel",
+        "first": "Brandon",
+        "last": "Hagel",
+        "pos": "L",
+        "sweater": 38
+      },
+      "birth_date": "1998-08-27",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brandon-hagel-signs-deal-with-tampa-bay-345641624",
+        "date": "2023-08-22",
+        "headline": "Hagel signs 8-year, $52 million contract with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6500000,
+          "total_value_usd": 52000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": "2031-32",
+          "status_hint": "RFA",
+          "quote": "Brandon Hagel signed an eight-year, $52 million contract with the Tampa Bay Lightning on Tuesday. It has an average annual value of $6.5 million and begins next season, running through 2031-32."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-18",
+        "headline": "Hagel traded to Lightning by Blackhawks",
+        "url": "https://www.nhl.com/news/brandon-hagel-traded-to-tampa-bay-lightning-by-chicago-blackhawks-331979720"
+      }
+    },
+    {
+      "player": {
+        "id": 8480995,
+        "name": "Pontus Holmberg",
+        "first": "Pontus",
+        "last": "Holmberg",
+        "pos": "R",
+        "sweater": 29
+      },
+      "birth_date": "1999-03-09",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/lightning-sign-forward-pontus-holmberg-to-a-two-year-contract",
+        "date": "2025-07-01",
+        "headline": "Lightning sign forward Pontus Holmberg to a two-year contract",
+        "signing_team": "TBL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1550000,
+          "total_value_usd": 3100000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**TAMPA BAY** \u2013 The Tampa Bay Lightning have signed forward Pontus Holmberg to a two-year contract worth an AAV of $1.55 million, vice president and general manager Julien BriseBois announced today. Holmberg, 26, played in 68 games with the Toronto Maple Leafs last season, recording seven goals and 19 points while aver"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476453,
+        "name": "Nikita Kucherov",
+        "first": "Nikita",
+        "last": "Kucherov",
+        "pos": "R",
+        "sweater": 86
+      },
+      "birth_date": "1993-06-17",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nikita-kucherov-tampa-bay-continue-talks-for-new-contract",
+        "date": "2026-09-16",
+        "headline": "Lightning hope to sign Kucherov for 'many years to come'",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**TAMPA** -- Nikita Kucherov and the Tampa Bay Lightning continue to discuss a new contract, and Lightning general manager Julien BriseBois said he expects the forward to be with the team for \"many years to come.\" Kucherov is in the final season of an eight-year, $76 million contract ($9.5 million average annual value)"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-02",
+        "headline": "Kucherov says trade request to Lightning about poor communication, respect",
+        "url": "https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect"
+      }
+    },
+    {
+      "player": {
+        "id": 8481624,
+        "name": "Ilya Mikheyev",
+        "first": "Ilya",
+        "last": "Mikheyev",
+        "pos": "R",
+        "sweater": 95
+      },
+      "birth_date": "1994-10-10",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-ilya-mikheyev-to-four-year-contract",
+        "date": "2026-07-01",
+        "headline": "Lightning sign forward Ilya Mikheyev to four-year contract",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3850000,
+          "total_value_usd": 15400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**TAMPA BAY \u2013** The Tampa Bay Lightning have signed forward Ilya Mikheyev to a four-year contract worth an AAV of $3.85 million today, vice president and general manager Julien BriseBois announced today. Mikheyev, 31, played in 77 games with the Chicago Blackhawks last season, recording 18 goals and 36 points while ave"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484770,
+        "name": "Sam O'Reilly",
+        "first": "Sam",
+        "last": "O'Reilly",
+        "pos": "R",
+        "sweater": 23
+      },
+      "birth_date": "2006-03-30",
+      "draft_team": "EDM",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-09",
+        "headline": "Lightning trade Hobey Baker winner Howard to Oilers",
+        "url": "https://www.nhl.com/news/tampa-bay-lightning-trade-isaac-howard-to-edmonton-oilers-for-sam-o-reilly"
+      }
+    },
+    {
+      "player": {
+        "id": 8478010,
+        "name": "Brayden Point",
+        "first": "Brayden",
+        "last": "Point",
+        "pos": "C",
+        "sweater": 21
+      },
+      "birth_date": "1996-03-13",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/lightning-point-eight-year-76-million-contract-325847528",
+        "date": "2021-07-28",
+        "headline": "Point signs eight-year, $76 million extension with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brayden Point signed an eight-year, $76 million contract extension with the Tampa Bay Lightning on Wednesday that begins next season. It has an average annual value of $9.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477149,
+        "name": "Scott Sabourin",
+        "first": "Scott",
+        "last": "Sabourin",
+        "pos": "R",
+        "sweater": 49
+      },
+      "birth_date": "1992-07-30",
+      "draft_team": null,
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGNtNUNVWGZnN1F2THFxNTVfNUcta296ZVI3RnhNUDJJRWhJVGhaU2hkR29uZzFuSGNtZDlkbWtrdl9FZDdmeWpiUWt4V0p2MjdtbkowYVlKZUpVX2ZpZG1QZVItOHBoUU5IdHRzR1JPbS1QUFFUR0hXT1lOem9BMkFJUUVJSVN3T08wNEpwVHlKbkZHbjhQU3lwSWJ1a0cwenJWWUs1dktpWkFSd0pHZEtMdGNjRmMtNmZV?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-05-23",
+        "headline": "Lightning re-sign forward Scott Sabourin to one-year, two-way contract",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lightning re-sign forward Scott Sabourin to one-year, two-way contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479705,
+        "name": "Jeffrey Viel",
+        "first": "Jeffrey",
+        "last": "Viel",
+        "pos": "L",
+        "sweater": 25
+      },
+      "birth_date": "1997-01-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-jeffrey-viel-to-five-year-contract",
+        "date": "2026-07-01",
+        "headline": "Lightning sign forward Jeffrey Viel to five-year contract",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 2500000,
+          "total_value_usd": 12500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**TAMPA BAY \u2013** The Tampa Bay Lightning have signed forward Jeffrey Viel to a five-year contract worth an AAV of $2.5 million today, vice president and general manager Julien BriseBois announced today. Viel, 29, played in 10 games with the Boston Bruins last season, logging 30 penalty minutes, before being traded to th"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474590,
+        "name": "John Carlson",
+        "first": "John",
+        "last": "Carlson",
+        "pos": "D",
+        "sweater": 74
+      },
+      "birth_date": "1990-01-10",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-jon-carlson-to-two-year-contract",
+        "date": "2026-07-02",
+        "headline": "Lightning sign defenseman John Carlson to two-year contract",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 8500000,
+          "total_value_usd": 17000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "TAMPA BAY \u2013 The Tampa Bay Lightning have signed defenseman John Carlson to a two-year contract worth an AAV of $8.5 million, vice president and general manager Julien BriseBois announced today. Carlson has appeared in 1,159 career NHL games with the Washington Capitals and Anaheim Ducks, recording 170 goals and 785 poi"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478416,
+        "name": "Erik Cernak",
+        "first": "Erik",
+        "last": "Cernak",
+        "pos": "D",
+        "sweater": 81
+      },
+      "birth_date": "1997-05-28",
+      "draft_team": "LAK",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGJaWHhDVnFtclBNcHNUdGtGMFdha3YwQkxCTk5JSVJhNXVxak1mUGtRQ1VNZjZWUjJUWkZ2X1Q0dkZWNks5UnRWRVF6Q1F5emxDd0xPSVRpWFMzQWRKSzdmTkRDaFg4T004VHJqeThubTZoVVA2U09jbTdWTTBuMUdsVGFFT09sMzhmdUxLY0NOZzR5bVFEbm93?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2022-07-13",
+        "headline": "Lightning sign Erik Cernak to eight-year, $41.6M extension",
+        "signing_team": "TBL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5200000,
+          "total_value_usd": 41600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lightning sign Erik Cernak to eight-year, $41.6M extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481719,
+        "name": "Max Crozier",
+        "first": "Max",
+        "last": "Crozier",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "2000-04-19",
+      "draft_team": "TBL",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTJ2ZzZJeTJsNmJ2VEVMNnMta3lsVEtzN3NueUc2Z3cwUkhsT3RZN0ZVaUpZN2JaNGVwNi1mT3pIVExqYnp1M0Q2YlY0VXhTVjVTQkVQZ2o4SHNaYWZfQktxMTlKdDdnTnpiYmkwbEhwOXFZa05ZUjFFTDRnMzhqTFJmaVBXeEpKN3dJTWNUclY2NGtXMy04WlFSM2VfZw?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2025-06-06",
+        "headline": "Lightning sign defenseman Max Crozier to a three-year contract | Tampa Bay Lightning",
+        "signing_team": "TBL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lightning sign defenseman Max Crozier to a three-year contract | Tampa Bay Lightning"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480426,
+        "name": "Charle-Edouard D'Astous",
+        "first": "Charle-Edouard",
+        "last": "D'Astous",
+        "pos": "D",
+        "sweater": 51
+      },
+      "birth_date": "1998-04-21",
+      "draft_team": null,
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREVTNk1nRDZPVklNU2stMDZiZGstdm9SbVJ0LWVjN1lMWWg0VHFMdWd5UnF1RkZ2dFhWY0dVOEFYZmxicEhFS2dLc3Y1a2NPcmZ4LTNYX3ZodUpTVjBtelRpcWRWSndFMHhxcHgyRUNRWkVxNnBTSzE4b1ROUkZxaFVJdXBPOW9WUHZJeGpkNEYydUE5MzhsdHhDcmp1SWhQ?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2026-01-02",
+        "headline": "Lightning sign D Charle-Edouard D'Astous to one-year extension",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lightning sign D Charle-Edouard D'Astous to one-year extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475167,
+        "name": "Victor Hedman",
+        "first": "Victor",
+        "last": "Hedman",
+        "pos": "D",
+        "sweater": 77
+      },
+      "birth_date": "1990-12-18",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/victor-hedman-signs-4-year-deal-with-tampa-bay",
+        "date": "2024-07-02",
+        "headline": "Hedman signs 4-year, $32 million contract to remain with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 8000000,
+          "total_value_usd": 32000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Victor Hedman signed a four-year, $32 million contract with the Tampa Bay Lightning on Tuesday. The contract, which has an average annual value of $8 million, will begin in the 2025-26 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482929,
+        "name": "Emil Lilleberg",
+        "first": "Emil",
+        "last": "Lilleberg",
+        "pos": "D",
+        "sweater": 78
+      },
+      "birth_date": "2001-02-02",
+      "draft_team": "ARI",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474151,
+        "name": "Ryan McDonagh",
+        "first": "Ryan",
+        "last": "McDonagh",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "1989-06-13",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-ryan-mcdonagh-to-a-three-year-contract-extension",
+        "date": "2025-12-04",
+        "headline": "Lightning sign D Ryan McDonagh to a three-year contract extension",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4100000,
+          "total_value_usd": 12300000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**TAMPA BAY** \u2013 The Tampa Bay Lightning have signed defenseman Ryan McDonagh to a three-year contract extension worth an average annual value of $4.1 million, Vice President and General Manager Julien BriseBois announced today. McDonagh, 36, has skated in 364 career games with Tampa Bay, recording 27 goals and 136 poin"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-05-21",
+        "headline": "McDonagh traded back to Lightning by Predators for two selections in NHL Draft\u00a0 \u00a0\u00a0",
+        "url": "https://www.nhl.com/news/ryan-mcdonagh-traded-to-tampa-bay-lightning-from-nashville-predators"
+      }
+    },
+    {
+      "player": {
+        "id": 8482655,
+        "name": "J.J. Moser",
+        "first": "J.J.",
+        "last": "Moser",
+        "pos": "D",
+        "sweater": 90
+      },
+      "birth_date": "2000-06-06",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tampa-bay-lightning-sign-jj-moser-to-eight-year-contract",
+        "date": "2025-12-28",
+        "headline": "Moser signs 8-year, $54 million contract with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6750000,
+          "total_value_usd": 54000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "J.J. Moser signed an eight-year, $54 million contract with the Tampa Bay Lightning on Saturday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Sergachev traded to Utah Hockey Club by Lightning",
+        "url": "https://www.nhl.com/news/mikhail-sergachev-traded-to-utah-from-tampa-bay-lightning"
+      }
+    },
+    {
+      "player": {
+        "id": 8483710,
+        "name": "Dennis Hildeby",
+        "first": "Dennis",
+        "last": "Hildeby",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "2001-08-19",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-goaltender-dennis-hildeby",
+        "date": "2025-09-02",
+        "headline": "Maple Leafs Sign Goaltender Dennis Hildeby",
+        "signing_team": "TOR",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Toronto Maple Leafs announced today that the hockey club has signed goaltender Dennis Hildeby to a three-year contract extension. The deal is a two-way contract for the 2025-26 and 2026-27 seasons, followed by a one-way contract in 2027-28, carrying an average annual value of $841,667."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Lightning acquire goaltender Dennis Hildeby, draft picks from Toronto",
+        "url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-acquire-goaltender-dennis-hildeby-draft-picks-from-toronto-maple-leafs"
+      }
+    },
+    {
+      "player": {
+        "id": 8476883,
+        "name": "Andrei Vasilevskiy",
+        "first": "Andrei",
+        "last": "Vasilevskiy",
+        "pos": "G",
+        "sweater": 88
+      },
+      "birth_date": "1994-07-25",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/andrei-vasilevskiy-signs-eight-year-extension-with-tampa-bay-308378128",
+        "date": "2019-07-29",
+        "headline": "Vasilevskiy signs eight-year extension with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2020-21",
+        "end_season": "2027-28",
+        "start_yr": 2020,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2020-21",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**BRANDON, Fla. --**Andrei Vasilevskiy signed an eight-year, $76 million contract extension with the Tampa Bay Lightning on Monday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

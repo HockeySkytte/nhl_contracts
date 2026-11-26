@@ -1,0 +1,848 @@
+{
+  "team": "WPG",
+  "team_name": "Winnipeg Jets",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8480289,
+        "name": "Morgan Barron",
+        "first": "Morgan",
+        "last": "Barron",
+        "pos": "C",
+        "sweater": 36
+      },
+      "birth_date": "1998-12-02",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/justin-barron-signs-one-year-contract-with-nashville-predators",
+        "date": "2026-07-06",
+        "headline": "Barron signs 1-year, $1.575 million contact with Predators",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1575000,
+          "total_value_usd": 1575000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Justin Barron signed a one-year, $1.575 million contract with the Nashville Predators on Monday. The 24-year-old defenseman was a restricted free agent."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8486025,
+        "name": "Viggo Bj\u00f6rck",
+        "first": "Viggo",
+        "last": "Bj\u00f6rck",
+        "pos": "C",
+        "sweater": 61
+      },
+      "birth_date": "2008-03-12",
+      "draft_team": "WPG",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478398,
+        "name": "Kyle Connor",
+        "first": "Kyle",
+        "last": "Connor",
+        "pos": "L",
+        "sweater": 81
+      },
+      "birth_date": "1996-12-09",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kyle-connor-signs-eight-year-contract-with-winnipeg-jets",
+        "date": "2025-10-08",
+        "headline": "Connor signs 8-year, $96 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7140000,
+          "total_value_usd": 96000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Kyle Connor signed an eight-year, $96 million contract with the Winnipeg Jets on Wednesday. The contract begins next season and has an average annual value of $12 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2019-09-04",
+        "headline": "Laine, Connor could miss camp, but Jets claim it won't be distraction",
+        "url": "https://www.nhl.com/news/winnipeg-jets-patrik-laine-kyle-connor-could-miss-camp-308890872"
+      }
+    },
+    {
+      "player": {
+        "id": 8480113,
+        "name": "Alex Iafallo",
+        "first": "Alex",
+        "last": "Iafallo",
+        "pos": "L",
+        "sweater": 9
+      },
+      "birth_date": "1993-12-21",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/alex-iafallo-signs-3-year-deal-with-winnipeg",
+        "date": "2025-04-17",
+        "headline": "Iafallo signs 3-year, $11 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3670000,
+          "total_value_usd": 11000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Alex Iafallo signed a three-year, $11 million contract with the Winnipeg Jets on Wednesday. It has an average annual value of $3.67 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-07-04",
+        "headline": "Dubois traded to Kings by Jets, gets 8-year, $68 million contract",
+        "url": "https://www.nhl.com/news/los-angeles-acquires-pierre-luc-dubois-from-winnipeg-agrees-to-8-year--345049420"
+      }
+    },
+    {
+      "player": {
+        "id": 8481043,
+        "name": "Cole Koepke",
+        "first": "Cole",
+        "last": "Koepke",
+        "pos": "L",
+        "sweater": 45
+      },
+      "birth_date": "1998-05-17",
+      "draft_team": "TBL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476392,
+        "name": "Adam Lowry",
+        "first": "Adam",
+        "last": "Lowry",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1993-03-29",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/adam-lowry-signs-five-year-contract-with-winnipeg-jets",
+        "date": "2025-11-20",
+        "headline": "Lowry signs 5-year, $25 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5000000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Adam Lowry signed a five-year, $25 million contract ($5 million average annual value) with the Winnipeg Jets on Wednesday. Lowry is in the final season of a five-year, $16.25 million contract he signed with the Jets on April 16, 2021, and could have become an unrestricted free agent after the season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482110,
+        "name": "Dawson Mercer",
+        "first": "Dawson",
+        "last": "Mercer",
+        "pos": "C",
+        "sweater": 19
+      },
+      "birth_date": "2001-10-27",
+      "draft_team": "NJD",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-23",
+        "headline": "Jets GM Cheveldayoff 'comfortable' with Hellebuyck trade to Devils",
+        "url": "https://www.nhl.com/news/winnipeg-jets-gm-comfortable-with-connor-hellebuyck-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8476480,
+        "name": "Vladislav Namestnikov",
+        "first": "Vladislav",
+        "last": "Namestnikov",
+        "pos": "C",
+        "sweater": 7
+      },
+      "birth_date": "1992-11-22",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/vladislav-namestnikov-signs-2-year-contract-with-winnipeg-jets",
+        "date": "2025-02-22",
+        "headline": "Namestnikov signs 2-year, $6 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3000000,
+          "total_value_usd": 6000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Vladislav Namestnikov signed a two-year, $6 million contract with the Winnipeg Jets on Saturday. It begins next season and has an average annual value of $3 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-03-04",
+        "headline": "Namestnikov traded to Jets by Sharks",
+        "url": "https://www.nhl.com/news/vladislav-namestnikov-traded-to-winnipeg-jets-by-san-jose-sharks-341786808"
+      }
+    },
+    {
+      "player": {
+        "id": 8475799,
+        "name": "Nino Niederreiter",
+        "first": "Nino",
+        "last": "Niederreiter",
+        "pos": "R",
+        "sweater": 62
+      },
+      "birth_date": "1992-09-08",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nino-niederreiter-signs-three-year-contract-with-winnipeg-jets",
+        "date": "2023-12-05",
+        "headline": "Niederreiter signs 3-year, $12 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nino Niederreiter signed a three-year, $12 million contract with the Winnipeg Jets on Monday. It has an average annual value of $4 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-02-25",
+        "headline": "Niederreiter traded to Jets by Predators",
+        "url": "https://www.nhl.com/news/nino-niederreiter-traded-to-jets-by-predators-341505846"
+      }
+    },
+    {
+      "player": {
+        "id": 8482149,
+        "name": "Cole Perfetti",
+        "first": "Cole",
+        "last": "Perfetti",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "2002-01-01",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cole-perfetti-signs-5-year-deal-with-winnipeg-jets",
+        "date": "2026-07-15",
+        "headline": "Perfetti signs 5-year, $30 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 6000000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Cole Perfetti signed a five-year, $30 million contract with the Winnipeg Jets on Wednesday, avoiding an arbitration hearing. The 24-year-old forward, who was a restricted free agent, had 32 points (12 goals, 20 assists) in 68 games for the Jets last season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482765,
+        "name": "Isak Rosen",
+        "first": "Isak",
+        "last": "Rosen",
+        "pos": "R",
+        "sweater": 27
+      },
+      "birth_date": "2003-03-15",
+      "draft_team": "BUF",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Stanley, Schenn traded to Sabres by Jets",
+        "url": "https://www.nhl.com/news/defensemen-logan-stanley-luke-schenn-traded-to-sabres-by-jets"
+      }
+    },
+    {
+      "player": {
+        "id": 8476460,
+        "name": "Mark Scheifele",
+        "first": "Mark",
+        "last": "Scheifele",
+        "pos": "C",
+        "sweater": 55
+      },
+      "birth_date": "1993-03-15",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg",
+        "date": "2023-10-09",
+        "headline": "Scheifele, Hellebuyck each signs 7-year, $59.5 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2023-24",
+        "end_season": "2029-30",
+        "start_yr": 2023,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 8500000,
+          "total_value_usd": 59500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mark Scheifele and Connor Hellebuyck each signed a seven-year, $59.5 million contract with the Winnipeg Jets on Monday. The contracts, which will begin next season, have an average annual value of $8.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480014,
+        "name": "Gabriel Vilardi",
+        "first": "Gabriel",
+        "last": "Vilardi",
+        "pos": "C",
+        "sweater": 13
+      },
+      "birth_date": "1999-08-16",
+      "draft_team": "LAK",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-07-04",
+        "headline": "Dubois traded to Kings by Jets, gets 8-year, $68 million contract",
+        "url": "https://www.nhl.com/news/los-angeles-acquires-pierre-luc-dubois-from-winnipeg-agrees-to-8-year--345049420"
+      }
+    },
+    {
+      "player": {
+        "id": 8484242,
+        "name": "Brayden Yager",
+        "first": "Brayden",
+        "last": "Yager",
+        "pos": "C",
+        "sweater": 29
+      },
+      "birth_date": "2005-01-03",
+      "draft_team": "PIT",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-09-15",
+        "headline": "Yager hoping to join Morrissey on Jets roster after trade from Penguins",
+        "url": "https://www.nhl.com/news/brayden-yager-hoping-to-join-josh-morrissey-on-winnipeg-jets-roster"
+      }
+    },
+    {
+      "player": {
+        "id": 8482459,
+        "name": "Tyrel Bauer",
+        "first": "Tyrel",
+        "last": "Bauer",
+        "pos": "D",
+        "sweater": 77
+      },
+      "birth_date": "2002-03-23",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/jets/news/jets-sign-defenceman-tyrel-bauer-to-a-two-year-contract",
+        "date": "2026-08-10",
+        "headline": "Jets sign defenceman Tyrel Bauer to a two-year contract",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "NNIPEG, Aug. 10, 2026** \u2013 The Winnipeg Jets Hockey Club announced today they have agreed to terms with defenceman Tyrel Bauer on a two-year contract with an average annual value in the NHL of $875,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476331,
+        "name": "Dylan DeMelo",
+        "first": "Dylan",
+        "last": "DeMelo",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "1993-05-01",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dylan-demelo-signs-4-year-deal-with-winnipeg-jets",
+        "date": "2024-06-25",
+        "headline": "DeMelo signs 4-year, $19.6 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4900000,
+          "total_value_usd": 19600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Dylan DeMelo signed a four-year, $19.6 million contract with the Winnipeg Jets on Tuesday. It has an average annual value of $4.9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2020-02-19",
+        "headline": "DeMelo acquired by Jets in trade with Senators",
+        "url": "https://www.nhl.com/news/dylan-demelo-traded-to-winnipeg-from-ottawa-315220492"
+      }
+    },
+    {
+      "player": {
+        "id": 8479983,
+        "name": "Mario Ferraro",
+        "first": "Mario",
+        "last": "Ferraro",
+        "pos": "D",
+        "sweater": 38
+      },
+      "birth_date": "1998-09-17",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/jets/news/jets-sign-defenceman-mario-ferraro-to-a-three-year-contract",
+        "date": "2026-07-02",
+        "headline": "Jets sign defenceman Mario Ferraro to a three-year contract",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "WINNIPEG, July 1, 2026** \u2013 The Winnipeg Jets Hockey Club announced today the team agreed to terms with defenceman Mario Ferraro on a three-year contract with an average annual value of $4,000,000. Ferraro, 27, recorded 23 points (7G, 16A) and 35 penalty minutes while playing in all 82 games for the San Jose Sharks in 2"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477938,
+        "name": "Haydn Fleury",
+        "first": "Haydn",
+        "last": "Fleury",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "1996-07-08",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/haydn-fleury-signs-2-year-contract-with-winnipeg-jets",
+        "date": "2025-06-28",
+        "headline": "Fleury signs 2-year, $1.9 million contract to remain with Jets",
+        "signing_team": "WPG",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 950000,
+          "total_value_usd": 1900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Haydn Fleury signed a two-year, $1.9 million contract to remain with the Winnipeg Jets on Saturday. It has an average annual value of $950,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477504,
+        "name": "Josh Morrissey",
+        "first": "Josh",
+        "last": "Morrissey",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1995-03-28",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jets-sign-josh-morrissey-to-an-eight-year-contract-extension-309080438",
+        "date": "2019-09-12",
+        "headline": "Jets sign Josh Morrissey to an eight-year contract extension",
+        "signing_team": "WPG",
+        "start_season": "2020-21",
+        "end_season": "2027-28",
+        "start_yr": 2020,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6250000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**WINNIPEG**, Sept. 12, 2019**-**The Winnipeg Jets announced today they have agreed to terms with defenceman Josh Morrissey on an eight-year contract with an average annual value of $6,250,000."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-09-14",
+        "headline": "Morrissey says he loves \u2018being a Jet,\u2019 discusses Hellebuyck trade request",
+        "url": "https://www.nhl.com/news/josh-morrissey-loves-being-winnipeg-jet-discusses-connor-hellebuyck-trade-request"
+      }
+    },
+    {
+      "player": {
+        "id": 8480145,
+        "name": "Neal Pionk",
+        "first": "Neal",
+        "last": "Pionk",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1995-07-29",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/neal-pionk-signs-6-year-contract-with-winnipeg-jets",
+        "date": "2025-04-17",
+        "headline": "Pionk signs 6-year, $42 million contract with Jets",
+        "signing_team": "WPG",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 7000000,
+          "total_value_usd": 42000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Neal Pionk signed a six-year, $42 million contract with the Winnipeg Jets on Thursday. It has an average annual value of $7 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2019-06-18",
+        "headline": "Trouba traded to Rangers by Jets for Pionk, first-round pick",
+        "url": "https://www.nhl.com/news/jacob-trouba-traded-to-rangers-by-jets-307887710"
+      }
+    },
+    {
+      "player": {
+        "id": 8483510,
+        "name": "Elias Salomonsson",
+        "first": "Elias",
+        "last": "Salomonsson",
+        "pos": "D",
+        "sweater": 57
+      },
+      "birth_date": "2004-08-31",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jets-sign-defenceman-elias-salomonsson-to-a-three-year-elc-335006918",
+        "date": "2022-07-15",
+        "headline": "Jets sign defenceman Elias Salomonsson to a three-year ELC",
+        "signing_team": "WPG",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "nnipeg Jets announced today they have agreed to terms with their 2022 second-round pick (55th overall) defenceman Elias Salomonsson on a three-year, entry-level contract with an average annual value in the NHL of $950,000. Salomonsson, 17, collected 22 points (11G, 11A) in 35 games with Skelleftea AIK J20 last season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480049,
+        "name": "Dylan Samberg",
+        "first": "Dylan",
+        "last": "Samberg",
+        "pos": "D",
+        "sweater": 54
+      },
+      "birth_date": "1999-01-24",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dylan-samberg-avoids-arbitration-signs-3-year-contract-with-winnipeg-jets",
+        "date": "2025-07-31",
+        "headline": "Samberg signs 3-year, $17.25 million contract with Jets, avoids arbitration",
+        "signing_team": "WPG",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5750000,
+          "total_value_usd": 17250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dylan Samberg signed a three-year, $17.25 million contract with the Winnipeg Jets on Wednesday. It has an average annual value of $5.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481567,
+        "name": "Henry Thrun",
+        "first": "Henry",
+        "last": "Thrun",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "2001-03-12",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/jets/news/jets-sign-defenceman-henry-thrun-to-a-one-year-contract",
+        "date": "2026-07-02",
+        "headline": "Jets sign defenceman Henry Thrun to a one-year contract",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "WINNIPEG**, July 2, 2026 \u2013 The Winnipeg Jets Hockey Club announced today the team agreed to terms with defenceman Henry Thrun on a one-year, two-way contract with an average annual value in the NHL of $850,000. Thrun, 25, played four games for the Toronto Maple Leafs in 2025-26, but spent most of the season helping the"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482076,
+        "name": "Nico Daws",
+        "first": "Nico",
+        "last": "Daws",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "2000-12-22",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/daws-re-sign-release-7-1-26",
+        "date": "2026-07-01",
+        "headline": "Daws Signs 2-Year Deal | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1100000,
+          "total_value_usd": 2200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The New Jersey Devils announced today that the team re-signed goaltender Nico Daws to a two-year contract with an average annual value of $1,100,000. The contract details are as follows: 2026-27: $975,000 & 2027-28: $1,225,000."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-23",
+        "headline": "Jets GM Cheveldayoff 'comfortable' with Hellebuyck trade to Devils",
+        "url": "https://www.nhl.com/news/winnipeg-jets-gm-comfortable-with-connor-hellebuyck-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8479973,
+        "name": "Stuart Skinner",
+        "first": "Stuart",
+        "last": "Skinner",
+        "pos": "G",
+        "sweater": 74
+      },
+      "birth_date": "1998-11-01",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/hellebuyck-status-didn-t-spark-stuart-skinner-signing-by-winnipeg-jets",
+        "date": "2026-07-03",
+        "headline": "Hellebuyck\u2019s unclear future not reason Jets signed Skinner, GM says",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3750000,
+          "total_value_usd": 7500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Connor Hellebuyck\u2019s cloudy future with the Winnipeg Jets was not the reason the team [signed free-agent goalie Stuart Skinner to a two-year, $7.5 million contract on Wednesday](https://www.nhl.com/news/topic/free-agency/stuart-skinner-signs-two-year-contract-with-winnipeg-jets), general manager Kevin Cheveldayoff said "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

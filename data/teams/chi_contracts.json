@@ -1,0 +1,2401 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "CHI",
+  "team_name": "Chicago Blackhawks",
+  "generated_at_utc": "2026-11-26T22:49:25Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/CHI/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 88199158,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 88199158
+  },
+  "contracts": [
+    {
+      "player_id": 8484144,
+      "player_name": "Connor Bedard",
+      "position": "C",
+      "sweater_number": 98,
+      "birth_date": "2005-07-17",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-07-20",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (projected 8 accrued NHL seasons)",
+      "term_years": 5,
+      "aav_usd": 15000000,
+      "total_value_usd": 75000000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/connor-bedard-signs-five-year-contract-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 17000000,
+      "current_season_base_salary_usd": 7200000,
+      "current_season_signing_bonus_usd": 9800000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 15000000,
+          "total_salary_usd": 17000000,
+          "base_salary_usd": 7200000,
+          "signing_bonus_usd": 9800000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477479,
+      "player_name": "Tyler Bertuzzi",
+      "position": "L",
+      "sweater_number": 59,
+      "birth_date": "1995-02-24",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 5500000,
+      "total_value_usd": 22000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/teuvo-teravainen-signs-3-year-contract-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 3800000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "DET",
+          "aav_usd": 656875,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2015-16": {
+          "team": "DET",
+          "aav_usd": 656875,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "DET",
+          "aav_usd": 656875,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 656875,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1150000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 4725000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477987,
+      "player_name": "Ryan Donato",
+      "position": "C",
+      "sweater_number": 8,
+      "birth_date": "1996-04-09",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-06-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4000000,
+      "total_value_usd": 16000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ryan-donato-signs-4-year-contract-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "BOS",
+          "aav_usd": 900000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 782500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1650000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 1900000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485391,
+      "player_name": "Anton Frondell",
+      "position": "C",
+      "sweater_number": 16,
+      "birth_date": "2007-05-07",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-07-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 982500,
+      "total_value_usd": 2947500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-anton-frondell-to-three-year-entry-level-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8476822,
+      "player_name": "Luke Glendening",
+      "position": "C",
+      "sweater_number": 23,
+      "birth_date": "1989-04-28",
+      "current_team": "CHI",
+      "signing_team": "NYR",
+      "signed_date": "2026-10-22",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/luke-glendening-signs-one-year-deal-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-claim-forward-luke-glendening-off-waivers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "DET",
+          "aav_usd": 575000,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 25000,
+          "minor_league_salary_usd": 60000
+        },
+        "2014-15": {
+          "team": "DET",
+          "aav_usd": 628333,
+          "total_salary_usd": 610000,
+          "base_salary_usd": 580000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "DET",
+          "aav_usd": 628333,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "DET",
+          "aav_usd": 628333,
+          "total_salary_usd": 675000,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TBL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PHI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483450,
+      "player_name": "Ryan Greene",
+      "position": "C",
+      "sweater_number": 20,
+      "birth_date": "2003-10-21",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-04-13",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "total_value_usd": 2850000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ryan-greene-to-entry-level-deal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478413,
+      "player_name": "Jordan Greenway",
+      "position": "L",
+      "sweater_number": 12,
+      "birth_date": "1997-02-16",
+      "current_team": "CHI",
+      "signing_team": "BUF",
+      "signed_date": "2025-03-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 4000000,
+      "total_value_usd": 8000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jordan-greenway-signs-two-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-acquire-bowen-byram-and-jordan-greenway-in-trade-with-buffalo"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474141,
+      "player_name": "Patrick Kane",
+      "position": "R",
+      "sweater_number": 88,
+      "birth_date": "1988-11-19",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-07-23",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 8000000,
+      "total_value_usd": 16000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-forward-patrick-kane-on-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-patrick-kane-to-rangers-in-three-team-deal-341615496"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 8000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "CHI",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "CHI",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "CHI",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "CHI",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "CHI",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 13800000,
+          "base_salary_usd": 6800000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 13800000,
+          "base_salary_usd": 7800000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 13800000,
+          "base_salary_usd": 7800000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 9800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 6900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 10500000,
+          "total_salary_usd": 6900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 8000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484390,
+      "player_name": "Roman Kantserov",
+      "position": "R",
+      "sweater_number": 80,
+      "birth_date": "2004-09-20",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-05-14",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "total_value_usd": 3225000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-roman-kantserov-on-three-year-entry-level-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478233,
+      "player_name": "Andrew Mangiapane",
+      "position": "L",
+      "sweater_number": 26,
+      "birth_date": "1996-04-04",
+      "current_team": "CHI",
+      "signing_team": "EDM",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 3600000,
+      "total_value_usd": 7200000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/andrew-mangiapane-signs-2-year-contract-with-edmonton-oilers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/chicago-blackhawks-trade-jason-dickinson-colton-dach-to-edmonton-oilers-for-andrew-mangiapane"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3600000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 2600000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 705000,
+          "total_salary_usd": 655000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 705000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 705000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 715000,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 715000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 2425000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 2425000,
+          "total_salary_usd": 2450000,
+          "base_salary_usd": 2450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 5800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 5800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2600000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2600000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484197,
+      "player_name": "Oliver Moore",
+      "position": "C",
+      "sweater_number": 11,
+      "birth_date": "2005-01-22",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-03-29",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 941667,
+      "total_value_usd": 2825001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-moore-and-rinzel-to-entry-level-deals",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 5,
+        "aav_usd": 4250000,
+        "total_value_usd": 21250000,
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "signed_date": "2026-09-24",
+        "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-oliver-moore-to-five-year-contract-extension"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8483493,
+      "player_name": "Frank Nazar",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "2004-01-14",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-08-22",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 6599991,
+      "total_value_usd": 46199937,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/frank-nazar-signs-7-year-contract-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9100000,
+      "current_season_base_salary_usd": 9100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 6599991,
+          "total_salary_usd": 9100000,
+          "base_salary_usd": 9100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482062,
+      "player_name": "Cole Smith",
+      "position": "R",
+      "sweater_number": 22,
+      "birth_date": "1995-10-28",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 3000000,
+      "total_value_usd": 9000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/copy-of-release-xx",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3800000,
+      "current_season_base_salary_usd": 3800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 792500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476882,
+      "player_name": "Teuvo Teravainen",
+      "position": "C",
+      "sweater_number": 86,
+      "birth_date": "1994-09-11",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 5400000,
+      "total_value_usd": 16200000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-teuvo-teravainen-to-two-year-deal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 3200000,
+      "current_season_signing_bonus_usd": 1300000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "CHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 2860000,
+          "total_salary_usd": 2860000,
+          "base_salary_usd": 2860000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 2860000,
+          "total_salary_usd": 2860000,
+          "base_salary_usd": 2860000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 5400000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 5400000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5875000,
+          "base_salary_usd": 5875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 5400000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5875000,
+          "base_salary_usd": 5875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 5400000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 4200000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 5400000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 1300000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476952,
+      "player_name": "Dominic Toninato",
+      "position": "C",
+      "sweater_number": 25,
+      "birth_date": "1994-03-09",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 850000,
+      "total_value_usd": 1700000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-dominic-toninato-to-two-year-two-way-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 500000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        }
+      }
+    },
+    {
+      "player_id": 8481524,
+      "player_name": "Bowen Byram",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "2001-06-13",
+      "current_team": "CHI",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-15",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 6250000,
+      "total_value_usd": 12500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/bowen-byram-signs-two-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 6,
+        "aav_usd": 12500000,
+        "total_value_usd": 75000000,
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "signed_date": "2026-07-01",
+        "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-bowen-byram-to-six-year-contract-extension"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/feature-bowen-byram-eager-to-call-chicago-home-after-blockbuster-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 6250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3080000,
+          "base_salary_usd": 3080000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 3850000,
+          "total_salary_usd": 4620000,
+          "base_salary_usd": 4620000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474013,
+      "player_name": "Ian Cole",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "1989-02-21",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 4000000,
+      "total_value_usd": 4000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ian-cole-to-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "STL",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "STL",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "STL",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "STL",
+          "aav_usd": 825000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 825000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 4250000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 4250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "UTA",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482807,
+      "player_name": "Ethan Del Mastro",
+      "position": "D",
+      "sweater_number": 38,
+      "birth_date": "2003-01-15",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-09-16",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (20 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 950000,
+      "total_value_usd": 1900000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ethan-del-mastro-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 852500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 852500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 852500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 852500,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482176,
+      "player_name": "Wyatt Kaiser",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "2002-07-31",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-09-18",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1700000,
+      "total_value_usd": 3400000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/wyatt-kaiser-signs-2-year-contract-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1700000,
+      "current_season_base_salary_usd": 1700000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483466,
+      "player_name": "Kevin Korchinski",
+      "position": "D",
+      "sweater_number": 14,
+      "birth_date": "2004-06-21",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-08-29",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1325000,
+      "total_value_usd": 2650000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-kevin-korchinski-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 926250,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 1325000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484783,
+      "player_name": "Artyom Levshunov",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "2005-10-28",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2024-07-06",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 975000,
+      "total_value_usd": 2925000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-artyom-levshunov-to-entry-level-deal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8483506,
+      "player_name": "Sam Rinzel",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "2004-06-25",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-03-29",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 941667,
+      "total_value_usd": 2825001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-moore-and-rinzel-to-entry-level-deals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8481568,
+      "player_name": "Alex Vlasic",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "2001-06-05",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2024-04-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 4600000,
+      "total_value_usd": 27600000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-alex-vlasic-to-six-year-contract-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4300000,
+      "current_season_base_salary_usd": 4300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 4500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4300000,
+          "base_salary_usd": 4300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482123,
+      "player_name": "Drew Commesso",
+      "position": "G",
+      "sweater_number": 33,
+      "birth_date": "2002-07-19",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2026-07-06",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 28 career NHL GP (22 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-goaltender-drew-commesso-on-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 200000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        }
+      }
+    },
+    {
+      "player_id": 8481519,
+      "player_name": "Spencer Knight",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "2001-04-19",
+      "current_team": "CHI",
+      "signing_team": "CHI",
+      "signed_date": "2025-09-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 5833333,
+      "total_value_usd": 17499999,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/spencer-knight-signs-3-year-contract-extension-with-chicago-blackhawks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/spencer-knight-begins-new-chapter-in-chicago-after-trade-from-florida"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7250000,
+      "current_season_base_salary_usd": 7250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/chicago-blackhawks",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CHI",
+          "aav_usd": 5833333,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

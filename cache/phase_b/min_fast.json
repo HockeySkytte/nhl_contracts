@@ -1,0 +1,939 @@
+{
+  "team": "MIN",
+  "team_name": "Minnesota Wild",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8481557,
+        "name": "Matt Boldy",
+        "first": "Matt",
+        "last": "Boldy",
+        "pos": "L",
+        "sweater": 12
+      },
+      "birth_date": "2001-04-05",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matt-boldy-signs-seven-year-contract-with-minnesota-wild-340005824",
+        "date": "2023-01-16",
+        "headline": "Boldy signs 7-year, $49 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2023-24",
+        "end_season": "2029-30",
+        "start_yr": 2023,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7000000,
+          "total_value_usd": 49000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2029-30",
+          "status_hint": "ELC",
+          "quote": "Matt Boldy signed a seven-year, $49 million contract with the Minnesota Wild on Monday. It has an average annual value of $7 million and runs through the 2029-30 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481553,
+        "name": "Bobby Brink",
+        "first": "Bobby",
+        "last": "Brink",
+        "pos": "R",
+        "sweater": 10
+      },
+      "birth_date": "2001-07-08",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-bobby-brink-063026",
+        "date": "2026-06-30",
+        "headline": "Minnesota Wild Signs Forward Bobby Brink",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2750000,
+          "total_value_usd": 2750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ations and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed forward **Bobby Brink** to a one-year, $2,750,000 contract. Brink, 24 (7/8/2001), recorded 30 points (15-15=30), three power-play goals (PPG) and 104 shots on goal in 68 games last season with Philadelphia and Minnes"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Minnesota Wild Acquires Forward Bobby Brink From the Philadelphia Flyers",
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-acquires-forward-bobby-brink-from-the-philadelphia-flyers-030626"
+      }
+    },
+    {
+      "player": {
+        "id": 8476399,
+        "name": "Blake Coleman",
+        "first": "Blake",
+        "last": "Coleman",
+        "pos": "L",
+        "sweater": 20
+      },
+      "birth_date": "1991-11-28",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/blake-coleman-signing-update-news-status-325807570",
+        "date": "2021-07-28",
+        "headline": "Coleman signs six-year, $29.4 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4900000,
+          "total_value_usd": 29400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Blake Coleman signed a six-year, $29.4 million contract with the Calgary Flames on Wednesday. It has an average annual value of $4.9 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-03",
+        "headline": "Coleman, Maatta traded to Wild by Flames for Middleton, draft picks",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      }
+    },
+    {
+      "player": {
+        "id": 8478493,
+        "name": "Joel Eriksson Ek",
+        "first": "Joel",
+        "last": "Eriksson Ek",
+        "pos": "C",
+        "sweater": 14
+      },
+      "birth_date": "1997-01-29",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/minnesota-wild-joel-eriksson-ek-signs-eight-year-deal-325553050",
+        "date": "2021-07-03",
+        "headline": "Eriksson Ek signs eight-year, $42 million contract to remain with Wild",
+        "signing_team": "MIN",
+        "start_season": "2021-22",
+        "end_season": "2028-29",
+        "start_yr": 2021,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5250000,
+          "total_value_usd": 42000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Joel Eriksson Ek signed an eight-year, $42 million contract with the Minnesota Wild on Friday to avoid becoming a restricted free agent. It has an average annual value of $5.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475220,
+        "name": "Marcus Foligno",
+        "first": "Marcus",
+        "last": "Foligno",
+        "pos": "L",
+        "sweater": 17
+      },
+      "birth_date": "1991-08-10",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nick-foligno-signs-one-year-contract-with-minnesota-wild",
+        "date": "2026-07-02",
+        "headline": "Nick Foligno signs 1-year, $900,000 contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 900000,
+          "total_value_usd": 900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nick Foligno signed a one-year, $900,000 contract with the Minnesota Wild on Thursday. The 38-year-old forward had 15 points (four goals, 11 assists) in 54 regular-season games for the Minnesota Wild and Chicago Blackhawks last season, including four points (one goal, three assists) in 17 games with Minnesota after he "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "RELEASE: Blackhawks Trade Nick Foligno to Minnesota Wild",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-nick-foligno-to-minnesota-wild"
+      }
+    },
+    {
+      "player": {
+        "id": 8473422,
+        "name": "Nick Foligno",
+        "first": "Nick",
+        "last": "Foligno",
+        "pos": "L",
+        "sweater": 71
+      },
+      "birth_date": "1987-10-31",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nick-foligno-signs-one-year-contract-with-minnesota-wild",
+        "date": "2026-07-02",
+        "headline": "Nick Foligno signs 1-year, $900,000 contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 900000,
+          "total_value_usd": 900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nick Foligno signed a one-year, $900,000 contract with the Minnesota Wild on Thursday. The 38-year-old forward had 15 points (four goals, 11 assists) in 54 regular-season games for the Minnesota Wild and Chicago Blackhawks last season, including four points (one goal, three assists) in 17 games with Minnesota after he "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "RELEASE: Blackhawks Trade Nick Foligno to Minnesota Wild",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-nick-foligno-to-minnesota-wild"
+      }
+    },
+    {
+      "player": {
+        "id": 8477451,
+        "name": "Ryan Hartman",
+        "first": "Ryan",
+        "last": "Hartman",
+        "pos": "R",
+        "sweater": 38
+      },
+      "birth_date": "1994-09-20",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-ryan-hartman-to-contract-extension-100723",
+        "date": "2023-10-07",
+        "headline": "Minnesota Wild Signs Ryan Hartman to Contract Extension",
+        "signing_team": "MIN",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "Operations and General Manager Bill Guerin today announced the National Hockey League club has signed right wing **Ryan Hartman** to a three-year, $12,000,000 contract extension ($4,000,000 average annual value) that goes through the 2026-27 season. Hartman, 29, recorded 37 points (15-22=37), 90 penalty minutes (PIM), "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478864,
+        "name": "Kirill Kaprizov",
+        "first": "Kirill",
+        "last": "Kaprizov",
+        "pos": "L",
+        "sweater": 97
+      },
+      "birth_date": "1997-04-26",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kirill-kaprizov-signs-eight-year-136-million-contract-with-minnesota-wild",
+        "date": "2025-09-30",
+        "headline": "Kaprizov signs 8-year, $136 million contract to stay with Wild",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 17000000,
+          "total_value_usd": 136000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**ST. PAUL, Minn."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-01",
+        "headline": "Wild \u2018not concerned\u2019 about re-signing Rossi, prepared to match offer sheet\u00a0",
+        "url": "https://www.nhl.com/news/minnesota-wild-confident-about-resigning-marco-rossi-kirill-kaprizov"
+      }
+    },
+    {
+      "player": {
+        "id": 8477446,
+        "name": "Michael McCarron",
+        "first": "Michael",
+        "last": "McCarron",
+        "pos": "C",
+        "sweater": 47
+      },
+      "birth_date": "1995-03-07",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-michael-mccarron-060926",
+        "date": "2026-06-09",
+        "headline": "Minnesota Wild Signs Forward Michael McCarron to Six-year Contract",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 3330000,
+          "total_value_usd": 20000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2031-32",
+          "status_hint": null,
+          "quote": "ions and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed forward **Michael McCarron** to a six-year, $20 million contract ($3.33 million average annual value) that begins in the 2026-27 season and goes through the 2031-32 season. McCarron, 31 (3/7/1995), skated in 20 regular"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-04",
+        "headline": "Predators Acquire Second-Round Pick in 2028 NHL Draft From Minnesota",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-second-round-pick-in-2028-nhl-draft-from-minnesota-2026-03-03"
+      }
+    },
+    {
+      "player": {
+        "id": 8485702,
+        "name": "Maxim Shabanov",
+        "first": "Maxim",
+        "last": "Shabanov",
+        "pos": "R",
+        "sweater": 49
+      },
+      "birth_date": "2000-10-07",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-maxim-shabanov-to-one-year-contract-070226",
+        "date": "2026-07-02",
+        "headline": "Minnesota Wild Signs Forward Maxim Shabanov to One-Year Contract",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1600000,
+          "total_value_usd": 1600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ations and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed forward **Maxim Shabanov** (MAK-sim, SHAB-Uh-nawv) to a one-year, $1,600,000 contract for the 2026-27 season. Shabanov, 25 (10/7/00), collected 18 points (5-13=18), two penalty minutes (PIM) and 56 shots on goal in 4"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481477,
+        "name": "Nico Sturm",
+        "first": "Nico",
+        "last": "Sturm",
+        "pos": "C",
+        "sweater": 78
+      },
+      "birth_date": "1995-05-03",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nico-sturm-signs-two-year-contract-with-minnesota-wild",
+        "date": "2025-07-01",
+        "headline": "Sturm signs 2-year, $4 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2000000,
+          "total_value_usd": 4000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nico Sturm signed a two-year, $4 million contract with the Minnesota Wild on Tuesday. It has an average annual value of $2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-16",
+        "headline": "Jost traded to Wild by Avalanche",
+        "url": "https://www.nhl.com/news/tyson-jost-traded-to-colorado-for-minnesota-s-nico-sturm-331853230"
+      }
+    },
+    {
+      "player": {
+        "id": 8478508,
+        "name": "Yakov Trenin",
+        "first": "Yakov",
+        "last": "Trenin",
+        "pos": "C",
+        "sweater": 13
+      },
+      "birth_date": "1997-01-13",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-center-yakov-trenin-to-a-four-year-contract-070124",
+        "date": "2024-07-01",
+        "headline": "Minnesota Wild Signs Center Yakov Trenin to a Four-Year Contract",
+        "signing_team": "MIN",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3500000,
+          "total_value_usd": 14000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "resident of Hockey Operations Bill Guerin today announced the National Hockey League (NHL) club has signed center Yakov Trenin (YA-kawv TREH-nihn) to a four-year, $14 million contract ($3.5 million AAV) through the 2027-28 season. Trenin, 27 (1-13-97), registered 17 points (12-5=17), 40 penalty minutes (PIM), 116 shots"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483525,
+        "name": "Danila Yurov",
+        "first": "Danila",
+        "last": "Yurov",
+        "pos": "R",
+        "sweater": 22
+      },
+      "birth_date": "2003-12-22",
+      "draft_team": "MIN",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474567,
+        "name": "Zach Bogosian",
+        "first": "Zach",
+        "last": "Bogosian",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "1990-07-15",
+      "draft_team": "ATL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/calvin-pickard-signs-1-year-contract-with-minnesota-wild",
+        "date": "2026-07-01",
+        "headline": "Pickard, Bogosian each sign 1-year, $1 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1250000,
+          "total_value_usd": 1250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "2 GAA and .892 save percentage in 13 Stanley Cup Playoff games (nine starts) with the Oilers. The Wild also signed Zach Bogosian to a one-year, $1.25 million contract."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-11-08",
+        "headline": "Minnesota Wild Acquires Defenseman Zach Bogosian from the Tampa Bay Lightning in Exchange for 2025 Seventh-Round Pick",
+        "url": "https://www.nhl.com/wild/news/wild-acquires-zach-bogosian-110823"
+      }
+    },
+    {
+      "player": {
+        "id": 8476463,
+        "name": "Jonas Brodin",
+        "first": "Jonas",
+        "last": "Brodin",
+        "pos": "D",
+        "sweater": 25
+      },
+      "birth_date": "1993-07-12",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jonas-brodin-seven-year-extension-091520-319037474",
+        "date": "2020-09-15",
+        "headline": "Wild signs defenseman Jonas Brodin to a seven-year contract extension",
+        "signing_team": "MIN",
+        "start_season": "2021-22",
+        "end_season": "2027-28",
+        "start_yr": 2021,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6000000,
+          "total_value_usd": 42000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2021-22",
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "sota Wild General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed defenseman Jonas Brodin to a seven-year, $42,000,000 million contract extension ($6,000,000 average annual value) that begins with the 2021-22 season and goes through 2027-28. Brodin, 27, tallied 28 points (2-26=28), "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482122,
+        "name": "Brock Faber",
+        "first": "Brock",
+        "last": "Faber",
+        "pos": "D",
+        "sweater": 7
+      },
+      "birth_date": "2002-08-22",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-faber-072924",
+        "date": "2024-07-29",
+        "headline": "Minnesota Wild Signs Brock Faber to an Eight-year Contract Extension",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8500000,
+          "total_value_usd": 68000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": "2032-33",
+          "status_hint": null,
+          "quote": "nt of Hockey Operations Bill Guerin today announced the National Hockey League (NHL) club has signed defenseman **Brock Faber** to an eight-year, $68 million contract extension ($8.5 million average annual value) that begins in the 2025-26 season and goes through the 2032-33 season. Faber, 21 (8/22/02), recorded 47 poi"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480800,
+        "name": "Quinn Hughes",
+        "first": "Quinn",
+        "last": "Hughes",
+        "pos": "D",
+        "sweater": 43
+      },
+      "birth_date": "1999-10-14",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/quinn-hughes-not-rushing-to-sign-new-deal-before-training-camp",
+        "date": "2026-09-09",
+        "headline": "Quinn Hughes in no rush to sign new contract with Wild before camp",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 7850000,
+          "total_value_usd": 7850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**LAS VEGAS --** Quinn Hughes is in no rush to sign his next contract before the Minnesota Wild open training camp. The 26-year-old defenseman has one year left on a six-year, $47.1 million contract ($7.85 million average annual value) he signed with the Vancouver Canucks on Oct."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-11",
+        "headline": "Hughes could stay with Wild past Trade Deadline if unsigned, GM says",
+        "url": "https://www.nhl.com/news/quinn-hughes-could-stay-with-minnesota-wild-past-trade-deadline-if-unsigned"
+      }
+    },
+    {
+      "player": {
+        "id": 8482641,
+        "name": "Matt Kiersted",
+        "first": "Matt",
+        "last": "Kiersted",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "1998-04-14",
+      "draft_team": null,
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUER1b0xqTU9aY3FzUWk1S0NWUlVJV2JyZFFNbHlJNHpyWTNfRnZDWmVUOTJXQ25OVG5QV1dKTDVCOXRhY3JUZF9SS0VHdGt2V3JISEZDV0JDYUlXVkZQam84QUJLeVBwYmRtTjBmWUpULWo3NzRRTzBOdDBWVFdWbktxTkJMVG5WZ2NZT1h4RlhuR0RxQlZYbHhHZXNhdw?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-07-02",
+        "headline": "Wild sign defenceman Matt Kiersted to two-year, two-way deal",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Wild sign defenceman Matt Kiersted to two-year, two-way deal"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476874,
+        "name": "Olli Maatta",
+        "first": "Olli",
+        "last": "Maatta",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "1994-08-22",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/olli-maatta-signs-three-year-contract-with-utah-hockey-club",
+        "date": "2025-03-03",
+        "headline": "Maatta signs 3-year contract with Utah Hockey Club",
+        "signing_team": "UTA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Olli Maatta signed a three-year contract with the Utah Hockey Club on Monday. Financial terms were not disclosed for the deal."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-03",
+        "headline": "Coleman, Maatta traded to Wild by Flames for Middleton, draft picks",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      }
+    },
+    {
+      "player": {
+        "id": 8483766,
+        "name": "David Spacek",
+        "first": "David",
+        "last": "Spacek",
+        "pos": "D",
+        "sweater": 82
+      },
+      "birth_date": "2003-02-18",
+      "draft_team": "MIN",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMU5XSnFMNFRPRGZuWGdzUUZGZzNIY014a3NfYmJHR3hldkhWbDRSal9tWkZoMWM0RnlLSWk4V2lFU2FpSnV5dlRyNjVsU2Z6T0hhZnBVMjltVXdaNEtvZUVKZGVRaWZrQXZ2TEZ1V0ZpTTlvaU9oZGU2aDRwaThCSzhIQW56SzFwQmRiSm5FTzNPV3Azc1lSUXRLYTBjMVNTUzIwWjZ6MGl2Sy1sWW9lUEZTWTJBMlUyVzNkaGNibXFZRHRqc1RlZTRucExPeWFhc19iY3hwUVZnSlVJb2U2elZ1MmRwUDV1b2NWbzBDMzQ?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-10",
+        "headline": "Minnesota Wild Re-signs Forward Caedan Bankier and Defensemen Carson Lambos and David \u0160pa\u010dek to One-year, Two-way Contracts",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Minnesota Wild Re-signs Forward Caedan Bankier and Defensemen Carson Lambos and David Spacek to One-year, Two-way Contracts"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474716,
+        "name": "Jared Spurgeon",
+        "first": "Jared",
+        "last": "Spurgeon",
+        "pos": "D",
+        "sweater": 46
+      },
+      "birth_date": "1989-11-29",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jared-spurgeon-seven-year-deal-minnesota-wild-309133114",
+        "date": "2019-09-14",
+        "headline": "Spurgeon agrees to seven-year contract extension with Wild",
+        "signing_team": "MIN",
+        "start_season": "2020-21",
+        "end_season": "2026-27",
+        "start_yr": 2020,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7575000,
+          "total_value_usd": 53025000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jared Spurgeon agreed to terms on a seven-year, $53.025 million contract extension with the Minnesota Wild on Saturday. It has an average annual value of $7.575 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479406,
+        "name": "Filip Gustavsson",
+        "first": "Filip",
+        "last": "Gustavsson",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "1998-06-07",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/filip-gustavsson-signs-5-year-contract-with-minnesota-wild",
+        "date": "2025-10-06",
+        "headline": "Gustavsson signs 5-year, $34 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 6800000,
+          "total_value_usd": 34000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Filip Gustavsson signed a five-year, $34 million contract with the Minnesota Wild on Saturday. It has an average annual value of $6.8 million and begins with the 2026-27 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475717,
+        "name": "Calvin Pickard",
+        "first": "Calvin",
+        "last": "Pickard",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "1992-04-15",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-goaltender-calvin-pickard-to-a-one-year-contract-070126",
+        "date": "2026-07-01",
+        "headline": "Minnesota Wild Signs Goaltender Calvin Pickard to a One-Year Contract\n",
+        "signing_team": "MIN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1000000,
+          "total_value_usd": 1000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ns and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed goaltender **Calvin Pickard** to a one-year, $1,000,000 contract for the 2026-27 season. Pickard, 34 (4/15/92), has appeared in 191 career games (157 starts) over parts of 11 NHL seasons with the Colorado Avalanche (2014"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482661,
+        "name": "Jesper Wallstedt",
+        "first": "Jesper",
+        "last": "Wallstedt",
+        "pos": "G",
+        "sweater": 30
+      },
+      "birth_date": "2002-11-14",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jesper-wallstedt-signs-two-year-contract-with-minnesota-wild",
+        "date": "2024-10-08",
+        "headline": "Wallstedt signs 2-year, $4.4 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2200000,
+          "total_value_usd": 4400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jesper Wallstedt signed a two-year, $4.4 million contract (average annual value of $2.2 million) with the Minnesota Wild on Monday that begins with the 2025-26 season. \"This was my goal coming in,\" Wallstedt said."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "license": "CC0-1.0",
+  "span": "2010-11 through 2026-27 (17 seasons)",
+  "generated_at_utc": "2026-11-26T22:49:33Z",
+  "totals": {
+    "seasons": 17,
+    "unique_players": 4691,
+    "player_bios_matched": 4691,
+    "player_season_records": 25712,
+    "total_contracts": 12095,
+    "contracts_with_signing_status": 12095,
+    "contracts_with_expiry_status": 11492,
+    "complete_uncensored_contracts": 9225,
+    "calculated_aav_exact_match_pct": 97.2,
+    "signing_status_breakdown": {
+      "UFA": 4501,
+      "RFA": 3826,
+      "ELC": 3768
+    },
+    "expiry_status_breakdown": {
+      "UFA": 6384,
+      "RFA": 5108
+    },
+    "cap_site_urls": 0
+  },
+  "by_season": {
+    "2010-11": {
+      "players": 1465,
+      "total_aav_usd": 2078230909,
+      "total_salary_usd": 2100400615,
+      "total_base_salary_usd": 2004416446,
+      "total_signing_bonus_usd": 95984169,
+      "two_way_players": 865
+    },
+    "2011-12": {
+      "players": 1520,
+      "total_aav_usd": 2198316409,
+      "total_salary_usd": 2258252731,
+      "total_base_salary_usd": 2127287683,
+      "total_signing_bonus_usd": 130965048,
+      "two_way_players": 917
+    },
+    "2012-13": {
+      "players": 1493,
+      "total_aav_usd": 2284692082,
+      "total_salary_usd": 2295545834,
+      "total_base_salary_usd": 2108726603,
+      "total_signing_bonus_usd": 186819231,
+      "two_way_players": 883
+    },
+    "2013-14": {
+      "players": 1500,
+      "total_aav_usd": 2372874220,
+      "total_salary_usd": 2365265648,
+      "total_base_salary_usd": 2224081715,
+      "total_signing_bonus_usd": 141183933,
+      "two_way_players": 881
+    },
+    "2014-15": {
+      "players": 1494,
+      "total_aav_usd": 2466281948,
+      "total_salary_usd": 2501685665,
+      "total_base_salary_usd": 2336080232,
+      "total_signing_bonus_usd": 165605433,
+      "two_way_players": 870
+    },
+    "2015-16": {
+      "players": 1494,
+      "total_aav_usd": 2549963510,
+      "total_salary_usd": 2597574940,
+      "total_base_salary_usd": 2434472757,
+      "total_signing_bonus_usd": 163102183,
+      "two_way_players": 874
+    },
+    "2016-17": {
+      "players": 1484,
+      "total_aav_usd": 2626412708,
+      "total_salary_usd": 2684523116,
+      "total_base_salary_usd": 2459660950,
+      "total_signing_bonus_usd": 224862166,
+      "two_way_players": 862
+    },
+    "2017-18": {
+      "players": 1525,
+      "total_aav_usd": 2724620635,
+      "total_salary_usd": 2840318276,
+      "total_base_salary_usd": 2558766929,
+      "total_signing_bonus_usd": 281551347,
+      "two_way_players": 889
+    },
+    "2018-19": {
+      "players": 1568,
+      "total_aav_usd": 2899233791,
+      "total_salary_usd": 2995292174,
+      "total_base_salary_usd": 2699278008,
+      "total_signing_bonus_usd": 296014166,
+      "two_way_players": 927
+    },
+    "2019-20": {
+      "players": 1543,
+      "total_aav_usd": 3043195758,
+      "total_salary_usd": 3144487188,
+      "total_base_salary_usd": 2664008634,
+      "total_signing_bonus_usd": 480478554,
+      "two_way_players": 888
+    },
+    "2020-21": {
+      "players": 1503,
+      "total_aav_usd": 3033361311,
+      "total_salary_usd": 2815073127,
+      "total_base_salary_usd": 2316332350,
+      "total_signing_bonus_usd": 498740777,
+      "two_way_players": 827
+    },
+    "2021-22": {
+      "players": 1555,
+      "total_aav_usd": 3106529923,
+      "total_salary_usd": 3037032341,
+      "total_base_salary_usd": 2640663484,
+      "total_signing_bonus_usd": 396368857,
+      "two_way_players": 861
+    },
+    "2022-23": {
+      "players": 1585,
+      "total_aav_usd": 3225053021,
+      "total_salary_usd": 3156688102,
+      "total_base_salary_usd": 2670088792,
+      "total_signing_bonus_usd": 486599310,
+      "two_way_players": 874
+    },
+    "2023-24": {
+      "players": 1553,
+      "total_aav_usd": 3255571120,
+      "total_salary_usd": 3431194225,
+      "total_base_salary_usd": 2936531497,
+      "total_signing_bonus_usd": 494662728,
+      "two_way_players": 831
+    },
+    "2024-25": {
+      "players": 1537,
+      "total_aav_usd": 3333444935,
+      "total_salary_usd": 3498404871,
+      "total_base_salary_usd": 2871662298,
+      "total_signing_bonus_usd": 626742573,
+      "two_way_players": 829
+    },
+    "2025-26": {
+      "players": 1488,
+      "total_aav_usd": 3501000152,
+      "total_salary_usd": 3624162565,
+      "total_base_salary_usd": 2838571938,
+      "total_signing_bonus_usd": 785590627,
+      "two_way_players": 756
+    },
+    "2026-27": {
+      "players": 1405,
+      "total_aav_usd": 3732987381,
+      "total_salary_usd": 3770877746,
+      "total_base_salary_usd": 2857199706,
+      "total_signing_bonus_usd": 913678040,
+      "two_way_players": 671
+    }
+  }
+}

@@ -1,0 +1,961 @@
+{
+  "team": "PHI",
+  "team_name": "Philadelphia Flyers",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8478569,
+        "name": "Noel Acciari",
+        "first": "Noel",
+        "last": "Acciari",
+        "pos": "C",
+        "sweater": 52
+      },
+      "birth_date": "1991-12-01",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/philadelphia-flyers-agree-to-terms-with-forward-noel-acciari-on-a-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "Flyers Agree to Terms with Forward Noel Acciari on a Two-Year Contract",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2800000,
+          "total_value_usd": 5600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Philadelphia Flyers announced today they have agreed to terms with forward Noel Acciari on a two-year contract worth an average annual value (AAV) of $2.8M set to begin during the 2026-27 season, according to General Manager Daniel Briere. Acciari, 34 (12/1/1991), has appeared in 585 career NHL games with the Bosto"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484142,
+        "name": "Denver Barkey",
+        "first": "Denver",
+        "last": "Barkey",
+        "pos": "C",
+        "sweater": 86
+      },
+      "birth_date": "2005-04-27",
+      "draft_team": "PHI",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478047,
+        "name": "Michael Bunting",
+        "first": "Michael",
+        "last": "Bunting",
+        "pos": "L",
+        "sweater": 58
+      },
+      "birth_date": "1995-09-17",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/michael-bunting-signs-one-year-contract-with-philadelphia-flyers",
+        "date": "2026-10-06",
+        "headline": "Bunting signs one-year, $1.2 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1200000,
+          "total_value_usd": 1200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Michael Bunting signed a one-year, $1.2 million contract with the Philadelphia Flyers on Tuesday. The 31-year-old forward had 33 points (14 goals, 19 assists) in 74 regular-season games for the Nashville Predators and Dallas Stars last season, including one goal and one assist in 13 games with Dallas after he was acqui"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480220,
+        "name": "Noah Cates",
+        "first": "Noah",
+        "last": "Cates",
+        "pos": "L",
+        "sweater": 27
+      },
+      "birth_date": "1999-02-05",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/noah-cates-signs-4-year-deal-with-philadelphia",
+        "date": "2025-06-11",
+        "headline": "Cates signs 4-year, $16 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4000000,
+          "total_value_usd": 16000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Noah Cates signed a four-year, $16 million contract with the Philadelphia Flyers on June 3. It has an average annual value of $4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476461,
+        "name": "Sean Couturier",
+        "first": "Sean",
+        "last": "Couturier",
+        "pos": "C",
+        "sweater": 14
+      },
+      "birth_date": "1992-12-07",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sean-couturier-signs-8-year-deal-with-philadelphia-326027622",
+        "date": "2021-08-27",
+        "headline": "Couturier signs eight-year, $62 million contract extension with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7750000,
+          "total_value_usd": 62000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sean Couturier signed an eight-year, $62 million contract extension with the Philadelphia Flyers on Thursday that begins next season. It has an average annual value of $7.75 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2020-02-24",
+        "headline": "TRADE 411: Thompson & Grant",
+        "url": "https://www.nhl.com/news/trade-411-thompson-grant-315483076"
+      }
+    },
+    {
+      "player": {
+        "id": 8477989,
+        "name": "Christian Dvorak",
+        "first": "Christian",
+        "last": "Dvorak",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "1996-02-02",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/christian-dvorak-signs-5-year-contract-with-philadelphia-flyers",
+        "date": "2026-01-06",
+        "headline": "Dvorak signs 5-year, $25.75 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5150000,
+          "total_value_usd": 25750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Christian Dvorak signed a five-year, $25.75 million contract with the Philadelphia Flyers on Monday. It has an average annual value of $5.15 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482159,
+        "name": "Tyson Foerster",
+        "first": "Tyson",
+        "last": "Foerster",
+        "pos": "R",
+        "sweater": 71
+      },
+      "birth_date": "2002-01-18",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/philadelphia-flyers-agree-to-terms-with-forward-tyson-foerster-on-an-eight-year-contract-extension",
+        "date": "2026-07-01",
+        "headline": "Flyers Agree to Terms with Forward Tyson Foerster on an Eight-Year Contract Extension",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7100000,
+          "total_value_usd": 56800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Philadelphia Flyers announced today they have agreed to terms with forward [Tyson Foerster](https://www.nhl.com/flyers/player/tyson-foerster-8482159) on an eight-year contract extension worth an average annual value (AAV) of $7.1M set to begin during the 2027-28 season, according to General Manager **Daniel Briere*"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tyson-foerster-signs-eight-year-contract-with-philadelphia-flyers",
+        "date": "2026-07-07",
+        "headline": "Foerster signs 8-year, $56.8 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7100000,
+          "total_value_usd": 56800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tyson Foerster signed an eight-year, $56.8 million contract with the Philadelphia Flyers on Wednesday. The deal, which begins in 2027-28, has an average annual value of $7.1 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483733,
+        "name": "Nikita Grebenkin",
+        "first": "Nikita",
+        "last": "Grebenkin",
+        "pos": "R",
+        "sweater": 17
+      },
+      "birth_date": "2003-05-02",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nikita-grebenkin-signs-two-year-contract-with-philadelphia-flyers",
+        "date": "2026-08-06",
+        "headline": "Grebenkin signs 2-year, $2.2 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1100000,
+          "total_value_usd": 2200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nikita Grebenkin signed a two-year, $2.2 million contract with the Philadelphia Flyers on Thursday. It has an average annual value of $1.1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483787,
+        "name": "Cole Knuble",
+        "first": "Cole",
+        "last": "Knuble",
+        "pos": "R",
+        "sweater": 54
+      },
+      "birth_date": "2004-07-01",
+      "draft_team": "PHI",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478439,
+        "name": "Travis Konecny",
+        "first": "Travis",
+        "last": "Konecny",
+        "pos": "R",
+        "sweater": 11
+      },
+      "birth_date": "1997-03-11",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/travis-konecny-signs-8-year-contract-with-philadelphia",
+        "date": "2024-07-25",
+        "headline": "Konecny signs 8-year, $70 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8750000,
+          "total_value_usd": 70000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Travis Konecny signed an eight-year, $70 million contract with the Philadelphia Flyers on Thursday. It has an average annual value of $8.75 million and begins with the 2025-26 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485406,
+        "name": "Porter Martone",
+        "first": "Porter",
+        "last": "Martone",
+        "pos": "R",
+        "sweater": 94
+      },
+      "birth_date": "2006-10-26",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/porter-martone-signs-contract-with-philadelphia-flyers",
+        "date": "2026-03-29",
+        "headline": "Martone, No. 6 pick in 2025 Draft, signs entry-level contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Porter Martone, who was selected with the No. 6 pick in the 2025 NHL Draft, signed a three-year, entry-level contract with the Philadelphia Flyers on Sunday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484387,
+        "name": "Matvei Michkov",
+        "first": "Matvei",
+        "last": "Michkov",
+        "pos": "R",
+        "sweater": 39
+      },
+      "birth_date": "2004-12-09",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/transaction-analysis-flyers-sign-michkov",
+        "date": "2024-07-01",
+        "headline": "Transaction Analysis: Flyers Sign Michkov",
+        "signing_team": "PHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 950000,
+          "total_value_usd": 2850000,
+          "is_elc": true,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": "ELC",
+          "quote": "The Flyers will not have to wait until the summer of 2026 to bring highly touted Russian winger Matvei Michkov to North America. Michkov, selected by the Flyers with the seventh overall pick of the 2023 NHL Entry Draft, has signed a three-year entry-level contract with Philadelphia and is slated to make his NHL debut w"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480015,
+        "name": "Owen Tippett",
+        "first": "Owen",
+        "last": "Tippett",
+        "pos": "R",
+        "sweater": 74
+      },
+      "birth_date": "1999-02-16",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/philadephia-flyers-owen-tippett-contract",
+        "date": "2024-01-27",
+        "headline": "Tippett signs 8-year, $49.6 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 1500000,
+          "total_value_usd": 49600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Owen Tippett signed an eight-year, $49.6 million contract with the Philadelphia Flyers on Friday. The deal, which begins next season, has an average annual value of $6.2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-20",
+        "headline": "Giroux traded to Panthers by Flyers for Tippett, first-round pick",
+        "url": "https://www.nhl.com/news/claude-giroux-traded-to-panthers-by-flyers-331816104"
+      }
+    },
+    {
+      "player": {
+        "id": 8481533,
+        "name": "Trevor Zegras",
+        "first": "Trevor",
+        "last": "Zegras",
+        "pos": "C",
+        "sweater": 46
+      },
+      "birth_date": "2001-03-20",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/trevor-zegras-signs-4-year-contract-with-philadelphia-flyers",
+        "date": "2026-07-21",
+        "headline": "Zegras signs 4-year, $36.5 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 9125000,
+          "total_value_usd": 36500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Trevor Zegras signed a four-year, $36.5 million contract with the Philadelphia Flyers on Wednesday, avoiding an arbitration hearing. It has an average annual value of $9.125 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-03",
+        "headline": "Zegras has \u2018found himself at home\u2019 since trade to Flyers\u00a0",
+        "url": "https://www.nhl.com/news/trevor-zegras-has-found-himself-at-home-since-trade-to-philadelphia-flyers"
+      }
+    },
+    {
+      "player": {
+        "id": 8481122,
+        "name": "Simon Benoit",
+        "first": "Simon",
+        "last": "Benoit",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1998-09-19",
+      "draft_team": null,
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzF1SXZMVTlFSDEzS1BlamFlRFFvV3FWMnRHTzBsOVhMdHFxR2lIWURraFNqV08ycDg5MmZ0YkVGNFZXeHNxbmtkblVWV0ZacTBveW9DMGFSUDRkQnQtR1BQd1pWNUNSWjBJdDM0WWlJU0VGVXNyRGxST3NjZ1hnUGhwbTZIMXk1MHozSV9pRmplQ211LTdmYWZva0xMd1J6d1E?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2024-03-29",
+        "headline": "Maple Leafs Sign Defenceman Simon Benoit To Three-year Extension",
+        "signing_team": "TOR",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Maple Leafs Sign Defenceman Simon Benoit To Three-year Extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-16",
+        "headline": "Flyers Acquire Joseph Woll and Simon Benoit from Toronto",
+        "url": "https://www.nhl.com/flyers/news/flyers-acquire-joseph-woll-and-simon-benoit-from-toronto"
+      }
+    },
+    {
+      "player": {
+        "id": 8484148,
+        "name": "Oliver Bonk",
+        "first": "Oliver",
+        "last": "Bonk",
+        "pos": "D",
+        "sweater": 59
+      },
+      "birth_date": "2005-01-09",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/oliver-bonk-signs-entry-level-deal-with-philadelphia-345634480",
+        "date": "2023-08-21",
+        "headline": "Bonk signs 3-year, entry-level contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "[Oliver Bonk](https://www.nhl.com/player/oliver-bonk-8484148) signed a three-year, entry-level contract with the Philadelphia Flyers on Monday. The 18-year-old defenseman, the son of former NHL forward Radek Bonk, was selected by the Flyers with the No."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482142,
+        "name": "Jamie Drysdale",
+        "first": "Jamie",
+        "last": "Drysdale",
+        "pos": "D",
+        "sweater": 9
+      },
+      "birth_date": "2002-04-08",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/transaction-analysis-flyers-extend-drysdale",
+        "date": "2026-07-20",
+        "headline": "Transaction Analysis: Flyers Extend Drysdale",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 6250000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "days after averting arbitration with forward Trevor Zegras, the Philadelphia Flyers did the same with defenseman Jamie Drysdale. On Friday, the Flyers signed Drysdale to a four-year contract extension."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-02-13",
+        "headline": "Drysdale settled in after trade, \u2018work in progress\u2019 for Flyers",
+        "url": "https://www.nhl.com/news/jamie-drysdale-settled-in-with-flyers-looking-forward-to-stadium-series"
+      }
+    },
+    {
+      "player": {
+        "id": 8483460,
+        "name": "David Jiricek",
+        "first": "David",
+        "last": "Jiricek",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "2003-11-28",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUjRIZFc1TldEdnlIRzU3Nk1IYzRsekQxUndoMmFjZlB3ZzF4SHUwTlNEMjh4M0N2anQtZmVGSTNxQWY5dEpnbjk1N1liNi01UlVoMXlLWUFCMGh4eVU2SXRCZV9hcDVfLTI3X1pKbzQwbEtKcVUtb2RJa09lTkg0blowbUJQUkJDWkR2TlJIb01NVlpNY0k2S05jQzI3MjU4RlBENjdta2pjQVAxV1JkaGt3blVUMkh0V0prYU5EY0I3Nm5MNGJ1QQ?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2026-04-01",
+        "headline": "Flyers sign David Jiricek to two-year contract extension",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Flyers sign David Jiricek to two-year contract extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Flyers Acquire Defenseman David Jiricek from Minnesota in Exchange for Bobby Brink",
+        "url": "https://www.nhl.com/flyers/news/flyers-acquire-defenseman-david-jiricek-from-minnesota-in-exchange-for-bobby-brink"
+      }
+    },
+    {
+      "player": {
+        "id": 8477499,
+        "name": "Rasmus Ristolainen",
+        "first": "Rasmus",
+        "last": "Ristolainen",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "1994-10-27",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/philadelphia-flyers-sign-rasmus-ristolainen-to-five-year-contract-331665804",
+        "date": "2022-03-11",
+        "headline": "Ristolainen signs five-year, $25.5 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5100000,
+          "total_value_usd": 25500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rasmus Ristolainen signed a five-year, $25.5 million contract with the Philadelphia Flyers on Thursday. It has an average annual value of $5.1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2021-07-23",
+        "headline": "Ristolainen traded to Flyers by Sabres for No. 14 pick in 2021 Draft",
+        "url": "https://www.nhl.com/news/rasmus-ristolainen-traded-to-philadelphia-flyers-by-buffalo-sabres-325752068"
+      }
+    },
+    {
+      "player": {
+        "id": 8477948,
+        "name": "Travis Sanheim",
+        "first": "Travis",
+        "last": "Sanheim",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1996-03-29",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/flyers-sanheim-signs-eight-year-contract-336335168",
+        "date": "2022-10-15",
+        "headline": "Sanheim signs eight-year, $50 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6250000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Travis Sanheim signed an eight-year, $50 million contract with the Philadelphia Flyers on Thursday. It has an average annual value of $6.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476372,
+        "name": "Nick Seeler",
+        "first": "Nick",
+        "last": "Seeler",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "1993-06-03",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/transaction-analysis-flyers-trade-walker-extend-seeler",
+        "date": "2024-03-07",
+        "headline": "Transaction Analysis: Flyers Trade Walker, Extend Seeler",
+        "signing_team": "PHI",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 2750000,
+          "total_value_usd": 11000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "gent defenseman Sean Walker to the Colorado Avalanche and preempted unrestricted free agency for fellow defenseman Nick Seeler with a four-year contract extension. Seeler, 30, has been a rock of solid play for the Flyers over his three seasons in Philadelphia."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-03-07",
+        "headline": "Transaction Analysis: Flyers Trade Walker, Extend Seeler",
+        "url": "https://www.nhl.com/flyers/news/transaction-analysis-flyers-trade-walker-extend-seeler"
+      }
+    },
+    {
+      "player": {
+        "id": 8481546,
+        "name": "Cam York",
+        "first": "Cam",
+        "last": "York",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "2001-01-05",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cam-york-signs-5-year-contract-with-philadelphia-flyers",
+        "date": "2025-07-08",
+        "headline": "York signs 5-year, $25.75 million contract with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5150000,
+          "total_value_usd": 25750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cam York signed a five-year, $25.75 million contract with the Philadelphia Flyers on Monday. It has an average annual value of $5.15 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478435,
+        "name": "Dan Vladar",
+        "first": "Dan",
+        "last": "Vladar",
+        "pos": "G",
+        "sweater": 80
+      },
+      "birth_date": "1997-08-20",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flyers/news/philadelphia-flyers-sign-goaltender-dan-vladar-to-five-year-contract-extension",
+        "date": "2026-07-01",
+        "headline": "Flyers Sign Goaltender Dan Vladar to Five-Year Contract Extension",
+        "signing_team": "PHI",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5500000,
+          "total_value_usd": 27500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Philadelphia Flyers announced today they have signed goaltender [Dan Vladar](https://www.nhl.com/flyers/player/dan-vladar-8478435) to a five-year contract worth an average annual value (AAV) of $5.5M, according to General Manager **Daniel Briere**. \u201cFrom the moment Dan arrived in Philadelphia, he exceeded our expec"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dan-vladar-signs-five-year-contract-with-philadelphia-flyers",
+        "date": "2026-07-02",
+        "headline": "Vladar signs 5-year, $27.5 million contract with Flyers\u00a0",
+        "signing_team": "PHI",
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "start_yr": 2027,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5500000,
+          "total_value_usd": 27500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dan Vladar signed a five-year, $27.5 million contract with the Philadelphia Flyers on Wednesday. It begins with the 2027-28 season and has an average annual value of $5.5 million."
+        }
+      },
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Woll hopes to be part of \u2018great tandem\u2019 with Vladar after trade to Flyers",
+        "url": "https://www.nhl.com/news/joseph-woll-excited-for-fresh-start-after-trade-to-philadelphia-flyers"
+      }
+    },
+    {
+      "player": {
+        "id": 8479361,
+        "name": "Joseph Woll",
+        "first": "Joseph",
+        "last": "Woll",
+        "pos": "G",
+        "sweater": 53
+      },
+      "birth_date": "1998-07-12",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/joseph-woll-signs-3-year-deal-with-toronto",
+        "date": "2024-07-01",
+        "headline": "Woll signs 3-year, $10.98 million contract with Maple Leafs",
+        "signing_team": "TOR",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3660000,
+          "total_value_usd": 10980000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Joseph Woll signed a three-year, $10.98 million contract with the Toronto Maple Leafs on Monday. It has an average annual value of $3.66 million and begins in the 2025-26 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Woll hopes to be part of \u2018great tandem\u2019 with Vladar after trade to Flyers",
+        "url": "https://www.nhl.com/news/joseph-woll-excited-for-fresh-start-after-trade-to-philadelphia-flyers"
+      }
+    }
+  ]
+}

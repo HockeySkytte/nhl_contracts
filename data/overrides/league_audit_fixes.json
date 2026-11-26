@@ -1,0 +1,780 @@
+{
+  "_comment": "Verified Edge Case 1 (same-surname/multi-player collisions), Edge Case 2 (2027-28+ extensions vs active 2026-27 deals), and Edge Case 3 (5 non-disclosure clubs + direct NHL.com/editorial URL upgrades). Strictly zero cap-site sources.",
+  "8477496": {
+    "_note": "EC1: BOS Elias Lindholm (was Hampus Lindholm 6y $6.5M)",
+    "signing_team": "BOS",
+    "signing_status": "UFA",
+    "term_years": 7,
+    "aav_usd": 7750000,
+    "start_season": "2024-25",
+    "end_season": "2030-31",
+    "signed_date": "2024-07-01",
+    "source_url": "https://www.nhl.com/news/elias-lindholm-nikita-zadorov-signs-contract-with-boston-bruins"
+  },
+  "8483679": {
+    "_note": "EC1: DET Anton Johansson (was brother Albert Johansson $1.125M)",
+    "signing_team": "DET",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": null,
+    "start_season": "2025-26",
+    "end_season": "2027-28",
+    "signed_date": "2025-04-16",
+    "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-defenseman-anton-johansson-to-three-year-entry-level-contract"
+  },
+  "8475220": {
+    "_note": "EC1: MIN Marcus Foligno (was brother Nick Foligno 1y $900K)",
+    "signing_team": "MIN",
+    "signing_status": "UFA",
+    "term_years": 4,
+    "aav_usd": 4000000,
+    "start_season": "2024-25",
+    "end_season": "2027-28",
+    "signed_date": "2023-09-29",
+    "source_url": "https://www.nhl.com/news/marcus-foligno-signs-4-year-contract-with-minnesota-wild",
+    "secondary_source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-marcus-foligno-to-contract-extension"
+  },
+  "8481559": {
+    "_note": "EC1: NJD Jack Hughes (was brother Luke Hughes 7y $9.0M)",
+    "signing_team": "NJD",
+    "signing_status": "RFA",
+    "term_years": 8,
+    "aav_usd": 8000000,
+    "start_season": "2022-23",
+    "end_season": "2029-30",
+    "signed_date": "2021-11-30",
+    "source_url": "https://www.nhl.com/news/new-jersey-devils-jack-hughes-signs-contract-returns-to-lineup-328476644"
+  },
+  "8483678": {
+    "_note": "EC1: VAN Elias Pettersson (D) (was forward Elias Pettersson 8y $11.6M)",
+    "signing_team": "VAN",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": null,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2023-04-19",
+    "source_url": "https://www.nhl.com/canucks/news/canucks-sign-defenceman-elias-pettersson-to-three-year-elc-343687242"
+  },
+  "8481656": {
+    "_note": "EC1: WSH Aliaksei Protas (was brother Ilya Protas 3y $889K)",
+    "signing_team": "WSH",
+    "signing_status": "RFA",
+    "term_years": 5,
+    "aav_usd": 3375000,
+    "start_season": "2024-25",
+    "end_season": "2028-29",
+    "signed_date": "2024-01-19",
+    "source_url": "https://www.nhl.com/news/washington-capitals-aliaksei-protas-contract"
+  },
+  "8480289": {
+    "_note": "EC1: WPG Morgan Barron (was Justin Barron NSH deal)",
+    "signing_team": "WPG",
+    "signing_status": "RFA",
+    "term_years": 2,
+    "aav_usd": 1850000,
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "signed_date": "2025-07-14",
+    "source_url": "https://www.nhl.com/news/morgan-barron-winnipeg-jets-avoid-arbitration-with-two-year-contract"
+  },
+  "8476905": {
+    "_note": "EC1: SEA Chandler Stephenson (was Brandon Montour $7.14M in multi-player article)",
+    "signing_team": "SEA",
+    "signing_status": "UFA",
+    "term_years": 7,
+    "aav_usd": 6250000,
+    "start_season": "2024-25",
+    "end_season": "2030-31",
+    "signed_date": "2024-07-01",
+    "source_url": "https://www.nhl.com/news/brandon-montour-signs-7-year-contract-with-seattle-kraken"
+  },
+  "8476945": {
+    "_note": "EC1: NJD Connor Hellebuyck (was Stuart Skinner 2y $3.75M)",
+    "signing_team": "WPG",
+    "signing_status": "UFA",
+    "term_years": 7,
+    "aav_usd": 8500000,
+    "start_season": "2024-25",
+    "end_season": "2030-31",
+    "signed_date": "2023-10-09",
+    "source_url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg"
+  },
+  "8478856": {
+    "_note": "EC1: CBJ Conor Garland (was Thatcher Demko 3y $8.5M in multi-player article)",
+    "signing_team": "VAN",
+    "signing_status": "UFA",
+    "term_years": 6,
+    "aav_usd": 6000000,
+    "start_season": "2026-27",
+    "end_season": "2031-32",
+    "signed_date": "2025-07-01",
+    "source_url": "https://www.nhl.com/news/thatcher-demko-signs-3-year-contract-with-vancouver-canucks"
+  },
+  "8482964": {
+    "_note": "EC1: MTL Arber Xhekaj (was linked to Alex Newhook extension URL)",
+    "signing_team": "MTL",
+    "signing_status": "RFA",
+    "term_years": 1,
+    "aav_usd": 1500000,
+    "start_season": "2026-27",
+    "end_season": "2026-27",
+    "signed_date": "2026-09-15",
+    "source_url": "https://www.nhl.com/canadiens/news/one-year-contract-for-arber-xhekaj-sept-15-2026"
+  },
+  "8479314": {
+    "_note": "EC1/completeness: FLA Matthew Tkachuk (had missing term/seasons from Deep Dive only)",
+    "signing_team": "FLA",
+    "signing_status": "RFA",
+    "term_years": 8,
+    "aav_usd": 9500000,
+    "start_season": "2022-23",
+    "end_season": "2029-30",
+    "signed_date": "2022-07-22",
+    "source_url": "https://www.nhl.com/panthers/news/florida-panthers-acquire-forward-matthew-tkachuk-335072148"
+  },
+  "8484186": {
+    "_note": "EC2: WSH Ryan Leonard (8y $10.5M begins 2027-28; active is 3y ELC $950K)",
+    "signing_team": "WSH",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": 950000,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2025-03-31",
+    "source_url": "https://www.nhl.com/news/ryan-leonard-signs-entry-level-deal-with-washington",
+    "secondary_source_url": "https://www.nhl.com/capitals/news/capitals-sign-ryan-leonard",
+    "future_extension": {
+      "term_years": 8,
+      "aav_usd": 10500000,
+      "total_value_usd": 84000000,
+      "start_season": "2027-28",
+      "end_season": "2034-35",
+      "signed_date": "2026-09-15",
+      "source_url": "https://www.nhl.com/news/ryan-leonard-signs-8-year-deal-with-washington"
+    }
+  },
+  "8482088": {
+    "_note": "EC2: WSH Justin Sourdif (8y $6.35M begins 2027-28; active is 2y $825K)",
+    "signing_team": "WSH",
+    "signing_status": "RFA",
+    "term_years": 2,
+    "aav_usd": 825000,
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "signed_date": "2025-06-28",
+    "source_url": "https://www.nhl.com/capitals/news/capitals-sign-justin-sourdif",
+    "future_extension": {
+      "term_years": 8,
+      "aav_usd": 6350000,
+      "total_value_usd": 50800000,
+      "start_season": "2027-28",
+      "end_season": "2034-35",
+      "signed_date": "2026-09-16",
+      "source_url": "https://www.nhl.com/capitals/news/capitals-re-sign-justin-sourdif"
+    }
+  },
+  "8481611": {
+    "_note": "EC2: CAR Pyotr Kochetkov (2y $3.95M begins 2027-28; active is 4y $2.0M)",
+    "signing_team": "CAR",
+    "signing_status": "RFA",
+    "term_years": 4,
+    "aav_usd": 2000000,
+    "start_season": "2023-24",
+    "end_season": "2026-27",
+    "signed_date": "2022-11-24",
+    "source_url": "https://www.nhl.com/news/pyotr-kochetkov-signs-deal-with-carolina-337944210",
+    "future_extension": {
+      "term_years": 2,
+      "aav_usd": 3950000,
+      "total_value_usd": 7900000,
+      "start_season": "2027-28",
+      "end_season": "2028-29",
+      "signed_date": "2026-09-26",
+      "source_url": "https://www.nhl.com/news/pyotr-kochetkov-signs-two-year-contract-with-carolina-hurricanes"
+    }
+  },
+  "8480002": {
+    "_note": "EC2: NJD Nico Hischier (5y $11.7M begins 2027-28; active is 7y $7.25M)",
+    "signing_team": "NJD",
+    "signing_status": "RFA",
+    "term_years": 7,
+    "aav_usd": 7250000,
+    "start_season": "2020-21",
+    "end_season": "2026-27",
+    "signed_date": "2019-10-18",
+    "source_url": "https://www.nhl.com/devils/news/release-hischier-signs-seven-year-deal-310241124",
+    "future_extension": {
+      "term_years": 5,
+      "aav_usd": 11700000,
+      "total_value_usd": 58500000,
+      "start_season": "2027-28",
+      "end_season": "2031-32",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/news/nico-hischier-signs-5-year-deal-with-new-jersey-begins-in-2027-2028"
+    }
+  },
+  "8481721": {
+    "_note": "EC2: NJD Arseny Gritsyuk (official 6/30/26 release confirms 3y $3.25M starts 2026-27; clear duplicate future_extension)",
+    "signing_team": "NJD",
+    "signing_status": "RFA",
+    "term_years": 3,
+    "aav_usd": 3250000,
+    "start_season": "2026-27",
+    "end_season": "2028-29",
+    "signed_date": "2026-06-30",
+    "source_url": "https://www.nhl.com/devils/news/gritsyuk-re-signs-release-6-30-26",
+    "secondary_source_url": "https://www.nhl.com/news/arseny-gritsyuk-signs-3-year-contract-with-new-jersey-devils",
+    "future_extension": null
+  },
+  "8482159": {
+    "_note": "EC2: PHI Tyson Foerster (8y $7.1M begins 2027-28; active is 2y $3.75M)",
+    "signing_team": "PHI",
+    "signing_status": "RFA",
+    "term_years": 2,
+    "aav_usd": 3750000,
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "signed_date": "2025-06-03",
+    "source_url": "https://www.nhl.com/news/tyson-foerster-signs-2-year-contract-with-philadelphia-flyers",
+    "future_extension": {
+      "term_years": 8,
+      "aav_usd": 7100000,
+      "total_value_usd": 56800000,
+      "start_season": "2027-28",
+      "end_season": "2034-35",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/news/tyson-foerster-signs-eight-year-contract-with-philadelphia-flyers"
+    }
+  },
+  "8478435": {
+    "_note": "EC2: PHI Dan Vladar (5y $5.5M begins 2027-28; active is 2y $3.35M)",
+    "signing_team": "PHI",
+    "signing_status": "UFA",
+    "term_years": 2,
+    "aav_usd": 3350000,
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "signed_date": "2025-07-01",
+    "source_url": "https://www.nhl.com/news/dan-vladar-signs-2-year-contract-with-philadelphia-flyers",
+    "future_extension": {
+      "term_years": 5,
+      "aav_usd": 5500000,
+      "total_value_usd": 27500000,
+      "start_season": "2027-28",
+      "end_season": "2031-32",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/news/dan-vladar-signs-five-year-contract-with-philadelphia-flyers"
+    }
+  },
+  "8482142": {
+    "_note": "EC2/accuracy: PHI Jamie Drysdale (official Flyers release specifies $6.5M AAV, not $6.25M)",
+    "aav_usd": 6500000
+  },
+  "8483489": {
+    "_note": "EC2: BOS Fraser Minten (7y $7.2M begins 2027-28; active is 3y ELC $879,166)",
+    "signing_team": "TOR",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": 879166,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2022-10-13",
+    "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html",
+    "future_extension": {
+      "term_years": 7,
+      "aav_usd": 7200000,
+      "total_value_usd": 50400000,
+      "start_season": "2027-28",
+      "end_season": "2033-34",
+      "signed_date": "2026-09-08",
+      "source_url": "https://www.nhl.com/news/fraser-minten-signs-7-year-contact-with-boston-bruins"
+    }
+  },
+  "8483500": {
+    "_note": "EC2: BUF Noah Ostlund (8y $6.6M begins 2027-28; active is 3y ELC $886,666)",
+    "signing_team": "BUF",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": 886666,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2022-07-15",
+    "source_url": "https://www.nhl.com/sabres/news/buffalo-sabres-sign-first-round-picks-matt-savoie-jiri-kulich-noah-ost-335006690",
+    "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+    "future_extension": {
+      "term_years": 8,
+      "aav_usd": 6600000,
+      "total_value_usd": 52800000,
+      "start_season": "2027-28",
+      "end_season": "2034-35",
+      "signed_date": "2026-09-14",
+      "source_url": "https://www.nhl.com/news/noah-ostlund-signs-8-year-contract-with-buffalo-sabres"
+    }
+  },
+  "8483482": {
+    "_note": "EC2: ANA Tristan Luneau (6y $7.2M begins 2027-28; active is 3y ELC)",
+    "signing_team": "ANA",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": null,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2023-09-05",
+    "source_url": "https://www.sandiegogulls.com/news/detail/anaheim-ducks-sign-tristan-luneau-to-three-year-entry-level-contract",
+    "future_extension": {
+      "term_years": 6,
+      "aav_usd": 7200000,
+      "total_value_usd": 43200000,
+      "start_season": "2027-28",
+      "end_season": "2032-33",
+      "signed_date": "2026-10-03",
+      "source_url": "https://www.nhl.com/news/tristain-luneau-signs-six-year-contract-with-anaheim-ducks"
+    }
+  },
+  "8484798": {
+    "_note": "EC2: VAN Zeev Buium (8y $9.38M begins 2027-28; active is 3y ELC signed with MIN)",
+    "signing_team": "MIN",
+    "signing_status": "ELC",
+    "term_years": 3,
+    "aav_usd": null,
+    "start_season": "2024-25",
+    "end_season": "2026-27",
+    "signed_date": "2025-04-14",
+    "source_url": "https://www.nhl.com/news/zeev-buium-signs-entry-level-contract-with-minnesota-wild",
+    "future_extension": {
+      "term_years": 8,
+      "aav_usd": 9380000,
+      "total_value_usd": 75040000,
+      "start_season": "2027-28",
+      "end_season": "2034-35",
+      "signed_date": "2026-09-04",
+      "source_url": "https://www.nhl.com/news/zeev-buium-signs-8-year-contract-with-vancouver-canucks"
+    }
+  },
+  "8483890": {
+    "_note": "EC2: VGK Braeden Bowman (6y $3.4M begins 2027-28; active is 2y ELC)",
+    "signing_team": "VGK",
+    "signing_status": "ELC",
+    "term_years": 2,
+    "aav_usd": null,
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "signed_date": "2025-03-02",
+    "source_url": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forwards-braeden-bowman-and-kai-uchacz-to-two-year-entry-level-contracts",
+    "future_extension": {
+      "term_years": 6,
+      "aav_usd": 3400000,
+      "total_value_usd": 20400000,
+      "start_season": "2027-28",
+      "end_season": "2032-33",
+      "signed_date": "2026-09-10",
+      "source_url": "https://www.nhl.com/news/braeden-bowman-signs-six-year-contract-with-vegas-golden-knights"
+    }
+  },
+  "8476453": {
+    "_note": "EC2: TBL Nikita Kucherov (was pointing to 2026 contract-talks article)",
+    "signing_team": "TBL",
+    "signing_status": "RFA",
+    "term_years": 8,
+    "aav_usd": 9500000,
+    "start_season": "2019-20",
+    "end_season": "2026-27",
+    "signed_date": "2018-07-10",
+    "source_url": "https://www.nhl.com/news/nikita-kucherov-signs-eight-year-extension-with-lightning-299452510"
+  },
+  "8481519": {
+    "_note": "EC2: CHI Spencer Knight (active 3y $5.83M 2026-27..2028-29 is already live; clear duplicate future_extension)",
+    "future_extension": null
+  },
+  "8481618": {
+    "_note": "EC2: MTL Alex Newhook (4y $5.55M begins 2027-28; active is 4y $2.9M 2023-24..2026-27)",
+    "signing_team": "MTL",
+    "signing_status": "RFA",
+    "term_years": 4,
+    "aav_usd": 2900000,
+    "start_season": "2023-24",
+    "end_season": "2026-27",
+    "signed_date": "2023-07-11",
+    "source_url": "https://www.nhl.com/news/alex-newhook-signs-deal-with-montreal-345301792",
+    "future_extension": {
+      "term_years": 4,
+      "aav_usd": 5550000,
+      "total_value_usd": 22200000,
+      "start_season": "2027-28",
+      "end_season": "2030-31",
+      "signed_date": "2026-09-15",
+      "source_url": "https://www.nhl.com/news/alex-newhook-signs-four-year-contract-with-montreal-canadiens"
+    }
+  },
+  "8484153": {
+    "_note": "EC3: ANA Leo Carlsson direct NHL.com + TSN URLs (matched PHI 5y $90M offer sheet)",
+    "signing_team": "ANA",
+    "signing_status": "RFA",
+    "term_years": 5,
+    "aav_usd": 18000000,
+    "start_season": "2026-27",
+    "end_season": "2030-31",
+    "signed_date": "2026-07-09",
+    "source_url": "https://www.nhl.com/news/leo-carlsson-signs-5-year-contract-with-ducks-match-flyers-offer-sheet",
+    "secondary_source_url": "https://www.tsn.ca/nhl/article/ducks-carlsson-signs-five-year-90m-offer-sheet-with-flyers/"
+  },
+  "8483445": {
+    "_note": "EC3: ANA Cutter Gauthier 6y $13.5M",
+    "signing_team": "ANA",
+    "signing_status": "RFA",
+    "term_years": 6,
+    "aav_usd": 13500000,
+    "start_season": "2026-27",
+    "end_season": "2031-32",
+    "source_url": "https://www.nhl.com/news/cutter-gauthier-signs-six-year-contract-with-anaheim-ducks",
+    "secondary_source_url": "https://thehockeynews.com/nhl/anaheim-ducks/latest-news/ducks-sign-cutter-gauthier-to-six-year-contract-extension"
+  },
+  "8483490": {
+    "_note": "EC3: ANA Pavel Mintyukov 5y $7.2M",
+    "signing_team": "ANA",
+    "signing_status": "RFA",
+    "term_years": 5,
+    "aav_usd": 7200000,
+    "start_season": "2026-27",
+    "end_season": "2030-31",
+    "source_url": "https://www.nhl.com/news/pavel-mintyukov-signs-5-year-contract-with-anaheim-ducks",
+    "secondary_source_url": "https://www.nhl.com/news/topic/season-previews/anaheim-ducks-season-preview-2026-27"
+  },
+  "8473986": {
+    "_note": "EC3: ANA Alex Killorn 4y $6.25M",
+    "signing_team": "ANA",
+    "signing_status": "UFA",
+    "term_years": 4,
+    "aav_usd": 6250000,
+    "start_season": "2023-24",
+    "end_season": "2026-27",
+    "source_url": "https://www.nhl.com/news/anaheim-ducks-sign-alex-killorn-to-four-year-contract-344912326"
+  },
+  "8481563": {
+    "_note": "EC3: ANA Drew Helleson 2y $1.1M",
+    "aav_usd": 1100000
+  },
+  "8482118": {
+    "_note": "EC3: ANA Sam Colangelo 2y $850K",
+    "aav_usd": 850000
+  },
+  "8482408": {
+    "_note": "EC3: ANA Jeff Malott 3y $1.85M",
+    "aav_usd": 1850000
+  },
+  "8481605": {
+    "_note": "EC3: ANA Jackson LaCombe direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/jackson-lacombe-signs-8-year-contract-with-anaheim-ducks"
+  },
+  "8480843": {
+    "_note": "EC3: ANA Lukas Dostal direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/lukas-dostal-signs-5-year-contract-with-anaheim-ducks"
+  },
+  "8475754": {
+    "_note": "EC3: COL Brock Nelson 3y $7.5M",
+    "aav_usd": 7500000,
+    "source_url": "https://www.nhl.com/news/brock-nelson-signs-3-year-contract-to-stay-with-colorado-avalanche"
+  },
+  "8478406": {
+    "_note": "EC3: COL Mackenzie Blackwood 5y $5.25M",
+    "aav_usd": 5250000,
+    "source_url": "https://www.nhl.com/news/mackenzie-blackwood-signs-5-year-deal-with-colorado"
+  },
+  "8481186": {
+    "_note": "EC3: COL Logan O'Connor 6y $2.5M + direct NHL.com URL",
+    "aav_usd": 2500000,
+    "source_url": "https://www.nhl.com/news/colorado-avalanche-logan-o-connor-signs-six-year-contract",
+    "secondary_source_url": "https://www.dailyfaceoff.com/news/colorado-avalanche-logan-oconnor-expected-2026-27-nhl-season-debut-against-tampa-bay-lightning"
+  },
+  "8480448": {
+    "_note": "EC3: COL Parker Kelly 4y $1.7M + direct editorial URL",
+    "aav_usd": 1700000,
+    "source_url": "https://milehighsticking.com/parker-kelly-paid-the-colorado-avalanche-the-biggest-compliment-they-could-receive-01kj1v95gnw3"
+  },
+  "8484258": {
+    "_note": "EC3: COL Sam Malinski 4y $4.75M",
+    "aav_usd": 4750000,
+    "source_url": "https://www.nhl.com/news/sam-malinski-signs-4-year-contract-with-colorado-avalanche",
+    "secondary_source_url": "https://thednvr.com/avalanche/avalanche-extend-sam-malinski-for-four-more-years/"
+  },
+  "8470613": {
+    "_note": "EC3: COL Brent Burns 1y $850K base + bonuses",
+    "aav_usd": 850000,
+    "source_url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-burns",
+    "secondary_source_url": "https://www.tsn.ca/nhl/article/avalanche-bring-back-kulak-on-five-year-deal-burns-on-one-year-contract/",
+    "notes": "Base salary $850,000 plus performance bonuses (35+ contract)."
+  },
+  "8476967": {
+    "_note": "EC3: COL Brett Kulak 5y $4.5M",
+    "aav_usd": 4500000,
+    "source_url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-kulak",
+    "secondary_source_url": "https://www.tsn.ca/nhl/article/avalanche-bring-back-kulak-on-five-year-deal-burns-on-one-year-contract/"
+  },
+  "8482742": {
+    "_note": "EC3: COL Zachary L'Heureux direct NHL.com URL",
+    "signing_team": "NSH",
+    "source_url": "https://www.nhl.com/predators/news/predators-sign-zachary-l-heureux-to-two-year-1-75-million-contract-2026-03-18"
+  },
+  "8475809": {
+    "_note": "EC3: COL Scott Wedgewood direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/scott-wedgewood-signs-deal-with-colorado"
+  },
+  "8479343": {
+    "_note": "EC3: UTA Clayton Keller 8y $7.15M",
+    "aav_usd": 7150000,
+    "signing_team": "ARI",
+    "start_season": "2020-21",
+    "end_season": "2027-28",
+    "source_url": "https://www.nhl.com/news/coyotes-forward-clayton-keller-signs-eight-year-extension-308877352"
+  },
+  "8478474": {
+    "_note": "EC3: UTA Lawson Crouse 5y $4.3M",
+    "aav_usd": 4300000,
+    "signing_team": "ARI",
+    "start_season": "2022-23",
+    "end_season": "2026-27",
+    "source_url": "https://www.nhl.com/news/crouse-signs-five-year-contract-with-coyotes-avoids-arbitration-335210346",
+    "secondary_source_url": "https://www.dailyfaceoff.com/players/news/lawson-crouse/2871/page1"
+  },
+  "8480849": {
+    "_note": "EC3: UTA Barrett Hayton 1y $4.775M matched offer sheet",
+    "aav_usd": 4775000,
+    "term_years": 1,
+    "start_season": "2026-27",
+    "end_season": "2026-27",
+    "signed_date": "2026-07-08",
+    "source_url": "https://www.nhl.com/utah/news/utah-mammoth-match-offer-sheet-for-forward-barrett-hayton-release-7-8-26"
+  },
+  "8478872": {
+    "_note": "EC3: UTA Karel Vejmelka 5y $4.75M",
+    "aav_usd": 4750000,
+    "source_url": "https://www.nhl.com/news/karel-vejmelka-signs-5-year-deal-to-stay-with-utah"
+  },
+  "8479619": {
+    "_note": "EC3: UTA Michael Carcone 2y $1.75M + direct DailyFaceoff URL",
+    "aav_usd": 1750000,
+    "source_url": "https://www.dailyfaceoff.com/players/news/michael-carcone/3864/page1"
+  },
+  "8480084": {
+    "_note": "EC3: UTA Nick DeSimone 2y $1.0M + direct NHL.com URL",
+    "aav_usd": 1000000,
+    "signed_date": "2026-06-29",
+    "source_url": "https://www.nhl.com/utah/news/utah-signs-nick-desimone-to-two-year-contract-release-6-29-26"
+  },
+  "8476458": {
+    "_note": "EC3: CGY Ryan Strome 5y $5.0M",
+    "aav_usd": 5000000,
+    "signing_team": "ANA",
+    "start_season": "2022-23",
+    "end_season": "2026-27",
+    "source_url": "https://www.nhl.com/news/ducks-ryan-strome-five-year-contract-334789862",
+    "secondary_source_url": "https://www.nhl.com/news/ryan-strome-ready-for-great-opportunity-following-trade-to-flames"
+  },
+  "8484958": {
+    "_note": "EC3: CGY Maxim Tsyplakov 2y $2.25M",
+    "aav_usd": 2250000,
+    "signing_team": "NYI",
+    "start_season": "2025-26",
+    "end_season": "2026-27",
+    "source_url": "https://www.nhl.com/islanders/news/islanders-sign-tsyplakov"
+  },
+  "8483609": {
+    "_note": "EC3: CGY Adam Klapka 2y $1.25M + direct FlamesNation URL",
+    "aav_usd": 1250000,
+    "source_url": "https://flamesnation.ca/news/flames-sign-forward-adam-klapka-to-two-year-contract-extension-1-25-million-aav"
+  },
+  "8480434": {
+    "_note": "EC3: NYR Sean Durzi 4y $6.0M + direct Sportsnet secondary URL",
+    "aav_usd": 6000000,
+    "signing_team": "UTA",
+    "start_season": "2024-25",
+    "end_season": "2027-28",
+    "source_url": "https://www.nhl.com/news/sean-durzi-signs-4-year-contract-with-utah-hockey-club",
+    "secondary_source_url": "https://www.sportsnet.ca/nhl/article/utah-locks-up-defenceman-sean-durzi-with-four-year-24m-contract/"
+  },
+  "8482666": {
+    "_note": "EC3: NYR Scott Morrow 1y $850K two-way",
+    "aav_usd": 850000,
+    "two_way": true,
+    "signed_date": "2026-08-19",
+    "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-scott-morrow"
+  },
+  "8481525": {
+    "_note": "EC3: NYR Matthew Robertson 2y $775K + direct THW URL",
+    "aav_usd": 775000,
+    "source_url": "https://thehockeywriters.com/what-matthew-robertsons-extension-means-for-the-rangers-blue-line/"
+  },
+  "8480806": {
+    "_note": "EC3: CBJ Isac Lundestrom direct NHL.com URL",
+    "source_url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-isac-lundestrom-to-two-year-contract"
+  },
+  "8483425": {
+    "_note": "EC3: DAL Lian Bichsel direct NHL.com URL",
+    "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-lian-bichsel-to-a-three-year-entry-level--344195572"
+  },
+  "8482109": {
+    "_note": "EC3: NYR Alexis Lafreniere direct NHL.com URL + corrected 2025-26..2031-32 term",
+    "start_season": "2025-26",
+    "end_season": "2031-32",
+    "source_url": "https://www.nhl.com/news/alexis-lafreniere-signs-7-year-contract-with-new-york-rangers"
+  },
+  "8482116": {
+    "_note": "EC3: OTT Tim Stutzle direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/tim-stutzle-signs-eight-year-contract-with-ottawa-senators-335486642"
+  },
+  "8482245": {
+    "_note": "EC3: OTT Artem Zub direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/artem-zub-signs-deal-with-ottawa-339046402"
+  },
+  "8482745": {
+    "_note": "EC3: STL Mason McTavish direct NHL.com URL",
+    "signing_team": "ANA",
+    "start_season": "2025-26",
+    "end_season": "2030-31",
+    "source_url": "https://www.nhl.com/news/mason-mctavish-signs-6-year-contract-with-anaheim-ducks"
+  },
+  "8477149": {
+    "_note": "EC3: TBL Scott Sabourin direct NHL.com URL",
+    "two_way": true,
+    "source_url": "https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-scott-sabourin-to-one-year-two-way-contract-2026"
+  },
+  "8480014": {
+    "_note": "EC3: WPG Gabriel Vilardi direct NHL.com URL",
+    "source_url": "https://www.nhl.com/news/gabriel-vilardi-signs-6-year-contract-with-winnipeg-jets"
+  },
+  "8480796": {
+    "_note": "EC3: WSH Martin Fehervary direct NHL.com URL",
+    "start_season": "2026-27",
+    "end_season": "2032-33",
+    "source_url": "https://www.nhl.com/news/martin-fehervary-signs-7-year-contract-with-washington-capitals"
+  },
+  "8480839": {
+    "_note": "NHLPA cross-check: BUF Rasmus Dahlin 8y $11.0M (was old 3y $6.0M bridge)",
+    "signing_team": "BUF",
+    "signing_status": "RFA",
+    "term_years": 8,
+    "aav_usd": 11000000,
+    "start_season": "2024-25",
+    "end_season": "2031-32",
+    "signed_date": "2023-10-09",
+    "source_url": "https://www.nhl.com/news/rasmus-dahlin-signs-8-year-deal-with-buffalo"
+  },
+  "8482671": {
+    "_note": "NHLPA cross-check: BUF Owen Power 7y $8.35M (was Dahlin $11.0M)",
+    "signing_team": "BUF",
+    "signing_status": "RFA",
+    "term_years": 7,
+    "aav_usd": 8350000,
+    "start_season": "2024-25",
+    "end_season": "2030-31",
+    "signed_date": "2023-10-12",
+    "source_url": "https://www.nhl.com/news/owen-power-signs-seven-year-contract-with-buffalo-sabres"
+  },
+  "8481068": {
+    "_note": "NHLPA cross-check: CGY Yegor Sharangovich 5y $5.75M",
+    "signing_team": "CGY",
+    "signing_status": "UFA",
+    "term_years": 5,
+    "aav_usd": 5750000,
+    "start_season": "2025-26",
+    "end_season": "2029-30",
+    "signed_date": "2024-07-01",
+    "source_url": "https://www.nhl.com/news/yegor-sharangovich-signs-5-year-contract-with-calgary-flames"
+  },
+  "8476455": {
+    "_note": "NHLPA cross-check: COL Gabriel Landeskog 8y $7.0M",
+    "signing_team": "COL",
+    "signing_status": "UFA",
+    "term_years": 8,
+    "aav_usd": 7000000,
+    "start_season": "2021-22",
+    "end_season": "2028-29",
+    "signed_date": "2021-07-28",
+    "source_url": "https://www.nhl.com/news/avalanche-sign-gabriel-landeskog-to-eight-year-contract-325832748"
+  },
+  "8477492": {
+    "_note": "NHLPA cross-check: COL Nathan MacKinnon 8y $12.6025M",
+    "signing_team": "COL",
+    "signing_status": "UFA",
+    "term_years": 8,
+    "aav_usd": 12602500,
+    "start_season": "2023-24",
+    "end_season": "2030-31",
+    "signed_date": "2022-09-20"
+  },
+  "8475768": {
+    "_note": "NHLPA cross-check: COL Jaden Schwartz 3y $3.25M (2026-27..2028-29)",
+    "signing_team": "COL",
+    "signing_status": "UFA",
+    "term_years": 3,
+    "aav_usd": 3250000,
+    "start_season": "2026-27",
+    "end_season": "2028-29",
+    "signed_date": "2026-07-02",
+    "source_url": "https://www.nhl.com/news/jaden-schwartz-signs-3-year-contract-with-colorado-avalanche"
+  },
+  "8475184": {
+    "_note": "NHLPA cross-check: MTL Chris Kreider 1y $2.15M after ANA contract termination",
+    "signing_team": "MTL",
+    "signing_status": "UFA",
+    "term_years": 1,
+    "aav_usd": 2150000,
+    "start_season": "2026-27",
+    "end_season": "2026-27",
+    "signed_date": "2026-09-12",
+    "source_url": "https://www.nhl.com/canadiens/news/one-year-contract-for-chris-kreider-sept-12-2026"
+  },
+  "8480015": {
+    "_note": "NHLPA cross-check: PHI Owen Tippett 8y $6.2M",
+    "signing_team": "PHI",
+    "signing_status": "RFA",
+    "term_years": 8,
+    "aav_usd": 6200000,
+    "start_season": "2024-25",
+    "end_season": "2031-32",
+    "signed_date": "2024-01-26",
+    "source_url": "https://www.nhl.com/news/philadephia-flyers-owen-tippett-contract"
+  },
+  "8476412": {
+    "_note": "NHLPA cross-check: STL Jordan Binnington 6y $6.0M",
+    "signing_team": "STL",
+    "signing_status": "UFA",
+    "term_years": 6,
+    "aav_usd": 6000000,
+    "start_season": "2021-22",
+    "end_season": "2026-27",
+    "signed_date": "2021-03-12",
+    "source_url": "https://www.nhl.com/news/blues-binnington-six-year-36-million-contract-322389078"
+  },
+  "8476389": {
+    "_note": "NHLPA cross-check: UTA Vincent Trocheck 7y $5.625M (signed NYR)",
+    "signing_team": "NYR",
+    "signing_status": "UFA",
+    "term_years": 7,
+    "aav_usd": 5625000,
+    "start_season": "2022-23",
+    "end_season": "2028-29",
+    "signed_date": "2022-07-13",
+    "source_url": "https://www.nhl.com/news/rangers-trocheck-seven-year-contract-334779010"
+  },
+  "8478398": {
+    "_note": "NHLPA cross-check: WPG Kyle Connor 8y $12.0M (2026-27..2033-34)",
+    "signing_team": "WPG",
+    "signing_status": "UFA",
+    "term_years": 8,
+    "aav_usd": 12000000,
+    "start_season": "2026-27",
+    "end_season": "2033-34",
+    "signed_date": "2025-10-08",
+    "source_url": "https://www.nhl.com/news/kyle-connor-signs-eight-year-contract-with-winnipeg-jets"
+  },
+  "8482720": {
+    "_note": "Clear misattributed Marchenko future_extension from CBJ Matthew Knies",
+    "future_extension": null
+  },
+  "8479981": {
+    "_note": "Clear misparsed 2024 Forsling article future_extension from FLA Jonah Gadjovich",
+    "future_extension": null
+  }
+}

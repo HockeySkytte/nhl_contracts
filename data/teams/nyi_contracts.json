@@ -1,0 +1,3071 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "NYI",
+  "team_name": "New York Islanders",
+  "generated_at_utc": "2026-11-26T12:52:59Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/NYI/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 96869375,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 3500000,
+    "combined_roster_plus_penalties_usd": 100369375
+  },
+  "contracts": [
+    {
+      "player_id": 8478445,
+      "player_name": "Mathew Barzal",
+      "position": "C",
+      "sweater_number": 13,
+      "birth_date": "1997-05-26",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2022-10-04",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 9150000,
+      "total_value_usd": 73200000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2022/10/new-york-islanders-extend-mathew-barzal.html",
+      "secondary_source_url": "https://www.nhl.com/news/islanders-sign-barzal-336051572",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9150000,
+      "current_season_base_salary_usd": 9150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 7000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 7000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 9150000,
+          "total_salary_usd": 9150000,
+          "base_salary_usd": 9150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 9150000,
+          "total_salary_usd": 9150000,
+          "base_salary_usd": 9150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 9150000,
+          "total_salary_usd": 9150000,
+          "base_salary_usd": 9150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 9150000,
+          "total_salary_usd": 9150000,
+          "base_salary_usd": 9150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482070,
+      "player_name": "Mitchell Chaffee",
+      "position": "R",
+      "sweater_number": 26,
+      "birth_date": "1998-01-26",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-chaffee",
+      "secondary_source_url": "https://www.dailyfaceoff.com/news/new-york-islanders-sign-forward-mitchell-chaffee-one-year-contract-nhl-free-agency",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2023-24": {
+          "team": "TBL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475231,
+      "player_name": "Casey Cizikas",
+      "position": "C",
+      "sweater_number": 53,
+      "birth_date": "1991-02-27",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2021-09-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 2500000,
+      "total_value_usd": 15000000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.sportsnet.ca/nhl/article/islanders-re-sign-forward-casey-cizikas-six-year-15m-deal/",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "NYI",
+          "aav_usd": 793333,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "NYI",
+          "aav_usd": 793333,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 793333,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 3350000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 3350000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 3350000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 3350000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 3350000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477407,
+      "player_name": "Anthony Duclair",
+      "position": "L",
+      "sweater_number": 11,
+      "birth_date": "1995-08-26",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 3500000,
+      "total_value_usd": 14000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/islanders-sign-anthony-duclair-mike-reilly.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/islanders-sign-duclair",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/ryan-dzingel-traded-to-blue-jackets-by-senators-305151372"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "NYR",
+          "aav_usd": 765000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "ARI",
+          "aav_usd": 765000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 765000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 765000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CHI",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 1650000,
+          "total_salary_usd": 1650000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 3000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485388,
+      "player_name": "Victor Eklund",
+      "position": "R",
+      "sweater_number": 38,
+      "birth_date": "2006-10-03",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-07-14",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 974375,
+      "total_value_usd": 2923125,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-eklund",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2025/07/islanders-sign-viktor-eklund-to-entry-level-contract.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482476,
+      "player_name": "Emil Heineman",
+      "position": "L",
+      "sweater_number": 51,
+      "birth_date": "2001-11-16",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1100000,
+      "total_value_usd": 2200000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2025/07/islanders-sign-emil-heineman-to-two-year-deal.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/islanders-sign-heineman",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/noah-dobson-traded-to-canadiens-by-islanders-gets-eight-year-contract"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1100000,
+      "current_season_base_salary_usd": 1100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 897500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481601,
+      "player_name": "Simon Holmstrom",
+      "position": "R",
+      "sweater_number": 92,
+      "birth_date": "2001-05-24",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3625000,
+      "total_value_usd": 7250000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2025/07/islanders-sign-simon-holmstrom-to-two-year-deal.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/islanders-sign-holmstrom-2025",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3750000,
+      "current_season_base_salary_usd": 3750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 3625000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 3625000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477500,
+      "player_name": "Bo Horvat",
+      "position": "C",
+      "sweater_number": 14,
+      "birth_date": "1995-04-05",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2023-02-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8500000,
+      "total_value_usd": 68000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2023/02/new-york-islanders-extend-bo-horvat.html",
+      "secondary_source_url": "https://www.nhl.com/news/bo-horvat-agrees-to-contract-with-new-york-islanders-340738086",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/islanders-acquire-horvat-340602024"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8500000,
+      "current_season_base_salary_usd": 8500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "VAN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "VAN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "VAN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5775000,
+          "base_salary_usd": 5775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5775000,
+          "base_salary_usd": 5775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4450000,
+          "base_salary_usd": 4450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481711,
+      "player_name": "Matias Maccelli",
+      "position": "L",
+      "sweater_number": 63,
+      "birth_date": "2000-10-14",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 2250000,
+      "total_value_usd": 2250000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/islanders-to-sign-matias-maccelli.html",
+      "secondary_source_url": "https://www.nhl.com/news/matias-maccelli-signs-1-year-contract-with-new-york-islanders",
+      "future_extension": null,
+      "notes": "Non-tendered by TOR (became UFA) before signing 1-year, $2.25M deal with NYI.",
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-forward-group-gives-toronto-maple-leafs-different-look-after-mitch-marner-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 853333,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 853333,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 853333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 3425000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 3425000,
+          "total_salary_usd": 3025000,
+          "base_salary_usd": 3025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 3425000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476419,
+      "player_name": "Jean-Gabriel Pageau",
+      "position": "C",
+      "sweater_number": 44,
+      "birth_date": "1992-11-11",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-03-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 4850000,
+      "total_value_usd": 14550000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/03/islanders-sign-jean-gabriel-pageau-to-three-year-extension.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/pageau-thrilled-to-extend-with-isles-long-island-feels-like-home",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/islanders/news/takeaways-darche-on-trade-deadline"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4850000,
+      "current_season_base_salary_usd": 4850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "OTT",
+          "aav_usd": 613333,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "OTT",
+          "aav_usd": 613333,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "OTT",
+          "aav_usd": 613333,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 65000
+        },
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 900000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 900000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 3100000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 4850000,
+          "total_salary_usd": 4850000,
+          "base_salary_usd": 4850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476292,
+      "player_name": "Ondrej Palat",
+      "position": "L",
+      "sweater_number": 81,
+      "birth_date": "1991-03-28",
+      "current_team": "NYI",
+      "signing_team": "NJD",
+      "signed_date": "2022-07-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 6000000,
+      "total_value_usd": 30000000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ondrej-palat-signs-five-year-contract-with-devils-334790834",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-jersey-devils-trade-ondrej-palat-to-new-york-islanders-for-maxim-tsyplakov"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4950000,
+      "current_season_base_salary_usd": 4950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "TBL",
+          "aav_usd": 575000,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 55000
+        },
+        "2012-13": {
+          "team": "TBL",
+          "aav_usd": 575000,
+          "total_salary_usd": 562500,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 37500,
+          "minor_league_salary_usd": 60000
+        },
+        "2013-14": {
+          "team": "TBL",
+          "aav_usd": 575000,
+          "total_salary_usd": 587500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 37500,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "TBL",
+          "aav_usd": 3333333,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "TBL",
+          "aav_usd": 3333333,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "TBL",
+          "aav_usd": 3333333,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TBL",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "TBL",
+          "aav_usd": 5300000,
+          "total_salary_usd": 6855000,
+          "base_salary_usd": 6855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 5300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TBL",
+          "aav_usd": 5300000,
+          "total_salary_usd": 3445000,
+          "base_salary_usd": 3445000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 5300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6900000,
+          "base_salary_usd": 3580000,
+          "signing_bonus_usd": 3320000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 1770000,
+          "signing_bonus_usd": 3180000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 3950000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475151,
+      "player_name": "Kyle Palmieri",
+      "position": "C",
+      "sweater_number": 21,
+      "birth_date": "1991-02-01",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-05-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 4750000,
+      "total_value_usd": 9500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2025/05/islanders-sign-kyle-palmieri-adam-boqvist-to-extensions.html",
+      "secondary_source_url": "https://www.nhl.com/news/kyle-palmieri-signs-2-year-contract-to-remain-with-new-york-islanders",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-trade-buzz-news-and-notes-april-8-323401392"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4750000,
+      "current_season_base_salary_usd": 4750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 1466667,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "NJD",
+          "aav_usd": 1466667,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 1466667,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 4650000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 4650000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 4650000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 4650000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 4650000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484221,
+      "player_name": "Calum Ritchie",
+      "position": "C",
+      "sweater_number": 64,
+      "birth_date": "2005-01-21",
+      "current_team": "NYI",
+      "signing_team": "COL",
+      "signed_date": "2024-07-08",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 937500,
+      "total_value_usd": 2812500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/avalanche-sign-calum-ritchie-to-entry-level-deal.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/islanders/news/islanders-acquire-ritchie-a-first-round-selection-in-2026-or-2027-a-third-round-pick-in-2028-and-kylington-in-exchange-for-nelson-and-dufour"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8475170,
+      "player_name": "Brayden Schenn",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "1991-08-22",
+      "current_team": "NYI",
+      "signing_team": "STL",
+      "signed_date": "2019-10-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 8,
+      "aav_usd": 6500000,
+      "total_value_usd": 52000000,
+      "start_season": "2020-21",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brayden-schenn-eight-year-deal-st-louis-blues-309737792",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/brayden-schenn-adjusting-off-ice-after-trade-to-new-york-islanders"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4300000,
+      "current_season_base_salary_usd": 4300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PHI",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "PHI",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "PHI",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "PHI",
+          "aav_usd": 877500,
+          "total_salary_usd": 810000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 5125000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 5125000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 5125000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 5125000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4300000,
+          "base_salary_usd": 4300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477950,
+      "player_name": "Tony DeAngelo",
+      "position": "D",
+      "sweater_number": 77,
+      "birth_date": "1995-10-24",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-06-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 4500000,
+      "total_value_usd": 9000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/06/islanders-sign-tony-deangelo-to-two-year-extension.html",
+      "secondary_source_url": "https://www.nhl.com/news/tony-deangelo-signs-two-year-contract-with-new-york-islanders",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/philadelphia-flyers-tony-deangelo-eager-to-play-for-coach-john-tortore-334905314"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "TBL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 4800000,
+          "total_salary_usd": 4300000,
+          "base_salary_usd": 4300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 1675000,
+          "total_salary_usd": 1675000,
+          "base_salary_usd": 1675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477018,
+      "player_name": "Ben Hutton",
+      "position": "D",
+      "sweater_number": 71,
+      "birth_date": "1993-04-20",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-11-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 900000,
+      "total_value_usd": 900000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/11/islanders-sign-ben-hutton-to-pto.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/islanders-sign-hutton-to-one-year-contract",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "VAN",
+          "aav_usd": 896250,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 896250,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 400000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 850000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 850000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482516,
+      "player_name": "Matthew Kessel",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "2000-06-23",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-kessel",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": "Official Islanders release confirmed one-year contract; dollar figure not disclosed in official release.",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 883750,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 883750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476429,
+      "player_name": "Scott Mayfield",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1992-10-14",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2023-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 7,
+      "aav_usd": 3500000,
+      "total_value_usd": 24500000,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.sportsnet.ca/nhl/article/islanders-sign-scott-mayfield-to-seven-year-extension/",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 625000,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 625000,
+          "total_salary_usd": 675000,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476917,
+      "player_name": "Adam Pelech",
+      "position": "D",
+      "sweater_number": 3,
+      "birth_date": "1994-08-16",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2021-08-06",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 5750000,
+      "total_value_usd": 46000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2021/08/adam-pelech-signs-eight-year-contract.html",
+      "secondary_source_url": "https://www.nhl.com/news/pelech-thrilled-to-sign-long-term-with-islanders-325923820",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5750000,
+      "current_season_base_salary_usd": 5750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 854333,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 854333,
+          "total_salary_usd": 845500,
+          "base_salary_usd": 753000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 854333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 1600000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1925000,
+          "base_salary_usd": 1925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 1600000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477506,
+      "player_name": "Ryan Pulock",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "1994-10-06",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2021-10-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 6150000,
+      "total_value_usd": 49200000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2021/10/islanders-agree-to-terms-on-eight-year-extension-with-ryan-pulock.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6150000,
+      "current_season_base_salary_usd": 6150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2650000,
+          "base_salary_usd": 2650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3340000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 740000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6660000,
+          "base_salary_usd": 5160000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 6150000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 6150000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 6150000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 6150000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 6150000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481014,
+      "player_name": "Alexander Romanov",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "2000-01-06",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 6250000,
+      "total_value_usd": 50000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2025/06/islanders-to-sign-alexander-romanov-to-eight-year-extension.html",
+      "secondary_source_url": "https://www.nhl.com/news/alexander-romanov-signs-8-year-deal-with-new-york-islanders",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/kirby-dach-traded-to-montreal-canadiens-by-chicago-blackhawks-for-draf-334850236"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 6250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 894167,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 894167,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 894167,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485366,
+      "player_name": "Matthew Schaefer",
+      "position": "D",
+      "sweater_number": 48,
+      "birth_date": "2007-09-05",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2025-08-04",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 20 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 982500,
+      "total_value_usd": 2947500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2025/08/islanders-sign-matthew-schaefer.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8479378,
+      "player_name": "Logan Stanley",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1998-05-26",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2026-09-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1500000,
+      "total_value_usd": 1500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/new-york-islanders-sign-logan-stanley.html",
+      "secondary_source_url": "https://www.nhl.com/islanders/news/islanders-sign-logan-stanley-to-one-year-contract",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/defensemen-logan-stanley-luke-schenn-traded-to-sabres-by-jets"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 900000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 900000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478009,
+      "player_name": "Ilya Sorokin",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "1995-08-04",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2023-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 8250000,
+      "total_value_usd": 66000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2023/07/new-york-islanders-sign-ilya-sorokin-to-eight-year-extension.html",
+      "secondary_source_url": "https://www.nhl.com/news/islanders-sign-sorokin-345166386",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 8250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8473575,
+      "player_name": "Semyon Varlamov",
+      "position": "G",
+      "sweater_number": 40,
+      "birth_date": "1988-04-27",
+      "current_team": "NYI",
+      "signing_team": "NYI",
+      "signed_date": "2023-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 2750000,
+      "total_value_usd": 11000000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://thehockeywriters.com/islanders-re-sign-semyon-varlamov-4-year-deal/",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2750000,
+      "current_season_base_salary_usd": 2750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-islanders",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "COL",
+          "aav_usd": 828750,
+          "total_salary_usd": 765000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 62500
+        },
+        "2011-12": {
+          "team": "COL",
+          "aav_usd": 2833333,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "COL",
+          "aav_usd": 2833333,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "COL",
+          "aav_usd": 2833333,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "COL",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYI",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYI",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": 8485366,
+      "player_name": "Matthew Schaefer (2025-26 ELC Bonus Carryover)",
+      "event_date": "2026-04-20",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 3500000,
+      "source_url": "https://www.prohockeyrumors.com/2026/04/at-least-eight-teams-to-carry-overage-penalty-into-2026-27.html",
+      "secondary_source_url": "https://www.dailyfaceoff.com/news/eight-nhl-teams-salary-cap-overages-nhl-2026-27-islanders-colorado-dallas-montreal-new-jersey-san-jose-edmonton-florida-tampa-ottawa",
+      "notes": "Matthew Schaefer earned the full $3.5M in ELC Schedule A ($1M) + Schedule B ($2.5M) bonuses in 2025-26 while NYI used LTIR, carrying the entire $3.5M penalty onto the 2026-27 cap."
+    }
+  ]
+}

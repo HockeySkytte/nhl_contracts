@@ -1,0 +1,2722 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "NYR",
+  "team_name": "New York Rangers",
+  "generated_at_utc": "2026-11-26T22:49:28Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/NYR/current",
+  "summary": {
+    "roster_players": 28,
+    "contracts_with_verified_source_url": 28,
+    "contracts_matched_nhlpa": 28,
+    "contracts_with_public_aav": 28,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 107903399,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 107903399
+  },
+  "contracts": [
+    {
+      "player_id": 8477416,
+      "player_name": "Oliver Bjorkstrand",
+      "position": "R",
+      "sweater_number": 28,
+      "birth_date": "1995-04-10",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 4500000,
+      "total_value_usd": 4500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-oliver-bjorkstrand",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanFGa1E5WElWT3pCb1FvTy1NWEpTZmFOTXlYQWs3RWMtMFZ0ckN2U2tLSjF0bmZuQVJEU3RnM01YQnAzU3pLeWFPTHpsQWFWblhoWjEzMS1LejdKRE1lc1Y2c0NrdEQ2VlJfcjlYSzlXT25VWWxTT0hHa3pLNWNwSHFCb0s3bFF3QUhqLTh3WWRYYVZQRU1rbVdaYVNzd0gtNE5pREI4OGtXbEE?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "CBJ",
+          "aav_usd": 650500,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 650500,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 650500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 650500,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 650500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 5400000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 5400000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 5900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 5400000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482877,
+      "player_name": "Jaroslav Chmelar",
+      "position": "R",
+      "sweater_number": 49,
+      "birth_date": "2003-07-20",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 892500,
+      "total_value_usd": null,
+      "start_season": "2024-25",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 942500,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 92500,
+      "minor_league_salary_usd": 80000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 892500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 892500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 892500,
+          "total_salary_usd": 942500,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        }
+      }
+    },
+    {
+      "player_id": 8482157,
+      "player_name": "Will Cuylle",
+      "position": "L",
+      "sweater_number": 50,
+      "birth_date": "2002-02-05",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3900000,
+      "total_value_usd": 7800000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-will-cuylle",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0tZbFZtTjA1bUhqMWRteTh4UXAxZFZGM3FJZnhvaWJFMHo3YnVhSEVzR3pETTVNbHBSYWRkSlVCeFBhZVdhWjdQVXFLbEYwRDdjdDNqLXNacDFQRV9JRnRfTWx2dkZVYjlESUFwZXJ4U0s4eUtkMW05bXBEMnZOX0E0Rk1fMkhZbDRMSXE2cE1CNi1z?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4680000,
+      "current_season_base_salary_usd": 4680000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 3900000,
+          "total_salary_usd": 3120000,
+          "base_salary_usd": 2520000,
+          "signing_bonus_usd": 600000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 3900000,
+          "total_salary_usd": 4680000,
+          "base_salary_usd": 4680000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481604,
+      "player_name": "Pavel Dorofeyev",
+      "position": "R",
+      "sweater_number": 16,
+      "birth_date": "2000-10-26",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 11000000,
+      "total_value_usd": 77000000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/pavel-dorofeyev-signs-7-year-contract-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/pavel-dorofeyev-traded-to-new-york-rangers-by-vegas-golden-knights"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 14000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 13000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 1835000,
+          "total_salary_usd": 2070000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1295000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 1835000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 14000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 13000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478446,
+      "player_name": "Glenn Gawdin",
+      "position": "C",
+      "sweater_number": 15,
+      "birth_date": "1997-03-25",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-glenn-gawdin",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 600000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 775833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 775833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 775833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 95000
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2024-25": {
+          "team": "LAK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 600000
+        }
+      }
+    },
+    {
+      "player_id": 8481789,
+      "player_name": "Tye Kartye",
+      "position": "L",
+      "sweater_number": 24,
+      "birth_date": "2001-04-30",
+      "current_team": "NYR",
+      "signing_team": "SEA",
+      "signed_date": "2025-07-05",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1250000,
+      "total_value_usd": 2500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-sign-forward-tye-kartye-to-a-two-year-contract-pr",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 859167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 859167,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 859167,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483690,
+      "player_name": "Noah Laba",
+      "position": "C",
+      "sweater_number": 42,
+      "birth_date": "2003-08-04",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-03-18",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 907500,
+      "total_value_usd": 1815000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2xTUjY0cHVqLUw0ZlRBSU5sYUVEMzA3WnlGVGhySnFJRVpGVnotX1pOSnk4ZmU2M09ObWtYU1k5Um1XOEpQUXFjc0c5Rk4ybHhDSmdZX3QwRnhsUzkxMDZBcHlsWVNtT1hSM3pQQmo2QmR6cDVoWTQ4MklGUVd5cmVEWmNtR3Y2eEtHV00wYXpsYWJEZk12ZElwcw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 945000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 907500,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 907500,
+          "total_salary_usd": 945000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482109,
+      "player_name": "Alexis Lafreni\u00e8re",
+      "position": "L",
+      "sweater_number": 13,
+      "birth_date": "2001-10-11",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2024-10-26",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 7450000,
+      "total_value_usd": 52150000,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alexis-lafreniere-signs-7-year-contract-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 2325000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 350000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 2325000,
+          "total_salary_usd": 2650000,
+          "base_salary_usd": 2650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 7450000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 7450000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476468,
+      "player_name": "J.T. Miller",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "1993-03-14",
+      "current_team": "NYR",
+      "signing_team": "VAN",
+      "signed_date": "2022-09-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 7,
+      "aav_usd": 8000000,
+      "total_value_usd": 56000000,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/j-t-miller-canucks-agree-to-seven-year-contract-335457260",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "NYR",
+          "aav_usd": 874000,
+          "total_salary_usd": 874000,
+          "base_salary_usd": 874000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYR",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TBL",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 8000000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484210,
+      "player_name": "Gabe Perreault",
+      "position": "R",
+      "sweater_number": 94,
+      "birth_date": "2005-05-07",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 941667,
+      "total_value_usd": null,
+      "start_season": "2024-25",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 941667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8479390,
+      "player_name": "Taylor Raddysh",
+      "position": "R",
+      "sweater_number": 14,
+      "birth_date": "1998-02-18",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1500000,
+      "total_value_usd": 3000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-taylor-raddysh",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHFaQjVLRUhQQVVlalNtZTctX25pX0tlSTFvOWhLYXN3VHVvY1ZkMDF1T2dDZGVIVjR0VFJfT2Y2NHZEcmdJWEdJQXluTENoVk1CNGktckdvZE5maXdVNVRLUHJVTmUxT1pqdHg3NjR0QXlDSmZsYzNXRVhsX1c1SElWVnBDQUUxLXVhTU5pRmRfM3ZLM0I4dkpFZThLa3FwLTBNdVNB?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "TBL",
+          "aav_usd": 810625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "TBL",
+          "aav_usd": 810625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 810625,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "TBL",
+          "aav_usd": 810625,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 758333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 758333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 758333,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482460,
+      "player_name": "Matt Rempe",
+      "position": "C",
+      "sweater_number": 73,
+      "birth_date": "2002-06-29",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-06-18",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 975000,
+      "total_value_usd": 1950000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matt-rempe-signs-2-year-contract-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 975000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 822500,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 822500,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 822500,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 822500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484136,
+      "player_name": "Max Sasson",
+      "position": "C",
+      "sweater_number": 63,
+      "birth_date": "2000-09-05",
+      "current_team": "NYR",
+      "signing_team": "VAN",
+      "signed_date": "2025-12-15",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1000000,
+      "total_value_usd": 2000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2RTbnJRWHc0TDJsMGdEeEpYRlpnMTRrak5ORjJIRUItREZLMUpwbmdwWlo3anRHdzRqQXJ5M19UMnA4cEFxZ1ItMGM3bXVyTWd4YzliNlFWcE1DUE8yVDVPaGpnMHk2THVXTzlsQjB6TkFmbWhVYVJqWmxDZ2ZoS20xQWo?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/max-sasson-traded-to-new-york-rangers-from-vancouver-canucks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483669,
+      "player_name": "Adam Sykora",
+      "position": "L",
+      "sweater_number": 38,
+      "birth_date": "2004-09-07",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 847000,
+      "total_value_usd": null,
+      "start_season": "2022-23",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 80000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 847000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 847000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 847000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 847000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 847000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        }
+      }
+    },
+    {
+      "player_id": 8480009,
+      "player_name": "Eeli Tolvanen",
+      "position": "R",
+      "sweater_number": 17,
+      "birth_date": "1999-04-22",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-09-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1500000,
+      "total_value_usd": 1500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/eeli-tolvanen-signs-1-year-deal-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 3475000,
+          "total_salary_usd": 3475000,
+          "base_salary_usd": 3475000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 3475000,
+          "total_salary_usd": 3475000,
+          "base_salary_usd": 3475000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480813,
+      "player_name": "Joseph Veleno",
+      "position": "C",
+      "sweater_number": 90,
+      "birth_date": "2000-01-13",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 1200000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1200000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 200000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 2275000,
+          "total_salary_usd": 2275000,
+          "base_salary_usd": 1775000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476459,
+      "player_name": "Mika Zibanejad",
+      "position": "C",
+      "sweater_number": 93,
+      "birth_date": "1993-04-18",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2021-10-10",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 8500000,
+      "total_value_usd": 68000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/new-york-rangers-mika-zibanejad-contract-extension-326730892",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2VsczNuRlVrVWtITjBxZ3JvQ2NJai1CN0pCQXNCYUUydXpMYmk5ZU4yTjI0dVZJblB0Y2phYVh6NXRCbFRjZy1vLTZRSnIyUk5haElMczVfdk9fZEtaUWZwUVdHeGtWVmJvR2tFcjBfS09qQ3hGSHM4WW4xUWNPTHBSSG1tT1o2MDI0c0h5dG5uZFRLWlY5am5tX2Q5aU1Ya2VOandwZV92MlN1YmVJQ293?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/zibanejad-instagram-goodbye-kreider-rangers-ducks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 7500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "OTT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "OTT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "OTT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "OTT",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 2625000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYR",
+          "aav_usd": 2625000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 5350000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5150000,
+          "base_salary_usd": 2650000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 5350000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480434,
+      "player_name": "Sean Durzi",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "1998-10-21",
+      "current_team": "NYR",
+      "signing_team": "UTA",
+      "signed_date": "2024-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 6000000,
+      "total_value_usd": 24000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sean-durzi-signs-4-year-contract-with-utah-hockey-club",
+      "secondary_source_url": "https://www.sportsnet.ca/nhl/article/utah-locks-up-defenceman-sean-durzi-with-four-year-24m-contract/",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vincent-trocheck-traded-to-utah-mammoth-by-new-york-rangers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 4800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 809167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 809167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 809167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 1700000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "UTA",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479323,
+      "player_name": "Adam Fox",
+      "position": "D",
+      "sweater_number": 23,
+      "birth_date": "1998-02-17",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2021-11-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 7,
+      "aav_usd": 9500000,
+      "total_value_usd": 66500000,
+      "start_season": "2021-22",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/rangers-fox-agree-to-seven-year-contract-327470086",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 6500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 9500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 9500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 6500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478882,
+      "player_name": "Vladislav Gavrikov",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "1995-11-21",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 6992857,
+      "total_value_usd": 48949999,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/vladislav-gavrikov-signs-7-year-contract-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 8000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 2800000,
+          "total_salary_usd": 1650000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2550000,
+          "base_salary_usd": 2550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 2800000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 5875000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 5725000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 5875000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 4475000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 6992857,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 6992857,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482666,
+      "player_name": "Scott Morrow",
+      "position": "D",
+      "sweater_number": 60,
+      "birth_date": "2002-11-01",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-08-19",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/rangers/news/rangers-agree-to-terms-with-scott-morrow",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/rangers/news/rangers-acquire-scott-morrow-first-round-pick-and-second-round-pick-in-exchange-for-k-andre-miller"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 125000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        }
+      }
+    },
+    {
+      "player_id": 8477969,
+      "player_name": "Marcus Pettersson",
+      "position": "D",
+      "sweater_number": 26,
+      "birth_date": "1996-05-08",
+      "current_team": "NYR",
+      "signing_team": "VAN",
+      "signed_date": "2025-02-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 5500000,
+      "total_value_usd": 33000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/marcus-pettersson-agrees-to-six-year-contract-with-vancouver",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/marcus-pettersson-traded-to-new-york-rangers-by-vancouver-canucks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 776875,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 632500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 776875,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 632500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 776875,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 732500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 776875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 4025175,
+          "total_salary_usd": 4025175,
+          "base_salary_usd": 4025175,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 4025175,
+          "total_salary_usd": 4025175,
+          "base_salary_usd": 4025175,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 4025175,
+          "total_salary_usd": 4025175,
+          "base_salary_usd": 4025175,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 4025175,
+          "total_salary_usd": 4025175,
+          "base_salary_usd": 4025175,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 4025175,
+          "total_salary_usd": 4025175,
+          "base_salary_usd": 4025175,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481525,
+      "player_name": "Matthew Robertson",
+      "position": "D",
+      "sweater_number": 29,
+      "birth_date": "2001-03-09",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2025-06-20",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (1 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://thehockeywriters.com/what-matthew-robertsons-extension-means-for-the-rangers-blue-line/",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 795500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 795500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 795500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 795500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 795500,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482073,
+      "player_name": "Braden Schneider",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "2001-09-20",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-07-13",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 5500000,
+      "total_value_usd": 5500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/braden-schneider-signs-1-year-deal-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 2200000,
+          "total_salary_usd": 1760000,
+          "base_salary_usd": 1635000,
+          "signing_bonus_usd": 125000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2640000,
+          "base_salary_usd": 2640000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485957,
+      "player_name": "Alberts Smits",
+      "position": "D",
+      "sweater_number": 12,
+      "birth_date": "2007-12-02",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 1075000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 87500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 87500
+        }
+      }
+    },
+    {
+      "player_id": 8482193,
+      "player_name": "Dylan Garand",
+      "position": "G",
+      "sweater_number": 33,
+      "birth_date": "2002-06-07",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2026-06-21",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 28 career NHL GP (9 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlo3VjFIRXAxaFBKcTRNdERIQ21EU3ZhbnVqemt5NG1ia3Z5MWMwTU93WmYxUGZ5RUxrQ2JBWEFQZlBYdmpmT1Z5YWhwT0dOQkJQN0JOM1JPZU9FY3hoTkFXVkFnaFRQTHJySmkwZmt6RFl1WGlJeDhuSGllRjhWTkdZaGJHMlNzUDROdS1Da2c?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 400000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 831875,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        }
+      }
+    },
+    {
+      "player_id": 8476914,
+      "player_name": "Joonas Korpisalo",
+      "position": "G",
+      "sweater_number": 70,
+      "birth_date": "1994-04-28",
+      "current_team": "NYR",
+      "signing_team": "OTT",
+      "signed_date": "2023-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 5,
+      "aav_usd": 4000000,
+      "total_value_usd": 20000000,
+      "start_season": "2023-24",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ottawa-senators-sign-joonas-korpisalo-to-5-year-contract-344850288",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/joonas-korpisalo-traded-to-new-york-rangers-by-boston-bruins"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 742500,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 742500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 742500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 900000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 900000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 1150000,
+          "total_salary_usd": 1150000,
+          "base_salary_usd": 1150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 2800000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BOS",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478048,
+      "player_name": "Igor Shesterkin",
+      "position": "G",
+      "sweater_number": 31,
+      "birth_date": "1995-12-30",
+      "current_team": "NYR",
+      "signing_team": "NYR",
+      "signed_date": "2024-12-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 11559375,
+      "total_value_usd": 92475000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/igor-shesterkin-signs-eight-year-contract-with-new-york-rangers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 15850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 15000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/new-york-rangers",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 5666667,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 5666667,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 5666667,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 5666667,
+          "total_salary_usd": 6666666,
+          "base_salary_usd": 6666666,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 11559375,
+          "total_salary_usd": 15825000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 15050000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "NYR",
+          "aav_usd": 11559375,
+          "total_salary_usd": 15850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 15000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

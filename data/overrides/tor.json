@@ -1,0 +1,108 @@
+{
+  "team": "TOR",
+  "team_name": "Toronto Maple Leafs",
+  "cap_penalties": [],
+  "cap_penalties_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-toronto-maple-leafs-10.html",
+  "cap_penalties_note": "No active buyouts, retained salary, or bonus overages on the 2026-27 cap.",
+  "overrides": {
+    "8479772": {
+      "player_name": "Zack MacEwen",
+      "signing_status": "UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-forward-zack-macewen",
+      "secondary_source_url": "https://theleafsnation.com/news/zack-macewen-discusses-what-makes-toronto-maple-leafs-fourth-line-effective"
+    },
+    "8479318": {
+      "player_name": "Auston Matthews",
+      "signing_status": "UFA",
+      "term_years": 4,
+      "aav_usd": 13250000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "signed_date": "2023-08-23",
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-re-sign-auston-matthews-to-four-year-contract-extension-345652302"
+    },
+    "8486067": {
+      "player_name": "Gavin McKenna",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "signed_date": "2026-07-03",
+      "source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-sign-gavin-mckenna-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-toronto-maple-leafs-10.html",
+      "notes": "2026 1st-overall pick ELC: $1.075M base cap hit + up to $1M 'A' and $2.5M 'B' bonuses."
+    },
+    "8484158": {
+      "player_name": "Easton Cowan",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 900000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-toronto-maple-leafs-10.html",
+      "notes": "Post-slide ELC base cap hit ($900K) per ProHockeyRumors 2026-27 cap deep dive."
+    },
+    "8482691": {
+      "player_name": "Aatu Räty",
+      "signing_team": "VAN",
+      "signing_status": "RFA",
+      "term_years": 2,
+      "aav_usd": 775000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "signed_date": "2025-06-30",
+      "source_url": "https://www.sportsnet.ca/article/canucks-sign-forward-aatu-raty-to-two-year-1-55-million-contract-extension/",
+      "trade_url": "https://www.prohockeyrumors.com/2026/10/maple-leafs-acquire-aatu-raty.html"
+    },
+    "8477425": {
+      "player_name": "Miles Wood",
+      "signing_team": "COL",
+      "signing_status": "UFA",
+      "term_years": 6,
+      "aav_usd": 2500000,
+      "start_season": "2023-24",
+      "end_season": "2028-29",
+      "signed_date": "2023-07-01",
+      "source_url": "https://www.dailyfaceoff.com/news/colorado-avalanche-sign-miles-wood-to-six-year-15-million-contract",
+      "trade_url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies"
+    },
+    "8484287": {
+      "player_name": "Cole McWard",
+      "signing_status": "UFA",
+      "term_years": 2,
+      "aav_usd": null,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "signed_date": "2026-07-03",
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-lettieri-mcward-rybinski-and-hlavaj",
+      "notes": "Official Maple Leafs release confirmed two-year contract; dollar terms not disclosed in official/major news coverage."
+    },
+    "8475683": {
+      "player_name": "Sergei Bobrovsky",
+      "signing_status": "UFA",
+      "term_years": 3,
+      "aav_usd": 7000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.sportsnet.ca/nhl/article/sergei-bobrovsky-agrees-to-three-year-21m-deal-with-maple-leafs/",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-expected-to-sign-sergei-bobrovsky.html"
+    },
+    "8475166": {
+      "player_name": "John Tavares",
+      "aav_usd": 4389280,
+      "notes": "Deferred-salary structure yields $4,389,280 cap hit per ProHockeyRumors 2026-27 cap deep dive (reported as $4.38M on NHL.com)."
+    },
+    "8476931": {
+      "player_name": "Jake McCabe",
+      "aav_usd": 4513102,
+      "notes": "Deferred-salary structure yields $4,513,102 cap hit per ProHockeyRumors 2026-27 cap deep dive (reported as $4.51M on NHL.com)."
+    }
+  }
+}

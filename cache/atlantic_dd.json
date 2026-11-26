@@ -1,0 +1,1055 @@
+{
+  "BOS": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html",
+    "players": {
+      "mason-lohrei": {
+        "name": "Mason Lohrei",
+        "aav_usd": 3200000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "marat-khusnutdinov": {
+        "name": "Marat Khusnutdinov",
+        "aav_usd": 925000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "fraser-minten": {
+        "name": "Fraser Minten",
+        "aav_usd": 879166,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "michael-dipietro": {
+        "name": "Michael DiPietro",
+        "aav_usd": 812500,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "michael-eyssimont": {
+        "name": "Michael Eyssimont",
+        "aav_usd": 1450000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "sean-kuraly": {
+        "name": "Sean Kuraly",
+        "aav_usd": 1850000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "casey-mittelstadt": {
+        "name": "Casey Mittelstadt",
+        "aav_usd": 5750000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "pavel-zacha": {
+        "name": "Pavel Zacha",
+        "aav_usd": 4750000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "james-hagens": {
+        "name": "James Hagens",
+        "aav_usd": 986250,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $1MM in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "connor-clifton": {
+        "name": "Connor Clifton",
+        "aav_usd": 2250000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "henri-jokiharju": {
+        "name": "Henri Jokiharju",
+        "aav_usd": 3000000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "mark-kastelic": {
+        "name": "Mark Kastelic",
+        "aav_usd": 1566667,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "alex-steeves": {
+        "name": "Alex Steeves",
+        "aav_usd": 1625000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "william-borgen": {
+        "name": "William Borgen",
+        "aav_usd": 4100000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "tanner-jeannot": {
+        "name": "Tanner Jeannot",
+        "aav_usd": 3400000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "hampus-lindholm": {
+        "name": "Hampus Lindholm",
+        "aav_usd": 6500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "charlie-mcavoy": {
+        "name": "Charlie McAvoy",
+        "aav_usd": 9500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "jj-peterka": {
+        "name": "JJ Peterka",
+        "aav_usd": 7700000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      },
+      "nikita-zadorov": {
+        "name": "Nikita Zadorov",
+        "aav_usd": 5000000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-boston-bruins-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $98,609,583 Cap Space: $5,390,417 Potential Bonuses: $1MM (some could be reached) Dead Cap: $615K (retained salary on Brandon Carlo ) Still to Sign: F Matthew Poitras",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $78,377,917 (15 players signed) Cap Space: $35,122,083 Potential Bonuses: $1MM (possible some of the \u2018A\u2019 bonuses are reached) Dead Cap: None",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $68.95MM (10 players signed) Cap Space: $54.05MM Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $68.95MM (10 players signed) Cap Space: $64.55MM Potential Bonuses: None Dead Cap: None"
+    ]
+  },
+  "BUF": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+    "players": {
+      "louis-crevier": {
+        "name": "Louis Crevier",
+        "aav_usd": 900000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "colten-ellis": {
+        "name": "Colten Ellis",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "noah-ostlund": {
+        "name": "Noah Ostlund",
+        "aav_usd": 886666,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $475K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "jack-quinn": {
+        "name": "Jack Quinn",
+        "aav_usd": 3375000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "sam-carrick": {
+        "name": "Sam Carrick",
+        "aav_usd": 1000000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "justin-danforth": {
+        "name": "Justin Danforth",
+        "aav_usd": 1800000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "alex-lyon": {
+        "name": "Alex Lyon",
+        "aav_usd": 1500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "zach-metsa": {
+        "name": "Zach Metsa",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "conor-timmins": {
+        "name": "Conor Timmins",
+        "aav_usd": 2200000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "jason-zucker": {
+        "name": "Jason Zucker",
+        "aav_usd": 4750000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "konsta-helenius": {
+        "name": "Konsta Helenius",
+        "aav_usd": 953750,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $600K \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "tyson-kozak": {
+        "name": "Tyson Kozak",
+        "aav_usd": 875000,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "olen-zellweger": {
+        "name": "Olen Zellweger",
+        "aav_usd": 3100000,
+        "end_season": "2028-29",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "ukko-pekka-luukkonen": {
+        "name": "Ukko-Pekka Luukkonen",
+        "aav_usd": 4750000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "ryan-mcleod": {
+        "name": "Ryan McLeod",
+        "aav_usd": 5000000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "peyton-krebs": {
+        "name": "Peyton Krebs",
+        "aav_usd": 4500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "joshua-norris": {
+        "name": "Joshua Norris",
+        "aav_usd": 7950000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "mattias-samuelsson": {
+        "name": "Mattias Samuelsson",
+        "aav_usd": 4285715,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "tage-thompson": {
+        "name": "Tage Thompson",
+        "aav_usd": 7142857,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $98,876,348 Cap Space: $5,123,652 Potential Bonuses: $1.075MM (most unlikely to be reached) Dead Cap: $6,444,444 ( Jeff Skinner buyout)",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $77,718,432 (14 players signed) Cap Space: $35,781,568 Potential Bonuses: $600K (some could reasonably be reached) Dead Cap: $2,444,444 (Skinner buyout)",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $75,889,683 (9 players signed) Cap Space: $47,110,317 Potential Bonuses: None Dead Cap: $2,444,444 (Skinner buyout)",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $63,039,683 (9 players signed) Cap Space: $70,460,317 Potential Bonuses: None Dead Cap: $2,444,444 (Skinner buyout \u2013 final year)"
+    ]
+  },
+  "DET": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html",
+    "players": {
+      "albert-johansson": {
+        "name": "Albert Johansson",
+        "aav_usd": 1125000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "marco-kasper": {
+        "name": "Marco Kasper",
+        "aav_usd": 886666,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $1MM in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "mason-appleton": {
+        "name": "Mason Appleton",
+        "aav_usd": 2900000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "jacob-bryson": {
+        "name": "Jacob Bryson",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "andrew-copp": {
+        "name": "Andrew Copp",
+        "aav_usd": 5625000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "alex-debrincat": {
+        "name": "Alex DeBrincat",
+        "aav_usd": 7875000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "justin-faulk": {
+        "name": "Justin Faulk",
+        "aav_usd": 6500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "john-gibson": {
+        "name": "John Gibson",
+        "aav_usd": 6400000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "daniil-tarasov": {
+        "name": "Daniil Tarasov",
+        "aav_usd": 2000000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "michael-brandsegg-nygard": {
+        "name": "Michael Brandsegg-Nygard",
+        "aav_usd": 953750,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $500K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "nate-danielson": {
+        "name": "Nate Danielson",
+        "aav_usd": 909166,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $1MM in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "emmitt-finnie": {
+        "name": "Emmitt Finnie",
+        "aav_usd": 921667,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "axel-sandin-pellikka": {
+        "name": "Axel Sandin Pellikka",
+        "aav_usd": 940833,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $500K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "viktor-arvidsson": {
+        "name": "Viktor Arvidsson",
+        "aav_usd": 5000000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "jacob-bernard-docker": {
+        "name": "Jacob Bernard-Docker",
+        "aav_usd": 1600000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "jt-compher": {
+        "name": "J.T. Compher",
+        "aav_usd": 5100000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "keegan-kolesar": {
+        "name": "Keegan Kolesar",
+        "aav_usd": 2500000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "michael-rasmussen": {
+        "name": "Michael Rasmussen",
+        "aav_usd": 3200000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      },
+      "ben-chiarot": {
+        "name": "Ben Chiarot",
+        "aav_usd": 3850000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $84,462,082 Cap Space: $19,537,918 Potential Bonuses: $3MM (most unlikely to be reached) Dead Cap: None Still To Sign: D Simon Edvinsson",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $50,300,416 (13 players signed) Cap Space: $63,199,584 Potential Bonuses: $2MM (most unlikely to be reached) Dead Cap: None",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $29.175MM (4 players signed) Cap Space: $93.825MM Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $25.325MM (3 players signed) Cap Space: $108.175MM Potential Bonuses: None Dead Cap: None"
+    ]
+  },
+  "FLA": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html",
+    "players": {
+      "john-beecher": {
+        "name": "John Beecher",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "lars-eller": {
+        "name": "Lars Eller",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "+ $250K in bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "garnet-hathaway": {
+        "name": "Garnet Hathaway",
+        "aav_usd": 1200000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "*",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "uvis-balinskis": {
+        "name": "Uvis Balinskis",
+        "aav_usd": 875000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "jonah-gadjovich": {
+        "name": "Jonah Gadjovich",
+        "aav_usd": 905000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "dmitry-kulikov": {
+        "name": "Dmitry Kulikov",
+        "aav_usd": 1180000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "jacob-markstrom": {
+        "name": "Jacob Markstrom",
+        "aav_usd": 6000000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "akira-schmid": {
+        "name": "Akira Schmid",
+        "aav_usd": 2000000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "cole-schwindt": {
+        "name": "Cole Schwindt",
+        "aav_usd": 875000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "brady-tkachuk": {
+        "name": "Brady Tkachuk",
+        "aav_usd": 8205714,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "aleksander-barkov": {
+        "name": "Aleksander Barkov",
+        "aav_usd": 10000000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "seth-jones": {
+        "name": "Seth Jones",
+        "aav_usd": 7000000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "*",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "anton-lundell": {
+        "name": "Anton Lundell",
+        "aav_usd": 5000000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      },
+      "matthew-tkachuk": {
+        "name": "Matthew Tkachuk",
+        "aav_usd": 9500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-florida-panthers-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $103,965,714 Cap Space: $34,286 Potential Bonuses: $250K (most likely to be reached) Dead Cap: $150K (2025-26 bonus carryover penalty)",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $103,765,714 (20 players signed) Cap Space: $9,734,286 Potential Bonuses: None Dead Cap: None yet but likely to be some sort of small bonus carryover again",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $83.725MM (13 players signed) Cap Space: $39.275MM Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $83.725MM (13 players signed) Cap Space: $49.775MM Potential Bonuses: None Dead Cap: None"
+    ]
+  },
+  "MTL": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html",
+    "players": {
+      "ivan-demidov": {
+        "name": "Ivan Demidov",
+        "aav_usd": 940833,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $3.5MM in bonuses \u2013 already extended",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "oliver-kapanen": {
+        "name": "Oliver Kapanen",
+        "aav_usd": 942500,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $850K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "alex-newhook": {
+        "name": "Alex Newhook",
+        "aav_usd": 2900000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "jayden-struble": {
+        "name": "Jayden Struble",
+        "aav_usd": 1412500,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "josh-anderson": {
+        "name": "Josh Anderson",
+        "aav_usd": 5500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "alexandre-carrier": {
+        "name": "Alexandre Carrier",
+        "aav_usd": 3750000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "kirby-dach": {
+        "name": "Kirby Dach",
+        "aav_usd": 3600000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "phillip-danault": {
+        "name": "Phillip Danault",
+        "aav_usd": 5500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "sam-montembeault": {
+        "name": "Sam Montembeault",
+        "aav_usd": 3150000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "jacob-fowler": {
+        "name": "Jacob Fowler",
+        "aav_usd": 945833,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $500K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "alexandre-texier": {
+        "name": "Alexandre Texier",
+        "aav_usd": 2500000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "jake-evans": {
+        "name": "Jake Evans",
+        "aav_usd": 2850000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "jakub-dobes": {
+        "name": "Jakub Dobes",
+        "aav_usd": 965000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "in 2026-27, $5,357,575 from 2027-28 through 2029-30",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      },
+      "nick-suzuki": {
+        "name": "Nick Suzuki",
+        "aav_usd": 7875000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-montreal-canadiens-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $94,216,076 Cap Space: $9,783,924 Potential Bonuses: $4.35MM ($1.5MM to $2MM likely to be reached) Dead Cap: $5,184,410 (2025-26 bonus carryover penalty-$1,934,410, retention on Brendan Gallagher-$3.25MM) Still to Sign: F Zachary Bolduc , D Arber Xhekaj",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $74,028,408 (12 players signed) Cap Space: $39,471,592 Potential Bonuses: $500K (all could be reached) Dead Cap: None yet but there could be a bonus carryover charge",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $70,582,575 (10 players signed) Cap Space: $52,417,425 Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $67,732,575 (9 players signed) Cap Space: $65,767,425 Potential Bonuses: None Dead Cap: None"
+    ]
+  },
+  "OTT": {
+    "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html",
+    "players": {
+      "tyler-kleven": {
+        "name": "Tyler Kleven",
+        "aav_usd": 1600000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "leevi-merilainen": {
+        "name": "Leevi Merilainen",
+        "aav_usd": 1100000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "michael-amadio": {
+        "name": "Michael Amadio",
+        "aav_usd": 2600000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "drake-batherson": {
+        "name": "Drake Batherson",
+        "aav_usd": 4975000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "andre-burakovsky": {
+        "name": "Andre Burakovsky",
+        "aav_usd": 5500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "warren-foegele": {
+        "name": "Warren Foegele",
+        "aav_usd": 3500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "claude-giroux": {
+        "name": "Claude Giroux",
+        "aav_usd": 2000000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "+ $3MM in bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "nikolas-matinpalo": {
+        "name": "Nikolas Matinpalo",
+        "aav_usd": 875000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "artem-zub": {
+        "name": "Artem Zub",
+        "aav_usd": 4600000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "stephen-halliday": {
+        "name": "Stephen Halliday",
+        "aav_usd": 1075000,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "thomas-chabot": {
+        "name": "Thomas Chabot",
+        "aav_usd": 8000000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "nick-cousins": {
+        "name": "Nick Cousins",
+        "aav_usd": 1587500,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "samuel-ersson": {
+        "name": "Samuel Ersson",
+        "aav_usd": 2200000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "fabian-zetterlund": {
+        "name": "Fabian Zetterlund",
+        "aav_usd": 4275000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "william-eklund": {
+        "name": "William Eklund",
+        "aav_usd": 5600000,
+        "end_season": "2028-29",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "ridly-greig": {
+        "name": "Ridly Greig",
+        "aav_usd": 3250000,
+        "end_season": "2028-29",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "carter-yakemchuk": {
+        "name": "Carter Yakemchuk",
+        "aav_usd": 941667,
+        "end_season": "2028-29",
+        "expiry_status": "RFA",
+        "extra": "+ $1MM in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "linus-ullmark": {
+        "name": "Linus Ullmark",
+        "aav_usd": 8250000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "dylan-cozens": {
+        "name": "Dylan Cozens",
+        "aav_usd": 7150000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "shane-pinto": {
+        "name": "Shane Pinto",
+        "aav_usd": 7500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      },
+      "jordan-spence": {
+        "name": "Jordan Spence",
+        "aav_usd": 5000000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $99,804,167 Cap Space: $4,195,833 Potential Bonuses: $4MM (at least half likely to be reached) Dead Cap: $875K ( Colin White buyout)",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $73,054,167 (14 players signed) Cap Space: $40,445,833 Potential Bonuses: $1MM (some could realistically be reached) Dead Cap: $875K (White buyout)",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $54,041,667 (9 players signed) Cap Space: $68,958,333 Potential Bonuses: $1MM (some could realistically be reached) Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $36MM (6 players signed) Cap Space: $97.5MM Potential Bonuses: None Dead Cap: None"
+    ]
+  },
+  "TBL": {
+    "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html",
+    "players": {
+      "conor-geekie": {
+        "name": "Conor Geekie",
+        "aav_usd": 886666,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $1MM in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "gage-goncalves": {
+        "name": "Gage Goncalves",
+        "aav_usd": 1200000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "dominic-james": {
+        "name": "Dominic James",
+        "aav_usd": 910000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $27.5K in GP bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "emil-martinsen-lilleberg": {
+        "name": "Emil Martinsen Lilleberg",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "charle-edouard-dastous": {
+        "name": "Charle-Edouard D'Astous",
+        "aav_usd": 875000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "zemgus-girgensons": {
+        "name": "Zemgus Girgensons",
+        "aav_usd": 925000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "pontus-holmberg": {
+        "name": "Pontus Holmberg",
+        "aav_usd": 1550000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "jonas-johansson": {
+        "name": "Jonas Johansson",
+        "aav_usd": 1250000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "nikita-kucherov": {
+        "name": "Nikita Kucherov",
+        "aav_usd": 9500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "dennis-hildeby": {
+        "name": "Dennis Hildeby",
+        "aav_usd": 841667,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "john-carlson": {
+        "name": "John Carlson",
+        "aav_usd": 8500000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "andrei-vasilevskiy": {
+        "name": "Andrei Vasilevskiy",
+        "aav_usd": 9500000,
+        "end_season": "2027-28",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "victor-hedman": {
+        "name": "Victor Hedman",
+        "aav_usd": 8000000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "ryan-mcdonagh": {
+        "name": "Ryan McDonagh",
+        "aav_usd": 4100000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "ilya-mikheyev": {
+        "name": "Ilya Mikheyev",
+        "aav_usd": 3850000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      },
+      "brayden-point": {
+        "name": "Brayden Point",
+        "aav_usd": 9500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-tampa-bay-lightning-10.html"
+      }
+    },
+    "dead_cap_lines": [
+      "Upper Limit: $104MM Current Cap Charge: $100,771,666 Cap Space: $3,228,334 Potential Bonuses: $1,027,500 (most unlikely to be reached) Dead Cap: None",
+      "Projected Upper Limit: $113.5MM Current Cap Charge: $82.825MM (14 players signed) Cap Space: $30.675MM Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $123MM Current Cap Charge: $63,983,333 (11 players signed) Cap Space: $59,016,667 Potential Bonuses: None Dead Cap: None",
+      "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $51,883,334 (9 players signed) Cap Space: $81,616,666 Potential Bonuses: None Dead Cap: None"
+    ]
+  }
+}

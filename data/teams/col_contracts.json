@@ -1,0 +1,3057 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "COL",
+  "team_name": "Colorado Avalanche",
+  "generated_at_utc": "2026-11-26T22:49:26Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/COL/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 105380000,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 105380000
+  },
+  "contracts": [
+    {
+      "player_id": 8481550,
+      "player_name": "Adam Beckman",
+      "position": "L",
+      "sweater_number": 34,
+      "birth_date": "2001-05-10",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/avalanche/news/avalanche-signs-beckman",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 475000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 475000
+        }
+      }
+    },
+    {
+      "player_id": 8484149,
+      "player_name": "Gavin Brindley",
+      "position": "C",
+      "sweater_number": 54,
+      "birth_date": "2004-10-05",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-11-11",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSExfOUlJdHBmQVoyZkdtUV9aSjRNcWlXQzgteS1iTzYyam42d3hWaUpfOG9UR2lEYVhCZWZDeFJVVzNXQ2o0Rno4QVVPWThqQ3pwa0dzV0gyR1ZISl9BNWcyTzRYbWdDcWhuTks1WVY0WUZlcnZOVGR2clltVzUyMzdvbklTSk1oTWsyMXZ5R25Xa1A1QTdwd1duTUFiNzlFNFRudERobGFQd0to?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/charlie-coyle-and-miles-wood-traded-to-columbus-blue-jackets-by-colorado-avalanche"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 200000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        }
+      }
+    },
+    {
+      "player_id": 8486171,
+      "player_name": "T.J. Hughes",
+      "position": "R",
+      "sweater_number": 13,
+      "birth_date": "2001-11-09",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-04-11",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 952500,
+      "total_value_usd": 952500,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMi13bGlDNzVmRzU2dWswaHFMWDRFem9KWmN3eDc4MmF0cUxXX2hwVDUzcnlweTk4NVo1RXh0bEV3TTRMTXNKcGRFenFLX2EzV1FGQ3JkeUZmWkJmUk0zbTh5Zmx6ZHZNTkZQQmJSZWFXN01zN28xZkE5UE9VSGNneW5Lb3RSU1dXZ0ZKSFEwUWFBRkEzTXZmZmhDWmNtb2s?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 952500,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 952500,
+          "total_salary_usd": 952500,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8475172,
+      "player_name": "Nazem Kadri",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "1990-10-06",
+      "current_team": "COL",
+      "signing_team": "CGY",
+      "signed_date": "2022-08-19",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2029)",
+      "term_years": 7,
+      "aav_usd": 7000000,
+      "total_value_usd": 49000000,
+      "start_season": "2022-23",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDR6NThESXlrZ29IRU00VVgyN2IwSm95dUNBZS1UWl95eTZhQjVyd1RWOGRTWDNqU0lmN2l6T1VjM1UtU2VXbl9jNngxOVJoV1BxX0JPQlI5VG1nRTg1U0U5aTBURHpMaDJrdmJibF9td0wxMVFEWUh2dkowMk5GNXZDZVJqRVVWZUlVZg?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nazem-kadri-traded-to-colorado-avalanche-by-calgary-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "TOR",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "TOR",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "TOR",
+          "aav_usd": 877500,
+          "total_salary_usd": 810000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "TOR",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2700000,
+          "base_salary_usd": 2700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "TOR",
+          "aav_usd": 2900000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4100000,
+          "base_salary_usd": 4100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480448,
+      "player_name": "Parker Kelly",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1999-05-14",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 1700000,
+      "total_value_usd": 6800000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://milehighsticking.com/parker-kelly-paid-the-colorado-avalanche-the-biggest-compliment-they-could-receive-01kj1v95gnw3",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 728000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 728000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 728000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 728000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 728000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 1700000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482742,
+      "player_name": "Zachary L'Heureux",
+      "position": "L",
+      "sweater_number": 68,
+      "birth_date": "2003-05-15",
+      "current_team": "COL",
+      "signing_team": "NSH",
+      "signed_date": "2026-03-18",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/predators/news/predators-sign-zachary-l-heureux-to-two-year-1-75-million-contract-2026-03-18",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/jack-drury-traded-to-nashville-predators-by-colorado-avalanche"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476455,
+      "player_name": "Gabriel Landeskog",
+      "position": "L",
+      "sweater_number": 92,
+      "birth_date": "1992-11-23",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2021-07-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 7000000,
+      "total_value_usd": 56000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/avalanche-sign-gabriel-landeskog-to-eight-year-contract-325832748",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 5571429,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477476,
+      "player_name": "Artturi Lehkonen",
+      "position": "L",
+      "sweater_number": 62,
+      "birth_date": "1995-07-04",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2022-07-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 4500000,
+      "total_value_usd": 22500000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/avalanche-re-signs-artturi-lehkonen-334962848",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9Kakd4dzRKOXZiMmZEeE9jZTZWb3dlRWdfRHZiNVE0ejZkY1lvWWUxSDI2UENKN1p6djRwMXNLZnUzaUM0RFBIaUR3eF90SURFTmFXUzZIdURVZjVVMUQzaDNrUWREWkJBd0w0RFdRWDhSZTVFS19rZlN0VWk3QjhWaDdHMXg1NlBMM21yQW01VFBkb2c?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/artturi-lehkonen-traded-to-colorado-avalanche-by-montreal-canadiens-331845962"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 839167,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 839167,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 839167,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 2400000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 2400000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477492,
+      "player_name": "Nathan MacKinnon",
+      "position": "C",
+      "sweater_number": 29,
+      "birth_date": "1995-09-01",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2022-09-20",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 12602500,
+      "total_value_usd": 100820000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/colorado-avalanche-nathan-mackinnon-contract-status-update-335600086",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/martin-necas-having-fun-playing-for-colorado-after-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 12150000,
+      "current_season_base_salary_usd": 9150000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6150000,
+          "base_salary_usd": 6150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6850000,
+          "base_salary_usd": 6850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 6300000,
+          "total_salary_usd": 6850000,
+          "base_salary_usd": 6850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 12602500,
+          "total_salary_usd": 16500000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 15725000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 12602500,
+          "total_salary_usd": 16500000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 15725000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 12602500,
+          "total_salary_usd": 16050000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 15250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 12602500,
+          "total_salary_usd": 12150000,
+          "base_salary_usd": 9150000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480039,
+      "player_name": "Martin Necas",
+      "position": "C",
+      "sweater_number": 88,
+      "birth_date": "1999-01-15",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-10-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 11500000,
+      "total_value_usd": 92000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/martin-necas-signs-8-year-deal-with-colorado",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDM1YVVrZ0R3NmV5cGFQQWh0WTNjQlh4WEZCQkxYWnNzYnhwOWpxdjVzcVNXelgyVVQ4VERQUGlGRXY5d1ZmNlh6N0Y0Tk9KSXI4VS1kTEstU0VaWnBjVGxKN3FQRmJHdnZTWV9qNFRMYzh2bVNkcGxfbmxpbUJPNnRsX3hJengwNmFZb015cWJuWktvN09r?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/martin-necas-at-home-with-colorado-set-for-postseason"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 14000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 8000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 11500000,
+          "total_salary_usd": 14000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475754,
+      "player_name": "Brock Nelson",
+      "position": "C",
+      "sweater_number": 11,
+      "birth_date": "1991-10-15",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-06-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 7500000,
+      "total_value_usd": 22500000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brock-nelson-signs-3-year-contract-to-stay-with-colorado-avalanche",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/brock-nelson-returns-to-face-new-york-islanders-with-colorado-avalanche"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7300000,
+      "current_season_base_salary_usd": 7300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 7500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 7500000,
+          "total_salary_usd": 7300000,
+          "base_salary_usd": 7300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481186,
+      "player_name": "Logan O'Connor",
+      "position": "R",
+      "sweater_number": 25,
+      "birth_date": "1996-08-14",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2024-09-23",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 2500000,
+      "total_value_usd": 15000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/colorado-avalanche-logan-o-connor-signs-six-year-contract",
+      "secondary_source_url": "https://www.dailyfaceoff.com/news/colorado-avalanche-logan-oconnor-expected-2026-27-nhl-season-debut-against-tampa-bay-lightning",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 1050000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478462,
+      "player_name": "Nicolas Roy",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "1997-02-05",
+      "current_team": "COL",
+      "signing_team": "VGK",
+      "signed_date": "2022-08-08",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 3000000,
+      "total_value_usd": 15000000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nicolas-roy-signs-five-year-contract-with-vegas-golden-knights-335217682",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nicolas-roy-traded-to-colorado-avalanche-by-toronto-maple-leafs"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 703750,
+          "total_salary_usd": 655000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 703750,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 703750,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 703750,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475768,
+      "player_name": "Jaden Schwartz",
+      "position": "L",
+      "sweater_number": 71,
+      "birth_date": "1992-06-25",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 3250000,
+      "total_value_usd": 9750000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jaden-schwartz-signs-3-year-contract-with-colorado-avalanche",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "STL",
+          "aav_usd": 830000,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "STL",
+          "aav_usd": 830000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "STL",
+          "aav_usd": 830000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "STL",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2700000,
+          "base_salary_usd": 2700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 5350000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 5350000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482768,
+      "player_name": "Fedor Svechkov",
+      "position": "C",
+      "sweater_number": 9,
+      "birth_date": "2003-04-05",
+      "current_team": "COL",
+      "signing_team": "NSH",
+      "signed_date": "2026-03-23",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1250000,
+      "total_value_usd": 2500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/predators/news/predators-sign-fedor-svechkov-to-two-year-2-5-million-contract-2026-03-23",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-jack-drury-chase-bradley-third-round-pick-in-2029-nhl-draft-from-colorado-2026-06-24"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8470613,
+      "player_name": "Brent Burns",
+      "position": "D",
+      "sweater_number": 84,
+      "birth_date": "1985-03-09",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-06-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 42 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-burns",
+      "secondary_source_url": "https://www.tsn.ca/nhl/article/avalanche-bring-back-kulak-on-five-year-deal-burns-on-one-year-contract/",
+      "future_extension": null,
+      "notes": "Base salary $850,000 plus performance bonuses (35+ contract).",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "SJS",
+          "aav_usd": 3550000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "SJS",
+          "aav_usd": 3550000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "SJS",
+          "aav_usd": 5760000,
+          "total_salary_usd": 5760000,
+          "base_salary_usd": 5760000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "SJS",
+          "aav_usd": 5760000,
+          "total_salary_usd": 5760000,
+          "base_salary_usd": 5760000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "SJS",
+          "aav_usd": 5760000,
+          "total_salary_usd": 5760000,
+          "base_salary_usd": 5760000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 5760000,
+          "total_salary_usd": 5760000,
+          "base_salary_usd": 5760000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 5760000,
+          "total_salary_usd": 5760000,
+          "base_salary_usd": 5760000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 8000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478454,
+      "player_name": "Noah Juulsen",
+      "position": "D",
+      "sweater_number": 47,
+      "birth_date": "1997-04-02",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1100000,
+      "total_value_usd": 2200000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/avalanche/news/avalanche-signs-juulsen",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1100000,
+      "current_season_base_salary_usd": 1100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2024-25": {
+          "team": "PHI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 475000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476967,
+      "player_name": "Brett Kulak",
+      "position": "D",
+      "sweater_number": 27,
+      "birth_date": "1994-01-06",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-06-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 4500000,
+      "total_value_usd": 22500000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-kulak",
+      "secondary_source_url": "https://www.tsn.ca/nhl/article/avalanche-bring-back-kulak-on-five-year-deal-burns-on-one-year-contract/",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/samuel-girard-traded-to-pittsburgh-by-colorado-for-brett-kulak"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "CGY",
+          "aav_usd": 656667,
+          "total_salary_usd": 635000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CGY",
+          "aav_usd": 656667,
+          "total_salary_usd": 655000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 656667,
+          "total_salary_usd": 680000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1950000,
+          "base_salary_usd": 1950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 1850000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480069,
+      "player_name": "Cale Makar",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1998-10-30",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2021-07-24",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 9000000,
+      "total_value_usd": 54000000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/colorado-avalanche-cale-makar-contract-325776806",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 20400000,
+        "total_value_usd": 163200000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-08-31",
+        "source_url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6700000,
+      "current_season_base_salary_usd": 5700000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 880833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 10600000,
+          "base_salary_usd": 10600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 8700000,
+          "base_salary_usd": 8700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 9000000,
+          "total_salary_usd": 6700000,
+          "base_salary_usd": 5700000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484258,
+      "player_name": "Sam Malinski",
+      "position": "D",
+      "sweater_number": 70,
+      "birth_date": "1998-07-27",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2026-01-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 4750000,
+      "total_value_usd": 19000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sam-malinski-signs-4-year-contract-with-colorado-avalanche",
+      "secondary_source_url": "https://thednvr.com/avalanche/avalanche-extend-sam-malinski-for-four-more-years/",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 150000
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 150000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476312,
+      "player_name": "Josh Manson",
+      "position": "D",
+      "sweater_number": 42,
+      "birth_date": "1991-10-07",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-07-10",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 3950000,
+      "total_value_usd": 7900000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/josh-manson-signs-2-year-contract-with-colorado-avalanche",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVROa2dFQ2dPQng1SlBiSVNzMXhiSUVxWUhIUk0yem1vai1haFJKN2xPb3pWa2NGTGNhTV9MM2dNTnJPWEE5MDR2U3BkbmVYYjRSQjgyUTREVk1McHN6VnIxVldHTXdldTZlRGlRRkpVSmZPOHpFdHpuVDdrd0ZfcDBDc2YwNm4tZVJQXy1GRkY2cWVQelBaLQ?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/josh-manson-traded-to-colorado-avalanche-by-anaheim-ducks-331834666"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3950000,
+      "current_season_base_salary_usd": 3950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 4100000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4450000,
+          "base_salary_usd": 4450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4450000,
+          "base_salary_usd": 4450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 3950000,
+          "total_salary_usd": 3950000,
+          "base_salary_usd": 3950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476422,
+      "player_name": "Mike Reilly",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "1993-07-13",
+      "current_team": "COL",
+      "signing_team": "MTL",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 850000,
+      "total_value_usd": 1700000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzVjVHpaSDE3WEtycFRVaUxTakVMOEpwWGdBLWhlV2hyOUtLdEdKemRqcURTY1RUUzFhallXRkFSMmNKTnl2Zm5Dbno4elNGemFvWnBmQUdSNDhlUmthdzQxWV81c0lwek51THZOQmNzOU55RFpjWUVpTk8wTVZTdlpJeU5xb0I2aUhv?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/avalanche/news/avalanche-claim-mike-reilly-off-waivers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 450000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/carolina-hurricanes",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 725000,
+          "total_salary_usd": 675000,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 725000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CAR",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CAR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        }
+      }
+    },
+    {
+      "player_id": 8478038,
+      "player_name": "Devon Toews",
+      "position": "D",
+      "sweater_number": 7,
+      "birth_date": "1994-02-21",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2023-10-13",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 7250000,
+      "total_value_usd": 50750000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/devon-toews-signs-seven-year-contract-with-colorado",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjFIYUtnU1ZVWVBSN1pqSzEtR0RaSU1jMXJGdHRvbC1ReFlHQ1dqQ1FxSWZMRjNWaEJaZjhFbVpEV0JuY1hCVnRoZTNYY3N3YU8wTGtDME85RW1zWkF6TXJOd2JRcFZoaldkdWk4TjVwZEpOeF9SbDRBRHJDOUZkSXBGc19YYUo4WU40Q1ZoeUtVYTJiZlFEMWhR?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/avalanche-trades-for-depth-for-deep-playoff-run-319459378"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 5250000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 700000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 700000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 2350000,
+          "base_salary_usd": 2350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 3550000,
+          "base_salary_usd": 3550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 4600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 5900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 7250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478406,
+      "player_name": "Mackenzie Blackwood",
+      "position": "G",
+      "sweater_number": 39,
+      "birth_date": "1996-12-09",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2024-12-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 5250000,
+      "total_value_usd": 26250000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mackenzie-blackwood-signs-5-year-deal-with-colorado",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/sharks/news/alexandar-georgiev-traded-to-san-jose-from-colorado-for-mackenzie-blackwood-x3843"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 685500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 685500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 685500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 685500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 685500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 2800000,
+          "total_salary_usd": 1475000,
+          "base_salary_usd": 1475000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 2800000,
+          "total_salary_usd": 4125000,
+          "base_salary_usd": 4125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475809,
+      "player_name": "Scott Wedgewood",
+      "position": "G",
+      "sweater_number": 41,
+      "birth_date": "1992-08-14",
+      "current_team": "COL",
+      "signing_team": "COL",
+      "signed_date": "2025-11-13",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2500000,
+      "total_value_usd": 2500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/scott-wedgewood-signs-deal-with-colorado",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nashville-trades-justus-annunen-to-colorado-for-scott-wedgewood"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 1900000,
+      "current_season_signing_bonus_usd": 600000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/colorado-avalanche",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "NJD",
+          "aav_usd": 648333,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NJD",
+          "aav_usd": 648333,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NJD",
+          "aav_usd": 648333,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 587500,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 75000
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 587500,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        },
+        "2018-19": {
+          "team": "TBL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 375000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 600000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

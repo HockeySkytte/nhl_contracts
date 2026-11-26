@@ -1,0 +1,815 @@
+{
+  "team": "VAN",
+  "team_name": "Vancouver Canucks",
+  "roster_count": 26,
+  "results": [
+    {
+      "player": {
+        "id": 8483395,
+        "name": "Arshdeep Bains",
+        "first": "Arshdeep",
+        "last": "Bains",
+        "pos": "L",
+        "sweater": 13
+      },
+      "birth_date": "2001-01-09",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478444,
+        "name": "Brock Boeser",
+        "first": "Brock",
+        "last": "Boeser",
+        "pos": "R",
+        "sweater": 6
+      },
+      "birth_date": "1997-02-25",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brock-boeser-happy-to-stay-with-vancouver-canucks-after-signing-7-year-contract",
+        "date": "2025-07-02",
+        "headline": "Boeser 'super stoked' to sign 7-year contract, stay with Canucks\u00a0",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7250000,
+          "total_value_usd": 50750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**VANCOUVER --** Brock Boeser spent a lot of time trying to wrap his head around the idea of playing for a team other than the Vancouver Canucks. His heart and stomach had a tougher time coming to terms with leaving, so when Canucks general manager Patrik Allvin called his agent, Ben Hankinson, less than an hour before"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2020-07-14",
+        "headline": "Boeser says report of potential trade from Canucks 'really unnecessary'",
+        "url": "https://www.nhl.com/news/canucks-gm-has-no-intention-of-trading-brock-boeser-317416740"
+      }
+    },
+    {
+      "player": {
+        "id": 8480078,
+        "name": "Filip Chytil",
+        "first": "Filip",
+        "last": "Chytil",
+        "pos": "C",
+        "sweater": 77
+      },
+      "birth_date": "1999-09-05",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/filip-chytil-agrees-to-four-year-contract-with-new-york-rangers-342878888",
+        "date": "2023-04-01",
+        "headline": "Chytil agrees to 4-year, $17.75 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4437500,
+          "total_value_usd": 17750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "Filip Chytil agreed to a four-year, $17.75 million contract with the New York Rangers on Wednesday. The contract, which has an average annual value of $4.4375 million, will run through the 2026-27 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-01",
+        "headline": "Miller traded to Rangers by Canucks for Chytil, Mancini, draft pick",
+        "url": "https://www.nhl.com/news/vancouver-canucks-trade-j-t-miller-to-new-york-rangers"
+      }
+    },
+    {
+      "player": {
+        "id": 8481032,
+        "name": "Paul Cotter",
+        "first": "Paul",
+        "last": "Cotter",
+        "pos": "L",
+        "sweater": 47
+      },
+      "birth_date": "1999-11-16",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canucks/news/canucks-agree-to-terms-with-paul-cotter-on-a-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "CANUCKS AGREE TO TERMS WITH PAUL COTTER ON A ONE-YEAR CONTRACT",
+        "signing_team": "VAN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2150000,
+          "total_value_usd": 2150000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "** \u2013 Vancouver Canucks General Manager Ryan Johnson announced today that the team has agreed to terms with forward Paul Cotter on a one-year contract worth $2.15M AAV. \u201cPaul is a versatile forward with a good combination of size and speed,\u201d said Johnson."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478498,
+        "name": "Jake DeBrusk",
+        "first": "Jake",
+        "last": "DeBrusk",
+        "pos": "L",
+        "sweater": 74
+      },
+      "birth_date": "1996-10-17",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-debrusk-signs-7-year-contract-with-vancouver-canucks",
+        "date": "2024-07-01",
+        "headline": "DeBrusk signs 7-year, $38.5 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 5500000,
+          "total_value_usd": 38500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake DeBrusk signed a seven-year, $38.5 million contract with the Vancouver Canucks on Monday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475848,
+        "name": "Brendan Gallagher",
+        "first": "Brendan",
+        "last": "Gallagher",
+        "pos": "R",
+        "sweater": 7
+      },
+      "birth_date": "1992-05-06",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/canadiens-sign-forward-brendan-gallagher-to-a-six-year-contract-extens-319456122",
+        "date": "2020-10-14",
+        "headline": "Canadiens sign forward Brendan Gallagher to a six-year contract extension",
+        "signing_team": "MTL",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Bergevin announced on Wednesday that the team has agreed to terms on a six-year contract extension with forward Brendan Gallagher (until the end of the 2026-27 season). The deal has an average annual value of $6.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-29",
+        "headline": "Canadiens trade forward Brendan Gallagher to the Vancouver Canucks",
+        "url": "https://www.nhl.com/canadiens/news/canadiens-trade-forward-brendan-gallagher-to-the-vancouver-canucks-june-29-2026"
+      }
+    },
+    {
+      "player": {
+        "id": 8481024,
+        "name": "Linus Karlsson",
+        "first": "Linus",
+        "last": "Karlsson",
+        "pos": "C",
+        "sweater": 94
+      },
+      "birth_date": "1999-11-16",
+      "draft_team": "SJS",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483476,
+        "name": "Jonathan Lekkerim\u00e4ki",
+        "first": "Jonathan",
+        "last": "Lekkerim\u00e4ki",
+        "pos": "R",
+        "sweater": 88
+      },
+      "birth_date": "2004-07-24",
+      "draft_team": "VAN",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484406,
+        "name": "Ty Mueller",
+        "first": "Ty",
+        "last": "Mueller",
+        "pos": "C",
+        "sweater": 39
+      },
+      "birth_date": "2003-02-26",
+      "draft_team": "VAN",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482055,
+        "name": "Drew O'Connor",
+        "first": "Drew",
+        "last": "O'Connor",
+        "pos": "L",
+        "sweater": 18
+      },
+      "birth_date": "1998-06-09",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/drew-o-connor-signs-2-year-deal-with-vancouver",
+        "date": "2025-02-18",
+        "headline": "O'Connor signs 2-year, $5 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "great, and I've always enjoyed visiting here as a road team and we had a really good run that week we played up here,\" O'Connor said. \u201cI'm definitely appreciative of the opportunity I've gotten so far here playing with some really good players, obviously, and I like the way we play a lot."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-01",
+        "headline": "Pettersson, O'Connor traded to Canucks by Penguins for Heinen, Desharnais",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      }
+    },
+    {
+      "player": {
+        "id": 8483499,
+        "name": "Liam Ohgren",
+        "first": "Liam",
+        "last": "Ohgren",
+        "pos": "L",
+        "sweater": 92
+      },
+      "birth_date": "2004-01-28",
+      "draft_team": "MIN",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-13",
+        "headline": "Canucks look to future with Rossi, Buium, Ohgren after trade of Hughes to Wild",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8480012,
+        "name": "Elias Pettersson",
+        "first": "Elias",
+        "last": "Pettersson",
+        "pos": "C",
+        "sweater": 40
+      },
+      "birth_date": "1998-11-12",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/elias-pettersson-agrees-to-8-year-contract-with-vancouver-canucks",
+        "date": "2024-03-03",
+        "headline": "Pettersson signs 8-year, $92.8 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 11600000,
+          "total_value_usd": 92800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Elias Pettersson signed an eight-year, $92.8 million contract with the Vancouver Canucks on Saturday. It has an average annual value of $11.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-01",
+        "headline": "Pettersson, O'Connor traded to Canucks by Penguins for Heinen, Desharnais",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      }
+    },
+    {
+      "player": {
+        "id": 8484901,
+        "name": "Jacob Quillan",
+        "first": "Jacob",
+        "last": "Quillan",
+        "pos": "C",
+        "sweater": 62
+      },
+      "birth_date": "2002-02-02",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-quillan-tverberg-and-villeneuve",
+        "date": "2026-07-08",
+        "headline": "Maple Leafs Sign Quillan, Tverberg And Villeneuve",
+        "signing_team": "TOR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "The Toronto Maple Leafs announced today that the hockey club has signed forward Ryan Tverberg and forward Jacob Quillan to one-year contracts, while defenceman William Villeneuve has signed a two-year contract. Tverberg, 24, skated in 63 games with the Toronto Marlies last season, recording 36 points (15 goals, 21 assi"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481133,
+        "name": "Cole Reinhardt",
+        "first": "Cole",
+        "last": "Reinhardt",
+        "pos": "L",
+        "sweater": 29
+      },
+      "birth_date": "2000-02-01",
+      "draft_team": "OTT",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482079,
+        "name": "Marco Rossi",
+        "first": "Marco",
+        "last": "Rossi",
+        "pos": "C",
+        "sweater": 23
+      },
+      "birth_date": "2001-09-23",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-signs-marco-rossi-to-three-year-contract-082225",
+        "date": "2025-08-22",
+        "headline": "Minnesota Wild Signs Marco Rossi to Three-Year Contract",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5000000,
+          "total_value_usd": 15000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "rations and General Manager Bill Guerin today announced the National Hockey League (NHL) club has signed center **Marco Rossi** to a three-year, $15 million contract ($5 million average annual value) that goes through the 2027-28 season. Rossi, 23 (9/23/01), recorded career-highs in points (60), goals (24) and assists "
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-13",
+        "headline": "Canucks look to future with Rossi, Buium, Ohgren after trade of Hughes to Wild",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8478465,
+        "name": "Guillaume Brisebois",
+        "first": "Guillaume",
+        "last": "Brisebois",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "1997-07-21",
+      "draft_team": "VAN",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484798,
+        "name": "Zeev Buium",
+        "first": "Zeev",
+        "last": "Buium",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "2005-12-07",
+      "draft_team": "MIN",
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/zeev-buium-signs-8-year-contract-with-vancouver-canucks",
+        "date": "2026-09-04",
+        "headline": "Buium signs 8-year, $75.04 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9380000,
+          "total_value_usd": 75040000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Zeev Buium signed an eight-year, $75.04 million contract with the Vancouver Canucks on Friday. It has an average annual value of $9.38 million and will begin with the 2027-28 season."
+        }
+      },
+      "trade": {
+        "date": "2025-12-13",
+        "headline": "Canucks look to future with Rossi, Buium, Ohgren after trade of Hughes to Wild",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8480075,
+        "name": "Cameron Crotty",
+        "first": "Cameron",
+        "last": "Crotty",
+        "pos": "D",
+        "sweater": 51
+      },
+      "birth_date": "1999-05-05",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/senators/news/senators-sign-defenceman-cameron-crotty-and-forward-jan-jenik-to-two-way-contracts",
+        "date": "2025-08-25",
+        "headline": "Senators sign defenceman Cameron Crotty and forward Jan Jenik to two-way contracts",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "general manager and president of hockey operations Steve Staios announced today the club has signed defenceman Cameron Crotty to a two-year, two-way contract and forward Jan Jenik to a one-year, two-way contract. Originally from Ottawa, Cameron Crotty learned his trade with the Gloucester Rangers organization, among ot"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479425,
+        "name": "Filip Hronek",
+        "first": "Filip",
+        "last": "Hronek",
+        "pos": "D",
+        "sweater": 17
+      },
+      "birth_date": "1997-11-02",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/filip-hronek-signs-8-year-contract-with-canucks",
+        "date": "2024-06-19",
+        "headline": "Hronek signs 8-year, $58 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7250000,
+          "total_value_usd": 58000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Filip Hronek signed an eight-year, $58 million contract with the Vancouver Canucks on Tuesday. It has an average annual value of $7.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-03-01",
+        "headline": "Hronek traded to Canucks by Red Wings for 1st-, 2nd-round picks",
+        "url": "https://www.nhl.com/news/red-wings-trade-filip-hronek-to-canucks-341687204"
+      }
+    },
+    {
+      "player": {
+        "id": 8476467,
+        "name": "Jamie Oleksiak",
+        "first": "Jamie",
+        "last": "Oleksiak",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1992-12-21",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canucks/news/canucks-agree-to-terms-with-jamie-oleksiak-on-a-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "CANUCKS AGREE TO TERMS WITH JAMIE OLEKSIAK ON A TWO-YEAR CONTRACT",
+        "signing_team": "VAN",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 5000000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Vancouver Canucks General Manager Ryan Johnson announced today that the team has agreed to terms with defenceman Jamie Oleksiak on a two-year contract worth $5M AAV. \u201cJamie is a big body who moves very well on the ice,\u201d said Johnson."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483678,
+        "name": "Elias Pettersson",
+        "first": "Elias",
+        "last": "Pettersson",
+        "pos": "D",
+        "sweater": 25
+      },
+      "birth_date": "2004-02-16",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/elias-pettersson-agrees-to-8-year-contract-with-vancouver-canucks",
+        "date": "2024-03-03",
+        "headline": "Pettersson signs 8-year, $92.8 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 11600000,
+          "total_value_usd": 92800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Elias Pettersson signed an eight-year, $92.8 million contract with the Vancouver Canucks on Saturday. It has an average annual value of $11.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-01",
+        "headline": "Pettersson, O'Connor traded to Canucks by Penguins for Heinen, Desharnais",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      }
+    },
+    {
+      "player": {
+        "id": 8474568,
+        "name": "Luke Schenn",
+        "first": "Luke",
+        "last": "Schenn",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "1989-11-02",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/luke-schenn-signs-1-year-deal-with-vancouver",
+        "date": "2026-07-01",
+        "headline": "Luke Schenn signs 1-year, $2.25 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2250000,
+          "total_value_usd": 2250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luke Schenn signed a one-year, $2.25 million contract with the Vancouver Canucks on Wednesday. The 36-year-old defenseman had seven points (one goal, six assists) in 50 games with the Buffalo Sabres and Winnipeg Jets last season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-02-28",
+        "headline": "Schenn traded to Maple Leafs by Canucks for draft pick",
+        "url": "https://www.nhl.com/news/toronto-maple-leafs-trade-for-luke-schenn-and-erik-gustafsson-from-van-341632222"
+      }
+    },
+    {
+      "player": {
+        "id": 8484240,
+        "name": "Tom Willander",
+        "first": "Tom",
+        "last": "Willander",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "2005-02-09",
+      "draft_team": "VAN",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477967,
+        "name": "Thatcher Demko",
+        "first": "Thatcher",
+        "last": "Demko",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "1995-12-08",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/thatcher-demko-signs-3-year-contract-with-vancouver-canucks",
+        "date": "2025-07-01",
+        "headline": "Demko, Garland each signs contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 8500000,
+          "total_value_usd": 25500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Thatcher Demko and Conor Garland each signed a contract with the Vancouver Canucks on Tuesday. Demko, a goalie, signed a three-year, $25.5 million contract ($8.5 million average annual value); Garland, a forward, signed a six-year, $36 million contract ($6 million AAV)."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480947,
+        "name": "Kevin Lankinen",
+        "first": "Kevin",
+        "last": "Lankinen",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "1995-04-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kevin-lankinen-signs-five-year-contract-with-vancouver-canucks",
+        "date": "2025-02-21",
+        "headline": "Lankinen signs 5-year, $22.5 million contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4500000,
+          "total_value_usd": 22500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kevin Lankinen signed a five-year, $22.5 million contract with the Vancouver Canucks on Friday. The deal, which begins next season, has an average annual value of $4.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482447,
+        "name": "Leevi Meril\u00e4inen",
+        "first": "Leevi",
+        "last": "Meril\u00e4inen",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "2002-08-13",
+      "draft_team": "OTT",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

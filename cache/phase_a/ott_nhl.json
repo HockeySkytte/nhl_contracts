@@ -1,0 +1,810 @@
+{
+  "team": "OTT",
+  "team_name": "Ottawa Senators",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8478020,
+        "name": "Michael Amadio",
+        "first": "Michael",
+        "last": "Amadio",
+        "pos": "R",
+        "sweater": 22
+      },
+      "birth_date": "1996-05-13",
+      "draft_team": "LAK",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480208,
+        "name": "Drake Batherson",
+        "first": "Drake",
+        "last": "Batherson",
+        "pos": "R",
+        "sweater": 19
+      },
+      "birth_date": "1998-04-27",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/drake-batherson-agrees-to-deal-with-ottawa-326074380",
+        "date": "2021-09-03",
+        "headline": "Batherson agrees to six-year contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4975000,
+          "total_value_usd": 29850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Drake Batherson](https://www.nhl.com/player/drake-batherson-8480208) agreed to a six-year, $29.85 million contract with the Ottawa Senators on Friday. It has an average annual value of $4.975 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/drake-batherson-signs-eight-year-contract-with-ottawa-senators",
+        "date": "2026-09-16",
+        "headline": "Batherson signs 8-year, $86 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10750000,
+          "total_value_usd": 86000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Drake Batherson signed an eight-year, $86 million contract with the Ottawa Senators on Tuesday. It begins next season and has an average annual value of $10.75 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478104,
+        "name": "Sammy Blais",
+        "first": "Sammy",
+        "last": "Blais",
+        "pos": "L",
+        "sweater": 79
+      },
+      "birth_date": "1996-06-17",
+      "draft_team": "STL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482674,
+        "name": "Tyler Boucher",
+        "first": "Tyler",
+        "last": "Boucher",
+        "pos": "R",
+        "sweater": 54
+      },
+      "birth_date": "2003-01-16",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/senators/news/senators-agree-to-terms-with-forward-tyler-boucher-on-a-one-year-two-way-contract",
+        "date": "2026-07-10",
+        "headline": "Senators agree to terms with forward Tyler Boucher on a one-year, two-way contract",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ators general manager and president of hockey operations Steve Staios announced today the club has signed forward Tyler Boucher to one-year, two-way contract ahead of the 2026-27 season. A native of Scottsdale, Arizona, Boucher, 23, has spent the last three seasons with the Senators\u2019 AHL affiliate, the Belleville Senat"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477444,
+        "name": "Andre Burakovsky",
+        "first": "Andre",
+        "last": "Burakovsky",
+        "pos": "L",
+        "sweater": 95
+      },
+      "birth_date": "1995-02-09",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/seattle-kraken-sign-andre-burakovsky-to-five-year-contract-334785118",
+        "date": "2022-07-13",
+        "headline": "Burakovsky signs five-year, $27.5 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5500000,
+          "total_value_usd": 27500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Andre Burakovsky](https://www.nhl.com/player/andre-burakovsky-8477444) signed a five-year, $27.5 million contract with the Seattle Kraken on Wednesday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Ottawa Senators acquire Andre Burakovsky from Chicago in exchange for a sixth-round draft pick",
+        "url": "https://www.nhl.com/senators/news/ottawa-senators-acquire-andre-burakovsky-from-chicago-in-exchange-for-a-sixth-round-draft-pick"
+      }
+    },
+    {
+      "player": {
+        "id": 8476393,
+        "name": "Nick Cousins",
+        "first": "Nick",
+        "last": "Cousins",
+        "pos": "C",
+        "sweater": 21
+      },
+      "birth_date": "1993-07-20",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nick-cousins-signs-two-year-contract-with-ottawa-senators",
+        "date": "2026-07-01",
+        "headline": "Cousins signs 2-year, $3.18 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1587500,
+          "total_value_usd": 3180000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Nick Cousins signed a two-year, $3.18 million contract with the Ottawa Senators on Wednesday. It has an average annual value of $1.5875 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481528,
+        "name": "Dylan Cozens",
+        "first": "Dylan",
+        "last": "Cozens",
+        "pos": "C",
+        "sweater": 24
+      },
+      "birth_date": "2001-02-09",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dylan-cozens-signs-seven-year-contract-with-buffalo-sabres-340793564",
+        "date": "2023-02-09",
+        "headline": "Cozens agrees to 7-year, $49.7 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2022-23",
+        "end_season": "2028-29",
+        "start_yr": 2022,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7100000,
+          "total_value_usd": 49700000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Dylan Cozens agreed to a seven-year, $49.7 million contract with the Buffalo Sabres on Tuesday. It has an average annual value of $7.1 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-08",
+        "headline": "Cozens traded to Senators by Sabres for Norris, Bernard-Docker",
+        "url": "https://www.nhl.com/news/dylan-cozens-traded-to-ottawa-senators-by-buffalo-sabres-for-josh-norris"
+      }
+    },
+    {
+      "player": {
+        "id": 8482667,
+        "name": "William Eklund",
+        "first": "William",
+        "last": "Eklund",
+        "pos": "L",
+        "sweater": 27
+      },
+      "birth_date": "2002-10-12",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/sharks/news/william-eklund-signs-3-year-contract-with-san-jose-x0487",
+        "date": "2025-07-01",
+        "headline": "Eklund signs 3-year, $16.8 million contract with Sharks",
+        "signing_team": "SJS",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5600000,
+          "total_value_usd": 16800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "William Eklund signed a three-year, $16.8 million contract with San Jose Sharks on Tuesday. The contract begins with the 2026-27 season and has an average annual value of $5.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Eklund has 'no hard feelings' for Sharks after trade to Senators",
+        "url": "https://www.nhl.com/news/william-eklund-has-no-hard-feelings-for-san-jose-after-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8477998,
+        "name": "Warren Foegele",
+        "first": "Warren",
+        "last": "Foegele",
+        "pos": "L",
+        "sweater": 37
+      },
+      "birth_date": "1996-04-01",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2024-25-season",
+        "date": "2024-07-18",
+        "headline": "Kings bring back Kuemper in trade, sign free agents Foegele, Edmundson",
+        "signing_team": "LAK",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "r he set NHL career worsts in goals-against average (3.31) and save percentage (.890) in 33 games last season. \u2026 Warren Foegele, F: Foegele, who set NHL career highs in goals (20), assists (21) and points (41) in 82 games for the Edmonton Oilers last season, was brought in to bring tenacity in a middle-six role."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-08",
+        "headline": "Foegele traded to Senators by Kings for 2nd-round pick",
+        "url": "https://www.nhl.com/news/warren-foegele-traded-to-ottawa-senators-by-los-angeles-kings"
+      }
+    },
+    {
+      "player": {
+        "id": 8473512,
+        "name": "Claude Giroux",
+        "first": "Claude",
+        "last": "Giroux",
+        "pos": "R",
+        "sweater": 28
+      },
+      "birth_date": "1988-01-12",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/claude-giroux-signs-one-year-contract-with-ottawa-senators",
+        "date": "2026-07-07",
+        "headline": "Giroux signs 1-year, $2 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Claude Giroux signed a one-year, $2 million contract with the Ottawa Senators on Tuesday. The 38-year-old forward had 49 points (14 goals, 35 assists) in 82 games with the Senators last season and no points in four Stanley Cup Playoff games."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482092,
+        "name": "Ridly Greig",
+        "first": "Ridly",
+        "last": "Greig",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "2002-08-08",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ridly-greig-signs-4-year-contract-with-ottawa-senators",
+        "date": "2025-01-10",
+        "headline": "Greig signs 4-year, $13 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3250000,
+          "total_value_usd": 13000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ridly Greig signed a four-year, $13 million contract with the Ottawa Senators on Friday. It has an average annual value of $3.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483676,
+        "name": "Stephen Halliday",
+        "first": "Stephen",
+        "last": "Halliday",
+        "pos": "C",
+        "sweater": 34
+      },
+      "birth_date": "2002-07-02",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/senators/news/senators-agree-to-two-year-contract-extension-with-centre-stephen-halliday",
+        "date": "2026-05-05",
+        "headline": "Senators agree to two-year contract extension with centre Stephen Halliday",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "of hockey operations and general manager Steve Staios announced today the team has agreed to terms with centre Stephen Halliday on a two-year contract extension. The deal carries an AAV of $1.075 million through the 2027-28 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478173,
+        "name": "Hayden Hodgson",
+        "first": "Hayden",
+        "last": "Hodgson",
+        "pos": "R",
+        "sweater": 42
+      },
+      "birth_date": "1996-03-02",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481596,
+        "name": "Shane Pinto",
+        "first": "Shane",
+        "last": "Pinto",
+        "pos": "C",
+        "sweater": 12
+      },
+      "birth_date": "2000-11-12",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/shane-pinto-signs-deal-with-ottawa",
+        "date": "2025-11-14",
+        "headline": "Pinto signs 4-year, $30 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 7500000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Shane Pinto signed a four-year, $30 million contract with the Ottawa Senators on Thursday. It has an average annual value of $7.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482116,
+        "name": "Tim St\u00fctzle",
+        "first": "Tim",
+        "last": "St\u00fctzle",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "2002-01-15",
+      "draft_team": "OTT",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481577,
+        "name": "Philip Tomasino",
+        "first": "Philip",
+        "last": "Tomasino",
+        "pos": "R",
+        "sweater": 62
+      },
+      "birth_date": "2001-07-28",
+      "draft_team": "NSH",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480188,
+        "name": "Fabian Zetterlund",
+        "first": "Fabian",
+        "last": "Zetterlund",
+        "pos": "L",
+        "sweater": 20
+      },
+      "birth_date": "1999-08-25",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/fabian-zetterlund-signs-3-year-contract-with-ottawa-senators",
+        "date": "2025-06-19",
+        "headline": "Zetterlund signs 3-year, $12.825 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4275000,
+          "total_value_usd": 12825000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Fabian Zetterlund signed a three-year, $12.825 million contract with the Ottawa Senators on Thursday. It has an average annual value of $4.275 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-07",
+        "headline": "Senators Acquire Zetterlund, Robins, from Sharks",
+        "url": "https://www.nhl.com/senators/news/senators-acquire-zetterlund-robins-from-sharks"
+      }
+    },
+    {
+      "player": {
+        "id": 8478469,
+        "name": "Thomas Chabot",
+        "first": "Thomas",
+        "last": "Chabot",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "1997-01-30",
+      "draft_team": "OTT",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482095,
+        "name": "Tyler Kleven",
+        "first": "Tyler",
+        "last": "Kleven",
+        "pos": "D",
+        "sweater": 43
+      },
+      "birth_date": "2002-01-10",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tyler-kleven-signs-2-year-deal-with-ottawa",
+        "date": "2025-06-02",
+        "headline": "Kleven signs 2-year, $3.2 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1600000,
+          "total_value_usd": 3200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Tyler Kleven signed a two-year, $3.2 million contract the Ottawa Senators on Monday. It has an average annual value of $1.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484321,
+        "name": "Nikolas Matinpalo",
+        "first": "Nikolas",
+        "last": "Matinpalo",
+        "pos": "D",
+        "sweater": 33
+      },
+      "birth_date": "1998-10-05",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482105,
+        "name": "Jake Sanderson",
+        "first": "Jake",
+        "last": "Sanderson",
+        "pos": "D",
+        "sweater": 85
+      },
+      "birth_date": "2002-07-08",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/senators-sanderson-8-year-contract",
+        "date": "2023-09-07",
+        "headline": "Sanderson signs 8-year, $64.4 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2020-21",
+        "end_season": "2027-28",
+        "start_yr": 2020,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8050000,
+          "total_value_usd": 64400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "Jake Sanderson signed an eight-year, $64.4 million contract with the Ottawa Senators on Wednesday. The contract, which has an average annual value of $8.05 million, will begin next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481606,
+        "name": "Jordan Spence",
+        "first": "Jordan",
+        "last": "Spence",
+        "pos": "D",
+        "sweater": 10
+      },
+      "birth_date": "2001-02-24",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jordan-spence-signs-four-year-contract-with-ottawa-senators",
+        "date": "2026-06-26",
+        "headline": "Spence signs 4-year, $20 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5000000,
+          "total_value_usd": 20000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jordan Spence signed a four-year, $20 million with the Ottawa Senators on Friday. It has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-11-15",
+        "headline": "Jordan Spence set to play former team for first time since draft day trade",
+        "url": "https://www.nhl.com/senators/news/jordan-spence-set-to-play-former-team-for-first-time-since-draft-day-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8482245,
+        "name": "Artem Zub",
+        "first": "Artem",
+        "last": "Zub",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "1995-10-03",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481035,
+        "name": "Samuel Ersson",
+        "first": "Samuel",
+        "last": "Ersson",
+        "pos": "G",
+        "sweater": 30
+      },
+      "birth_date": "1999-10-20",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/samuel-ersson-signs-2-year-contract-with-ottawa-senators",
+        "date": "2026-07-01",
+        "headline": "Ersson signs 2-year, $4.4 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2200000,
+          "total_value_usd": 4400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Samuel Ersson signed a two-year, $4.4 million contract with the Ottawa Senators on Wednesday. It has an average annual value of $2.2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Ersson traded to Senators by Maple Leafs for draft pick",
+        "url": "https://www.nhl.com/news/samuel-ersson-traded-to-ottawa-by-toronto-for-draft-pick"
+      }
+    },
+    {
+      "player": {
+        "id": 8476999,
+        "name": "Linus Ullmark",
+        "first": "Linus",
+        "last": "Ullmark",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "1993-07-31",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/linus-ullmark-signs-4-year-deal-with-ottawa",
+        "date": "2024-10-09",
+        "headline": "Ullmark signs 4-year, $33 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 8250000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Linus Ullmark signed a four-year, $33 million contract with the Ottawa Senators on Wednesday. It has an average annual value of $8.25 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-26",
+        "headline": "Ullmark traded to Senators by Bruins for Korpisalo, 1st-round pick",
+        "url": "https://www.nhl.com/news/bruins-trade-linus-ullmark-to-senators"
+      }
+    }
+  ]
+}

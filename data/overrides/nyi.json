@@ -1,0 +1,139 @@
+{
+  "team": "NYI",
+  "team_name": "New York Islanders",
+  "cap_penalties": [
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": 8485366,
+      "player_name": "Matthew Schaefer (2025-26 ELC Bonus Carryover)",
+      "event_date": "2026-04-20",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 3500000,
+      "source_url": "https://www.prohockeyrumors.com/2026/04/at-least-eight-teams-to-carry-overage-penalty-into-2026-27.html",
+      "secondary_source_url": "https://www.dailyfaceoff.com/news/eight-nhl-teams-salary-cap-overages-nhl-2026-27-islanders-colorado-dallas-montreal-new-jersey-san-jose-edmonton-florida-tampa-ottawa",
+      "notes": "Matthew Schaefer earned the full $3.5M in ELC Schedule A ($1M) + Schedule B ($2.5M) bonuses in 2025-26 while NYI used LTIR, carrying the entire $3.5M penalty onto the 2026-27 cap."
+    }
+  ],
+  "overrides": {
+    "8482070": {
+      "player_name": "Mitchell Chaffee",
+      "signing_status": "UFA",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-chaffee",
+      "secondary_source_url": "https://www.dailyfaceoff.com/news/new-york-islanders-sign-forward-mitchell-chaffee-one-year-contract-nhl-free-agency"
+    },
+    "8475231": {
+      "player_name": "Casey Cizikas",
+      "signing_status": "UFA",
+      "term_years": 6,
+      "aav_usd": 2500000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "signed_date": "2021-09-01",
+      "source_url": "https://www.sportsnet.ca/nhl/article/islanders-re-sign-forward-casey-cizikas-six-year-15m-deal/"
+    },
+    "8485388": {
+      "player_name": "Victor Eklund",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 975000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "signed_date": "2025-07-14",
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-eklund",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2025/07/islanders-sign-viktor-eklund-to-entry-level-contract.html"
+    },
+    "8476419": {
+      "player_name": "Jean-Gabriel Pageau",
+      "signing_status": "UFA",
+      "term_years": 3,
+      "aav_usd": 4850000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "signed_date": "2026-03-06",
+      "source_url": "https://www.prohockeyrumors.com/2026/03/islanders-sign-jean-gabriel-pageau-to-three-year-extension.html"
+    },
+    "8475151": {
+      "player_name": "Kyle Palmieri",
+      "signing_status": "UFA",
+      "term_years": 2,
+      "aav_usd": 4750000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "signed_date": "2025-05-30",
+      "source_url": "https://www.prohockeyrumors.com/2025/05/islanders-sign-kyle-palmieri-adam-boqvist-to-extensions.html"
+    },
+    "8482516": {
+      "player_name": "Matthew Kessel",
+      "signing_status": "UFA",
+      "term_years": 1,
+      "aav_usd": null,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "signed_date": "2026-07-01",
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-kessel",
+      "notes": "Official Islanders release confirmed one-year contract; dollar figure not disclosed in official release."
+    },
+    "8476429": {
+      "player_name": "Scott Mayfield",
+      "signing_status": "UFA",
+      "term_years": 7,
+      "aav_usd": 3500000,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "signed_date": "2023-07-01",
+      "source_url": "https://www.sportsnet.ca/nhl/article/islanders-sign-scott-mayfield-to-seven-year-extension/"
+    },
+    "8481014": {
+      "player_name": "Alexander Romanov",
+      "signing_status": "RFA",
+      "term_years": 8,
+      "aav_usd": 6250000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "signed_date": "2025-06-30",
+      "source_url": "https://www.prohockeyrumors.com/2025/06/islanders-to-sign-alexander-romanov-to-eight-year-extension.html"
+    },
+    "8485366": {
+      "player_name": "Matthew Schaefer",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 975000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "signed_date": "2025-08-04",
+      "source_url": "https://www.prohockeyrumors.com/2025/08/islanders-sign-matthew-schaefer.html"
+    },
+    "8478009": {
+      "player_name": "Ilya Sorokin",
+      "signing_status": "UFA",
+      "term_years": 8,
+      "aav_usd": 8250000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "signed_date": "2023-07-01",
+      "source_url": "https://www.prohockeyrumors.com/2023/07/new-york-islanders-sign-ilya-sorokin-to-eight-year-extension.html"
+    },
+    "8473575": {
+      "player_name": "Semyon Varlamov",
+      "signing_status": "UFA",
+      "term_years": 4,
+      "aav_usd": 2750000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "signed_date": "2023-07-01",
+      "source_url": "https://thehockeywriters.com/islanders-re-sign-semyon-varlamov-4-year-deal/"
+    },
+    "8481711": {
+      "player_name": "Matias Maccelli",
+      "signing_status": "UFA",
+      "notes": "Non-tendered by TOR (became UFA) before signing 1-year, $2.25M deal with NYI."
+    }
+  }
+}

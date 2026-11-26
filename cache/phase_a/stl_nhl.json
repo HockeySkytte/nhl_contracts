@@ -1,0 +1,950 @@
+{
+  "team": "STL",
+  "team_name": "St. Louis Blues",
+  "roster_count": 27,
+  "results": [
+    {
+      "player": {
+        "id": 8481013,
+        "name": "Jonatan Berggren",
+        "first": "Jonatan",
+        "last": "Berggren",
+        "pos": "R",
+        "sweater": 29
+      },
+      "birth_date": "2000-07-16",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/blues-sign-berggren-to-one-year-extension",
+        "date": "2026-07-01",
+        "headline": "Blues sign Berggren to one-year extension",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "St. Louis Blues General Manager Alexander Steen announced today the team has signed forward Jonatan Berggren to a one-year contract extension worth $2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477402,
+        "name": "Pavel Buchnevich",
+        "first": "Pavel",
+        "last": "Buchnevich",
+        "pos": "L",
+        "sweater": 89
+      },
+      "birth_date": "1995-04-17",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pavel-buchnevich-signs-six-year-contract-with-blues",
+        "date": "2024-07-02",
+        "headline": "Buchnevich signs 6-year, $48 million contract to stay with Blues",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 8000000,
+          "total_value_usd": 48000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Pavel Buchnevich signed a six-year, $48 million contract with the St. Louis Blues on Tuesday."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2021-07-24",
+        "headline": "Buchnevich traded to Blues by Rangers for Blais",
+        "url": "https://www.nhl.com/news/rangers-trade-buchnevich-to-blues-for-blais-325753434"
+      }
+    },
+    {
+      "player": {
+        "id": 8479346,
+        "name": "Dillon Dube",
+        "first": "Dillon",
+        "last": "Dube",
+        "pos": "C",
+        "sweater": 65
+      },
+      "birth_date": "1998-07-20",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/blues-sign-dube-to-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "Blues sign Dube to one-year contract",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "St. Louis Blues General Manager Alexander Steen announced today the team has signed forward Dillon Dube to a one-year, one-way contract worth $850,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484164,
+        "name": "Dalibor Dvorsky",
+        "first": "Dalibor",
+        "last": "Dvorsky",
+        "pos": "R",
+        "sweater": 15
+      },
+      "birth_date": "2005-06-15",
+      "draft_team": "STL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482077,
+        "name": "Dylan Holloway",
+        "first": "Dylan",
+        "last": "Holloway",
+        "pos": "L",
+        "sweater": 81
+      },
+      "birth_date": "2001-09-23",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/st-louis-blues-sign-dylan-holloway-to-five-year-contract",
+        "date": "2026-05-01",
+        "headline": "Holloway signs 5-year, $38.75 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 7750000,
+          "total_value_usd": 38750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dylan Holloway signed a five-year, $38.75 million contract with the St. Louis Blues on Friday."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-08-20",
+        "headline": "Blues acquire Broberg, Holloway from Oilers",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-broberg-holloway-from-oilers"
+      }
+    },
+    {
+      "player": {
+        "id": 8477527,
+        "name": "Ross Johnston",
+        "first": "Ross",
+        "last": "Johnston",
+        "pos": "L",
+        "sweater": 49
+      },
+      "birth_date": "1994-02-18",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ross-johnston-signs-3-year-deal-with-st-louis",
+        "date": "2026-07-01",
+        "headline": "Johnston signs 3-year contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2000000,
+          "total_value_usd": 6000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ross Johnston signed a three-year, $6 million contract with the St. Louis Blues on Wednesday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483463,
+        "name": "Aleksanteri Kaskimaki",
+        "first": "Aleksanteri",
+        "last": "Kaskimaki",
+        "pos": "C",
+        "sweater": 41
+      },
+      "birth_date": "2004-02-06",
+      "draft_team": "STL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481580,
+        "name": "Connor McMichael",
+        "first": "Connor",
+        "last": "McMichael",
+        "pos": "L",
+        "sweater": 77
+      },
+      "birth_date": "2001-01-15",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/mcmichael-signs-6-year-deal-with-blues",
+        "date": "2026-07-16",
+        "headline": "McMichael signs 6-year deal with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 6750000,
+          "total_value_usd": 40500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The St. Louis Blues have signed forward Connor McMichael to a six-year contract with an annual average value of $6.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482745,
+        "name": "Mason McTavish",
+        "first": "Mason",
+        "last": "McTavish",
+        "pos": "C",
+        "sweater": 83
+      },
+      "birth_date": "2003-01-30",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mason-mctavish-signs-6-year-contract-with-anaheim-ducks",
+        "date": "2025-09-27",
+        "headline": "McTavish signs 6-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mason McTavish signed a six-year contract with the Anaheim Ducks on Saturday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-02",
+        "headline": "McTavish traded to Blues by Ducks for 2 1st-round picks in 2026 Draft",
+        "url": "https://www.nhl.com/news/mason-mctavish-traded-to-st-louis-blues-by-anaheim-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8482089,
+        "name": "Jake Neighbours",
+        "first": "Jake",
+        "last": "Neighbours",
+        "pos": "L",
+        "sweater": 63
+      },
+      "birth_date": "2002-03-29",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-neighbours-signs-two-year-contract-with-st-louis-blues",
+        "date": "2024-10-23",
+        "headline": "Neighbours signs 2-year, $7.5 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3750000,
+          "total_value_usd": 7500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake Neighbours signed a two-year, $7.5 million contract with the St. Louis Blues on Tuesday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483516,
+        "name": "Jimmy Snuggerud",
+        "first": "Jimmy",
+        "last": "Snuggerud",
+        "pos": "R",
+        "sweater": 21
+      },
+      "birth_date": "2004-06-01",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/blues-sign-snuggerud-to-3-year-entry-level-contract",
+        "date": "2025-03-28",
+        "headline": "Blues sign Snuggerud to 3-year entry-level contract",
+        "signing_team": "STL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "ues President of Hockey Operations and General Manager Doug Armstrong announced today the team has signed forward Jimmy Snuggerud to a three-year entry-level contract. Snuggerud will join the Blues for practice on Monday at Centene Community Ice Center."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484230,
+        "name": "Otto Stenberg",
+        "first": "Otto",
+        "last": "Stenberg",
+        "pos": "C",
+        "sweater": 28
+      },
+      "birth_date": "2005-05-29",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/blues-sign-stenberg-to-3-year-entry-level-contract",
+        "date": "2024-05-01",
+        "headline": "Blues sign Stenberg to 3-year entry-level contract",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "lues President of Hockey Operations and General Manager Doug Armstrong announced today the team has signed forward Otto Stenberg to a three-year entry-level contract. Stenberg was drafted by the Blues in the first round, No."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480459,
+        "name": "Pius Suter",
+        "first": "Pius",
+        "last": "Suter",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "1996-05-24",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pius-suter-signs-2-year-contract-with-st-louis-blues",
+        "date": "2025-07-03",
+        "headline": "Pius Suter signs 2-year, $8.25 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4125000,
+          "total_value_usd": 8250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Pius Suter signed a two-year, $8.25 million contract with the St. Louis Blues on Wednesday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480023,
+        "name": "Robert Thomas",
+        "first": "Robert",
+        "last": "Thomas",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "1999-07-02",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/thomas-signs-8-year-contract-extension-with-blues-334950376",
+        "date": "2022-07-13",
+        "headline": "Thomas signs 8-year contract extension with Blues",
+        "signing_team": "STL",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8125000,
+          "total_value_usd": 65000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "Robert Thomas isn't going anywhere anytime soon. Blues General Manager Doug Armstrong made sure of it by locking up the 23-year-old to a long-term deal with an eight-year, $65 million contract extension ($8.125 AAV) on Wednesday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480281,
+        "name": "Alexey Toropchenko",
+        "first": "Alexey",
+        "last": "Toropchenko",
+        "pos": "R",
+        "sweater": 13
+      },
+      "birth_date": "1999-06-25",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/toropchenko-signs-2-year-extension",
+        "date": "2026-01-05",
+        "headline": "Toropchenko signs 2-year extension",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2500000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "President of Hockey Operations and General Manager Doug Armstrong announced today the Blues have signed forward Alexey Toropchenko to a two-year contract extension worth an annual average value of $2.5 million. Toropchenko, 26, has dressed in 27 games with the Blues this season, recording five points (two goals, three "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477573,
+        "name": "Nathan Walker",
+        "first": "Nathan",
+        "last": "Walker",
+        "pos": "L",
+        "sweater": 26
+      },
+      "birth_date": "1994-02-07",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/walker-signs-two-year-contract-extension",
+        "date": "2025-09-17",
+        "headline": "Walker signs two-year contract extension",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 887500,
+          "total_value_usd": 1775000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "President of Hockey Operations and General Manager Doug Armstrong announced today the Blues have signed forward Nathan Walker to a two-year contract extension worth $1.775 million ($887,500 AAV). Walker, 31, dressed in 73 regular-season games with the Blues last season, setting a career high with 16 points (eight goals"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482111,
+        "name": "Justin Barron",
+        "first": "Justin",
+        "last": "Barron",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "2001-11-15",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-justin-barron-to-one-year-1-575-million-contract-2026-07-05",
+        "date": "2026-07-06",
+        "headline": "Predators Sign Justin Barron to One-Year, $1.575 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1575000,
+          "total_value_usd": 1575000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "sident of Hockey Operations/General Manager Chris MacFarland announced today that the team has signed defenseman Justin Barron to a one-year, $1.575 million contract. \u201cJustin Barron is a 24-year-old, right-handed defenseman who we feel still has growth in his game,\u201d MacFarland said."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481598,
+        "name": "Philip Broberg",
+        "first": "Philip",
+        "last": "Broberg",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "2001-06-25",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/philip-broberg-signs-six-year-contract-with-st-louis-blues",
+        "date": "2026-01-10",
+        "headline": "Broberg signs 6-year, $48 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 8000000,
+          "total_value_usd": 48000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Philip Broberg signed a six-year, $48 million contract with the St. Louis Blues on Saturday."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-08-20",
+        "headline": "Blues acquire Broberg, Holloway from Oilers",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-broberg-holloway-from-oilers"
+      }
+    },
+    {
+      "player": {
+        "id": 8478443,
+        "name": "Brandon Carlo",
+        "first": "Brandon",
+        "last": "Carlo",
+        "pos": "D",
+        "sweater": 25
+      },
+      "birth_date": "1996-11-26",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/boston-bruins-brandon-carlo-signs-six-year-contract-325653162",
+        "date": "2021-07-14",
+        "headline": "Carlo signs six-year, $24.6 million contract to stay with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4100000,
+          "total_value_usd": 24600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brandon Carlo signed a six-year, $24.6 million contract to stay with the Boston Bruins on Wednesday. It has an average annual value of $4.1 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-27",
+        "headline": "Carlo traded to Blues by Maple Leafs for draft picks",
+        "url": "https://www.nhl.com/news/brandon-carlo-traded-to-st-louis-blues-from-toronto-maple-leafs"
+      }
+    },
+    {
+      "player": {
+        "id": 8475764,
+        "name": "Cam Fowler",
+        "first": "Cam",
+        "last": "Fowler",
+        "pos": "D",
+        "sweater": 17
+      },
+      "birth_date": "1991-12-05",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cam-fowler-signs-3-year-contract-with-st-louis-blues",
+        "date": "2025-09-28",
+        "headline": "Fowler signs 3-year, $18.3 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 6100000,
+          "total_value_usd": 18300000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Cam Fowler signed a three-year, $18.3 million contract with the St. Louis Blues on Saturday."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-15",
+        "headline": "Fowler traded to Blues by Ducks for prospect",
+        "url": "https://www.nhl.com/news/anaheim-ducks-trade-cam-fowler-to-st-louis-blues"
+      }
+    },
+    {
+      "player": {
+        "id": 8484790,
+        "name": "Adam Jiricek",
+        "first": "Adam",
+        "last": "Jiricek",
+        "pos": "D",
+        "sweater": 36
+      },
+      "birth_date": "2006-06-28",
+      "draft_team": "STL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482733,
+        "name": "Logan Mailloux",
+        "first": "Logan",
+        "last": "Mailloux",
+        "pos": "D",
+        "sweater": 23
+      },
+      "birth_date": "2003-04-15",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/mailloux-signs-one-year-extension-with-blues",
+        "date": "2026-01-14",
+        "headline": "Mailloux signs one-year extension with Blues",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ent of Hockey Operations and General Manager Doug Armstrong announced today that the Blues have signed defenseman Logan Mailloux to a one-year, one-way contract extension worth $850,000. Mailloux, 22, is in his first season with the Blues after being acquired from the Montreal Canadiens on July 1, 2025."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-01",
+        "headline": "Bolduc traded to Canadiens by Blues for Mailloux",
+        "url": "https://www.nhl.com/news/zachary-bolduc-traded-to-montreal-canadiens-by-st-louis-blues-for-logan-mailloux"
+      }
+    },
+    {
+      "player": {
+        "id": 8476892,
+        "name": "Colton Parayko",
+        "first": "Colton",
+        "last": "Parayko",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "1993-05-12",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/st-louis-blues-colton-parayko-contract-extension-326061514",
+        "date": "2021-09-02",
+        "headline": "Parayko agrees to eight-year, $52 million contract extension with Blues",
+        "signing_team": "STL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6500000,
+          "total_value_usd": 52000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2022-23",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Colton Parayko agreed to an eight-year, $52 million contract extension with the St. Louis Blues on Wednesday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480157,
+        "name": "Calle Rosen",
+        "first": "Calle",
+        "last": "Rosen",
+        "pos": "D",
+        "sweater": 43
+      },
+      "birth_date": "1994-02-02",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/rosen-signs-two-year-two-way-extension",
+        "date": "2026-03-12",
+        "headline": "Rosen signs two-year, two-way extension",
+        "signing_team": "STL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ent of Hockey Operations and General Manager Doug Armstrong announced today that the team has signed defenseman **Calle Rosen** to a two-year, two-way contract extension (2026-27: $850,000 NHL / $500,000 AHL, 2027-28: $900,000 NHL / $500,000 AHL). Rosen, 32, is in his second stint with the organization after he was acq"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-11-03",
+        "headline": "Blues acquire Rosen in trade with Capitals",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-rosen-in-trade-with-capitals"
+      }
+    },
+    {
+      "player": {
+        "id": 8481006,
+        "name": "Tyler Tucker",
+        "first": "Tyler",
+        "last": "Tucker",
+        "pos": "D",
+        "sweater": 75
+      },
+      "birth_date": "2000-03-01",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/blues-sign-tucker-to-two-year-extension",
+        "date": "2025-02-28",
+        "headline": "Blues sign Tucker to two-year extension",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 925000,
+          "total_value_usd": 1850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "President of Hockey Operations and General Manager Doug Armstrong announced today the team has signed defenseman Tyler Tucker to a two-year contract extension worth $1.85 million ($900,000 in 2025-26, $950,000 in 2026-27). Tucker, 24, was originally drafted by the Blues in the seventh round, 200th overall, of the 2018 "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476412,
+        "name": "Jordan Binnington",
+        "first": "Jordan",
+        "last": "Binnington",
+        "pos": "G",
+        "sweater": 50
+      },
+      "birth_date": "1993-07-11",
+      "draft_team": "STL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480981,
+        "name": "Joel Hofer",
+        "first": "Joel",
+        "last": "Hofer",
+        "pos": "G",
+        "sweater": 30
+      },
+      "birth_date": "2000-07-30",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/joel-hofer-signs-two-year-contract-with-st-louis-blues",
+        "date": "2025-06-28",
+        "headline": "Hofer signs 2-year, $6.8 million contract with Blues",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3400000,
+          "total_value_usd": 6800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Joel Hofer signed a two-year, $6.8 million contract with the St. Louis Blues on Saturday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

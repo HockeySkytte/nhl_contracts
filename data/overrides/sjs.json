@@ -1,0 +1,203 @@
+{
+  "team": "SJS",
+  "team_name": "San Jose Sharks",
+  "cap_penalties": [
+    {
+      "penalty_type": "retained_salary",
+      "player_id": 8474578,
+      "player_name": "Erik Karlsson",
+      "event_date": "2023-08-06",
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1500000,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": null,
+      "notes": "Retained $1.5M/yr in Aug 2023 trade to PIT; expires after 2026-27."
+    },
+    {
+      "penalty_type": "retained_salary",
+      "player_id": 8476881,
+      "player_name": "Tomas Hertl",
+      "event_date": "2024-03-08",
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1387500,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": null,
+      "notes": "Retained 17% ($1.3875M/yr) in Mar 2024 trade to VGK; runs through 2029-30."
+    },
+    {
+      "penalty_type": "buyout",
+      "player_id": 8474889,
+      "player_name": "Martin Jones",
+      "event_date": "2021-07-27",
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1666667,
+      "source_url": "https://www.prohockeyrumors.com/2021/07/san-jose-sharks-to-buy-out-martin-jones.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "notes": "Final year of 6-year buyout penalty from July 2021 buyout."
+    },
+    {
+      "penalty_type": "buyout",
+      "player_id": 8471709,
+      "player_name": "Marc-Edouard Vlasic",
+      "event_date": "2025-06-30",
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1166667,
+      "source_url": "https://www.prohockeyrumors.com/2025/06/san-jose-sharks-to-buyout-marc-edouard-vlasic.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "notes": "Final year of 2-year buyout penalty from June 2025 buyout of final contract year."
+    },
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": null,
+      "player_name": "Team Performance Bonus Overage (2025-26 carryover)",
+      "event_date": "2026-09-01",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 813694,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/04/at-least-eight-teams-to-carry-overage-penalty-into-2026-27.html",
+      "notes": "2025-26 ELC bonus carryover (Celebrini, Smith, Eklund). Note: SJS also carries a ~$6.307M 2026-27 bonus cushion overage because potential ELC bonuses exceed 7.5% of the cap."
+    }
+  ],
+  "overrides": {
+    "8484801": {
+      "player_name": "Macklin Celebrini",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 975000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "signed_date": "2024-07-06",
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": {
+        "term_years": 5,
+        "aav_usd": 18800000,
+        "total_value_usd": 94000000,
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "signed_date": "2026-07-29",
+        "source_url": "https://www.nhl.com/news/macklin-celebrini-signs-five-year-94-million-contract-with-san-jose-sharks"
+      },
+      "notes": "Final year of 3-year ELC ($975K base + bonuses); already signed 5-year, $94M ($18.8M AAV) extension starting 2027-28."
+    },
+    "8484994": {
+      "player_name": "Igor Chernyshov",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 945417,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "signed_date": "2024-08-01",
+      "source_url": "https://www.prohockeyrumors.com/2024/08/sharks-sign-igor-chernyshov-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8478874": {
+      "player_name": "Adam Gaudette",
+      "signing_status": "UFA",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "signed_date": "2025-07-01",
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-forward-adam-gaudette",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8481517": {
+      "player_name": "Brett Leason",
+      "signing_status": "UFA",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "signed_date": "2026-07-02",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-forward-brett-leason-to-a-one-year-two-way-contract",
+      "notes": "One-year, two-way contract ($850K NHL salary)."
+    },
+    "8485402": {
+      "player_name": "Michael Misa",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 986250,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "signed_date": "2025-09-10",
+      "source_url": "https://www.nhl.com/sharks/news/michael-misa-signs-entry-level-contract-with-san-jose-sharks",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8484227": {
+      "player_name": "Will Smith",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "signed_date": "2024-05-28",
+      "source_url": "https://www.prohockeyrumors.com/2024/05/sharks-expected-to-sign-will-smith-to-elc-this-summer.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8486103": {
+      "player_name": "Ivar Stenberg",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "signed_date": "2026-07-02",
+      "source_url": "https://www.prohockeyrumors.com/2026/07/sharks-sign-ivar-stenberg-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8484806": {
+      "player_name": "Sam Dickinson",
+      "signing_status": "ELC",
+      "term_years": 3,
+      "aav_usd": 953750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "signed_date": "2024-07-10",
+      "source_url": "https://www.prohockeyrumors.com/2024/07/sharks-sign-first-rounder-sam-dickinson.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8479333": {
+      "player_name": "Libor Hajek",
+      "signing_status": "UFA",
+      "term_years": 1,
+      "aav_usd": null,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "signed_date": "2026-07-08",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-defensemen-libor-hajek-to-a-one-year-two-way-contract",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/07/san-jose-sharks-sign-libor-hajek.html",
+      "notes": "One-year, two-way contract; NHL dollar figure not disclosed in team/PHR announcements."
+    },
+    "8482137": {
+      "player_name": "Yaroslav Askarov",
+      "signing_status": "RFA",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "signed_date": "2024-08-23",
+      "source_url": "https://www.prohockeyrumors.com/2024/08/san-jose-sharks-close-to-acquiring-yaroslav-askarov.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html"
+    },
+    "8484421": {
+      "player_name": "Eric Pohlkamp",
+      "signing_status": "ELC",
+      "term_years": 2,
+      "aav_usd": 1050000,
+      "start_season": "2026-27",
+      "end_season": "2027-28"
+    }
+  }
+}

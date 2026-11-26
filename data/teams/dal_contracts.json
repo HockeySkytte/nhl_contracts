@@ -1,0 +1,3032 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "DAL",
+  "team_name": "Dallas Stars",
+  "generated_at_utc": "2026-11-26T22:49:26Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/DAL/current",
+  "summary": {
+    "roster_players": 26,
+    "contracts_with_verified_source_url": 26,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 1,
+    "total_active_roster_aav_usd": 106417417,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 2080000,
+    "combined_roster_plus_penalties_usd": 108497417
+  },
+  "contracts": [
+    {
+      "player_id": 8473994,
+      "player_name": "Jamie Benn",
+      "position": "L",
+      "sweater_number": 14,
+      "birth_date": "1989-07-18",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jamie-benn-signs-one-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "DAL",
+          "aav_usd": 618750,
+          "total_salary_usd": 635000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "DAL",
+          "aav_usd": 618750,
+          "total_salary_usd": 670000,
+          "base_salary_usd": 670000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 9500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476278,
+      "player_name": "Colin Blackwell",
+      "position": "C",
+      "sweater_number": 15,
+      "birth_date": "1993-03-28",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-colin-blackwell-to-two-year-1-55-million-contract-070125",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 675000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 675000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480840,
+      "player_name": "Oskar B\u00e4ck",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "2000-03-12",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-01-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 825000,
+      "total_value_usd": 1650000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-oskar-back-to-a-two-year-contract-extension-010225",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 850833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 120000
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 825000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 825000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475168,
+      "player_name": "Matt Duchene",
+      "position": "C",
+      "sweater_number": 95,
+      "birth_date": "1991-01-16",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-06-19",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4500000,
+      "total_value_usd": 18000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matt-duchene-signs-4-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 1800000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "COL",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "COL",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "COL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "COL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "COL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476889,
+      "player_name": "Radek Faksa",
+      "position": "C",
+      "sweater_number": 12,
+      "birth_date": "1994-01-09",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 2000000,
+      "total_value_usd": 6000000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/radek-faksa-signs-3-year-contract-to-return-to-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/stars/news/dallas-stars-trade-forward-radek-faksa-to-st-louis-for-future-considerations-070224"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478449,
+      "player_name": "Roope Hintz",
+      "position": "C",
+      "sweater_number": 24,
+      "birth_date": "1996-11-17",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2022-11-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 8450000,
+      "total_value_usd": 67600000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/roope-hintz-signs-deal-with-dallas-338169702",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7250000,
+      "current_season_base_salary_usd": 5250000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 811667,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 811667,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 811667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 4450000,
+          "base_salary_usd": 4450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 11500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 11250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484829,
+      "player_name": "Justin Hryckowian",
+      "position": "C",
+      "sweater_number": 49,
+      "birth_date": "2001-02-23",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-01-07",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 950000,
+      "total_value_usd": 1900000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-forward-justin-hryckowian-to-two-year-one-way-contract-extension-010726",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484938,
+      "player_name": "Arttu Hyry",
+      "position": "R",
+      "sweater_number": 25,
+      "birth_date": "2001-04-06",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-forwards-arttu-hyry-and-artem-shlaine-and-goaltender-brandon-halverson-070126",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 150000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 870000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        }
+      }
+    },
+    {
+      "player_id": 8482740,
+      "player_name": "Wyatt Johnston",
+      "position": "C",
+      "sweater_number": 53,
+      "birth_date": "2003-05-14",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-03-09",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 8400000,
+      "total_value_usd": 42000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/wyatt-johnston-signs-5-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8400000,
+      "current_season_base_salary_usd": 5400000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 8400000,
+          "total_salary_usd": 8400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 8400000,
+          "total_salary_usd": 8400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481641,
+      "player_name": "Joel Kiviranta",
+      "position": "L",
+      "sweater_number": 22,
+      "birth_date": "1996-03-23",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1000000,
+      "total_value_usd": 1000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/joel-kiviranta-signs-one-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 1050000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474102,
+      "player_name": "David Perron",
+      "position": "L",
+      "sweater_number": 16,
+      "birth_date": "1988-05-28",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-10-16",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/david-perron-signs-one-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "STL",
+          "aav_usd": 2150000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "STL",
+          "aav_usd": 2150000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "STL",
+          "aav_usd": 3812500,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "EDM",
+          "aav_usd": 3812500,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 3812500,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 3812500,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3087500,
+          "base_salary_usd": 3087500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3412500,
+          "base_salary_usd": 3412500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5150000,
+          "base_salary_usd": 5150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478420,
+      "player_name": "Mikko Rantanen",
+      "position": "R",
+      "sweater_number": 96,
+      "birth_date": "1996-10-29",
+      "current_team": "DAL",
+      "signing_team": "CAR",
+      "signed_date": "2025-03-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 12000000,
+      "total_value_usd": 96000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mikko-rantanen-traded-to-stars-by-hurricanes-for-logan-stankoven",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/mikko-rantanen-happy-to-be-with-stars-after-trade-from-hurricanes"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11250000,
+      "current_season_base_salary_usd": 5650000,
+      "current_season_signing_bonus_usd": 5600000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 9250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 12000000,
+          "total_salary_usd": 15000000,
+          "base_salary_usd": 9400000,
+          "signing_bonus_usd": 5600000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 12000000,
+          "total_salary_usd": 11250000,
+          "base_salary_usd": 5650000,
+          "signing_bonus_usd": 5600000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480027,
+      "player_name": "Jason Robertson",
+      "position": "L",
+      "sweater_number": 21,
+      "birth_date": "1999-07-22",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-22",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 12000000,
+      "total_value_usd": 12000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jason-robertson-signs-1-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 12000000,
+      "current_season_base_salary_usd": 12000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 794375,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 794375,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 7750000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 7750000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9200000,
+          "base_salary_usd": 9200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9300000,
+          "base_salary_usd": 9300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 12000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475794,
+      "player_name": "Tyler Seguin",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "1992-01-31",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2018-12-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 9850000,
+      "total_value_usd": 78800000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/stars-gm-jim-nill-agrees-jamie-benn-tyler-seguin-need-to-be-better-303384256",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6750000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 5750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "BOS",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "BOS",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "BOS",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 13500000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 8450000,
+          "base_salary_usd": 2950000,
+          "signing_bonus_usd": 5500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 5250000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 9850000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479351,
+      "player_name": "Sam Steel",
+      "position": "C",
+      "sweater_number": 18,
+      "birth_date": "1998-02-03",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-02-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2100000,
+      "total_value_usd": 4200000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sam-steel-signs-2-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 4,
+        "aav_usd": 3700000,
+        "total_value_usd": 14800000,
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "signed_date": "2026-09-23",
+        "source_url": "https://www.nhl.com/news/sam-steel-signs-4-year-deal-with-dallas"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1900000,
+      "current_season_base_salary_usd": 1900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483425,
+      "player_name": "Lian Bichsel",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "2004-05-18",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2023-11-29",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 926250,
+      "total_value_usd": 2778750,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-lian-bichsel-to-a-three-year-entry-level--344195572",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 926250,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8477335,
+      "player_name": "Kyle Burroughs",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "1995-07-12",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-kyle-burroughs-to-one-year-two-way-contract-070626",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 450000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 630000,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 630000,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 630000,
+          "total_salary_usd": 680000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 55000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 675000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 675000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "LAK",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        }
+      }
+    },
+    {
+      "player_id": 8478476,
+      "player_name": "Kyle Capobianco",
+      "position": "D",
+      "sweater_number": 20,
+      "birth_date": "1997-08-13",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-06-24",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-kyle-capobianco-and-defenseman-luke-krys-to-contract-extensions-062426",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 744375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 744375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 744375,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 744375,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 775000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 775000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 325000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 475000
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481581,
+      "player_name": "Thomas Harley",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "2001-08-19",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-10-29",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 10587000,
+      "total_value_usd": 84696000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/thomas-harley-signs-8-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 13000000,
+      "current_season_base_salary_usd": 9000000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 10587000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480036,
+      "player_name": "Miro Heiskanen",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1999-07-18",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2021-07-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 8450000,
+      "total_value_usd": 67600000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dallas-stars-miro-heiskanen-contract-325676894",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 9000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 8450000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476902,
+      "player_name": "Esa Lindell",
+      "position": "D",
+      "sweater_number": 23,
+      "birth_date": "1994-05-23",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2024-09-19",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 5250000,
+      "total_value_usd": 26250000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/esa-lindell-signs-five-year-contract-with-dallas-stars",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6500000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 2500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 745833,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 60000
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 745833,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "DAL",
+          "aav_usd": 745833,
+          "total_salary_usd": 802500,
+          "base_salary_usd": 710000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480878,
+      "player_name": "Nils Lundkvist",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "2000-07-27",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2026-04-17",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1750000,
+      "total_value_usd": 3500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-nils-lundkvist-to-two-year-3-5-million-contract-extension-041726",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nils-lundkvist-traded-to-stars-by-rangers-335648344"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1750000,
+      "current_season_base_salary_usd": 1750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474574,
+      "player_name": "Tyler Myers",
+      "position": "D",
+      "sweater_number": 57,
+      "birth_date": "1990-02-01",
+      "current_team": "DAL",
+      "signing_team": "VAN",
+      "signed_date": "2024-06-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3000000,
+      "total_value_usd": 9000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tyler-myers-agrees-to-3-year-contract-with-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/tyler-myers-traded-to-dallas-stars-by-vancouver-canucks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2300000,
+      "current_season_base_salary_usd": 2300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "BUF",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "BUF",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "BUF",
+          "aav_usd": 5500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "BUF",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485468,
+      "player_name": "Trey Taylor",
+      "position": "D",
+      "sweater_number": 27,
+      "birth_date": "2002-02-04",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2025-03-24",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (71 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": null,
+      "total_value_usd": null,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-trey-taylor-to-a-two-year-entry-level-contract-032425",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": null,
+      "nhlpa_url": null,
+      "current_season_salary_usd": null,
+      "current_season_base_salary_usd": null,
+      "current_season_signing_bonus_usd": null,
+      "minor_league_salary_usd": null,
+      "yearly_compensation": {}
+    },
+    {
+      "player_id": 8479193,
+      "player_name": "Casey DeSmith",
+      "position": "G",
+      "sweater_number": 1,
+      "birth_date": "1991-08-13",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 1016667,
+      "total_value_usd": 3050001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-goaltender-casey-desmith-to-a-three-year-contract-070124",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 2,
+        "aav_usd": 2500000,
+        "total_value_usd": 5000000,
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "signed_date": "2026-09-30",
+        "source_url": "https://www.nhl.com/stars/news/dallas-stars-sign-casey-desmith-to-a-two-year-5-million-contract-extension-092926"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 675000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 75000
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 675000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 1016667,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 1016667,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 1016667,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479979,
+      "player_name": "Jake Oettinger",
+      "position": "G",
+      "sweater_number": 29,
+      "birth_date": "1998-12-18",
+      "current_team": "DAL",
+      "signing_team": "DAL",
+      "signed_date": "2024-10-18",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 8250000,
+      "total_value_usd": 66000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-oettinger-signs-8-year-deal-with-dallas",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/dallas-stars",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DAL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DAL",
+          "aav_usd": 8250000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DAL",
+          "aav_usd": 8250000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": null,
+      "player_name": "Team Performance Bonus Overage (Jamie Benn / Justin Hryckowian)",
+      "event_date": "2026-04-20",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 2080000,
+      "source_url": "https://www.prohockeyrumors.com/2026/04/at-least-eight-teams-to-carry-overage-penalty-into-2026-27.html",
+      "notes": "2025-26 performance bonus carryover ($2M Jamie Benn + $80K Justin Hryckowian)."
+    }
+  ]
+}

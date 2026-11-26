@@ -1,0 +1,899 @@
+{
+  "team": "DET",
+  "team_name": "Detroit Red Wings",
+  "roster_count": 24,
+  "deep_dive_url": null,
+  "dead_cap_lines": [],
+  "results": [
+    {
+      "player": {
+        "id": 8478891,
+        "name": "Mason Appleton",
+        "first": "Mason",
+        "last": "Appleton",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "1996-01-15",
+      "draft_team": "WPG",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2025/07/red-wings-sign-mason-appleton-to-two-year-deal.html",
+        "date": "2025-07-02",
+        "headline": "Red Wings Sign Mason Appleton To Two-Year Deal",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2900000,
+          "total_value_usd": 5800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Detroit Red Wings have signed forward Mason Appleton to a two-year, $5.8MM contract per PuckPedia . PuckPedia adds that Appleton will be due $3MM of salary in the first year of the deal, and $2.8MM in the second year."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478042,
+        "name": "Viktor Arvidsson",
+        "first": "Viktor",
+        "last": "Arvidsson",
+        "pos": "L",
+        "sweater": 33
+      },
+      "birth_date": "1993-04-08",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/viktor-arvidsson-signs-two-year-contract-with-detroit-red-wings",
+        "date": "2026-07-01",
+        "headline": "Arvidsson signs 2-year, $10 million contract with Red Wings",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 5000000,
+          "total_value_usd": 10000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Viktor Arvidsson signed a two-year, $10 million contract with the Detroit Red Wings on Wednesday. It has an average annual value of $5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484794,
+        "name": "Michael Brandsegg-Nyg\u00e5rd",
+        "first": "Michael",
+        "last": "Brandsegg-Nyg\u00e5rd",
+        "pos": "R",
+        "sweater": 28
+      },
+      "birth_date": "2005-10-05",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-sign-michael-brandsegg-nygard-to-three-year-entry-level-contract",
+        "date": "2024-07-11",
+        "headline": "Red Wings sign Michael Brandsegg-Nyg\u00e5rd to three-year, entry-level contract ",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 975000,
+          "total_value_usd": 2925000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today signed forward Michael Brandsegg-Nyg\u00e5rd to a three-year, entry-level contract with an average annual value of $975,000. Brandsegg-Nyg\u00e5rd, 18, was selected by the Red Wings in the first round (15th overall) of the 2024 NHL Entry Draft, held at Sphere in Las Vegas on June 28-29, "
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477456,
+        "name": "J.T. Compher",
+        "first": "J.T.",
+        "last": "Compher",
+        "pos": "L",
+        "sweater": 37
+      },
+      "birth_date": "1995-04-08",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/j-t-compher-signs-5-year-contract-with-detroit-red-wings-345171840",
+        "date": "2023-07-03",
+        "headline": "Compher signs 5-year, $25.5 million contract with Red Wings",
+        "signing_team": "DET",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5100000,
+          "total_value_usd": 25500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[J.T. Compher](https://www.nhl.com/player/j-t-compher-8477456) signed a five-year, $25.5 million contract with the Detroit Red Wings on Saturday."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477429,
+        "name": "Andrew Copp",
+        "first": "Andrew",
+        "last": "Copp",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "1994-07-08",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/andrew-copp-signs-five-year-contract-with-red-wings-334796426",
+        "date": "2022-07-14",
+        "headline": "Copp signs five-year, $28.125 million contract with Red Wings",
+        "signing_team": "DET",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5625000,
+          "total_value_usd": 28125000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Andrew Copp signed a five-year, $28.125 million contract with the Detroit Red Wings on Wednesday. It has an average annual value of $5.625 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481523,
+        "name": "Kirby Dach",
+        "first": "Kirby",
+        "last": "Dach",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "2001-01-21",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/kirby-dach-signs-1-year-contract-with-montreal-canadiens",
+        "date": "2026-07-16",
+        "headline": "Dach signs 1-year, $3.6 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 3600000,
+          "total_value_usd": 3600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Kirby Dach signed a one-year, $3.6 million contract with the Montreal Canadiens on Thursday, avoiding an arbitration hearing. The 25-year-old forward, who was a restricted free agent, had 15 points (eight goals, seven assists) in 37 regular-season games for the Canadiens last season and five points (four goals, one ass"
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-23",
+        "headline": "Horcoff says Hage-headlined trade package from Canadiens \u2018was the right one\u2019 for Red Wings",
+        "url": "https://www.nhl.com/redwings/news/horcoff-says-hage-headlined-trade-package-from-canadiens-was-the-right-one-for-red-wings"
+      }
+    },
+    {
+      "player": {
+        "id": 8479337,
+        "name": "Alex DeBrincat",
+        "first": "Alex",
+        "last": "DeBrincat",
+        "pos": "R",
+        "sweater": 93
+      },
+      "birth_date": "1997-12-18",
+      "draft_team": "CHI",
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-sign-alex-debrincat-to-seven-year-contract-extension",
+        "date": "2026-10-14",
+        "headline": "Red Wings sign Alex Debrincat to seven-year contract extension",
+        "signing_team": "DET",
+        "start_season": "2027-28",
+        "end_season": "2033-34",
+        "start_yr": 2027,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 13000000,
+          "total_value_usd": 91000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today signed forward Alex DeBrincat to a seven-year contract extension with an average annual value of $13 million. DeBrincat, 28, leads all Red Wings players in goals (4), points (8) and plus/minus (+7) in six games to begin the 2026-27 season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484471,
+        "name": "Emmitt Finnie",
+        "first": "Emmitt",
+        "last": "Finnie",
+        "pos": "C",
+        "sweater": 58
+      },
+      "birth_date": "2005-06-27",
+      "draft_team": "DET",
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483464,
+        "name": "Marco Kasper",
+        "first": "Marco",
+        "last": "Kasper",
+        "pos": "C",
+        "sweater": 92
+      },
+      "birth_date": "2004-04-08",
+      "draft_team": "DET",
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478434,
+        "name": "Keegan Kolesar",
+        "first": "Keegan",
+        "last": "Kolesar",
+        "pos": "R",
+        "sweater": 55
+      },
+      "birth_date": "1997-04-08",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/keegan-kolesar-signs-contract-with-vegas-golden-knights",
+        "date": "2024-12-14",
+        "headline": "Kolesar signs 3-year, $7.5 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2500000,
+          "total_value_usd": 7500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Keegan Kolesar signed a three-year, $7.5 million contract with the Vegas Golden Knights on Friday. It has an average annual value of $2.5 million and will begin next season."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Red Wings acquire Keegan Kolesar from Vegas Golden Knights in exchange for 3rd and 7th round picks",
+        "url": "https://www.nhl.com/redwings/news/red-wings-acquire-keegan-kolesar"
+      }
+    },
+    {
+      "player": {
+        "id": 8482802,
+        "name": "Carter Mazur",
+        "first": "Carter",
+        "last": "Mazur",
+        "pos": "L",
+        "sweater": 34
+      },
+      "birth_date": "2002-03-28",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-re-sign-carter-mazur-to-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "Red Wings re-sign Carter Mazur to two-year contract",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today re-signed forward Carter Mazur to a two-year contract with an average annual value of $875,000. Mazur, 24, played in eight games with the Red Wings during the 2025-26 season, logging three shots, six blocks and 10 hits in 10:42 average time on ice."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479992,
+        "name": "Michael Rasmussen",
+        "first": "Michael",
+        "last": "Rasmussen",
+        "pos": "C",
+        "sweater": 27
+      },
+      "birth_date": "1999-04-17",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/michael-rasmussen-signs-four-year-contract-with-detroit-red-wings",
+        "date": "2024-02-21",
+        "headline": "Rasmussen signs 4-year, $12.8 million contract with Red Wings",
+        "signing_team": "DET",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3200000,
+          "total_value_usd": 12800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Michael Rasmussen signed a four-year, $12.8 million contract with the Detroit Red Wings on Tuesday. It has an average annual value of $3.2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482078,
+        "name": "Lucas Raymond",
+        "first": "Lucas",
+        "last": "Raymond",
+        "pos": "L",
+        "sweater": 23
+      },
+      "birth_date": "2002-03-28",
+      "draft_team": "DET",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2024/09/red-wings-sign-lucas-raymond-to-eight-year-extension.html",
+        "date": "2024-09-16",
+        "headline": "Red Wings Sign Lucas Raymond To Eight-Year Extension",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8075000,
+          "total_value_usd": 64600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "or domino has fallen for the Detroit Red Wings as the team announced an eight-year, $64.6MM extension for forward Lucas Raymond . The deal will pay Raymond an AAV of $8.075MM over the life of the contract and he will don the winged wheel until the 2031-32 NHL season."
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/detroit-red-wings-lucas-raymond-moritz-seider-contract-status-update",
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480879,
+        "name": "Jacob Bernard-Docker",
+        "first": "Jacob",
+        "last": "Bernard-Docker",
+        "pos": "D",
+        "sweater": 25
+      },
+      "birth_date": "2000-06-30",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-sign-jacob-bernard-docker-to-two-year-contract-extension",
+        "date": "2026-03-25",
+        "headline": "Red Wings sign Jacob Bernard-Docker to two-year contract extension",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1600000,
+          "total_value_usd": 3200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today signed defenseman Jacob Bernard-Docker to a two-year contract extension with an average annual value of $1.6 million. Bernard-Docker, 25, has skated in 55 games with the Red Wings during the 2025-26 season, recording four assists, a plus-five rating, 18 penalty minutes, 37 shot"
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475279,
+        "name": "Ben Chiarot",
+        "first": "Ben",
+        "last": "Chiarot",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1991-05-09",
+      "draft_team": "ATL",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/i-really-enjoy-coming-to-the-rink-every-day-chiarot-re-signs-three-year-contract-happy-to-keep-calling-detroit-home",
+        "date": "2026-01-28",
+        "headline": "\u2018I really enjoy coming to the rink every day': Chiarot re-signs three year-contract, happy to keep calling Detroit home",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3850000,
+          "total_value_usd": 11550000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**DETROIT --** Locking up a key veteran presence on the back end, the Detroit Red Wings announced they re-signed Ben Chiarot to a three-year contract extension worth an average annual value of $3.85 million on Wednesday morning. \u201cThe team, first of all, and what goes on out on the ice,\u201d Chiarot said when asked about hi"
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477971,
+        "name": "Andreas Englund",
+        "first": "Andreas",
+        "last": "Englund",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "1996-01-21",
+      "draft_team": "OTT",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2025/04/predators-re-sign-andreas-englund.html",
+        "date": "2025-04-18",
+        "headline": "Predators Re-Sign Andreas Englund",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The Predators announced today they've re-signed defenseman Andreas Englund to a league-minimum contract for the 2025-26 season. It is unclear whether it is a one-way or two-way deal."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475753,
+        "name": "Justin Faulk",
+        "first": "Justin",
+        "last": "Faulk",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "1992-03-20",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/justin-faulk-traded-for-joel-edmundson-dominik-bokk-309426362",
+        "date": "2019-09-24",
+        "headline": "Faulk traded to Blues by Hurricanes, signs seven-year extension",
+        "signing_team": "CAR",
+        "start_season": "2020-21",
+        "end_season": "2026-27",
+        "start_yr": 2020,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6500000,
+          "total_value_usd": 45500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2020-21",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Justin Faulk was traded to the St. Louis Blues by the Carolina Hurricanes on Tuesday with a fifth-round pick in the 2020 NHL Draft for Joel Edmundson, Dominik Bokk and a seventh-round pick in the 2021 NHL Draft."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-09",
+        "headline": "Faulk traded to Red Wings by Blues for Holl, 2026 Draft picks",
+        "url": "https://www.nhl.com/news/justin-faulk-traded-to-detroit-red-wings-by-st-louis-blues"
+      }
+    },
+    {
+      "player": {
+        "id": 8481607,
+        "name": "Albert Johansson",
+        "first": "Albert",
+        "last": "Johansson",
+        "pos": "D",
+        "sweater": 20
+      },
+      "birth_date": "2001-01-04",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-sign-albert-johansson-to-two-year-contract-extension",
+        "date": "2025-06-30",
+        "headline": "Red Wings sign Albert Johansson to two-year contract extension",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1125000,
+          "total_value_usd": 2250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today signed defenseman Albert Johansson to a two-year contract extension with an average annual value of $1.125 million. Johansson, 24, spent the entire 2024-25 season with the Red Wings, recording nine points (3-6-9) and 30 penalty minutes in 61 games."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483679,
+        "name": "Anton Johansson",
+        "first": "Anton",
+        "last": "Johansson",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "2004-06-10",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/redwings/news/red-wings-sign-defenseman-anton-johansson-to-three-year-entry-level-contract",
+        "date": "2025-03-13",
+        "headline": "Red Wings sign defenseman Anton Johansson to three-year, entry-level contract",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "**DETROIT \u2013** The Detroit Red Wings today signed defenseman Anton Johansson to a three-year, entry-level contract beginning with the 2025-26 season. Johansson will report to the American Hockey League\u2019s Grand Rapids Griffins on an amateur tryout for the remainder of the 2024-25 season."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481542,
+        "name": "Moritz Seider",
+        "first": "Moritz",
+        "last": "Seider",
+        "pos": "D",
+        "sweater": 53
+      },
+      "birth_date": "2001-04-06",
+      "draft_team": "DET",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2024/09/red-wings-sign-moritz-seider.html",
+        "date": "2024-09-19",
+        "headline": "Red Wings Sign Moritz Seider",
+        "signing_team": "DET",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 8550000,
+          "total_value_usd": 59850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Detroit Red Wings have signed star defender Moritz Seider to a seven-year, $59.85MM contract, per Sportsnet . The deal will carry an annual cap hit of $8.55MM."
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/detroit-red-wings-lucas-raymond-moritz-seider-contract-status-update",
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482171,
+        "name": "William Wallinder",
+        "first": "William",
+        "last": "Wallinder",
+        "pos": "D",
+        "sweater": 54
+      },
+      "birth_date": "2002-07-28",
+      "draft_team": "DET",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2026/06/detroit-red-wings-extend-william-wallinder.html",
+        "date": "2026-06-25",
+        "headline": "Detroit Red Wings Extend William Wallinder",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Detroit Red Wings have signed defensive prospect William Wallinder to a two-year, two-way contract extension through the 2027-28 campaign. According to PuckPedia , it's a two-year, $1.75MM ($875K AAV) agreement, paying Wallinder an NHL salary of $850K in year one, and $900K in year two."
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/redwings/news/red-wings-sign-william-wallinder-to-two-year-two-way-contract-extension",
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476434,
+        "name": "John Gibson",
+        "first": "John",
+        "last": "Gibson",
+        "pos": "G",
+        "sweater": 36
+      },
+      "birth_date": "1993-07-14",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/anaheim-signs-john-gibson-to-contract-extension-299674724",
+        "date": "2018-08-04",
+        "headline": "Gibson signs eight-year contract extension with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "John Gibson signed an eight-year contract extension with the Anaheim Ducks on Saturday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-01",
+        "headline": "Gibson traded to Red Wings by Ducks for Mrazek, 2 draft picks",
+        "url": "https://www.nhl.com/news/john-gibson-traded-to-detroit-red-wings-by-anaheim-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8478470,
+        "name": "Samuel Montembeault",
+        "first": "Samuel",
+        "last": "Montembeault",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "1996-10-30",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "url": "https://www.nhl.com/news/sam-montembeault-signs-3-year-deal-with-montreal",
+        "date": "2023-12-01",
+        "headline": "Montembeault signs 3-year, $9.45 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3150000,
+          "total_value_usd": 9450000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sam Montembeault signed a three-year, $9.45 million contract with the Montreal Canadiens on Friday. The contract, which starts next season, has an average annual value of $3.15 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-23",
+        "headline": "Horcoff says Hage-headlined trade package from Canadiens \u2018was the right one\u2019 for Red Wings",
+        "url": "https://www.nhl.com/redwings/news/horcoff-says-hage-headlined-trade-package-from-canadiens-was-the-right-one-for-red-wings"
+      }
+    },
+    {
+      "player": {
+        "id": 8480193,
+        "name": "Daniil Tarasov",
+        "first": "Daniil",
+        "last": "Tarasov",
+        "pos": "G",
+        "sweater": 80
+      },
+      "birth_date": "1999-03-27",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "url": "https://www.prohockeyrumors.com/2026/07/red-wings-sign-daniil-tarasov.html",
+        "date": "2026-07-01",
+        "headline": "Red Wings Sign Daniil Tarasov",
+        "signing_team": "DET",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "According to a team announcement , the Detroit Red Wings have signed netminder Daniil Tarasov to a one-year, $2MM contract. Parting ways with Sebastian Cossa at the 2026 NHL Draft, the Red Wings entered the offseason with a wide-open hole for their backup goaltender."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

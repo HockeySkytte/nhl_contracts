@@ -1,0 +1,2903 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "MIN",
+  "team_name": "Minnesota Wild",
+  "generated_at_utc": "2026-11-26T22:49:27Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/MIN/current",
+  "summary": {
+    "roster_players": 24,
+    "contracts_with_verified_source_url": 24,
+    "contracts_matched_nhlpa": 24,
+    "contracts_with_public_aav": 24,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 103535833,
+    "cap_penalties_count": 2,
+    "total_cap_penalties_usd": 1666666,
+    "combined_roster_plus_penalties_usd": 105202499
+  },
+  "contracts": [
+    {
+      "player_id": 8481557,
+      "player_name": "Matt Boldy",
+      "position": "L",
+      "sweater_number": 12,
+      "birth_date": "2001-04-05",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2023-01-16",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 7,
+      "aav_usd": 7000000,
+      "total_value_usd": 49000000,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matt-boldy-signs-seven-year-contract-with-minnesota-wild-340005824",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 880833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 880833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 7000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 7000000,
+          "total_salary_usd": 9700000,
+          "base_salary_usd": 9700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7700000,
+          "base_salary_usd": 7700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 7000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481553,
+      "player_name": "Bobby Brink",
+      "position": "R",
+      "sweater_number": 10,
+      "birth_date": "2001-07-08",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 2750000,
+      "total_value_usd": 2750000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-bobby-brink-063026",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/wild/news/minnesota-wild-acquires-forward-bobby-brink-from-the-philadelphia-flyers-030626"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2750000,
+      "current_season_base_salary_usd": 2750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "PHI",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476399,
+      "player_name": "Blake Coleman",
+      "position": "L",
+      "sweater_number": 20,
+      "birth_date": "1991-11-28",
+      "current_team": "MIN",
+      "signing_team": "CGY",
+      "signed_date": "2021-07-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 4900000,
+      "total_value_usd": 29400000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/blake-coleman-signing-update-news-status-325807570",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4900000,
+      "current_season_base_salary_usd": 4900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 680000,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 680000,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 660000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 660000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 4900000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4900000,
+          "base_salary_usd": 4900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 5900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4900000,
+          "base_salary_usd": 4900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4900000,
+          "base_salary_usd": 4900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4900000,
+          "base_salary_usd": 4900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478493,
+      "player_name": "Joel Eriksson Ek",
+      "position": "C",
+      "sweater_number": 14,
+      "birth_date": "1997-01-29",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2021-07-03",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 5250000,
+      "total_value_usd": 42000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/minnesota-wild-joel-eriksson-ek-signs-eight-year-deal-325553050",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 1487500,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 1487500,
+          "total_salary_usd": 1525000,
+          "base_salary_usd": 1525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475220,
+      "player_name": "Marcus Foligno",
+      "position": "L",
+      "sweater_number": 17,
+      "birth_date": "1991-08-10",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2023-09-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 4000000,
+      "total_value_usd": 16000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/marcus-foligno-signs-4-year-contract-with-minnesota-wild",
+      "secondary_source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-marcus-foligno-to-contract-extension",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-nick-foligno-to-minnesota-wild"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "BUF",
+          "aav_usd": 826667,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "BUF",
+          "aav_usd": 826667,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "BUF",
+          "aav_usd": 826667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 1875000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 1875000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 2875000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 2875000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 2875000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 2875000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 3100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 3100000,
+          "total_salary_usd": 4100000,
+          "base_salary_usd": 4100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8473422,
+      "player_name": "Nick Foligno",
+      "position": "L",
+      "sweater_number": 71,
+      "birth_date": "1987-10-31",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 900000,
+      "total_value_usd": 900000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nick-foligno-signs-one-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-nick-foligno-to-minnesota-wild"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "OTT",
+          "aav_usd": 1200000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "CBJ",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1550000,
+          "base_salary_usd": 1550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "CBJ",
+          "aav_usd": 3083333,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "CBJ",
+          "aav_usd": 3083333,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 3083333,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477451,
+      "player_name": "Ryan Hartman",
+      "position": "R",
+      "sweater_number": 38,
+      "birth_date": "1994-09-20",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2023-10-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 4000000,
+      "total_value_usd": 12000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-ryan-hartman-to-contract-extension-100723",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 1700000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 1700000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478864,
+      "player_name": "Kirill Kaprizov",
+      "position": "L",
+      "sweater_number": 97,
+      "birth_date": "1997-04-26",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2025-09-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 17000000,
+      "total_value_usd": 136000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kirill-kaprizov-signs-eight-year-136-million-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/minnesota-wild-confident-about-resigning-marco-rossi-kirill-kaprizov"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 19100000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 18100000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 9000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 9000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 9000000,
+          "total_salary_usd": 12500000,
+          "base_salary_usd": 12500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 9000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 9000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 17000000,
+          "total_salary_usd": 19100000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 18100000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477446,
+      "player_name": "Michael McCarron",
+      "position": "C",
+      "sweater_number": 47,
+      "birth_date": "1995-03-07",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-06-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 3333333,
+      "total_value_usd": 19999998,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-michael-mccarron-060926",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-second-round-pick-in-2028-nhl-draft-from-minnesota-2026-03-03"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 3333333,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485702,
+      "player_name": "Maxim Shabanov",
+      "position": "R",
+      "sweater_number": 49,
+      "birth_date": "2000-10-07",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (10 more GP needed); otherwise Group 6 UFA",
+      "term_years": 1,
+      "aav_usd": 1600000,
+      "total_value_usd": 1600000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-forward-maxim-shabanov-to-one-year-contract-070226",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1600000,
+      "current_season_base_salary_usd": 1600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481477,
+      "player_name": "Nico Sturm",
+      "position": "C",
+      "sweater_number": 78,
+      "birth_date": "1995-05-03",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "total_value_usd": 4000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nico-sturm-signs-two-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/tyson-jost-traded-to-colorado-for-minnesota-s-nico-sturm-331853230"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478508,
+      "player_name": "Yakov Trenin",
+      "position": "C",
+      "sweater_number": 13,
+      "birth_date": "1997-01-13",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 3500000,
+      "total_value_usd": 14000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-center-yakov-trenin-to-a-four-year-contract-070124",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NSH",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 735500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 735500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483525,
+      "player_name": "Danila Yurov",
+      "position": "R",
+      "sweater_number": 22,
+      "birth_date": "2003-12-22",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 965000,
+      "total_value_usd": null,
+      "start_season": "2025-26",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8474567,
+      "player_name": "Zach Bogosian",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1990-07-15",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1250000,
+      "total_value_usd": 1250000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/calvin-pickard-signs-1-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/wild/news/wild-acquires-zach-bogosian-110823"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "ATL",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "WPG",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "WPG",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 5142857,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 5142857,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 5142857,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 5142857,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 5142857,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 5142857,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TBL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 850000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 850000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 850000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476463,
+      "player_name": "Jonas Brodin",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "1993-07-12",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2020-09-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 7,
+      "aav_usd": 6000000,
+      "total_value_usd": 42000000,
+      "start_season": "2021-22",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jonas-brodin-seven-year-extension-091520-319037474",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "MIN",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 4166667,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482122,
+      "player_name": "Brock Faber",
+      "position": "D",
+      "sweater_number": 7,
+      "birth_date": "2002-08-22",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2024-07-29",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 8500000,
+      "total_value_usd": 68000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-faber-072924",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9500000,
+      "current_season_base_salary_usd": 9500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 8500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480800,
+      "player_name": "Quinn Hughes",
+      "position": "D",
+      "sweater_number": 43,
+      "birth_date": "1999-10-14",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-09-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 7850000,
+      "total_value_usd": 7850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/quinn-hughes-not-rushing-to-sign-new-deal-before-training-camp",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/quinn-hughes-could-stay-with-minnesota-wild-past-trade-deadline-if-unsigned"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 8250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 8600000,
+          "base_salary_usd": 8600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 10250000,
+          "base_salary_usd": 10250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 7850000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482641,
+      "player_name": "Matt Kiersted",
+      "position": "D",
+      "sweater_number": 26,
+      "birth_date": "1998-04-14",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUER1b0xqTU9aY3FzUWk1S0NWUlVJV2JyZFFNbHlJNHpyWTNfRnZDWmVUOTJXQ25OVG5QV1dKTDVCOXRhY3JUZF9SS0VHdGt2V3JISEZDV0JDYUlXVkZQam84QUJLeVBwYmRtTjBmWUpULWo3NzRRTzBOdDBWVFdWbktxTkJMVG5WZ2NZT1h4RlhuR0RxQlZYbHhHZXNhdw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 450000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 858750,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 858750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        }
+      }
+    },
+    {
+      "player_id": 8476874,
+      "player_name": "Olli Maatta",
+      "position": "D",
+      "sweater_number": 3,
+      "birth_date": "1994-08-22",
+      "current_team": "MIN",
+      "signing_team": "UTA",
+      "signed_date": "2025-03-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 3500000,
+      "total_value_usd": 10500000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/olli-maatta-signs-three-year-contract-with-utah-hockey-club",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "PIT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "PIT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083300,
+          "base_salary_usd": 4083300,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083300,
+          "base_salary_usd": 4083300,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CHI",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083300,
+          "base_salary_usd": 4083300,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083300,
+          "base_salary_usd": 4083300,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083300,
+          "base_salary_usd": 4083300,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 4083333,
+          "total_salary_usd": 4083500,
+          "base_salary_usd": 4083500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "UTA",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483766,
+      "player_name": "David Spacek",
+      "position": "D",
+      "sweater_number": 82,
+      "birth_date": "2003-02-18",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-07-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMU5XSnFMNFRPRGZuWGdzUUZGZzNIY014a3NfYmJHR3hldkhWbDRSal9tWkZoMWM0RnlLSWk4V2lFU2FpSnV5dlRyNjVsU2Z6T0hhZnBVMjltVXdaNEtvZUVKZGVRaWZrQXZ2TEZ1V0ZpTTlvaU9oZGU2aDRwaThCSzhIQW56SzFwQmRiSm5FTzNPV3Azc1lSUXRLYTBjMVNTUzIwWjZ6MGl2Sy1sWW9lUEZTWTJBMlUyVzNkaGNibXFZRHRqc1RlZTRucExPeWFhc19iY3hwUVZnSlVJb2U2elZ1MmRwUDV1b2NWbzBDMzQ?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 110000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 862500,
+          "total_salary_usd": 862500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 862500,
+          "total_salary_usd": 862500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 862500,
+          "total_salary_usd": 862500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        }
+      }
+    },
+    {
+      "player_id": 8474716,
+      "player_name": "Jared Spurgeon",
+      "position": "D",
+      "sweater_number": 46,
+      "birth_date": "1989-11-29",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2019-09-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 7,
+      "aav_usd": 7575000,
+      "total_value_usd": 53025000,
+      "start_season": "2020-21",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jared-spurgeon-seven-year-deal-minnesota-wild-309133114",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6025000,
+      "current_season_base_salary_usd": 6025000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "MIN",
+          "aav_usd": 526667,
+          "total_salary_usd": 510000,
+          "base_salary_usd": 500000,
+          "signing_bonus_usd": 10000,
+          "minor_league_salary_usd": 50000
+        },
+        "2011-12": {
+          "team": "MIN",
+          "aav_usd": 526667,
+          "total_salary_usd": 535000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 10000,
+          "minor_league_salary_usd": 55000
+        },
+        "2012-13": {
+          "team": "MIN",
+          "aav_usd": 526667,
+          "total_salary_usd": 535000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 10000,
+          "minor_league_salary_usd": 60000
+        },
+        "2013-14": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 5187500,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 5187500,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 5187500,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 5187500,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 7575000,
+          "total_salary_usd": 6025000,
+          "base_salary_usd": 6025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479406,
+      "player_name": "Filip Gustavsson",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "1998-06-07",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2025-10-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 6800000,
+      "total_value_usd": 34000000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/filip-gustavsson-signs-5-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 756875,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 756875,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 756875,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 756875,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 787500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 787500,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 6800000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475717,
+      "player_name": "Calvin Pickard",
+      "position": "G",
+      "sweater_number": 31,
+      "birth_date": "1992-04-15",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1000000,
+      "total_value_usd": 1000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-goaltender-calvin-pickard-to-a-one-year-contract-070126",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "COL",
+          "aav_usd": 807500,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "COL",
+          "aav_usd": 807500,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "COL",
+          "aav_usd": 807500,
+          "total_salary_usd": 840000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "COL",
+          "aav_usd": 807500,
+          "total_salary_usd": 810000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "COL",
+          "aav_usd": 850500,
+          "total_salary_usd": 850500,
+          "base_salary_usd": 850500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1075000,
+          "base_salary_usd": 1075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 150000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482661,
+      "player_name": "Jesper Wallstedt",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "2002-11-14",
+      "current_team": "MIN",
+      "signing_team": "MIN",
+      "signed_date": "2024-10-08",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 2200000,
+      "total_value_usd": 4400000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jesper-wallstedt-signs-two-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/minnesota-wild",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "MIN",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MIN",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8470610,
+      "player_name": "Zach Parise",
+      "event_date": "2021-07-13",
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 833333,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-minnesota-wild-10.html",
+      "notes": "Reduced tail of 2021 buyout ($833,333/yr through 2028-29)."
+    },
+    {
+      "penalty_type": "buyout",
+      "player_id": 8470600,
+      "player_name": "Ryan Suter",
+      "event_date": "2021-07-13",
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 833333,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-minnesota-wild-10.html",
+      "notes": "Reduced tail of 2021 buyout ($833,333/yr through 2028-29)."
+    }
+  ]
+}

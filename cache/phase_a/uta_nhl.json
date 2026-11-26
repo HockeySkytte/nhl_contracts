@@ -1,0 +1,847 @@
+{
+  "team": "UTA",
+  "team_name": "Utah Mammoth",
+  "roster_count": 28,
+  "results": [
+    {
+      "player": {
+        "id": 8484388,
+        "name": "Daniil But",
+        "first": "Daniil",
+        "last": "But",
+        "pos": "L",
+        "sweater": 50
+      },
+      "birth_date": "2005-02-15",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479619,
+        "name": "Michael Carcone",
+        "first": "Michael",
+        "last": "Carcone",
+        "pos": "L",
+        "sweater": 53
+      },
+      "birth_date": "1996-05-19",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483431,
+        "name": "Logan Cooley",
+        "first": "Logan",
+        "last": "Cooley",
+        "pos": "C",
+        "sweater": 92
+      },
+      "birth_date": "2004-05-04",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/logan-cooley-signs-8-year-contract-with-utah-mammoth",
+        "date": "2025-10-29",
+        "headline": "Cooley signs 8-year, $80 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10000000,
+          "total_value_usd": 80000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Logan Cooley signed an eight-year, $80 million contract with the Utah Mammoth on Wednesday. It has an average annual value of $10 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478474,
+        "name": "Lawson Crouse",
+        "first": "Lawson",
+        "last": "Crouse",
+        "pos": "L",
+        "sweater": 67
+      },
+      "birth_date": "1997-06-23",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/crouse-signs-five-year-contract-with-coyotes-avoids-arbitration-335210346",
+        "date": "2022-08-08",
+        "headline": "Crouse signs five-year contract with Coyotes, avoids arbitration",
+        "signing_team": "UTA",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lawson Crouse signed a five-year contract with the Arizona Coyotes on Monday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482699,
+        "name": "Dylan Guenther",
+        "first": "Dylan",
+        "last": "Guenther",
+        "pos": "R",
+        "sweater": 11
+      },
+      "birth_date": "2003-04-10",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dylan-guenther-signs-8-year-contract-with-utah",
+        "date": "2024-09-20",
+        "headline": "Guenther signs 8-year contract with Utah, begins next season",
+        "signing_team": "UTA",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Dylan Guenther signed an eight-year contract with the Utah Hockey Club on Friday. Financial terms were not disclosed and it begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480849,
+        "name": "Barrett Hayton",
+        "first": "Barrett",
+        "last": "Hayton",
+        "pos": "C",
+        "sweater": 27
+      },
+      "birth_date": "2000-06-09",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-09",
+        "headline": "Mammoth match Hayton's 1-year, $4.775 million offer sheet from Devils",
+        "url": "https://www.nhl.com/news/barrett-hayton-offer-sheet-matched-by-utah-mammoth"
+      }
+    },
+    {
+      "player": {
+        "id": 8479343,
+        "name": "Clayton Keller",
+        "first": "Clayton",
+        "last": "Keller",
+        "pos": "R",
+        "sweater": 9
+      },
+      "birth_date": "1998-07-29",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475314,
+        "name": "Anders Lee",
+        "first": "Anders",
+        "last": "Lee",
+        "pos": "L",
+        "sweater": 72
+      },
+      "birth_date": "1990-07-03",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/new-york-islanders-sad-to-see-captain-anders-lee-leave-in-free-agency",
+        "date": "2026-07-02",
+        "headline": "Islanders 'sad to see' Lee sign with Mammoth as free agent",
+        "signing_team": "NYI",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5400000,
+          "total_value_usd": 16200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Anders Lee was captain of the New York Islanders since Oct. 4, 2018, a run that ended when he signed a three-year, $16.2 million contract ($5.4 million average annual value)) with the Utah Mammoth on Wednesday as an unrestricted free agent."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480855,
+        "name": "Jack McBain",
+        "first": "Jack",
+        "last": "McBain",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "2000-01-06",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jack-mcbain-signs-5-year-contract-with-utah-mammoth",
+        "date": "2025-07-08",
+        "headline": "McBain signs 5-year, $21.25 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4250000,
+          "total_value_usd": 21250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jack McBain signed a five-year, $21.25 million contract with the Utah Mammoth on Monday. It has an average annual value of $4.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481827,
+        "name": "Ben McCartney",
+        "first": "Ben",
+        "last": "McCartney",
+        "pos": "L",
+        "sweater": 62
+      },
+      "birth_date": "2001-07-13",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477070,
+        "name": "Liam O'Brien",
+        "first": "Liam",
+        "last": "O'Brien",
+        "pos": "C",
+        "sweater": 38
+      },
+      "birth_date": "1994-07-29",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477951,
+        "name": "Nick Schmaltz",
+        "first": "Nick",
+        "last": "Schmaltz",
+        "pos": "C",
+        "sweater": 8
+      },
+      "birth_date": "1996-02-23",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nick-schmaltz-signs-eight-year-contract-with-utah-mammoth",
+        "date": "2026-03-11",
+        "headline": "Schmaltz signs 8-year, $64 million contract to remain with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8000000,
+          "total_value_usd": 64000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Nick Schmaltz was already convinced that Utah was where he and his fianc\u00e9 wanted to settle, live and play. An eight-year, $64 million contract made it official."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478831,
+        "name": "Kevin Stenlund",
+        "first": "Kevin",
+        "last": "Stenlund",
+        "pos": "C",
+        "sweater": 82
+      },
+      "birth_date": "1996-09-20",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/utah/news/release-7-1-2",
+        "date": "2026-07-01",
+        "headline": "Utah Signs Kevin Stenlund to One-Year Contract",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2750000,
+          "total_value_usd": 2750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Utah Mammoth announced today the signing of forward Kevin Stenlund to a one-year contract with an average annual value (AAV) of $2.75 million. \u201cKevin plays an important role on this team and we\u2019re pleased to bring him back to the Utah Mammoth,\u201d said Bill Armstrong, general manager of the Utah Mammoth."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476389,
+        "name": "Vincent Trocheck",
+        "first": "Vincent",
+        "last": "Trocheck",
+        "pos": "C",
+        "sweater": 16
+      },
+      "birth_date": "1993-07-11",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/carolina-hurricanes-want-to-re-sign-free-agent-forwards-vincent-troche-334436196",
+        "date": "2022-06-03",
+        "headline": "Hurricanes want to re-sign free agent forwards Trocheck, Niederreiter",
+        "signing_team": "CAR",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4750000,
+          "total_value_usd": 28500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**RALEIGH, N.C. --** The Carolina Hurricanes want to re-sign pending unrestricted free agent forwards Vincent Trocheck and Nino Niederreiter."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Trocheck traded to Mammoth by Rangers for Durzi, prospect, draft pick",
+        "url": "https://www.nhl.com/news/vincent-trocheck-traded-to-utah-mammoth-by-new-york-rangers"
+      }
+    },
+    {
+      "player": {
+        "id": 8479977,
+        "name": "Kailer Yamamoto",
+        "first": "Kailer",
+        "last": "Yamamoto",
+        "pos": "R",
+        "sweater": 56
+      },
+      "birth_date": "1998-09-29",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kailer-yamamoto-signs-2-year-contract-with-utah-mammoth",
+        "date": "2026-06-29",
+        "headline": "Yamamoto signs 2-year, $3.5 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1750000,
+          "total_value_usd": 3500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kailer Yamamoto signed a two-year, $3.5 million contract with the Utah Mammoth on Monday. It has an average annual value of $1.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485010,
+        "name": "Gregor Biber",
+        "first": "Gregor",
+        "last": "Biber",
+        "pos": "D",
+        "sweater": 94
+      },
+      "birth_date": "2006-08-09",
+      "draft_team": "UTA",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480084,
+        "name": "Nick DeSimone",
+        "first": "Nick",
+        "last": "DeSimone",
+        "pos": "D",
+        "sweater": 57
+      },
+      "birth_date": "1994-11-21",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-01-05",
+        "headline": "DeSimone Claimed by Utah | TRANSACTIONS",
+        "url": "https://www.nhl.com/devils/news/desimone-claimed-by-utah-transactions-1-5-25"
+      }
+    },
+    {
+      "player": {
+        "id": 8483436,
+        "name": "Artem Duda",
+        "first": "Artem",
+        "last": "Duda",
+        "pos": "D",
+        "sweater": 84
+      },
+      "birth_date": "2004-04-08",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481708,
+        "name": "Zac Jones",
+        "first": "Zac",
+        "last": "Jones",
+        "pos": "D",
+        "sweater": 15
+      },
+      "birth_date": "2000-10-18",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/utah/news/utah-signs-zac-jones-to-two-year-two-way-contract-release-7-1-26",
+        "date": "2026-07-01",
+        "headline": "Utah Signs Zac Jones to Two-Year, Two-Way Contract",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Utah Mammoth announced today the signing of defenseman Zac Jones to a two-year, two-way contract, with an $875,000 average annual value (AAV) at the NHL level. **About Zac Jones:** * Jones, 25, recorded 10-52\u201362 and 14 penalty minutes (PIM) in 60 American Hockey League (AHL) games with the Rochester Americans last "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483472,
+        "name": "Maveric Lamoureux",
+        "first": "Maveric",
+        "last": "Lamoureux",
+        "pos": "D",
+        "sweater": 10
+      },
+      "birth_date": "2004-01-13",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478507,
+        "name": "John Marino",
+        "first": "John",
+        "last": "Marino",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1997-05-21",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-john-marino-contract-extension-319947744",
+        "date": "2021-01-03",
+        "headline": "Marino signs six-year, $26.4 million contract extension with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4400000,
+          "total_value_usd": 26400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2021-22",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "John Marino signed a six-year, $26.4 million contract extension with the Pittsburgh Penguins on Sunday that will begin with the 2021-22 season. It has an average annual value of $4.4 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/john-marino-signs-eight-year-contract-with-utah-mammoth",
+        "date": "2026-07-21",
+        "headline": "Marino signs 8-year, $54 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6750000,
+          "total_value_usd": 54000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "John Marino signed an eight-year, $54 million contract with the Utah Mammoth on Tuesday. It has an average annual value of $6.75 million and begins with the 2027-28 season."
+        }
+      },
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Sergachev traded to Utah Hockey Club by Lightning",
+        "url": "https://www.nhl.com/news/mikhail-sergachev-traded-to-utah-from-tampa-bay-lightning"
+      }
+    },
+    {
+      "player": {
+        "id": 8479369,
+        "name": "Andrew Peeke",
+        "first": "Andrew",
+        "last": "Peeke",
+        "pos": "D",
+        "sweater": 20
+      },
+      "birth_date": "1998-03-17",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/utah-mammoth-sign-andrew-peeke-to-1-year-contract",
+        "date": "2026-07-03",
+        "headline": "Peeke signs 1-year, $1 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1000000,
+          "total_value_usd": 1000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Andrew Peeke signed a one-year, $1 million contract with the Utah Mammoth on Friday. The 28-year-old defenseman had 14 points (five goals, nine assists) in 77 games for the Boston Bruins last season and one assist in six Stanley Cup Playoff games."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477220,
+        "name": "Nate Schmidt",
+        "first": "Nate",
+        "last": "Schmidt",
+        "pos": "D",
+        "sweater": 88
+      },
+      "birth_date": "1991-07-16",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nate-schmidt-signs-3-year-contract-with-utah-mammoth",
+        "date": "2025-07-01",
+        "headline": "Schmidt signs 3-year, $10.5 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3500000,
+          "total_value_usd": 10500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nate Schmidt signed a three-year, $10.5 million contract with the Utah Mammoth on Tuesday. It has an average annual value of $3.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479410,
+        "name": "Mikhail Sergachev",
+        "first": "Mikhail",
+        "last": "Sergachev",
+        "pos": "D",
+        "sweater": 98
+      },
+      "birth_date": "1998-06-25",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mikhail-sergachev-signs-eight-year-extension-with-tampa-bay-lightning-334959546",
+        "date": "2022-07-13",
+        "headline": "Sergachev signs eight-year, $68 million extension with Lightning",
+        "signing_team": "TBL",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8500000,
+          "total_value_usd": 68000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2023-24",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mikhail Sergachev, Anthony Cirelli and Erik Cernak each signed an eight-year contract extension with the Tampa Bay Lightning on Wednesday. The contracts will begin in the 2023-24 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Sergachev traded to Utah Hockey Club by Lightning",
+        "url": "https://www.nhl.com/news/mikhail-sergachev-traded-to-utah-from-tampa-bay-lightning"
+      }
+    },
+    {
+      "player": {
+        "id": 8484386,
+        "name": "Dmitri Simashev",
+        "first": "Dmitri",
+        "last": "Simashev",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "2005-02-04",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477346,
+        "name": "MacKenzie Weegar",
+        "first": "MacKenzie",
+        "last": "Weegar",
+        "pos": "D",
+        "sweater": 52
+      },
+      "birth_date": "1994-01-07",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mackenzie-weegar-signs-eight-year-extension-with-calgary-flames-336147010",
+        "date": "2022-10-07",
+        "headline": "Weegar signs eight-year, $50 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6250000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "MacKenzie Weegar signed an eight-year, $50 million contract with the Calgary Flames on Friday that begins next season. It has an average annual value of $6.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Weegar traded to Mammoth by Flames for Maatta, Castagna, picks\u2028",
+        "url": "https://www.nhl.com/news/mackenzie-weegar-traded-to-utah-mammoth-by-calgary-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8482657,
+        "name": "Sebastian Cossa",
+        "first": "Sebastian",
+        "last": "Cossa",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "2002-11-21",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sebastian-cossa-signs-two-year-contract-with-utah-mammoth",
+        "date": "2026-07-01",
+        "headline": "Cossa signs 2-year, $4 million contract with Mammoth",
+        "signing_team": "UTA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2000000,
+          "total_value_usd": 4000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Sebastian Cossa signed a two-year, $4 million contract with the Utah Mammoth on Tuesday. It has an average annual value of $2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478872,
+        "name": "Karel Vejmelka",
+        "first": "Karel",
+        "last": "Vejmelka",
+        "pos": "G",
+        "sweater": 70
+      },
+      "birth_date": "1996-05-25",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/karel-vejmelka-signs-5-year-deal-to-stay-with-utah",
+        "date": "2025-03-07",
+        "headline": "Vejmelka signs 5-year contract with Utah Hockey Club",
+        "signing_team": "UTA",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Karel Vejmelka signed a five-year contract with the Utah Hockey Club on Thursday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

@@ -1,0 +1,2704 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "VGK",
+  "team_name": "Vegas Golden Knights",
+  "generated_at_utc": "2026-11-26T22:49:31Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/VGK/current",
+  "summary": {
+    "roster_players": 22,
+    "contracts_with_verified_source_url": 22,
+    "contracts_matched_nhlpa": 22,
+    "contracts_with_public_aav": 22,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 105850205,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 105850205
+  },
+  "contracts": [
+    {
+      "player_id": 8477964,
+      "player_name": "Ivan Barbashev",
+      "position": "L",
+      "sweater_number": 49,
+      "birth_date": "1995-12-14",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2023-06-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2028)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2023-24",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/golden-knights-sign-barbashev-trade-smith-to-penguins-345070180",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/st-louis-blues-trade-ivan-barbashev-to-vegas-golden-knights-341537864"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4200000,
+      "current_season_base_salary_usd": 4200000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "STL",
+          "aav_usd": 742000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 742000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 742000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 742000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 742000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 1475000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 1475000,
+          "total_salary_usd": 1550000,
+          "base_salary_usd": 1550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 2250000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 5000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483890,
+      "player_name": "Braeden Bowman",
+      "position": "R",
+      "sweater_number": 42,
+      "birth_date": "2003-06-26",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2025-03-02",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forwards-braeden-bowman-and-kai-uchacz-to-two-year-entry-level-contracts",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 6,
+        "aav_usd": 3400000,
+        "total_value_usd": 20400000,
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "signed_date": "2026-09-10",
+        "source_url": "https://www.nhl.com/news/braeden-bowman-signs-six-year-contract-with-vegas-golden-knights"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 912500,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 62500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 875000,
+          "total_salary_usd": 837500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 62500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 875000,
+          "total_salary_usd": 912500,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 62500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8484803,
+      "player_name": "Trevor Connelly",
+      "position": "L",
+      "sweater_number": 24,
+      "birth_date": "2006-02-28",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2025-04-01",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 974375,
+      "total_value_usd": 2923125,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXNVOEhXMDktbUJZbFFNWENGTHlPS1EyUVVlREtqS0NmcG8yXy12N21PbTV2b1lsOVVDUE5YS2tydms2VHhBSllLVThZS2psNmdTZktYdzJPTk91dFNlV3gxYXdpZVJxNmxzbEVaM1ZqM2lJd25BemE1TWx2bmRMamJiVzZXMmFUZmlWd0NfcjUwUllQUjVRYjZZOS1JS3dWWmNycjRBMlJjWmNFb0RldXJ5OEtfNk1DazZFazNIdVo?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8475343,
+      "player_name": "Nic Dowd",
+      "position": "C",
+      "sweater_number": 26,
+      "birth_date": "1990-05-27",
+      "current_team": "VGK",
+      "signing_team": "WSH",
+      "signed_date": "2025-04-16",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 3000000,
+      "total_value_usd": 6000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0QzamNvNWdBaFQzeUpHblo0NmFabGx4WWlWY0ktckxIOGVCczRxdDMwRGFPYWx0eHBNUm5uVDJ0ckdTcTUzR0dYdVlMZ01rY2FYWXN5bDV6alZFVWtsTFltemlHVlQ2dVBXdEN1c1VwbWJMckphcTV6OWhjWnVGbFFSVHlyblpPX0pHOFVWQUZSeUVka1VB?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nic-dowd-making-playoff-impact-for-vegas-golden-knights-following-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "LAK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 660000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "LAK",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 72500
+        },
+        "2016-17": {
+          "team": "LAK",
+          "aav_usd": 640000,
+          "total_salary_usd": 630000,
+          "base_salary_usd": 630000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 640000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478403,
+      "player_name": "Jack Eichel",
+      "position": "C",
+      "sweater_number": 9,
+      "birth_date": "1996-10-28",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2025-10-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 13500000,
+      "total_value_usd": 108000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jack-eichel-signs-eight-year-contract-with-vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 17700000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 16850000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 13500000,
+          "total_salary_usd": 17700000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 16850000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483553,
+      "player_name": "Marc Gatcomb",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1999-07-22",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 875000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476881,
+      "player_name": "Tomas Hertl",
+      "position": "C",
+      "sweater_number": 48,
+      "birth_date": "1993-11-12",
+      "current_team": "VGK",
+      "signing_team": "SJS",
+      "signed_date": "2022-03-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 8137500,
+      "total_value_usd": 65100000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tomas-hertl-agrees-to-eight-year-contract-with-san-jose-sharks-331818886",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/tomas-hertl-set-for-vegas-golden-knights-debut"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 3250000,
+      "current_season_signing_bonus_usd": 4750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 5625000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 5625000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 5625000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 5625000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 8137500,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 8137500,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 8137500,
+          "total_salary_usd": 10250000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 8137500,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 8137500,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 4750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479353,
+      "player_name": "Brett Howden",
+      "position": "C",
+      "sweater_number": 21,
+      "birth_date": "1998-03-29",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2024-11-22",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 2500000,
+      "total_value_usd": 12500000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brett-howden-signs-5-year-deal-with-vegas",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/barclay-goodrow-traded-to-new-york-by-tampa-bay-325678666"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "TBL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 885000,
+          "total_salary_usd": 885000,
+          "base_salary_usd": 885000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 1900000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1375000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1650000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476448,
+      "player_name": "William Karlsson",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "1993-01-08",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2019-06-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 5900000,
+      "total_value_usd": 47200000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/william-karlsson-eight-year-contract-vegas-golden-knights-308040982",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 2,
+        "aav_usd": 6750000,
+        "total_value_usd": 13500000,
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "signed_date": "2026-09-30",
+        "source_url": "https://www.nhl.com/news/william-karlsson-signs-two-year-contract-with-vegas-golden-knights"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5600000,
+      "current_season_base_salary_usd": 5600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 830833,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 830833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 830833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 5900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5900000,
+          "base_salary_usd": 5900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481534,
+      "player_name": "Raphael Lavoie",
+      "position": "C",
+      "sweater_number": 36,
+      "birth_date": "2000-09-25",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 900000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 870000,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 870000,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 870000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 235000
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478483,
+      "player_name": "Mitch Marner",
+      "position": "R",
+      "sweater_number": 93,
+      "birth_date": "1997-05-05",
+      "current_team": "VGK",
+      "signing_team": "TOR",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2033)",
+      "term_years": 8,
+      "aav_usd": 12000000,
+      "total_value_usd": 96000000,
+      "start_season": "2025-26",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mitch-marner-traded-from-toronto-to-vegas-after-signing-8-year-96m-deal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 14000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 10000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 10901333,
+          "total_salary_usd": 16000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 15300000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 10901333,
+          "total_salary_usd": 15000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 14300000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 10901333,
+          "total_salary_usd": 10358000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 9608000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 10901333,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 7250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 10901333,
+          "total_salary_usd": 8025000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 7250000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 10901333,
+          "total_salary_usd": 8025000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 7250000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 12000000,
+          "total_salary_usd": 15000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 11000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 12000000,
+          "total_salary_usd": 14000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478109,
+      "player_name": "Victor Olofsson",
+      "position": "L",
+      "sweater_number": 95,
+      "birth_date": "1995-07-18",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 1638330,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1638330,
+      "current_season_base_salary_usd": 1638330,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 767500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 767500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 3050000,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 2850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 3050000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1075000,
+          "base_salary_usd": 1075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 1575000,
+          "total_salary_usd": 1575000,
+          "base_salary_usd": 1575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 1638330,
+          "total_salary_usd": 1638330,
+          "base_salary_usd": 1638330,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475913,
+      "player_name": "Mark Stone",
+      "position": "R",
+      "sweater_number": 61,
+      "birth_date": "1992-05-13",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2019-03-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 9500000,
+      "total_value_usd": 76000000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mark-stone-signs-eight-year-contract-with-vegas-golden-knights-305597396",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 2,
+        "aav_usd": 9000000,
+        "total_value_usd": 18000000,
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "signed_date": "2026-09-12",
+        "source_url": "https://www.nhl.com/news/mark-stone-signs-two-year-contract-with-vegas-golden-knights"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/mark-stone-traded-to-golden-knights-by-ottawa-senators-305208914"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 5000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "OTT",
+          "aav_usd": 603750,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "OTT",
+          "aav_usd": 603750,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "OTT",
+          "aav_usd": 603750,
+          "total_salary_usd": 630000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "OTT",
+          "aav_usd": 603750,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 7350000,
+          "total_salary_usd": 7350000,
+          "base_salary_usd": 7350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 9500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478397,
+      "player_name": "Rasmus Andersson",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1996-10-27",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 8500000,
+      "total_value_usd": 59500000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/goldenknights/news/golden-knights-sign-rasmus-andersson-to-seven-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/rasmus-andersson-glad-to-join-real-contender-following-trade-to-vegas"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10500000,
+      "current_season_base_salary_usd": 5250000,
+      "current_season_signing_bonus_usd": 5250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CGY",
+          "aav_usd": 750500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 750500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 750500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 750500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 750500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 4550000,
+          "total_salary_usd": 5050000,
+          "base_salary_usd": 5050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 4550000,
+          "total_salary_usd": 4050000,
+          "base_salary_usd": 4050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 4550000,
+          "total_salary_usd": 4550000,
+          "base_salary_usd": 4550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 4550000,
+          "total_salary_usd": 4550000,
+          "base_salary_usd": 4550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 4550000,
+          "total_salary_usd": 4550000,
+          "base_salary_usd": 4550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 4550000,
+          "total_salary_usd": 4550000,
+          "base_salary_usd": 4550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 5250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479639,
+      "player_name": "Dylan Coghlan",
+      "position": "D",
+      "sweater_number": 52,
+      "birth_date": "1998-02-19",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 875000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/max-pacioretty-traded-to-carolina-hurricanes-by-vegas-golden-knights-334972384"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 711250,
+          "total_salary_usd": 695000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 45000,
+          "minor_league_salary_usd": 60000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 711250,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 60000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 711250,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 60000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 711250,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 60000
+        },
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478396,
+      "player_name": "Noah Hanifin",
+      "position": "D",
+      "sweater_number": 15,
+      "birth_date": "1997-01-25",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2024-04-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 7350000,
+      "total_value_usd": 58800000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/noah-hanifin-signs-8-year-contract-with-vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/noah-hanifin-enjoying-life-with-vegas-golden-knights-after-trade-from-calgary-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9500000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 7500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 1950000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4950000,
+          "base_salary_usd": 4950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 7350000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 7350000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 7900000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 7350000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478468,
+      "player_name": "Jeremy Lauzon",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "1997-04-28",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 4000000,
+      "total_value_usd": 24000000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/goldenknights/news/golden-knights-sign-jeremy-lauzon-to-six-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-nicolas-hague-conditional-third-round-pick-in-2027-nhl-draft-from-vegas-2025-06-29"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5700000,
+      "current_season_base_salary_usd": 1700000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "BOS",
+          "aav_usd": 735500,
+          "total_salary_usd": 717500,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BOS",
+          "aav_usd": 735500,
+          "total_salary_usd": 717500,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BOS",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BOS",
+          "aav_usd": 735500,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BOS",
+          "aav_usd": 735500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 850000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 850000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475188,
+      "player_name": "Brayden McNabb",
+      "position": "D",
+      "sweater_number": 3,
+      "birth_date": "1991-01-21",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2024-11-16",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3650000,
+      "total_value_usd": 10950000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brayden-mcnabb-signs-3-year-contract-with-vegas",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "BUF",
+          "aav_usd": 715000,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "BUF",
+          "aav_usd": 715000,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "LAK",
+          "aav_usd": 715000,
+          "total_salary_usd": 840000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "LAK",
+          "aav_usd": 650000,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "LAK",
+          "aav_usd": 650000,
+          "total_salary_usd": 675000,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1550000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 2850000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 2850000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 2850000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 3650000,
+          "total_salary_usd": 4650000,
+          "base_salary_usd": 1775000,
+          "signing_bonus_usd": 2875000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 3650000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477447,
+      "player_name": "Shea Theodore",
+      "position": "D",
+      "sweater_number": 27,
+      "birth_date": "1995-08-03",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2024-10-24",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 7425000,
+      "total_value_usd": 51975000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/golden-knights-shea-theodore-signs-7-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 8500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 5200000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 7425000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 7425000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 8500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478450,
+      "player_name": "Parker Wotherspoon",
+      "position": "D",
+      "sweater_number": 29,
+      "birth_date": "1997-08-24",
+      "current_team": "VGK",
+      "signing_team": "PIT",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1000000,
+      "total_value_usd": 2000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/penguins/news/penguins-sign-justin-brazeau-parker-wotherspoon-and-caleb-jones-to-two-year-contracts",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/goldenknights/news/golden-knights-acquire-parker-wotherspoon-from-penguins-for-kaedan-korczak"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 714375,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 714375,
+          "total_salary_usd": 735000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 714375,
+          "total_salary_usd": 737500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 714375,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479394,
+      "player_name": "Carter Hart",
+      "position": "G",
+      "sweater_number": 79,
+      "birth_date": "1998-08-13",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2025-10-26",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "total_value_usd": 4000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/carter-hart-signs-two-year-deal-with-vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1775000,
+      "current_season_base_salary_usd": 1775000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 735500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 735500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "PHI",
+          "aav_usd": 735500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 3979000,
+          "total_salary_usd": 3479000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 279000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 3979000,
+          "total_salary_usd": 3979000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 379000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 3979000,
+          "total_salary_usd": 4479000,
+          "base_salary_usd": 4479000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2225000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1450000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1775000,
+          "base_salary_usd": 1775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478499,
+      "player_name": "Adin Hill",
+      "position": "G",
+      "sweater_number": 33,
+      "birth_date": "1996-05-11",
+      "current_team": "VGK",
+      "signing_team": "VGK",
+      "signed_date": "2025-03-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 6250000,
+      "total_value_usd": 37500000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/adin-hill-signs-6-year-deal-with-vegas",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vegas-acquires-adin-hill-in-trade-with-san-jose-335415850"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 7000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vegas-golden-knights",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 725833,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 725833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 725833,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 708750,
+          "total_salary_usd": 708750,
+          "base_salary_usd": 708750,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 2175000,
+          "total_salary_usd": 1675000,
+          "base_salary_usd": 1675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 2175000,
+          "total_salary_usd": 2675000,
+          "base_salary_usd": 2675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VGK",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8400000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7400000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VGK",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

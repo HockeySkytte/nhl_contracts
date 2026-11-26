@@ -1,0 +1,727 @@
+{
+  "team": "CGY",
+  "team_name": "Calgary Flames",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8474150,
+        "name": "Mikael Backlund",
+        "first": "Mikael",
+        "last": "Backlund",
+        "pos": "C",
+        "sweater": 11
+      },
+      "birth_date": "1989-03-17",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mikael-backlund-signs-2-year-contract-with-calgary-flames",
+        "date": "2025-09-18",
+        "headline": "Backlund signs 2-year, $6.5 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3250000,
+          "total_value_usd": 6500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mikael Backlund took it upon himself to start talks on a new contract with the Calgary Flames. The Flames captain said he called general manager Craig Conroy three weeks ago, on his return to Calgary, to disclose he and his family wanted to stay beyond this season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484154,
+        "name": "Jonathan Castagna",
+        "first": "Jonathan",
+        "last": "Castagna",
+        "pos": "C",
+        "sweater": 38
+      },
+      "birth_date": "2005-04-20",
+      "draft_team": "ARI",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-07",
+        "headline": "Weegar traded to Mammoth by Flames for Maatta, Castagna, picks\u2028",
+        "url": "https://www.nhl.com/news/mackenzie-weegar-traded-to-utah-mammoth-by-calgary-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8482679,
+        "name": "Matt Coronato",
+        "first": "Matt",
+        "last": "Coronato",
+        "pos": "R",
+        "sweater": 27
+      },
+      "birth_date": "2002-11-14",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matt-coronato-signs-seven-year-contract-with-calgary-flames",
+        "date": "2025-05-03",
+        "headline": "Coronato signs 7-year, $45.5 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6500000,
+          "total_value_usd": 45500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Matt Coronato signed a seven-year, $45.5 million contract with the Calgary Flames on Saturday. It has an average annual value of $6.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480797,
+        "name": "Joel Farabee",
+        "first": "Joel",
+        "last": "Farabee",
+        "pos": "L",
+        "sweater": 86
+      },
+      "birth_date": "2000-02-25",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/philadelphia-flyers-joel-farabee-contract-extension-326064668",
+        "date": "2021-09-02",
+        "headline": "Farabee signs six-year, $30 million contract extension with Flyers",
+        "signing_team": "PHI",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5000000,
+          "total_value_usd": 30000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2022-23",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Joel Farabee signed a six-year, $30 million contract extension with the Philadelphia Flyers on Thursday. It will begin with the 2022-23 season and has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-01-31",
+        "headline": "Kuzmenko traded to Flyers from Flames for Frost, Farabee",
+        "url": "https://www.nhl.com/news/andrei-kuzmenko-traded-to-flyers-from-flames-for-morgan-frost-joel-farabee"
+      }
+    },
+    {
+      "player": {
+        "id": 8480028,
+        "name": "Morgan Frost",
+        "first": "Morgan",
+        "last": "Frost",
+        "pos": "C",
+        "sweater": 16
+      },
+      "birth_date": "1999-05-14",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/morgan-frost-signs-2-year-deal-with-calgary",
+        "date": "2025-07-03",
+        "headline": "Frost signs 2-year, $8.75 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4375000,
+          "total_value_usd": 8750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Morgan Frost signed a two-year, $8.75 million contract with the Calgary Flames on Thursday. It has an average annual value of $4.375 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-01-31",
+        "headline": "Kuzmenko traded to Flyers from Flames for Frost, Farabee",
+        "url": "https://www.nhl.com/news/andrei-kuzmenko-traded-to-flyers-from-flames-for-morgan-frost-joel-farabee"
+      }
+    },
+    {
+      "player": {
+        "id": 8484860,
+        "name": "Matvei Gridin",
+        "first": "Matvei",
+        "last": "Gridin",
+        "pos": "R",
+        "sweater": 92
+      },
+      "birth_date": "2006-03-01",
+      "draft_team": "CGY",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476456,
+        "name": "Jonathan Huberdeau",
+        "first": "Jonathan",
+        "last": "Huberdeau",
+        "pos": "L",
+        "sweater": 10
+      },
+      "birth_date": "1993-06-04",
+      "draft_team": "FLA",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-09-08",
+        "headline": "Markstrom talks Huberdeau trade, Flames improvement in Q&A with NHL.com",
+        "url": "https://www.nhl.com/news/sitting-down-with-jacob-markstrom-335496054"
+      }
+    },
+    {
+      "player": {
+        "id": 8483609,
+        "name": "Adam Klapka",
+        "first": "Adam",
+        "last": "Klapka",
+        "pos": "R",
+        "sweater": 43
+      },
+      "birth_date": "2000-09-14",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482747,
+        "name": "Brennan Othmann",
+        "first": "Brennan",
+        "last": "Othmann",
+        "pos": "L",
+        "sweater": 78
+      },
+      "birth_date": "2003-01-05",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/flames/news/flames-re-sign-forward-brennan-othmann",
+        "date": "2026-09-18",
+        "headline": "Flames Re-Sign Forward Brennan Othmann",
+        "signing_team": "CGY",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**Calgary, AB** \u2013 The Calgary Flames announced today that they have re-signed forward Brennan Othmann to a one-year, two-way contract extension. Othmann began the 2025-26 season splitting time between the New York Rangers and their AHL affiliate, the Hartford Wolf Pack."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481028,
+        "name": "Martin Pospisil",
+        "first": "Martin",
+        "last": "Pospisil",
+        "pos": "C",
+        "sweater": 76
+      },
+      "birth_date": "1999-11-19",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/martin-pospisil-gets-3-year-contract-with-calgary-flames",
+        "date": "2025-07-30",
+        "headline": "Pospisil signs 3-year, $7.5 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2500000,
+          "total_value_usd": 7500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Martin Pospisil signed a three-year, $7.5 million contract with the Calgary Flames on Wednesday. It has an average annual value of $2.5 million and will begin next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481068,
+        "name": "Yegor Sharangovich",
+        "first": "Yegor",
+        "last": "Sharangovich",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1998-06-06",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/yegor-sharangovich-signs-5-year-contract-with-calgary-flames",
+        "date": "2024-07-01",
+        "headline": "Sharangovich signs 5-year, $28.75 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 2000000,
+          "total_value_usd": 28750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Yegor Sharangovich signed a five-year, $28.75 million contract with the Calgary Flames on Monday. The contract, which starts next season, has an annual average value of $5.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-06-28",
+        "headline": "Toffoli traded to Devils by Flames for Sharangovich",
+        "url": "https://www.nhl.com/news/calgary-flames-trade-tyler-toffoli-to-new-jersey-devils-for-yegor-shar-345054908"
+      }
+    },
+    {
+      "player": {
+        "id": 8476458,
+        "name": "Ryan Strome",
+        "first": "Ryan",
+        "last": "Strome",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "1993-07-11",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ducks-ryan-strome-five-year-contract-334789862",
+        "date": "2022-07-15",
+        "headline": "Ryan Strome signs five-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Ryan Strome](https://www.nhl.com/player/ryan-strome-8476458) signed a five-year contract with the Anaheim Ducks on Wednesday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-10",
+        "headline": "Strome excited for 'great opportunity' after trade to Flames",
+        "url": "https://www.nhl.com/news/ryan-strome-ready-for-great-opportunity-following-trade-to-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8484234,
+        "name": "Aydar Suniev",
+        "first": "Aydar",
+        "last": "Suniev",
+        "pos": "L",
+        "sweater": 61
+      },
+      "birth_date": "2004-11-16",
+      "draft_team": "CGY",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484958,
+        "name": "Maxim Tsyplakov",
+        "first": "Maxim",
+        "last": "Tsyplakov",
+        "pos": "R",
+        "sweater": 72
+      },
+      "birth_date": "1998-09-19",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/islanders/news/islanders-sign-tsyplakov",
+        "date": "2025-07-25",
+        "headline": "Islanders Sign Tsyplakov",
+        "signing_team": "NYI",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The New York Islanders have signed Maxim Tsyplakov to a two-year contract. Last season, Tsyplakov scored 35 points (10 goals and 25 assists) in 77 games with the Islanders."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Nemec traded to Flames by Devils for draft picks, Morin",
+        "url": "https://www.nhl.com/news/simon-nemec-traded-to-calgary-flames-by-new-jersey-devils"
+      }
+    },
+    {
+      "player": {
+        "id": 8480860,
+        "name": "Kevin Bahl",
+        "first": "Kevin",
+        "last": "Bahl",
+        "pos": "D",
+        "sweater": 7
+      },
+      "birth_date": "2000-06-27",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kevin-bahl-signs-6-year-contract-with-calgary-flames",
+        "date": "2025-06-28",
+        "headline": "Bahl signs 6-year, $32.1 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5350000,
+          "total_value_usd": 32100000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Kevin Bahl signed a six-year, $32.1 million contract with the Calgary Flames on Saturday. It has an average annual value of $5.35 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-19",
+        "headline": "Markstrom traded to Devils by Flames for 1st-round draft pick, Bahl",
+        "url": "https://www.nhl.com/news/jacob-markstrom-traded-to-new-jersey-by-calgary"
+      }
+    },
+    {
+      "player": {
+        "id": 8477810,
+        "name": "Joel Hanley",
+        "first": "Joel",
+        "last": "Hanley",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1991-06-08",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482165,
+        "name": "Yan Kuznetsov",
+        "first": "Yan",
+        "last": "Kuznetsov",
+        "pos": "D",
+        "sweater": 37
+      },
+      "birth_date": "2002-03-09",
+      "draft_team": "CGY",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478136,
+        "name": "Jake Middleton",
+        "first": "Jake",
+        "last": "Middleton",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "1996-01-02",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-middleton-signs-4-year-contract-with-minnesota-wild",
+        "date": "2024-07-03",
+        "headline": "Middleton signs 4-year, $17.4 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4350000,
+          "total_value_usd": 17400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Jake Middleton signed a four-year, $17.4 million contract with the Minnesota Wild on Tuesday. The contract, which has a $4.35 million average annual value, begins in the 2025-26 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-03",
+        "headline": "Coleman, Maatta traded to Wild by Flames for Middleton, draft picks",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      }
+    },
+    {
+      "player": {
+        "id": 8483495,
+        "name": "Simon Nemec",
+        "first": "Simon",
+        "last": "Nemec",
+        "pos": "D",
+        "sweater": 71
+      },
+      "birth_date": "2004-02-15",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/simon-nemec-signs-5-year-contract-with-calgary-flames",
+        "date": "2026-07-06",
+        "headline": "Nemec signs 5-year, $36.25 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 7250000,
+          "total_value_usd": 36250000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Simon Nemec signed a five-year, $36.25 million contract with the Calgary Flames on Monday. It has an average annual value of $7.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-08-22",
+        "headline": "Nemec ready for 'new challenge' with Flames after trade from Devils",
+        "url": "https://www.nhl.com/news/simon-nemec-ready-for-new-challenge-with-calgary-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8481167,
+        "name": "Brayden Pachal",
+        "first": "Brayden",
+        "last": "Pachal",
+        "pos": "D",
+        "sweater": 94
+      },
+      "birth_date": "1999-08-23",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484768,
+        "name": "Zayne Parekh",
+        "first": "Zayne",
+        "last": "Parekh",
+        "pos": "D",
+        "sweater": 19
+      },
+      "birth_date": "2006-02-15",
+      "draft_team": "CGY",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480727,
+        "name": "Zach Whitecloud",
+        "first": "Zach",
+        "last": "Whitecloud",
+        "pos": "D",
+        "sweater": 28
+      },
+      "birth_date": "1996-11-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/zach-whitecloud-signs-deal-with-vegas-327327388",
+        "date": "2021-10-28",
+        "headline": "Whitecloud signs six-year, $16.5 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 2750000,
+          "total_value_usd": 16500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Zach Whitecloud signed a six-year, $16.5 million contract with the Vegas Golden Knights on Thursday. It has an average annual value of $2.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-01-20",
+        "headline": "Andersson traded to Golden Knights by Flames",
+        "url": "https://www.nhl.com/news/rasmus-andersson-traded-to-golden-knights-by-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8482445,
+        "name": "Devin Cooley",
+        "first": "Devin",
+        "last": "Cooley",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "1997-05-25",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-09-23",
+        "headline": "Flames goalies set for \u2018open competition\u2019 in camp after Markstrom trade",
+        "url": "https://www.nhl.com/news/calgary-goalies-set-for-open-competition-at-camp"
+      }
+    },
+    {
+      "player": {
+        "id": 8481692,
+        "name": "Dustin Wolf",
+        "first": "Dustin",
+        "last": "Wolf",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "2001-04-16",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dustin-wolf-signs-7-year-contract-with-calgary-flames",
+        "date": "2025-09-09",
+        "headline": "Wolf signs 7-year, $52.5 million contract with Flames",
+        "signing_team": "CGY",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7500000,
+          "total_value_usd": 52500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dustin Wolf signed a seven-year, $52.5 million contract with the Calgary Flames on Tuesday. The contract, which starts in 2026-27, has an average annual value of $7.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-09-23",
+        "headline": "Flames goalies set for \u2018open competition\u2019 in camp after Markstrom trade",
+        "url": "https://www.nhl.com/news/calgary-goalies-set-for-open-competition-at-camp"
+      }
+    }
+  ]
+}

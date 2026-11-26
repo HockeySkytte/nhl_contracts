@@ -1,0 +1,3405 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "TOR",
+  "team_name": "Toronto Maple Leafs",
+  "generated_at_utc": "2026-11-26T12:52:57Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/TOR/current",
+  "summary": {
+    "roster_players": 29,
+    "contracts_with_verified_source_url": 29,
+    "contracts_matched_nhlpa": 29,
+    "contracts_with_public_aav": 29,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 105160649,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 105160649
+  },
+  "contracts": [
+    {
+      "player_id": 8476927,
+      "player_name": "Teddy Blueger",
+      "position": "C",
+      "sweater_number": 73,
+      "birth_date": "1994-08-15",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2500000,
+      "total_value_usd": 5000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-to-sign-teddy-blueger.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/teddy-blueger-traded-to-vegas-golden-knights-by-pittsburgh-penguins-341691026"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2800000,
+      "current_season_base_salary_usd": 2300000,
+      "current_season_signing_bonus_usd": 500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 705000,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 705000,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1950000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1175000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1650000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 875000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482153,
+      "player_name": "Brendan Brisson",
+      "position": "C",
+      "sweater_number": 90,
+      "birth_date": "2001-10-22",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-09-04",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (53 more GP needed); otherwise Group 6 UFA",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/maple-leafs-sign-brendan-brisson-to-one-year-contract.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/reilly-smith-traded-to-vegas-golden-knights-by-new-york-rangers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 300000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "NYR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        }
+      }
+    },
+    {
+      "player_id": 8484158,
+      "player_name": "Easton Cowan",
+      "position": "R",
+      "sweater_number": 53,
+      "birth_date": "2005-05-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2023-08-11",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 904100,
+      "total_value_usd": 2712300,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2023/08/toronto-maple-leafs-sign-easton-cowan.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-toronto-maple-leafs-10.html",
+      "future_extension": null,
+      "notes": "Post-slide ELC base cap hit ($900K) per ProHockeyRumors 2026-27 cap deep dive.",
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 904100,
+          "total_salary_usd": 922000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 92000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 904100,
+          "total_salary_usd": 923500,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 93500,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 904100,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 904100,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8479520,
+      "player_name": "Brandon Duhaime",
+      "position": "L",
+      "sweater_number": 24,
+      "birth_date": "1997-05-22",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 2591667,
+      "total_value_usd": 7775001,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-to-sign-brandon-duhaime.html",
+      "secondary_source_url": "https://www.nhl.com/news/brandon-duhaime-signs-three-year-contract-with-toronto-maple-leafs",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/colorado-avalanche-trade-deadline-additions-enjoying-seamless-transition"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2975000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 2125000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 1850000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 2591667,
+          "total_salary_usd": 2975000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 2125000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478057,
+      "player_name": "Dakota Joshua",
+      "position": "C",
+      "sweater_number": 81,
+      "birth_date": "1996-05-15",
+      "current_team": "TOR",
+      "signing_team": "VAN",
+      "signed_date": "2024-06-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 3250000,
+      "total_value_usd": 13000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/06/canucks-sign-dakota-joshua-to-four-year-extension.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-forward-group-gives-toronto-maple-leafs-different-look-after-mitch-marner-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2625000,
+      "current_season_base_salary_usd": 2625000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 792500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 792500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 825000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 825000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2625000,
+          "base_salary_usd": 2625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479772,
+      "player_name": "Zack MacEwen",
+      "position": "R",
+      "sweater_number": 19,
+      "birth_date": "1996-07-08",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-forward-zack-macewen",
+      "secondary_source_url": "https://theleafsnation.com/news/zack-macewen-discusses-what-makes-toronto-maple-leafs-fourth-line-effective",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/brendan-lemieux-traded-to-philadelphia-flyers-by-los-angeles-kings-for-341781272"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 847500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 847500,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 732500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 847500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 825000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 825000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480893,
+      "player_name": "Kirill Marchenko",
+      "position": "R",
+      "sweater_number": 86,
+      "birth_date": "2000-07-21",
+      "current_team": "TOR",
+      "signing_team": "CBJ",
+      "signed_date": "2024-07-28",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 3850000,
+      "total_value_usd": 11550000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-kirill-marchenko-to-three-year-contract",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 6,
+        "aav_usd": 12500000,
+        "total_value_usd": 75000000,
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "signed_date": "2026-09-29",
+        "source_url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-edge-stats-kirill-marchenko-matthew-knies-trade-maple-leafs-blue-jackets"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3975000,
+      "current_season_base_salary_usd": 3975000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3975000,
+          "base_salary_usd": 3975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3975000,
+          "base_salary_usd": 3975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479318,
+      "player_name": "Auston Matthews",
+      "position": "C",
+      "sweater_number": 34,
+      "birth_date": "1997-09-17",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2023-08-23",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 13250000,
+      "total_value_usd": 53000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-re-sign-auston-matthews-to-four-year-contract-extension-345652302",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11080000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 10180000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 11639000,
+          "total_salary_usd": 15900000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 15200000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 11639000,
+          "total_salary_usd": 15900000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 15200000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 11639000,
+          "total_salary_usd": 10470000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 9720000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 11639000,
+          "total_salary_usd": 7950000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 7200000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 11639000,
+          "total_salary_usd": 7975000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 7200000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 13250000,
+          "total_salary_usd": 16700000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 15925000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 13250000,
+          "total_salary_usd": 15200000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 14425000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 13250000,
+          "total_salary_usd": 11080000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 10180000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8486067,
+      "player_name": "Gavin McKenna",
+      "position": "L",
+      "sweater_number": 92,
+      "birth_date": "2007-12-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-03",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "total_value_usd": 3225000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-sign-gavin-mckenna-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-toronto-maple-leafs-10.html",
+      "future_extension": null,
+      "notes": "2026 1st-overall pick ELC: $1.075M base cap hit + up to $1M 'A' and $2.5M 'B' bonuses.",
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 87500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 87500
+        }
+      }
+    },
+    {
+      "player_id": 8477939,
+      "player_name": "William Nylander",
+      "position": "R",
+      "sweater_number": 88,
+      "birth_date": "1996-05-01",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2024-01-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 11500000,
+      "total_value_usd": 92000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/01/maple-leafs-could-announce-william-nylander-extension-next-week.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/josh-leivo-traded-to-vancouver-canucks-by-toronto-maple-leafs-302557574"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 12500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 11500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 8300000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 11500000,
+          "total_salary_usd": 13500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 11500000,
+          "total_salary_usd": 13500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 11500000,
+          "total_salary_usd": 12500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 11500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477426,
+      "player_name": "Nick Paul",
+      "position": "L",
+      "sweater_number": 20,
+      "birth_date": "1995-03-20",
+      "current_team": "TOR",
+      "signing_team": "TBL",
+      "signed_date": "2022-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 7,
+      "aav_usd": 3150000,
+      "total_value_usd": 22050000,
+      "start_season": "2022-23",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nicholas-paul-signs-deal-with-tampa-bay-334790516",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nick-paul-traded-to-toronto-maple-leafs-by-tampa-bay-lightning"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "OTT",
+          "aav_usd": 669375,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 669375,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 669375,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 669375,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 165000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 3400000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TBL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 3150000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482691,
+      "player_name": "Aatu R\u00e4ty",
+      "position": "C",
+      "sweater_number": 26,
+      "birth_date": "2002-11-14",
+      "current_team": "TOR",
+      "signing_team": "VAN",
+      "signed_date": "2025-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.sportsnet.ca/article/canucks-sign-forward-aatu-raty-to-two-year-1-55-million-contract-extension/",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.prohockeyrumors.com/2026/10/maple-leafs-acquire-aatu-raty.html"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 838125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 838125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 838125,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 838125,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478458,
+      "player_name": "Jack Roslovic",
+      "position": "C",
+      "sweater_number": 96,
+      "birth_date": "1997-01-29",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 4000000,
+      "total_value_usd": 8000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-sign-jack-roslovic-to-two-year-deal.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/jack-roslovic-traded-to-new-york-rangers-by-columbus-blue-jackets"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 1900000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 1900000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CAR",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476925,
+      "player_name": "Colton Sissons",
+      "position": "C",
+      "sweater_number": 15,
+      "birth_date": "1993-11-05",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 4250000,
+      "total_value_usd": 8500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/toronto-maple-leafs-to-sign-colton-sissons.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-nicolas-hague-conditional-third-round-pick-in-2027-nhl-draft-from-vegas-2025-06-29"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 1700000,
+      "current_season_signing_bonus_usd": 2550000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "NSH",
+          "aav_usd": 630000,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NSH",
+          "aav_usd": 630000,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NSH",
+          "aav_usd": 630000,
+          "total_salary_usd": 665000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "NSH",
+          "aav_usd": 630000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 625000,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 625000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 625000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 2857143,
+          "total_salary_usd": 3450000,
+          "base_salary_usd": 3450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 2857143,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 2857143,
+          "total_salary_usd": 3650000,
+          "base_salary_usd": 3650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 2857143,
+          "total_salary_usd": 2775000,
+          "base_salary_usd": 2775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2857143,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 2857143,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 2857143,
+          "total_salary_usd": 1825000,
+          "base_salary_usd": 1825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 2550000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475166,
+      "player_name": "John Tavares",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "1990-09-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2025-06-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4389280,
+      "total_value_usd": 17557120,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/john-tavares-signs-4-year-contract-extension-with-toronto-maple-leafs",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": "Deferred-salary structure yields $4,389,280 cap hit per ProHockeyRumors 2026-27 cap deep dive (reported as $4.38M on NHL.com).",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "NYI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 15900000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 15250000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 15900000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 14990000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 11090000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 9350000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 8440000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 7950000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 7040000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 7950000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 7040000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 11000000,
+          "total_salary_usd": 7950000,
+          "base_salary_usd": 910000,
+          "signing_bonus_usd": 7040000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 4389280,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 4500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 4389280,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477425,
+      "player_name": "Miles Wood",
+      "position": "L",
+      "sweater_number": 18,
+      "birth_date": "1995-09-13",
+      "current_team": "TOR",
+      "signing_team": "COL",
+      "signed_date": "2023-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 6,
+      "aav_usd": 2500000,
+      "total_value_usd": 15000000,
+      "start_season": "2023-24",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.dailyfaceoff.com/news/colorado-avalanche-sign-miles-wood-to-six-year-15-million-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483565,
+      "player_name": "Nick Blankenburg",
+      "position": "D",
+      "sweater_number": 3,
+      "birth_date": "1998-05-12",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-09-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1400000,
+      "total_value_usd": 1400000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/maple-leafs-expected-to-invite-nick-blankenburg-to-training-camp.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-fifth-round-pick-in-2027-nhl-draft-from-colorado-2026-03-04"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1400000,
+      "current_season_base_salary_usd": 1400000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 825000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 825000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2025-26": {
+          "team": "COL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475171,
+      "player_name": "Oliver Ekman-Larsson",
+      "position": "D",
+      "sweater_number": 95,
+      "birth_date": "1991-07-17",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 3500000,
+      "total_value_usd": 14000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/leafs-sign-oliver-ekman-larsson-to-four-year-deal.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vancouver-canucks-roster-news-projected-lineup-325984464"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PHX",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "PHX",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "PHX",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 8250000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 10500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 8250000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 5250000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 1475000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476931,
+      "player_name": "Jake McCabe",
+      "position": "D",
+      "sweater_number": 22,
+      "birth_date": "1993-10-12",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2024-10-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 4513102,
+      "total_value_usd": 22565510,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-mccabe-signs-five-year-contract-with-toronto-maple-leafs",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": "Deferred-salary structure yields $4,513,102 cap hit per ProHockeyRumors 2026-27 cap deep dive (reported as $4.51M on NHL.com).",
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/toronto-maple-leafs-trade-for-jake-mccabe-and-sam-lafferty-from-chicag-341576196"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1775000,
+          "base_salary_usd": 1775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1775000,
+          "base_salary_usd": 1775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 2850000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 2850000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 4513102,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 5225000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 4513102,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484287,
+      "player_name": "Cole McWard",
+      "position": "D",
+      "sweater_number": 82,
+      "birth_date": "2001-06-09",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-lettieri-mcward-rybinski-and-hlavaj",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": "Official Maple Leafs release confirmed two-year contract; dollar terms not disclosed in official/major news coverage.",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 922500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 922500,
+          "total_salary_usd": 895000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477541,
+      "player_name": "Dakota Mermis",
+      "position": "D",
+      "sweater_number": 36,
+      "birth_date": "1994-01-05",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2025/07/maple-leafs-sign-travis-boyd-benoit-olivier-groulx-dakota-mermis.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 626667,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 40000,
+          "minor_league_salary_usd": 60000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 626667,
+          "total_salary_usd": 595000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 626667,
+          "total_salary_usd": 670000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 325000
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 375000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478178,
+      "player_name": "Darren Raddysh",
+      "position": "D",
+      "sweater_number": 43,
+      "birth_date": "1996-02-28",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-06-19",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 8500000,
+      "total_value_usd": 68000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/06/maple-leafs-acquiring-darren-raddysh-in-blockbuster-trade.html",
+      "secondary_source_url": "https://www.nhl.com/news/darren-raddysh-traded-to-toronto-by-tampa-bay",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-edge-stats-darren-raddysh-traded-to-toronto"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 10000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 730000,
+          "total_salary_usd": 705000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 730000,
+          "total_salary_usd": 755000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "TBL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2023-24": {
+          "team": "TBL",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 975000,
+          "total_salary_usd": 1114000,
+          "base_salary_usd": 1114000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 975000,
+          "total_salary_usd": 836000,
+          "base_salary_usd": 836000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 8500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476853,
+      "player_name": "Morgan Rielly",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "1994-03-09",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2021-10-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2029)",
+      "term_years": 8,
+      "aav_usd": 7500000,
+      "total_value_usd": 60000000,
+      "start_season": "2021-22",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/morgan-rielly-signs-deal-with-toronto-327363454",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483546,
+      "player_name": "Marshall Rifai",
+      "position": "D",
+      "sweater_number": 83,
+      "birth_date": "1998-03-16",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2024-09-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/09/maple-leafs-sign-marshall-rifai-to-two-year-extension.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479442,
+      "player_name": "Troy Stecher",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "1994-04-07",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-06-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1350000,
+      "total_value_usd": 2700000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/06/maple-leafs-to-extend-troy-stecher.html",
+      "secondary_source_url": "https://www.nhl.com/news/troy-stecher-signs-2-year-contract-with-toronto-maple-leafs",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/arizona-coyotes-sign-nick-bjugstad-josh-brown-troy-stecher-trade-for-p-334962070"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 2325000,
+          "total_salary_usd": 2325000,
+          "base_salary_usd": 2325000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 2325000,
+          "total_salary_usd": 2325000,
+          "base_salary_usd": 2325000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 1700000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 787500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 787500,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475690,
+      "player_name": "Chris Tanev",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1989-12-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 40 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 4500000,
+      "total_value_usd": 27000000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/chris-tanev-signs-6-year-contract-with-toronto-maple-leafs",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/trade-gives-maple-leafs-first-shot-at-signing-chris-tanev"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4600000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 3600000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "VAN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "VAN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "VAN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "VAN",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "VAN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "VAN",
+          "aav_usd": 4450000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 4450000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 4450000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 4450000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 4450000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 4600000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3600000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482515,
+      "player_name": "Artur Akhtyamov",
+      "position": "G",
+      "sweater_number": 70,
+      "birth_date": "2001-10-31",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-03-15",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 28 career NHL GP (25 more GP needed); otherwise Group 6 UFA",
+      "term_years": 3,
+      "aav_usd": 900000,
+      "total_value_usd": 2700000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/03/maple-leafs-sign-artur-akhtyamov-to-extension.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 300000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 851667,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 851667,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 851667,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 900000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        }
+      }
+    },
+    {
+      "player_id": 8475683,
+      "player_name": "Sergei Bobrovsky",
+      "position": "G",
+      "sweater_number": 72,
+      "birth_date": "1988-09-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 40 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 7000000,
+      "total_value_usd": 21000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.sportsnet.ca/nhl/article/sergei-bobrovsky-agrees-to-three-year-21m-deal-with-maple-leafs/",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/07/maple-leafs-expected-to-sign-sergei-bobrovsky.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8900000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 8050000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PHI",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "CBJ",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "CBJ",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "CBJ",
+          "aav_usd": 5625000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 5625000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 750000,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 7425000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 7425000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 7425000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "FLA",
+          "aav_usd": 7425000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 6200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 11500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 10000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 10000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 7000000,
+          "total_salary_usd": 8900000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 8050000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476932,
+      "player_name": "Anthony Stolarz",
+      "position": "G",
+      "sweater_number": 41,
+      "birth_date": "1994-01-20",
+      "current_team": "TOR",
+      "signing_team": "TOR",
+      "signed_date": "2025-09-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 3750000,
+      "total_value_usd": 15000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/anthony-stolarz-signs-four-year-15-million-contract-with-toronto",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/cam-talbot-traded-to-philadelphia-flyers-by-edmonton-oilers-304882448"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5075000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 4225000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/toronto-maple-leafs",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "PHI",
+          "aav_usd": 750625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 750625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 750625,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 750625,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 725000,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 95000
+        },
+        "2018-19": {
+          "team": "EDM",
+          "aav_usd": 761250,
+          "total_salary_usd": 761250,
+          "base_salary_usd": 761250,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 95000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "TOR",
+          "aav_usd": 3750000,
+          "total_salary_usd": 5075000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 4225000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

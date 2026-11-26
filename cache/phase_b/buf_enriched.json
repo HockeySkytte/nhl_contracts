@@ -1,0 +1,1213 @@
+{
+  "team": "BUF",
+  "team_name": "Buffalo Sabres",
+  "roster_count": 26,
+  "deep_dive_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+  "dead_cap_lines": [
+    "Upper Limit: $104MM Current Cap Charge: $98,876,348 Cap Space: $5,123,652 Potential Bonuses: $1.075MM (most unlikely to be reached) Dead Cap: $6,444,444 ( Jeff Skinner buyout)",
+    "Projected Upper Limit: $113.5MM Current Cap Charge: $77,718,432 (14 players signed) Cap Space: $35,781,568 Potential Bonuses: $600K (some could reasonably be reached) Dead Cap: $2,444,444 (Skinner buyout)",
+    "Forecasted Upper Limit: $123MM Current Cap Charge: $75,889,683 (9 players signed) Cap Space: $47,110,317 Potential Bonuses: None Dead Cap: $2,444,444 (Skinner buyout)",
+    "Forecasted Upper Limit: $133.5MM (8.5% increase) Current Cap Charge: $63,039,683 (9 players signed) Cap Space: $70,460,317 Potential Bonuses: None Dead Cap: $2,444,444 (Skinner buyout \u2013 final year)"
+  ],
+  "audit_flags": [
+    {
+      "player": "Tyson Kozak",
+      "reason": "nhl_vs_deepdive_mismatch",
+      "nhl_aav": 775000,
+      "dd_aav": 875000,
+      "nhl_url": "https://www.nhl.com/sabres/news/buffalo-sabres-tyson-kozak-free-agency-rochester-americans-amerks"
+    },
+    {
+      "player": "Tyson Kozak",
+      "reason": "reconciled_to_deepdive",
+      "parsed_aav": 775000,
+      "dd_aav": 875000,
+      "end_season_dd": "2027-28",
+      "url": "https://www.nhl.com/sabres/news/buffalo-sabres-tyson-kozak-free-agency-rochester-americans-amerks"
+    }
+  ],
+  "results": [
+    {
+      "player": {
+        "id": 8484145,
+        "name": "Zach Benson",
+        "first": "Zach",
+        "last": "Benson",
+        "pos": "L",
+        "sweater": 6
+      },
+      "birth_date": "2005-05-12",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/zach-benson-signs-7-year-contract-with-buffalo-sabres",
+        "date": "2026-06-25",
+        "headline": "Benson signs 7-year, $52.5 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7500000,
+          "total_value_usd": 52500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Zach Benson signed a seven-year, $52.5 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $7.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475842,
+        "name": "Sam Carrick",
+        "first": "Sam",
+        "last": "Carrick",
+        "pos": "C",
+        "sweater": 10
+      },
+      "birth_date": "1992-02-04",
+      "draft_team": "TOR",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "dedicated": true,
+        "url": "https://www.prohockeyrumors.com/2024/07/rangers-expected-to-sign-sam-carrick-to-three-year-deal.html",
+        "date": "2024-07-01",
+        "headline": "Rangers Sign Sam Carrick To Three-Year Deal",
+        "signing_team": "NYR",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1000000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The New York Rangers are expected to sign forward Sam Carrick to a three-year, $3MM contract per David Pagnotta of The Fourth Period ( Twitter link ). The deal was first reported by St."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Sam Carrick",
+        "aav_usd": 1000000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Carrick traded to Sabres by Rangers for picks",
+        "url": "https://www.nhl.com/news/sam-carrick-traded-to-buffalo-sabres-by-new-york-rangers"
+      }
+    },
+    {
+      "player": {
+        "id": 8479941,
+        "name": "Justin Danforth",
+        "first": "Justin",
+        "last": "Danforth",
+        "pos": "R",
+        "sweater": 15
+      },
+      "birth_date": "1993-03-15",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/sabres/news/buffalo-sabres-sign-justin-danforth-free-agency",
+        "date": "2025-07-02",
+        "headline": "Sabres sign Justin Danforth to 2-year contract",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1800000,
+          "total_value_usd": 3600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Buffalo Sabres have signed free-agent forward Justin Danforth to a two-year contract with an average annual value of $1.8 million, the team announced Wednesday. Danforth, 32, has played 183 career NHL games across the last four seasons with the Columbus Blue Jackets."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Justin Danforth",
+        "aav_usd": 1800000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482659,
+        "name": "Josh Doan",
+        "first": "Josh",
+        "last": "Doan",
+        "pos": "R",
+        "sweater": 91
+      },
+      "birth_date": "2002-02-01",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/josh-doan-signs-7-year-contract-with-buffalo-sabres",
+        "date": "2026-01-23",
+        "headline": "Doan signs 7-year, $48.65 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6950000,
+          "total_value_usd": 48650000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Josh Doan signed a seven-year, $48.65 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $6.95 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-26",
+        "headline": "Peterka traded to Mammoth by Sabres, signs 5-year contract",
+        "url": "https://www.nhl.com/news/buffalo-sabres-trade-jj-peterka-to-utah-mammoth"
+      }
+    },
+    {
+      "player": {
+        "id": 8484797,
+        "name": "Konsta Helenius",
+        "first": "Konsta",
+        "last": "Helenius",
+        "pos": "C",
+        "sweater": 94
+      },
+      "birth_date": "2006-05-11",
+      "draft_team": "BUF",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "dedicated": true,
+        "url": "https://www.prohockeyrumors.com/2024/07/sabres-sign-first-rounder-konsta-helenius.html",
+        "date": "2024-07-08",
+        "headline": "Sabres Sign First-Rounder Konsta Helenius",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 953750,
+          "total_value_usd": 2861250,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "The Sabres have signed 2024 14th overall pick Konsta Helenius to his three-year, entry-level contract, per a team release . Financial terms weren't disclosed."
+        },
+        "deep_dive_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Konsta Helenius",
+        "aav_usd": 953750,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "+ $600K \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482896,
+        "name": "Tyson Kozak",
+        "first": "Tyson",
+        "last": "Kozak",
+        "pos": "C",
+        "sweater": 48
+      },
+      "birth_date": "2002-12-29",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/sabres/news/buffalo-sabres-tyson-kozak-free-agency-rochester-americans-amerks",
+        "date": "2025-07-01",
+        "headline": "Sabres sign Kozak to 3-year contract",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 875000,
+          "total_value_usd": 2625000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "The Buffalo Sabres have re-signed forward Tyson Kozak to a three-year contract worth an average annual value of $775,000, the team announced Tuesday. The deal is two-way for the first year and one-way for the remaining two years."
+        },
+        "deep_dive_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Tyson Kozak",
+        "aav_usd": 875000,
+        "end_season": "2027-28",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481522,
+        "name": "Peyton Krebs",
+        "first": "Peyton",
+        "last": "Krebs",
+        "pos": "C",
+        "sweater": 19
+      },
+      "birth_date": "2001-01-26",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/peyton-krebs-signs-4-year-deal-with-buffalo",
+        "date": "2026-07-13",
+        "headline": "Krebs signs 4-year, $18 million contract with Sabres, avoids arbitration",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4500000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Peyton Krebs signed a four-year, $18 million contract with the Buffalo Sabres on Monday, avoiding an arbitration hearing. It has an average annual value of $4.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Peyton Krebs",
+        "aav_usd": 4500000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2021-11-14",
+        "headline": "Fantasy spin: Eichel trade on Golden Knights, Sabres",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-eichel-trade-vegas-buffalo-impact-327563888"
+      }
+    },
+    {
+      "player": {
+        "id": 8483468,
+        "name": "Jiri Kulich",
+        "first": "Jiri",
+        "last": "Kulich",
+        "pos": "C",
+        "sweater": 20
+      },
+      "birth_date": "2004-04-14",
+      "draft_team": "BUF",
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479359,
+        "name": "Beck Malenstyn",
+        "first": "Beck",
+        "last": "Malenstyn",
+        "pos": "L",
+        "sweater": 29
+      },
+      "birth_date": "1998-02-04",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/beck-malenstyn-signs-6-year-contract-with-buffalo-sabres",
+        "date": "2026-06-29",
+        "headline": "Malenstyn signs 6-year, $17.5 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 2916700,
+          "total_value_usd": 17500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Beck Malenstyn signed a six-year, $17.5 million contract with the Buffalo Sabres on Monday. It has an average annual value of $2.9167 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Capitals Acquire Second-Round in 2024 Draft from Buffalo for Beck Malenstyn",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-second-round-in-2024-draft-from-buffalo-for-beck-malenstyn"
+      }
+    },
+    {
+      "player": {
+        "id": 8480802,
+        "name": "Ryan McLeod",
+        "first": "Ryan",
+        "last": "McLeod",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "1999-09-21",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ryan-mcleod-signs-four-year-contract-with-buffalo-sabres",
+        "date": "2025-07-02",
+        "headline": "McLeod signs 4-year, $20 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5000000,
+          "total_value_usd": 20000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ryan McLeod signed a four-year, $20 million contract with the Buffalo Sabres on Tuesday. The contract has an average annual value of $5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Ryan McLeod",
+        "aav_usd": 5000000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-05",
+        "headline": "Savoie, No. 9 pick in 2022 Draft, traded to Oilers by Sabres",
+        "url": "https://www.nhl.com/news/matthew-savoie-traded-to-oilers-by-sabres"
+      }
+    },
+    {
+      "player": {
+        "id": 8480064,
+        "name": "Josh Norris",
+        "first": "Josh",
+        "last": "Norris",
+        "pos": "C",
+        "sweater": 9
+      },
+      "birth_date": "1999-05-05",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/senators-sign-josh-norris-to-eight-year-contract-334788960",
+        "date": "2022-07-15",
+        "headline": "Norris signs eight-year, $63.6 million contract with Senators",
+        "signing_team": "OTT",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7950000,
+          "total_value_usd": 63600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Josh Norris signed an eight-year, $63.6 million contract with the Ottawa Senators on Thursday. It has an average annual value of $7.95 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Joshua Norris",
+        "aav_usd": 7950000,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-08",
+        "headline": "Cozens traded to Senators by Sabres for Norris, Bernard-Docker",
+        "url": "https://www.nhl.com/news/dylan-cozens-traded-to-ottawa-senators-by-buffalo-sabres-for-josh-norris"
+      }
+    },
+    {
+      "player": {
+        "id": 8483500,
+        "name": "Noah Ostlund",
+        "first": "Noah",
+        "last": "Ostlund",
+        "pos": "C",
+        "sweater": 86
+      },
+      "birth_date": "2004-03-11",
+      "draft_team": "BUF",
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Noah Ostlund",
+        "aav_usd": 886666,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "+ $475K in \u2018A\u2019 bonuses",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/noah-ostlund-signs-8-year-contract-with-buffalo-sabres",
+        "date": "2026-09-14",
+        "headline": "Ostlund signs 8-year, $52.8 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6600000,
+          "total_value_usd": 52800000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Noah Ostlund signed an eight-year, $52.8 million contract with the Buffalo Sabres on Monday. The new deal, which begins next season, has an average annual value of $6.6 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482097,
+        "name": "Jack Quinn",
+        "first": "Jack",
+        "last": "Quinn",
+        "pos": "R",
+        "sweater": 22
+      },
+      "birth_date": "2001-09-19",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jack-quinn-signs-2-year-deal-with-buffalo",
+        "date": "2025-06-27",
+        "headline": "Quinn signs 2-year, $6.75 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3375000,
+          "total_value_usd": 6750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jack Quinn signed a two-year, $6.75 million contract with the Buffalo Sabres on Friday. It has an average annual value of $3.375 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Jack Quinn",
+        "aav_usd": 3375000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479420,
+        "name": "Tage Thompson",
+        "first": "Tage",
+        "last": "Thompson",
+        "pos": "C",
+        "sweater": 72
+      },
+      "birth_date": "1997-10-30",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tage-thompson-agrees-to-seven-year-contract-with-buffalo-sabres-335425272",
+        "date": "2022-09-02",
+        "headline": "Thompson agrees to seven-year contract extension with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2023-24",
+        "end_season": "2029-30",
+        "start_yr": 2023,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7142857,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tage Thompson agreed to a seven-year, $50 million contract extension with the Buffalo Sabres on Tuesday. The contract, which starts next season, has an average annual value of $7.14 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Tage Thompson",
+        "aav_usd": 7142857,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475722,
+        "name": "Jason Zucker",
+        "first": "Jason",
+        "last": "Zucker",
+        "pos": "L",
+        "sweater": 17
+      },
+      "birth_date": "1992-01-16",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jason-zucker-signs-two-year-contract-with-buffalo-sabres",
+        "date": "2025-03-07",
+        "headline": "Zucker signs 2-year, $9.5 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4750000,
+          "total_value_usd": 9500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jason Zucker signed a two-year, $9.5 million contract with the Buffalo Sabres on Friday. It has an average annual value of $4.75 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Jason Zucker",
+        "aav_usd": 4750000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481806,
+        "name": "Louis Crevier",
+        "first": "Louis",
+        "last": "Crevier",
+        "pos": "D",
+        "sweater": 46
+      },
+      "birth_date": "2001-05-04",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-re-sign-crevier-to-two-year-deal",
+        "date": "2025-07-17",
+        "headline": "RELEASE: Blackhawks Re-Sign Crevier to Two-Year Deal",
+        "signing_team": "CHI",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 900000,
+          "total_value_usd": 1800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman [Louis Crevier](https://www.nhl.com/blackhawks/player/louis-crevier-8481806) on a two-year contract that runs through the 2026-27 season ($900,000 salary cap hit). Crevier, 24, posted career highs in games played (32), goals (3) an"
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Louis Crevier",
+        "aav_usd": 900000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/louis-crevier-signs-4-year-deal-with-buffalo",
+        "date": "2026-10-01",
+        "headline": "Crevier signs four-year, $16 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "start_yr": 2027,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4000000,
+          "total_value_usd": 16000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": "2030-31",
+          "status_hint": "RFA",
+          "quote": "Louis Crevier signed a four-year, $16 million contract with the Buffalo Sabres on Thursday. It has an average annual value of $4 million and begins next season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480839,
+        "name": "Rasmus Dahlin",
+        "first": "Rasmus",
+        "last": "Dahlin",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "2000-04-13",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/rasmus-dahlin-signs-8-year-deal-with-buffalo",
+        "date": "2023-10-09",
+        "headline": "Dahlin signs 8-year, $88 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6000000,
+          "total_value_usd": 88000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rasmus Dahlin signed an eight-year, $88 million contract with the Buffalo Sabres on Monday. The contract, which has an average annual value of $11 million, will begin next season."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476891,
+        "name": "Matt Grzelcyk",
+        "first": "Matt",
+        "last": "Grzelcyk",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "1994-01-05",
+      "draft_team": "BOS",
+      "active": {
+        "source": "prohockeyrumors.com",
+        "dedicated": true,
+        "url": "https://www.prohockeyrumors.com/2026/09/sabres-sign-matt-grzelcyk.html",
+        "date": "2026-09-25",
+        "headline": "Sabres Sign Matt Grzelcyk",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Buffalo Sabres have signed veteran defenseman Matt Grzelcyk to a one-year deal worth the league-minimum salary of $850K. The 32-year-old defenseman arrives in Buffalo in the aftermath of two significant injuries to the left side of the Sabres defense."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484305,
+        "name": "Zach Metsa",
+        "first": "Zach",
+        "last": "Metsa",
+        "pos": "D",
+        "sweater": 73
+      },
+      "birth_date": "1998-10-19",
+      "draft_team": null,
+      "active": null,
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Zach Metsa",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": {
+        "source": "prohockeyrumors.com",
+        "dedicated": true,
+        "url": "https://www.prohockeyrumors.com/2026/09/sabres-sign-zach-metsa-to-one-year-extension.html",
+        "date": "2026-09-04",
+        "headline": "Sabres Sign Zach Metsa To One-Year Extension",
+        "signing_team": "BUF",
+        "start_season": "2027-28",
+        "end_season": "2027-28",
+        "start_yr": 2027,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 900000,
+          "total_value_usd": 900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "siness done as they return for training camp. According to a team announcement , the Sabres have signed defenseman Zach Metsa to a one-year, $900K extension."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482671,
+        "name": "Owen Power",
+        "first": "Owen",
+        "last": "Power",
+        "pos": "D",
+        "sweater": 25
+      },
+      "birth_date": "2002-11-22",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/owen-power-signs-seven-year-contract-with-buffalo-sabres",
+        "date": "2023-10-12",
+        "headline": "Power signs 7-year, $58.45 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 11000000,
+          "total_value_usd": 58450000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Owen Power signed a seven-year, $58.45 million contract with the Buffalo Sabres on Wednesday. The contract begins next season and has an average annual value of $8.35 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480807,
+        "name": "Mattias Samuelsson",
+        "first": "Mattias",
+        "last": "Samuelsson",
+        "pos": "D",
+        "sweater": 23
+      },
+      "birth_date": "2000-03-14",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mattias-samuelsson-signs-deal-with-buffalo-336275078",
+        "date": "2022-10-12",
+        "headline": "Samuelsson signs seven-year, $30 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2022-23",
+        "end_season": "2028-29",
+        "start_yr": 2022,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 4290000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mattias Samuelsson signed a seven-year, $30 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $4.29 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Mattias Samuelsson",
+        "aav_usd": 4285715,
+        "end_season": "2029-30",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479982,
+        "name": "Conor Timmins",
+        "first": "Conor",
+        "last": "Timmins",
+        "pos": "D",
+        "sweater": 21
+      },
+      "birth_date": "1998-09-18",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/conor-timmins-avoids-salary-arbitration-hearing-gets-2-year-contract-with-buffalo-sabres",
+        "date": "2025-07-27",
+        "headline": "Timmins signs 2-year, $4.4 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2200000,
+          "total_value_usd": 4400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Conor Timmins signed a two-year, $4.4 million contract with the Buffalo Sabres on Sunday. It has an average annual value of $2.2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Conor Timmins",
+        "aav_usd": 2200000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-30",
+        "headline": "Clifton traded to Penguins by Sabres for Timmins",
+        "url": "https://www.nhl.com/news/connor-clifton-traded-to-pittsburgh-penguins-by-buffalo-sabres"
+      }
+    },
+    {
+      "player": {
+        "id": 8482803,
+        "name": "Olen Zellweger",
+        "first": "Olen",
+        "last": "Zellweger",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "2003-09-10",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/olen-zellweger-signs-3-year-deal-with-buffalo",
+        "date": "2026-07-01",
+        "headline": "Zellweger signs 3-year contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3100000,
+          "total_value_usd": 9300000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Olen Zellweger signed a three-year, $9.3 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $3.1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Olen Zellweger",
+        "aav_usd": 3100000,
+        "end_season": "2028-29",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Zellweger traded to Sabres by Ducks for 2nd-round pick",
+        "url": "https://www.nhl.com/news/olen-zellweger-traded-to-buffalo-sabres-by-anaheim-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8481551,
+        "name": "Colten Ellis",
+        "first": "Colten",
+        "last": "Ellis",
+        "pos": "G",
+        "sweater": 92
+      },
+      "birth_date": "2000-10-05",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blues/news/ellis-agrees-to-two-year-extension-with-blues",
+        "date": "2025-03-06",
+        "headline": "Ellis agrees to two-year extension with Blues",
+        "signing_team": "STL",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 850000,
+          "total_value_usd": 1700000,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The St. Louis Blues have agreed to terms on a two-year, two-way contract with goaltender Colten Ellis."
+        },
+        "deep_dive_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Colten Ellis",
+        "aav_usd": 850000,
+        "end_season": "2026-27",
+        "expiry_status": "RFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480045,
+        "name": "Ukko-Pekka Luukkonen",
+        "first": "Ukko-Pekka",
+        "last": "Luukkonen",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "1999-03-09",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ukko-pekka-luukkonen-signs-5-year-contract-with-sabres",
+        "date": "2024-07-24",
+        "headline": "Luukkonen signs 5-year, $23.75 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2024-25",
+        "end_season": "2028-29",
+        "start_yr": 2024,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4750000,
+          "total_value_usd": 23750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ukko-Pekka Luukkonen signed a five-year, $23.75 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $4.75 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Ukko-Pekka Luukkonen",
+        "aav_usd": 4750000,
+        "end_season": "2028-29",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479312,
+        "name": "Alex Lyon",
+        "first": "Alex",
+        "last": "Lyon",
+        "pos": "G",
+        "sweater": 34
+      },
+      "birth_date": "1992-12-09",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/alex-lyon-signs-two-year-contract-with-buffalo-sabres",
+        "date": "2025-07-01",
+        "headline": "Lyon signs 2-year, $3 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1500000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Alex Lyon signed a two-year, $3 million contract with the Buffalo Sabres on Tuesday. It has an average annual value of $1.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "deep_dive_hit": {
+        "name": "Alex Lyon",
+        "aav_usd": 1500000,
+        "end_season": "2026-27",
+        "expiry_status": "UFA",
+        "extra": "",
+        "url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html"
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

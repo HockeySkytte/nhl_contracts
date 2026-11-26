@@ -1,0 +1,954 @@
+{
+  "team": "WSH",
+  "team_name": "Washington Capitals",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8478463,
+        "name": "Anthony Beauvillier",
+        "first": "Anthony",
+        "last": "Beauvillier",
+        "pos": "R",
+        "sweater": 72
+      },
+      "birth_date": "1997-06-08",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-anthony-beauvillier",
+        "date": "2025-07-03",
+        "headline": "Capitals Re-Sign Anthony Beauvillier",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2750000,
+          "total_value_usd": 5500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have re-signed forward Anthony Beauvillier to a two-year, $5.5 million contract extension, senior vice president and general manager Chris Patrick announced today. Beauvillier's contract will carry an average annual value of $2.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-08",
+        "headline": "Beauvillier traded to Capitals by Penguins for draft pick",
+        "url": "https://www.nhl.com/news/anthony-beauvillier-traded-to-capitals-by-penguins"
+      }
+    },
+    {
+      "player": {
+        "id": 8479400,
+        "name": "Pierre-Luc Dubois",
+        "first": "Pierre-Luc",
+        "last": "Dubois",
+        "pos": "C",
+        "sweater": 80
+      },
+      "birth_date": "1998-06-24",
+      "draft_team": "CBJ",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-22",
+        "headline": "Kings, Capitals each enjoying results of Kuemper-Dubois trade",
+        "url": "https://www.nhl.com/news/kuemper-dubois-trade-worked-out-for-both-los-angeles-and-washington"
+      }
+    },
+    {
+      "player": {
+        "id": 8483573,
+        "name": "Ethen Frank",
+        "first": "Ethen",
+        "last": "Frank",
+        "pos": "R",
+        "sweater": 53
+      },
+      "birth_date": "1998-02-05",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-ethen-frank",
+        "date": "2026-03-04",
+        "headline": "Capitals Re-Sign Ethen Frank",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2000000,
+          "total_value_usd": 4000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have re-signed forward Ethen Frank to a two-year, $4 million contract extension, senior vice president and general manager Chris Patrick announced today. Frank\u2019s contract will carry an average annual value of $2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476432,
+        "name": "Boone Jenner",
+        "first": "Boone",
+        "last": "Jenner",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "1993-06-15",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/boone-jenner-signs-4-year-contract-with-washington-capitals",
+        "date": "2026-07-02",
+        "headline": "Jenner signs 4-year, $23 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5750000,
+          "total_value_usd": 23000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Boone Jenner signed a four-year, $23 million contract with the Washington Capitals on Wednesday. It has an average annual value of $5.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479385,
+        "name": "Jordan Kyrou",
+        "first": "Jordan",
+        "last": "Kyrou",
+        "pos": "R",
+        "sweater": 25
+      },
+      "birth_date": "1998-05-05",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jordan-kyrou-signs-8-year-extension-with-blues-335535744",
+        "date": "2022-09-13",
+        "headline": "Kyrou signs 8-year extension with Blues",
+        "signing_team": "STL",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8125000,
+          "total_value_usd": 65000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2023-24",
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "Jordan Kyrou is going to be wearing a Blue Note a long time. On Tuesday, Kyrou signed a new eight-year contract extension with the St."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Kyrou traded to Capitals by Blues for McMichael, 1st-round pick",
+        "url": "https://www.nhl.com/news/jordan-kyrou-traded-to-washington-capitals-by-st-louis-blues"
+      }
+    },
+    {
+      "player": {
+        "id": 8484186,
+        "name": "Ryan Leonard",
+        "first": "Ryan",
+        "last": "Leonard",
+        "pos": "R",
+        "sweater": 9
+      },
+      "birth_date": "2005-01-21",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-ryan-leonard",
+        "date": "2026-09-15",
+        "headline": "Capitals Re-Sign Ryan Leonard",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10500000,
+          "total_value_usd": 84000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have re-signed forward Ryan Leonard to an eight-year, $84 million contract extension, Senior Vice President and General Manager Chris Patrick announced today. Leonard\u2019s contract will carry an average annual value of $10.5 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ryan-leonard-signs-8-year-deal-with-washington",
+        "date": "2026-09-17",
+        "headline": "Leonard signs 8-year, $84 million contract Capitals",
+        "signing_team": "WSH",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10500000,
+          "total_value_usd": 84000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Ryan Leonard signed an eight-year, $84 million contract with the Washington Capitals on Tuesday. It begins next season and has an average annual value of $10.5 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483491,
+        "name": "Ivan Miroshnichenko",
+        "first": "Ivan",
+        "last": "Miroshnichenko",
+        "pos": "L",
+        "sweater": 63
+      },
+      "birth_date": "2004-02-04",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-ivan-miroshnichenko",
+        "date": "2025-10-31",
+        "headline": "Capitals Re-Sign Ivan Miroshnichenko",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 925000,
+          "total_value_usd": 1850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ARLINGTON, Va. \u2013 The Washington Capitals have re-signed forward Ivan Miroshnichenko to a two-year, $1.85 million contract extension, senior vice president and general manager Chris Patrick announced today."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8471214,
+        "name": "Alex Ovechkin",
+        "first": "Alex",
+        "last": "Ovechkin",
+        "pos": "L",
+        "sweater": 8
+      },
+      "birth_date": "1985-09-17",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-alex-ovechkin",
+        "date": "2026-07-02",
+        "headline": "Capitals Re-Sign Alex Ovechkin",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 4250000,
+          "total_value_usd": 4250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have re-signed captain Alex Ovechkin to a one-year contract extension, Senior Vice President and General Manager Chris Patrick announced today. Ovechkin will earn $1 million in salary, a $4.75 million games-played bonus (10 games) and a $3.25 million signing bonus."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481656,
+        "name": "Aliaksei Protas",
+        "first": "Aliaksei",
+        "last": "Protas",
+        "pos": "L",
+        "sweater": 21
+      },
+      "birth_date": "2001-01-06",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-sign-ilya-protas",
+        "date": "2024-07-06",
+        "headline": "Capitals Sign Ilya Protas",
+        "signing_team": "WSH",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 889167,
+          "total_value_usd": 2667501,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "ARLINGTON, Va. \u2013 The Washington Capitals have signed forward Ilya Protas to a three-year entry-level contract, president and general manager Brian MacLellan announced today."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484999,
+        "name": "Ilya Protas",
+        "first": "Ilya",
+        "last": "Protas",
+        "pos": "L",
+        "sweater": 62
+      },
+      "birth_date": "2006-07-18",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-sign-ilya-protas",
+        "date": "2024-07-06",
+        "headline": "Capitals Sign Ilya Protas",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 889167,
+          "total_value_usd": 2667501,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "ARLINGTON, Va. \u2013 The Washington Capitals have signed forward Ilya Protas to a three-year entry-level contract, president and general manager Brian MacLellan announced today."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482088,
+        "name": "Justin Sourdif",
+        "first": "Justin",
+        "last": "Sourdif",
+        "pos": "C",
+        "sweater": 34
+      },
+      "birth_date": "2002-03-24",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-justin-sourdif",
+        "date": "2026-09-16",
+        "headline": "Capitals Re-Sign Justin Sourdif",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6350000,
+          "total_value_usd": 50800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have re-signed forward Justin Sourdif to an eight-year, $50.8 million contract extension, Senior Vice President and General Manager Chris Patrick announced today. Sourdif\u2019s contract will carry an average annual value of $6.35 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-26",
+        "headline": "Capitals Acquire Justin Sourdif from the Florida Panthers",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-justin-sourdif-from-the-florida-panthers"
+      }
+    },
+    {
+      "player": {
+        "id": 8478440,
+        "name": "Dylan Strome",
+        "first": "Dylan",
+        "last": "Strome",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1997-03-07",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dylan-strome-signs-5-year-contract-with-washington-capitals-340683010",
+        "date": "2023-02-04",
+        "headline": "Strome signs 5-year contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5000000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Dylan Strome signed a five-year, $25 million contract with the Washington Capitals on Friday. The contract, which begins next season, has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477949,
+        "name": "Alex Tuch",
+        "first": "Alex",
+        "last": "Tuch",
+        "pos": "R",
+        "sweater": 89
+      },
+      "birth_date": "1996-05-10",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/alex-tuch-traded-to-washington-capitals-by-buffalo-sabres",
+        "date": "2026-06-26",
+        "headline": "Tuch traded to Capitals by Sabres, signs 8-year, $84 million contract",
+        "signing_team": "BUF",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 10500000,
+          "total_value_usd": 84000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Alex Tuch was traded to the Washington Capitals by the Buffalo Sabres for forward David Kampf and a third-round pick in the 2027 NHL Draft on Wednesday. As part of the sign-and-trade move, the 30-year-old forward, who could have become an unrestricted free agent on July 1, signed an eight-year, $84 million contract wit"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Tuch traded to Capitals by Sabres, signs 8-year, $84 million contract",
+        "url": "https://www.nhl.com/news/alex-tuch-traded-to-washington-capitals-by-buffalo-sabres"
+      }
+    },
+    {
+      "player": {
+        "id": 8476880,
+        "name": "Tom Wilson",
+        "first": "Tom",
+        "last": "Wilson",
+        "pos": "R",
+        "sweater": 43
+      },
+      "birth_date": "1994-03-29",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tom-wilson-signs-seven-year-contract-with-washington-capitals-345518300",
+        "date": "2023-08-07",
+        "headline": "Wilson signs 7-year, $45.5 million contract with Capitals through 2030-31",
+        "signing_team": "WSH",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6500000,
+          "total_value_usd": 45500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2024-25",
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "Tom Wilson signed a seven-year, $45.5 million contract with the Washington Capitals on Friday. It has an average annual value of $6.5 million and begins with the 2024-25 season, running through 2030-31."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479345,
+        "name": "Jakob Chychrun",
+        "first": "Jakob",
+        "last": "Chychrun",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1998-03-31",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jakob-chychrun-signs-eight-year-contract-with-washington-capitals",
+        "date": "2025-03-26",
+        "headline": "Chychrun signs 8-year, $72 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9000000,
+          "total_value_usd": 72000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jakob Chychrun signed an eight-year, $72 million contract with the Washington Capitals on Tuesday. It begins next season and has an average annual value of $9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-02",
+        "headline": "Capitals get Roy on 6-year contract, trade for Chychrun",
+        "url": "https://www.nhl.com/news/senators-trade-jakob-chychrun-to-capitals"
+      }
+    },
+    {
+      "player": {
+        "id": 8479576,
+        "name": "Vincent Desharnais",
+        "first": "Vincent",
+        "last": "Desharnais",
+        "pos": "D",
+        "sweater": 73
+      },
+      "birth_date": "1996-05-29",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/vincent-desharnais-signs-four-year-contract-with-washington-capitals",
+        "date": "2026-07-01",
+        "headline": "Desharnais signs 4-year, $16.8M deal with Capitals\u00a0",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4200000,
+          "total_value_usd": 16800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Vincent Desharnais signed a four-year, $16.8 million contract with the Washington Capitals on Wednesday. The deal has an average annual value of $4.2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480796,
+        "name": "Martin Feh\u00e9rv\u00e1ry",
+        "first": "Martin",
+        "last": "Feh\u00e9rv\u00e1ry",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "1999-10-06",
+      "draft_team": "WSH",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475718,
+        "name": "Justin Holl",
+        "first": "Justin",
+        "last": "Holl",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1992-01-30",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-sign-justin-holl-jonny-brodzinski-and-josh-dunne",
+        "date": "2026-07-01",
+        "headline": "Capitals Sign Justin Holl, Jonny Brodzinski and Josh Dunne",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 900000,
+          "total_value_usd": 900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Washington Capitals have signed defenseman Justin Holl to a one-year, $900,000 contract, forward Jonny Brodzinski to a one-year, $850,000 contract and forward Josh Dunne to a one-year, $850,000 contract, Senior Vice President and General Manager Chris Patrick announced today. Holl, 34, recorded two points (1g, 1a) "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484873,
+        "name": "Cole Hutson",
+        "first": "Cole",
+        "last": "Hutson",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "2006-06-28",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cole-hutson-signs-three-year-contract-with-capitals",
+        "date": "2026-03-15",
+        "headline": "Hutson signs 3-year, entry-level contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 975000,
+          "total_value_usd": 2925000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Cole Hutson signed a three-year, entry-level contract with the Washington Capitals on Sunday. It has an average annual value of $975,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480043,
+        "name": "Timothy Liljegren",
+        "first": "Timothy",
+        "last": "Liljegren",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "1999-04-30",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/timothy-liljegren-signs-two-year-contract-with-washington-capitals",
+        "date": "2026-05-20",
+        "headline": "Liljegren signs 2-year, $6.5 million contract to remain with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3250000,
+          "total_value_usd": 6500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Timothy Liljegren signed a two-year, $6.5 million contract to remain with the Washington Capitals on Wednesday. It begins next season and has an average annual value of $3.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Capitals Acquire Timothy Liljegren from the San Jose Sharks",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-timothy-liljegren-from-the-san-jose-sharks"
+      }
+    },
+    {
+      "player": {
+        "id": 8478911,
+        "name": "Matt Roy",
+        "first": "Matt",
+        "last": "Roy",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "1995-03-01",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matt-roy-signs-6-year-contract-with-washington-capitals",
+        "date": "2024-07-01",
+        "headline": "Roy signs 6-year, $34.5 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5750000,
+          "total_value_usd": 34500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Matt Roy signed a six-year, $34.5 million contract with the Washington Capitals on Monday. It has an average annual value of $5.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-02",
+        "headline": "Capitals get Roy on 6-year contract, trade for Chychrun",
+        "url": "https://www.nhl.com/news/senators-trade-jakob-chychrun-to-capitals"
+      }
+    },
+    {
+      "player": {
+        "id": 8480873,
+        "name": "Rasmus Sandin",
+        "first": "Rasmus",
+        "last": "Sandin",
+        "pos": "D",
+        "sweater": 38
+      },
+      "birth_date": "2000-03-07",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/rasmus-sandin-signs-5-year-deal-with-washington",
+        "date": "2024-03-06",
+        "headline": "Sandin signs 5-year, $23 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2024-25",
+        "end_season": "2028-29",
+        "start_yr": 2024,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4600000,
+          "total_value_usd": 23000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rasmus Sandin signed a five-year, $23 million contract with the Washington Capitals on Wednesday. It has an average annual value of $4.6 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-02-28",
+        "headline": "Sandin traded to Capitals by Maple Leafs for Gustafsson",
+        "url": "https://www.nhl.com/news/rasmus-sandin-traded-to-washington-capitals-for-erik-gustafsson-from-t-341628004"
+      }
+    },
+    {
+      "player": {
+        "id": 8481030,
+        "name": "Jack St. Ivany",
+        "first": "Jack",
+        "last": "St. Ivany",
+        "pos": "D",
+        "sweater": 29
+      },
+      "birth_date": "1999-07-22",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/capitals/news/capitals-re-sign-jack-st-ivany",
+        "date": "2026-11-23",
+        "headline": "Capitals Re-Sign Jack St. Ivany",
+        "signing_team": "WSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1175000,
+          "total_value_usd": 2350000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "**ARLINGTON, Va. \u2013** The Washington Capitals have re-signed defenseman Jack St."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-24",
+        "headline": "Capitals Claim Defenseman Jack St. Ivany",
+        "url": "https://www.nhl.com/capitals/news/capitals-claim-defenseman-jack-st-ivany"
+      }
+    },
+    {
+      "player": {
+        "id": 8479292,
+        "name": "Charlie Lindgren",
+        "first": "Charlie",
+        "last": "Lindgren",
+        "pos": "G",
+        "sweater": 79
+      },
+      "birth_date": "1993-12-18",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/charlie-lindgren-signs-3-year-deal-with-washington",
+        "date": "2025-03-04",
+        "headline": "Lindgren signs 3-year, $9 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3000000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Charlie Lindgren signed a three-year, $9 million contract with the Washington Capitals on Monday. It has an average annual value of $3 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480313,
+        "name": "Logan Thompson",
+        "first": "Logan",
+        "last": "Thompson",
+        "pos": "G",
+        "sweater": 48
+      },
+      "birth_date": "1997-02-25",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/logan-thompson-signs-6-year-deal-with-washington",
+        "date": "2025-01-27",
+        "headline": "Thompson signs 6-year, $35.1 million contract with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5850000,
+          "total_value_usd": 35100000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Logan Thompson signed a six-year, $35.1 million contract with the Washington Capitals on Monday. It has an average annual value of $5.85 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-29",
+        "headline": "Thompson traded to Capitals by Golden Knights",
+        "url": "https://www.nhl.com/news/logan-thompson-traded-to-washington-capitals-from-vegas-golden-knights"
+      }
+    }
+  ]
+}

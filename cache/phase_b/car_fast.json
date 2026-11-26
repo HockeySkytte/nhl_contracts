@@ -1,0 +1,963 @@
+{
+  "team": "CAR",
+  "team_name": "Carolina Hurricanes",
+  "roster_count": 23,
+  "results": [
+    {
+      "player": {
+        "id": 8478427,
+        "name": "Sebastian Aho",
+        "first": "Sebastian",
+        "last": "Aho",
+        "pos": "C",
+        "sweater": 20
+      },
+      "birth_date": "1997-07-26",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sebastian-aho-signs-eight-year-contract-with-carolina-hurricanes-345441394",
+        "date": "2023-07-26",
+        "headline": "Aho signs 8-year, $78 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9750000,
+          "total_value_usd": 78000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2024-25",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sebastian Aho signed an eight-year, $78 million contract with the Carolina Hurricanes on Wednesday. It has an average annual value of $9.75 million and begins in the 2024-25 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2019-07-08",
+        "headline": "Aho's offer sheet matched by Hurricanes",
+        "url": "https://www.nhl.com/news/carolina-hurricanes-match-sebastian-aho-offer-sheet-308203062"
+      }
+    },
+    {
+      "player": {
+        "id": 8482809,
+        "name": "Jackson Blake",
+        "first": "Jackson",
+        "last": "Blake",
+        "pos": "R",
+        "sweater": 53
+      },
+      "birth_date": "2003-08-03",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jackson-blake-signs-8-year-contract-with-carolina-hurricanes",
+        "date": "2025-07-25",
+        "headline": "Blake signs 8-year, $45 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5625000,
+          "total_value_usd": 45000000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Jackson Blake signed an eight-year, $45 million contract with the Carolina Hurricanes on Thursday. The contract, which has an average annual value of $5.625 million, will begin with the 2026-27 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477478,
+        "name": "William Carrier",
+        "first": "William",
+        "last": "Carrier",
+        "pos": "L",
+        "sweater": 28
+      },
+      "birth_date": "1994-12-20",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/william-carrier-signs-6-year-contract-with-carolina-hurricanes",
+        "date": "2024-07-03",
+        "headline": "Carrier signs 6-year, $12 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 2000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "William Carrier signed a six-year, $12 million contract with the Carolina Hurricanes on Wednesday. It has an average annual value of $2 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475235,
+        "name": "Nicolas Deslauriers",
+        "first": "Nicolas",
+        "last": "Deslauriers",
+        "pos": "L",
+        "sweater": 44
+      },
+      "birth_date": "1991-02-22",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nicolas-deslauriers-signs-2-year-contract-carolina-hurricanes",
+        "date": "2026-06-20",
+        "headline": "Deslauriers signs 2-year contract with Hurricanes at Stanley Cup parade",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nicolas Deslauriers signed a two-year, $1.75 million contract with the Carolina Hurricanes on Saturday. It has an average annual value of $875,000 and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Canes Acquire Nicolas Deslauriers From Flyers",
+        "url": "https://www.nhl.com/hurricanes/news/canes-acquire-nicolas-deslauriers-from-flyers"
+      }
+    },
+    {
+      "player": {
+        "id": 8477940,
+        "name": "Nikolaj Ehlers",
+        "first": "Nikolaj",
+        "last": "Ehlers",
+        "pos": "L",
+        "sweater": 27
+      },
+      "birth_date": "1996-02-14",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nikolaj-ehlers-signs-6-year-deal-with-carolina",
+        "date": "2025-07-05",
+        "headline": "Ehlers signs 6-year, $51 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 8500000,
+          "total_value_usd": 51000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nikolaj Ehlers signed a six-year, $51 million contract with the Carolina Hurricanes on Thursday. It has an average annual value of $8.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475791,
+        "name": "Taylor Hall",
+        "first": "Taylor",
+        "last": "Hall",
+        "pos": "L",
+        "sweater": 71
+      },
+      "birth_date": "1991-11-14",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/taylor-hall-signs-3-year-contract-with-carolina-hurricanes",
+        "date": "2025-04-30",
+        "headline": "Hall signs 3-year, $9.5 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3166667,
+          "total_value_usd": 9500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Taylor Hall signed a three-year, $9.5 million contract with the Carolina Hurricanes on Wednesday. The deal, which starts next season, has an average annual value of $3.17 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-01-25",
+        "headline": "RELEASE: Blackhawks Trade Taylor Hall to Hurricanes",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-taylor-hall-to-hurricanes"
+      }
+    },
+    {
+      "player": {
+        "id": 8476873,
+        "name": "Mark Jankowski",
+        "first": "Mark",
+        "last": "Jankowski",
+        "pos": "L",
+        "sweater": 77
+      },
+      "birth_date": "1994-09-13",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mark-jankowski-signs-2-year-contract-with-carolina-hurricanes",
+        "date": "2026-05-11",
+        "headline": "Jankowski signs 2-year, $3.7 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1850000,
+          "total_value_usd": 3700000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Mark Jankowski signed a two-year, $3.7 million contract with the Carolina Hurricanes on Monday. It has an average annual value of $1.85 million, The 31-year-old forward had 21 points (11 goals, 10 assists) in 68 regular-season games this season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-07",
+        "headline": "Predators Acquire Fifth-Round Pick in 2026 NHL Draft From Carolina",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-fifth-round-pick-in-2026-nhl-draft-from-carolina-2025-03-07"
+      }
+    },
+    {
+      "player": {
+        "id": 8482093,
+        "name": "Seth Jarvis",
+        "first": "Seth",
+        "last": "Jarvis",
+        "pos": "R",
+        "sweater": 24
+      },
+      "birth_date": "2002-02-01",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/seth-jarvis-signs-eight-year-contract-with-carolina-hurricanes",
+        "date": "2024-09-04",
+        "headline": "Jarvis signs 8-year, $63.2 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7900000,
+          "total_value_usd": 63200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Seth Jarvis signed an eight-year, $63.2 million contract with the Carolina Hurricanes on Saturday, $29.24 million of which comes in signing bonuses. The 22-year-old forward, who had been a restricted free agent, had NHL career highs in goals (33), assists (34) and points (67) in 81 games with the Hurricanes last season"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480829,
+        "name": "Jesperi Kotkaniemi",
+        "first": "Jesperi",
+        "last": "Kotkaniemi",
+        "pos": "C",
+        "sweater": 82
+      },
+      "birth_date": "2000-07-06",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/carolina-hurricanes-sign-jesperi-kotkaniemi-to-eight-year-contract-332090668",
+        "date": "2022-03-22",
+        "headline": "Kotkaniemi signs eight-year, $38.56 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 4820000,
+          "total_value_usd": 38560000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jesperi Kotkaniemi signed an eight-year, $38.56 million contract with the Carolina Hurricanes on Monday. It has an average annual value of $4.82 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2021-09-06",
+        "headline": "Kotkaniemi joins Hurricanes after Canadiens don't match offer sheet",
+        "url": "https://www.nhl.com/news/carolina-hurricanes-sign-jesperi-kotkaniemi-326080624"
+      }
+    },
+    {
+      "player": {
+        "id": 8476921,
+        "name": "Jordan Martinook",
+        "first": "Jordan",
+        "last": "Martinook",
+        "pos": "L",
+        "sweater": 48
+      },
+      "birth_date": "1992-07-25",
+      "draft_team": "PHX",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jordan-martinook-signs-3-year-contract-with-carolina-hurricanes",
+        "date": "2024-07-01",
+        "headline": "Martinook signs 3-year, $9.15 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3050000,
+          "total_value_usd": 9150000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jordan Martinook signed a three-year, $9.15 million contract with the Carolina Hurricanes on Monday. It has an average annual value of $3.05 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480762,
+        "name": "Eric Robinson",
+        "first": "Eric",
+        "last": "Robinson",
+        "pos": "L",
+        "sweater": 50
+      },
+      "birth_date": "1995-06-14",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/carolina-hurricanes-sign-eric-robinson-to-four-year-contract",
+        "date": "2025-06-20",
+        "headline": "Robinson signs 4-year, $6.8 million contract to remain with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 1700000,
+          "total_value_usd": 6800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Eric Robinson signed a four-year, $6.8 million contract with the Carolina Hurricanes on Friday. It has an average annual value of $1.7 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8473533,
+        "name": "Jordan Staal",
+        "first": "Jordan",
+        "last": "Staal",
+        "pos": "C",
+        "sweater": 11
+      },
+      "birth_date": "1988-09-10",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jordan-staal-signs-deal-to-stay-with-carolina-345001370",
+        "date": "2023-06-25",
+        "headline": "Staal signs 4-year, $11.6 million contract to stay with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 2900000,
+          "total_value_usd": 11600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jordan Staal signed a four-year, $11.6 million contract to remain with the Carolina Hurricanes on Sunday. It has an average annual value of $2.9 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-staal-to-one-year-extension",
+        "date": "2026-09-16",
+        "headline": "Canes Sign Staal To One-Year Extension",
+        "signing_team": "CAR",
+        "start_season": "2027-28",
+        "end_season": "2027-28",
+        "start_yr": 2027,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Manager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed forward **Jordan Staal** to a one-year contract extension for the 2027-28 season. The deal will pay Staal a base salary of $900,000, with a $4 million signing bonus and up to $5.1 million in additional performance bonu"
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482702,
+        "name": "Logan Stankoven",
+        "first": "Logan",
+        "last": "Stankoven",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "2003-02-26",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/logan-stankoven-signs-eight-year-contract-with-carolina-hurricanes",
+        "date": "2025-07-01",
+        "headline": "Stankoven signs 8-year, $48 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6000000,
+          "total_value_usd": 48000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Logan Stankoven signed an eight-year, $48 million contract with the Carolina Hurricanes on Tuesday. It has an average annual value of $6 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-05-27",
+        "headline": "Stankoven 'built to play' for Hurricanes during playoffs after trade with Stars for Rantanen",
+        "url": "https://www.nhl.com/news/logan-stankoven-built-to-play-for-carolina-hurricanes-in-nhl-playoffs"
+      }
+    },
+    {
+      "player": {
+        "id": 8480830,
+        "name": "Andrei Svechnikov",
+        "first": "Andrei",
+        "last": "Svechnikov",
+        "pos": "R",
+        "sweater": 37
+      },
+      "birth_date": "2000-03-26",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/andrei-svechnikov-signing-update-news-status-325807286",
+        "date": "2021-08-26",
+        "headline": "Svechnikov agrees to eight-year, $62 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2021-22",
+        "end_season": "2028-29",
+        "start_yr": 2021,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7750000,
+          "total_value_usd": 62000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "Andrei Svechnikov agreed to an eight-year, $62 million contract with the Carolina Hurricanes on Thursday. It has an average annual value of $7.75 million through the 2028-29 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478970,
+        "name": "Jalen Chatfield",
+        "first": "Jalen",
+        "last": "Chatfield",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1996-05-15",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jalen-chatfield-signs-3-year-deal-with-carolina",
+        "date": "2024-06-14",
+        "headline": "Chatfield signs 3-year, $9 million contract to stay with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3000000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jalen Chatfield signed a three-year, $9 million contract to stay with the Carolina Hurricanes on Friday. It has an average annual value of $3 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476906,
+        "name": "Shayne Gostisbehere",
+        "first": "Shayne",
+        "last": "Gostisbehere",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1993-04-20",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-gostisbehere-to-three-year-contract",
+        "date": "2024-07-01",
+        "headline": "Canes Sign Gostisbehere To Three-Year Contract",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3200000,
+          "total_value_usd": 9600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "nager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed defenseman **Shayne Gostisbehere** to a three-year, $9.6 million contract. The deal will pay Gostisbehere an average-annual value (AAV) of $3.2 million through 2026-27."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-03-02",
+        "headline": "Gostisbehere traded to Hurricanes by Coyotes for 3rd-round draft pick",
+        "url": "https://www.nhl.com/news/shayne-gostisbehere-traded-to-carolina-hurricanes-from-arizona-coyotes-341687084"
+      }
+    },
+    {
+      "player": {
+        "id": 8480817,
+        "name": "K'Andre Miller",
+        "first": "K'Andre",
+        "last": "Miller",
+        "pos": "D",
+        "sweater": 19
+      },
+      "birth_date": "2000-01-21",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract",
+        "date": "2025-07-02",
+        "headline": "K\u2019Andre Miller traded to Hurricanes by Rangers, signs 8-year, $60 million contract",
+        "signing_team": "CAR",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7500000,
+          "total_value_usd": 60000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "K&#39;Andre Miller was traded to the Carolina Hurricanes by the New York Rangers on Tuesday before signing an eight-year, $60 million contract. It has an average annual value of $7.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-02",
+        "headline": "K\u2019Andre Miller traded to Hurricanes by Rangers, signs 8-year, $60 million contract",
+        "url": "https://www.nhl.com/news/k-andre-miller-traded-to-hurricanes-by-rangers-signs-eight-year-contract"
+      }
+    },
+    {
+      "player": {
+        "id": 8482100,
+        "name": "Alexander Nikishin",
+        "first": "Alexander",
+        "last": "Nikishin",
+        "pos": "D",
+        "sweater": 21
+      },
+      "birth_date": "2001-10-02",
+      "draft_team": "CAR",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWhCb21jSUhWWDlRY0w0ZzlaamlRU0NpblVoWTVTSUN1Z2x6VWZBQ0V5Q0tIeVFMdm1aSXlDUzYtTElSb0l3T0YzVTc1M09iWlkyQmJHdXc4R2xCOUhBRnF3Mlc2UnBCY3RTSkN1dnltMF8tUzdWS0F4U0xGLVlXLWV1dm9MNk54OGF5dVNSSWp0akVzODZCdmdSZTNhMDBPRmN2aU1n?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2026-10-25",
+        "headline": "Hurricanes sign defenceman Alexander Nikishin to one-year, $3M deal",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 3000000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Hurricanes sign defenceman Alexander Nikishin to one-year, $3M deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/hurricanes/news/canes-sign-nikishin-to-one-year-contract",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476958,
+        "name": "Jaccob Slavin",
+        "first": "Jaccob",
+        "last": "Slavin",
+        "pos": "D",
+        "sweater": 74
+      },
+      "birth_date": "1994-05-01",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jaccob-slavin-signs-8-year-contract-to-stay-with-carolina-hurricanes",
+        "date": "2024-07-01",
+        "headline": "Slavin signs 8-year, $51.69 million contract to stay with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6460000,
+          "total_value_usd": 51690000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jaccob Slavin signed an eight-year, $51.69 million contract with the Carolina Hurricanes on Monday. It has an average annual value of $6.46 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479976,
+        "name": "Juuso V\u00e4lim\u00e4ki",
+        "first": "Juuso",
+        "last": "V\u00e4lim\u00e4ki",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1998-10-06",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-juuso-valimaki-to-one-year-contract",
+        "date": "2026-06-24",
+        "headline": "Canes Sign Juuso V\u00e4lim\u00e4ki To One-Year Contract",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "anager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed defenseman **Juuso V\u00e4lim\u00e4ki** to a one-year contract. The deal will pay V\u00e4lim\u00e4ki $900,000 for the 2026-27 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480336,
+        "name": "Sean Walker",
+        "first": "Sean",
+        "last": "Walker",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "1994-11-13",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-walker-to-five-year-contract",
+        "date": "2024-07-01",
+        "headline": "Canes Sign Walker To Five-Year Contract",
+        "signing_team": "CAR",
+        "start_season": "2024-25",
+        "end_season": "2028-29",
+        "start_yr": 2024,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 3600000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "Manager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed defenseman **Sean Walker** to a five-year, $18 million contract. The deal will pay Walker an average-annual value (AAV) of $3.6 million through 2028-29."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483548,
+        "name": "Brandon Bussi",
+        "first": "Brandon",
+        "last": "Bussi",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "1998-06-25",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-bussi-to-three-year-extension",
+        "date": "2026-02-16",
+        "headline": "Canes Sign Bussi To Three-Year Extension",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1900000,
+          "total_value_usd": 5700000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "ager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed goaltender **Brandon Bussi** to a three-year contract extension. The deal will pay Bussi an average annual value (AAV) of $1.9 million per year through the 2028-29 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-10-05",
+        "headline": "Canes Acquire Brandon Bussi Off Waivers",
+        "url": "https://www.nhl.com/hurricanes/news/canes-acquire-brandon-bussi-off-waivers"
+      }
+    },
+    {
+      "player": {
+        "id": 8481611,
+        "name": "Pyotr Kochetkov",
+        "first": "Pyotr",
+        "last": "Kochetkov",
+        "pos": "G",
+        "sweater": 52
+      },
+      "birth_date": "1999-06-25",
+      "draft_team": "CAR",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZjBTUUFiUHVDWXRzaGQzeVlEQTB0c3hKNDZUZGJOcjM1YzdMLVZWTFZwWVV0ay1MRURCdk5JcXo4MmZVWlhjX0RhakxzcWhoM1pCUlVoNXM4TGh1V3J1M3NfWnpYNmpoUklPc3p3Y2RONlVWay14bF9aLXlST21fSkp2dGhZUlJFUEZGcDNuT1J6Nnc?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2022-11-23",
+        "headline": "Canes Sign Kochetkov To Four-Year Extension",
+        "signing_team": "CAR",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Canes Sign Kochetkov To Four-Year Extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pyotr-kochetkov-signs-two-year-contract-with-carolina-hurricanes",
+        "date": "2026-09-26",
+        "headline": "Kochetkov signs 2-year, $7.9 million contract with Hurricanes",
+        "signing_team": "CAR",
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "start_yr": 2027,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3950000,
+          "total_value_usd": 7900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Pyotr Kochetkov signed a two-year, $7.9 million contract with the Carolina Hurricanes on Friday. It has an average annual value of $3.95 million and begins next season."
+        }
+      },
+      "trade": null
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "team": "VGK",
+  "team_name": "Vegas Golden Knights",
+  "roster_count": 22,
+  "results": [
+    {
+      "player": {
+        "id": 8477964,
+        "name": "Ivan Barbashev",
+        "first": "Ivan",
+        "last": "Barbashev",
+        "pos": "L",
+        "sweater": 49
+      },
+      "birth_date": "1995-12-14",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/golden-knights-sign-barbashev-trade-smith-to-penguins-345070180",
+        "date": "2023-06-29",
+        "headline": "Barbashev signs 5-year, $25 million contract to stay with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5000000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ivan Barbashev signed a 5-year, $25 million contract to stay with the Vegas Golden Knights after Reilly Smith was traded to the Pittsburgh Penguins on Wednesday. It has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-02-27",
+        "headline": "Barbashev traded to Golden Knights by Blues",
+        "url": "https://www.nhl.com/news/st-louis-blues-trade-ivan-barbashev-to-vegas-golden-knights-341537864"
+      }
+    },
+    {
+      "player": {
+        "id": 8483890,
+        "name": "Braeden Bowman",
+        "first": "Braeden",
+        "last": "Bowman",
+        "pos": "R",
+        "sweater": 42
+      },
+      "birth_date": "2003-06-26",
+      "draft_team": null,
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forward-braeden-bowman-to-six-year-contract-extension",
+        "date": "2026-09-10",
+        "headline": "Golden Knights Sign Braeden Bowman to Six-Year Contract Extension",
+        "signing_team": "VGK",
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "start_yr": 2027,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 3400000,
+          "total_value_usd": 20400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2032-33",
+          "status_hint": null,
+          "quote": "n Knights General Manager **Kelly McCrimmon** announced today, September 10, that the team has signed forward **Braeden Bowman** to a six-year contract extension through the 2032-33 season worth an average annual value of $3.4 million. Bowman, 23, made his NHL debut with the Golden Knights last season and appeared in a"
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484803,
+        "name": "Trevor Connelly",
+        "first": "Trevor",
+        "last": "Connelly",
+        "pos": "L",
+        "sweater": 24
+      },
+      "birth_date": "2006-02-28",
+      "draft_team": "VGK",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475343,
+        "name": "Nic Dowd",
+        "first": "Nic",
+        "last": "Dowd",
+        "pos": "C",
+        "sweater": 26
+      },
+      "birth_date": "1990-05-27",
+      "draft_team": "LAK",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-05-05",
+        "headline": "Dowd making playoff impact for Golden Knights following trade",
+        "url": "https://www.nhl.com/news/nic-dowd-making-playoff-impact-for-vegas-golden-knights-following-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8478403,
+        "name": "Jack Eichel",
+        "first": "Jack",
+        "last": "Eichel",
+        "pos": "C",
+        "sweater": 9
+      },
+      "birth_date": "1996-10-28",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jack-eichel-signs-eight-year-contract-with-vegas-golden-knights",
+        "date": "2025-10-08",
+        "headline": "Eichel signs 8-year, $108 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 13500000,
+          "total_value_usd": 108000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Jack Eichel signed an eight-year, $108 million contract with the Vegas Golden Knights on Wednesday. It has an average annual value of $13.5 million and begins with the 2026-27 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483553,
+        "name": "Marc Gatcomb",
+        "first": "Marc",
+        "last": "Gatcomb",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1999-07-22",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476881,
+        "name": "Tomas Hertl",
+        "first": "Tomas",
+        "last": "Hertl",
+        "pos": "C",
+        "sweater": 48
+      },
+      "birth_date": "1993-11-12",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tomas-hertl-agrees-to-eight-year-contract-with-san-jose-sharks-331818886",
+        "date": "2022-03-17",
+        "headline": "Hertl agrees to eight-year contract with Sharks",
+        "signing_team": "SJS",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tomas Hertl agreed to an eight-year contract with the San Jose Sharks on Wednesday. Financial terms were not released."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-04-09",
+        "headline": "Hertl makes Golden Knights debut 1 month after trade from Sharks",
+        "url": "https://www.nhl.com/news/tomas-hertl-set-for-vegas-golden-knights-debut"
+      }
+    },
+    {
+      "player": {
+        "id": 8479353,
+        "name": "Brett Howden",
+        "first": "Brett",
+        "last": "Howden",
+        "pos": "C",
+        "sweater": 21
+      },
+      "birth_date": "1998-03-29",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brett-howden-signs-5-year-deal-with-vegas",
+        "date": "2024-11-22",
+        "headline": "Howden signs 5-year, $12.5 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 2500000,
+          "total_value_usd": 12500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2029-30",
+          "status_hint": null,
+          "quote": "Brett Howden signed a five-year $12.5 million contract with the Vegas Golden Knights on Friday. It has an average annual value of $2.5 million and runs through the 2029-30 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2021-07-17",
+        "headline": "Rangers acquire Goodrow from Lightning, trade Howden to Golden Knights",
+        "url": "https://www.nhl.com/news/barclay-goodrow-traded-to-new-york-by-tampa-bay-325678666"
+      }
+    },
+    {
+      "player": {
+        "id": 8476448,
+        "name": "William Karlsson",
+        "first": "William",
+        "last": "Karlsson",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "1993-01-08",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/william-karlsson-eight-year-contract-vegas-golden-knights-308040982",
+        "date": "2019-06-25",
+        "headline": "Karlsson signs eight-year contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5900000,
+          "total_value_usd": 47200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "William Karlsson signed an eight-year, $47.2 million contract with the Vegas Golden Knights on Monday. It has an average annual value of $5.9 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/william-karlsson-signs-two-year-contract-with-vegas-golden-knights",
+        "date": "2026-09-30",
+        "headline": "Karlsson signs two-year, $13.5 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "start_yr": 2027,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 6750000,
+          "total_value_usd": 13500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "William Karlsson signed a two-year, $13.5 million contract with the Vegas Golden Knights on Wednesday. It begins next season and has an average annual value of $6.75 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481534,
+        "name": "Raphael Lavoie",
+        "first": "Raphael",
+        "last": "Lavoie",
+        "pos": "C",
+        "sweater": 36
+      },
+      "birth_date": "2000-09-25",
+      "draft_team": "EDM",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478483,
+        "name": "Mitch Marner",
+        "first": "Mitch",
+        "last": "Marner",
+        "pos": "R",
+        "sweater": 93
+      },
+      "birth_date": "1997-05-05",
+      "draft_team": "TOR",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478109,
+        "name": "Victor Olofsson",
+        "first": "Victor",
+        "last": "Olofsson",
+        "pos": "L",
+        "sweater": 95
+      },
+      "birth_date": "1995-07-18",
+      "draft_team": "BUF",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475913,
+        "name": "Mark Stone",
+        "first": "Mark",
+        "last": "Stone",
+        "pos": "R",
+        "sweater": 61
+      },
+      "birth_date": "1992-05-13",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mark-stone-signs-eight-year-contract-with-vegas-golden-knights-305597396",
+        "date": "2019-03-09",
+        "headline": "Stone signs eight-year, $76 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mark Stone signed an eight-year, $76 million contract with the Vegas Golden Knights on Friday. It has an average annual value of $9.5 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mark-stone-signs-two-year-contract-with-vegas-golden-knights",
+        "date": "2026-09-12",
+        "headline": "Stone signs 2-year, $18 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "start_yr": 2027,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 9000000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mark Stone signed a two-year, $18 million contract with the Vegas Golden Knights on Saturday. It begins next season and has an average annual value of $9 million."
+        }
+      },
+      "trade": {
+        "date": "2019-02-26",
+        "headline": "Stone traded to Golden Knights by Senators for Lindberg, Brannstrom",
+        "url": "https://www.nhl.com/news/mark-stone-traded-to-golden-knights-by-ottawa-senators-305208914"
+      }
+    },
+    {
+      "player": {
+        "id": 8478397,
+        "name": "Rasmus Andersson",
+        "first": "Rasmus",
+        "last": "Andersson",
+        "pos": "D",
+        "sweater": 4
+      },
+      "birth_date": "1996-10-27",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/goldenknights/news/golden-knights-sign-rasmus-andersson-to-seven-year-contract",
+        "date": "2026-07-02",
+        "headline": "Golden Knights Sign Rasmus Andersson to Seven-Year Contract",
+        "signing_team": "VGK",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 8500000,
+          "total_value_usd": 59500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2032-33",
+          "status_hint": null,
+          "quote": "olden Knights General Manager **Kelly McCrimmon** announced today, July 1, that the team has signed defenseman **Rasmus Andersson** to a seven-year contract through the 2032-33 season worth an average annual value of $8,500,000. Andersson, 29, played in 33 games with Vegas during the regular season and accumulated 17 p"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-01-24",
+        "headline": "Andersson glad to join 'real contender' following trade to Golden Knights",
+        "url": "https://www.nhl.com/news/rasmus-andersson-glad-to-join-real-contender-following-trade-to-vegas"
+      }
+    },
+    {
+      "player": {
+        "id": 8479639,
+        "name": "Dylan Coghlan",
+        "first": "Dylan",
+        "last": "Coghlan",
+        "pos": "D",
+        "sweater": 52
+      },
+      "birth_date": "1998-02-19",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-07-14",
+        "headline": "Pacioretty traded to Hurricanes by Golden Knights",
+        "url": "https://www.nhl.com/news/max-pacioretty-traded-to-carolina-hurricanes-by-vegas-golden-knights-334972384"
+      }
+    },
+    {
+      "player": {
+        "id": 8478396,
+        "name": "Noah Hanifin",
+        "first": "Noah",
+        "last": "Hanifin",
+        "pos": "D",
+        "sweater": 15
+      },
+      "birth_date": "1997-01-25",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/noah-hanifin-signs-8-year-contract-with-vegas-golden-knights",
+        "date": "2024-04-12",
+        "headline": "Hanifin signs 8-year, $58.8 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7350000,
+          "total_value_usd": 58800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Noah Hanifin signed an eight-year, $58.8 million contract with the Vegas Golden Knights on Thursday. It has an average annual value of $7.35 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-10-22",
+        "headline": "Hanifin enjoying life with Golden Knights after trade from Flames",
+        "url": "https://www.nhl.com/news/noah-hanifin-enjoying-life-with-vegas-golden-knights-after-trade-from-calgary-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8478468,
+        "name": "Jeremy Lauzon",
+        "first": "Jeremy",
+        "last": "Lauzon",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1997-04-28",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/goldenknights/news/golden-knights-sign-jeremy-lauzon-to-six-year-contract",
+        "date": "2026-07-02",
+        "headline": "Golden Knights Sign Jeremy Lauzon to Six-Year Contract",
+        "signing_team": "VGK",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4000000,
+          "total_value_usd": 24000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2031-32",
+          "status_hint": null,
+          "quote": "olden Knights General Manager **Kelly McCrimmon** announced today, July 1, that the team has signed defenseman **Jeremy Lauzon** to a six-year contract through the 2031-32 season worth an average annual value of $4,000,000. Lauzon, 29, played in 68 games for the Golden Knights during the 2025-26 regular season, his fir"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-30",
+        "headline": "Predators Acquire Nicolas Hague, Conditional Third-Round Pick in 2027 NHL Draft From Vegas",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-nicolas-hague-conditional-third-round-pick-in-2027-nhl-draft-from-vegas-2025-06-29"
+      }
+    },
+    {
+      "player": {
+        "id": 8475188,
+        "name": "Brayden McNabb",
+        "first": "Brayden",
+        "last": "McNabb",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "1991-01-21",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brayden-mcnabb-signs-3-year-contract-with-vegas",
+        "date": "2024-11-16",
+        "headline": "McNabb signs 3-year, $10.95 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3650000,
+          "total_value_usd": 10950000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brayden McNabb signed a three-year, $10.95 million contract with the Vegas Golden Knights on Friday. It has an average annual value of $3.65 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477447,
+        "name": "Shea Theodore",
+        "first": "Shea",
+        "last": "Theodore",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "1995-08-03",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/golden-knights-shea-theodore-signs-7-year-contract",
+        "date": "2024-10-24",
+        "headline": "Theodore signs 7-year, $51.975 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7425000,
+          "total_value_usd": 51975000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Shea Theodore signed a seven-year, $51.975 million contract with the Vegas Golden Knights on Thursday. The contract, which has an average annual value of $7.425 million, will begin next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478450,
+        "name": "Parker Wotherspoon",
+        "first": "Parker",
+        "last": "Wotherspoon",
+        "pos": "D",
+        "sweater": 29
+      },
+      "birth_date": "1997-08-24",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/penguins/news/penguins-sign-justin-brazeau-parker-wotherspoon-and-caleb-jones-to-two-year-contracts",
+        "date": "2025-07-01",
+        "headline": "Penguins Sign Justin Brazeau, Parker Wotherspoon and Caleb Jones to Two-Year Contracts",
+        "signing_team": "PIT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1500000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Pittsburgh Penguins have signed forward Justin Brazeau as well as defensemen Parker Wotherspoon and Caleb Jones to two-year contracts, it was announced today by President of Hockey Operations and General Manager Kyle Dubas. Brazeau, 27, is signed through the 2026-27 season and his contract carries an average annual"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-30",
+        "headline": "Golden Knights Acquire Parker Wotherspoon from Penguins for Kaedan Korczak",
+        "url": "https://www.nhl.com/goldenknights/news/golden-knights-acquire-parker-wotherspoon-from-penguins-for-kaedan-korczak"
+      }
+    },
+    {
+      "player": {
+        "id": 8479394,
+        "name": "Carter Hart",
+        "first": "Carter",
+        "last": "Hart",
+        "pos": "G",
+        "sweater": 79
+      },
+      "birth_date": "1998-08-13",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/carter-hart-signs-two-year-deal-with-vegas-golden-knights",
+        "date": "2025-10-26",
+        "headline": "Hart signs 2-year, $4 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2000000,
+          "total_value_usd": 4000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Carter Hart signed a two-year, $4 million contract with the Vegas Golden Knights on Friday. The contract, which comes eight days after Hart [joined the team on a professional tryout](https://www.nhl.com/news/carter-hart-to-join-vegas-golden-knights), has an average annual value of $2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478499,
+        "name": "Adin Hill",
+        "first": "Adin",
+        "last": "Hill",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "1996-05-11",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/adin-hill-signs-6-year-deal-with-vegas",
+        "date": "2025-03-15",
+        "headline": "Hill signs 6-year, $37.5 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 6250000,
+          "total_value_usd": 37500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Adin Hill signed a six-year, $37.5 million contract with the Vegas Golden Knights on Friday. It has an average annual value of $6.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-08-30",
+        "headline": "Hill traded to Golden Knights by Sharks",
+        "url": "https://www.nhl.com/news/vegas-acquires-adin-hill-in-trade-with-san-jose-335415850"
+      }
+    }
+  ]
+}

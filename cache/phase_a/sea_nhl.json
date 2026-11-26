@@ -1,0 +1,886 @@
+{
+  "team": "SEA",
+  "team_name": "Seattle Kraken",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8482665,
+        "name": "Matty Beniers",
+        "first": "Matty",
+        "last": "Beniers",
+        "pos": "C",
+        "sweater": 10
+      },
+      "birth_date": "2002-11-05",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matty-beniers-signs-7-year-deal-with-seattle",
+        "date": "2024-08-20",
+        "headline": "Beniers signs 7-year, $49.98 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7140000,
+          "total_value_usd": 49980000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Matty Beniers signed a seven-year, $49.98 million contract with the Seattle Kraken on Tuesday. It has an average annual value of $7.14 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484800,
+        "name": "Berkly Catton",
+        "first": "Berkly",
+        "last": "Catton",
+        "pos": "C",
+        "sweater": 27
+      },
+      "birth_date": "2006-01-14",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/eeli-tolvanen-berkly-catton-each-sign-deals-with-seattle",
+        "date": "2024-07-05",
+        "headline": "Tolvanen, Catton each signs contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 975000,
+          "total_value_usd": 2925000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "tors and Kraken and nine points (four goals, five assists) in 21 Stanley Cup Playoff games. Seattle also signed [Berkly Catton](https://www.nhl.com/kraken/player/berkly-catton-8484800) to a three-year, $2.925 million entry-level contract on Friday."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480876,
+        "name": "Curtis Douglas",
+        "first": "Curtis",
+        "last": "Douglas",
+        "pos": "C",
+        "sweater": 42
+      },
+      "birth_date": "2000-03-06",
+      "draft_team": "DAL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474586,
+        "name": "Jordan Eberle",
+        "first": "Jordan",
+        "last": "Eberle",
+        "pos": "R",
+        "sweater": 7
+      },
+      "birth_date": "1990-05-15",
+      "draft_team": "EDM",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-captain-jordan-eberle-signs-contract-extension-bn",
+        "date": "2026-03-06",
+        "headline": "Jordan Eberle Signs Two-Year Kraken Extension ",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 5500000,
+          "total_value_usd": 5500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kraken captain Jordan Eberle said Friday he didn\u2019t have much soul searching to do when the team approached his camp over the Winter Olympic break about working out a new contract extension. Unlike his prior extension talks a couple of years ago, when defenseman Vince Dunn got hurt, center Alex Wennberg was traded and t"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477919,
+        "name": "Frederick Gaudreau",
+        "first": "Frederick",
+        "last": "Gaudreau",
+        "pos": "C",
+        "sweater": 89
+      },
+      "birth_date": "1993-05-01",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/frederick-gaudreau-signs-5-year-10-5-million-contract-with-minnesota-w-343496304",
+        "date": "2023-04-14",
+        "headline": "Gaudreau signs 5-year, $10.5 million contract with Wild",
+        "signing_team": "MIN",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 2100000,
+          "total_value_usd": 10500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Frederick Gaudreau signed a five-year, $10.5 million contract with the Minnesota Wild on Thursday. It has an average annual value of $2.1 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-26",
+        "headline": "Gaudreau traded to Kraken by Wild for 4th-round pick in 2025 Draft",
+        "url": "https://www.nhl.com/news/frederick-gaudreau-traded-to-seattle-kraken-by-minnesota-wild"
+      }
+    },
+    {
+      "player": {
+        "id": 8481554,
+        "name": "Kaapo Kakko",
+        "first": "Kaapo",
+        "last": "Kakko",
+        "pos": "R",
+        "sweater": 84
+      },
+      "birth_date": "2001-02-13",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kaapo-kakko-signs-three-year-contract-with-seattle-kraken",
+        "date": "2025-07-22",
+        "headline": "Kakko signs 3-year, $13.575 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4525000,
+          "total_value_usd": 13575000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kaapo Kakko signed a three-year, $13.575 million contract with the Seattle Kraken on Tuesday. It has an average annual value of $4.525 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-19",
+        "headline": "Seattle Kraken Acquire Forward Kaapo Kakko from New York in Exchange for Defenseman Will Borgen, a 2025 third-round pick and a 2025 sixth-round pick",
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-acquire-forward-kaapo-kakko-from-new-york-in-exchange-for-defenseman-will-borgen-a-2025-third-round-pick-and-a-2025-sixth-round-pick-pr"
+      }
+    },
+    {
+      "player": {
+        "id": 8477955,
+        "name": "Jared McCann",
+        "first": "Jared",
+        "last": "McCann",
+        "pos": "L",
+        "sweater": 19
+      },
+      "birth_date": "1996-05-31",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/seattle-kraken-sign-jared-mccann-to-five-year-contract-331585322",
+        "date": "2022-03-08",
+        "headline": "McCann signs five-year, $25 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5000000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Jared McCann signed a five-year, $25 million contract with the Seattle Kraken on Tuesday. It has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482259,
+        "name": "Bobby McMann",
+        "first": "Bobby",
+        "last": "McMann",
+        "pos": "C",
+        "sweater": 74
+      },
+      "birth_date": "1996-06-15",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/bobby-mcmann-signs-six-year-contract-with-seattle-kraken",
+        "date": "2026-06-21",
+        "headline": "McMann signs 6-year,  $34.5 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5750000,
+          "total_value_usd": 34500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Bobby McMann signed a six-year, $34.5 million contract with the Seattle Kraken on Sunday. It has an average annual value of $5.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-17",
+        "headline": "McMann trade paying off for Kraken, GM Botterill says",
+        "url": "https://www.nhl.com/news/bobby-mcmann-delivering-for-kraken-after-trade-from-maple-leafs"
+      }
+    },
+    {
+      "player": {
+        "id": 8482874,
+        "name": "Jacob Melanson",
+        "first": "Jacob",
+        "last": "Melanson",
+        "pos": "R",
+        "sweater": 63
+      },
+      "birth_date": "2003-04-22",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/jacob-melanson-signs-three-year-deal",
+        "date": "2026-09-04",
+        "headline": "Melanson Signs Three-Year Deal",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1450000,
+          "total_value_usd": 4350000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "When newly re-signed Kraken forward Jacob Melanson was traded to Acadie-Bathurst of the Quebec Maritimes Junior Hockey League during the 2020-21 season, he didn\u2019t even know at that point he was draft-eligible. His new teammates had to point it out."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483570,
+        "name": "Ben Meyers",
+        "first": "Ben",
+        "last": "Meyers",
+        "pos": "C",
+        "sweater": 59
+      },
+      "birth_date": "1998-11-15",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-ben-meyers-and-ryan-wintertonn-on-two-year-contract-extensions-pr",
+        "date": "2026-02-24",
+        "headline": "Seattle Kraken Agree to Terms with Ben Meyers and Ryan Winterton on Two-Year Contract Extensions",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "* \u2014 Today, Seattle Kraken General Manager Jason Botterill announced that the club has agreed to terms with forwards Ben Meyers ($1M AAV) and Ryan Winterton ($1.125M AAV) on two-year contracts. \"Ben is an integral part of our team,\" said Botterill."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485383,
+        "name": "Jake O'Brien",
+        "first": "Jake",
+        "last": "O'Brien",
+        "pos": "C",
+        "sweater": 44
+      },
+      "birth_date": "2007-06-16",
+      "draft_team": "SEA",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482713,
+        "name": "Mackie Samoskevich",
+        "first": "Mackie",
+        "last": "Samoskevich",
+        "pos": "R",
+        "sweater": 11
+      },
+      "birth_date": "2002-11-15",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mackie-samoskevich-signs-three-year-contract-with-seattle-kraken",
+        "date": "2026-07-01",
+        "headline": "Samoskevich signs 3-year, $11.5 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3850000,
+          "total_value_usd": 11550000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mackie Samoskevich signed a three-year, $11.55 million contract with the Seattle Kraken on Wednesday. It has an average annual value of $3.85 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-23",
+        "headline": "Kraken trade for Samoskevich, seek breakout season from speedy forward",
+        "url": "https://www.nhl.com/news/seattle-kraken-roster-changes-for-2026-27-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8476905,
+        "name": "Chandler Stephenson",
+        "first": "Chandler",
+        "last": "Stephenson",
+        "pos": "C",
+        "sweater": 9
+      },
+      "birth_date": "1994-04-22",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brandon-montour-signs-7-year-contract-with-seattle-kraken",
+        "date": "2024-07-01",
+        "headline": "Kraken sign Montour, Stephenson to 7-year contracts\u00a0",
+        "signing_team": "SEA",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7140000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brandon Montour and Chandler Stephenson each signed seven-year contracts with the Seattle Kraken on Monday. Montour, a defenseman who won the Stanley Cup with the Florida Panthers last season, signed a seven-year, $50 million contract with an average annual value of $7.14 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482751,
+        "name": "Ryan Winterton",
+        "first": "Ryan",
+        "last": "Winterton",
+        "pos": "C",
+        "sweater": 26
+      },
+      "birth_date": "2003-09-04",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-ben-meyers-and-ryan-wintertonn-on-two-year-contract-extensions-pr",
+        "date": "2026-02-24",
+        "headline": "Seattle Kraken Agree to Terms with Ben Meyers and Ryan Winterton on Two-Year Contract Extensions",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1000000,
+          "total_value_usd": 2000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "General Manager Jason Botterill announced that the club has agreed to terms with forwards Ben Meyers ($1M AAV) and Ryan Winterton ($1.125M AAV) on two-year contracts. \"Ben is an integral part of our team,\" said Botterill."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484241,
+        "name": "Matthew Wood",
+        "first": "Matthew",
+        "last": "Wood",
+        "pos": "R",
+        "sweater": 71
+      },
+      "birth_date": "2005-02-06",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-matthew-wood-to-three-year-entry-level-contract-2025-03-29",
+        "date": "2025-03-29",
+        "headline": "Predators Sign Matthew Wood to Three-Year, Entry-Level Contract",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "h 29, 2025) \\- Nashville Predators General Manager Barry Trotz announced today that the team has signed forward Matthew Wood to a three-year, entry level contract beginning in the 2024-25 season. Wood, 20 (2/6/05), completed his junior season of collegiate hockey on Thursday as the University of Minnesota fell to UMass"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-03",
+        "headline": "Wright traded to Predators by Kraken, was No. 4 pick in 2022 NHL Draft",
+        "url": "https://www.nhl.com/news/shane-wright-traded-to-nashville-predators-by-seattle-kraken-for-matthew-wood"
+      }
+    },
+    {
+      "player": {
+        "id": 8478407,
+        "name": "Vince Dunn",
+        "first": "Vince",
+        "last": "Dunn",
+        "pos": "D",
+        "sweater": 29
+      },
+      "birth_date": "1996-10-29",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-vince-dunn-on-four-year-contract-345420086",
+        "date": "2023-07-24",
+        "headline": "Seattle Kraken Agree to Terms with Vince Dunn on Four-Year Contract",
+        "signing_team": "SEA",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 7350000,
+          "total_value_usd": 29400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "y 21, 2023 -**Today, the Seattle Kraken (@SeattleKraken) announced that they have agreed to terms with defenseman Vince Dunn on a four-year contract ($7.35 million AAV). Dunn, 26, won the Pete Muldoon Award as the Kraken's Most Valuable Player after finishing the 2022-23 season with 64 points (14 goals, 50 assists) in "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482858,
+        "name": "Ryker Evans",
+        "first": "Ryker",
+        "last": "Evans",
+        "pos": "D",
+        "sweater": 41
+      },
+      "birth_date": "2001-12-13",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ryker-evans-signs-two-year-contract-with-seattle-kraken",
+        "date": "2025-08-11",
+        "headline": "Evans signs 2-year, $4.1 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2050000,
+          "total_value_usd": 4100000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ryker Evans signed a two-year, $4.1 million contract with the Seattle Kraken on Monday. It has an average annual value of $2.05 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479985,
+        "name": "Cale Fleury",
+        "first": "Cale",
+        "last": "Fleury",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1998-11-19",
+      "draft_team": "MTL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476457,
+        "name": "Adam Larsson",
+        "first": "Adam",
+        "last": "Larsson",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1992-11-12",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/adam-larsson-signs-4-year-contract-with-seattle-kraken",
+        "date": "2024-09-11",
+        "headline": "Larsson signs 4-year, $21 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5250000,
+          "total_value_usd": 21000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Adam Larsson signed a four-year, $21 million contract with the Seattle Kraken on Tuesday. It has an average annual value of $5.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479324,
+        "name": "Ryan Lindgren",
+        "first": "Ryan",
+        "last": "Lindgren",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "1998-02-11",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ryan-lindgren-signs-4-year-contract-with-seattle-kraken",
+        "date": "2025-07-03",
+        "headline": "Lindgren signs 4-year, $18 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4500000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ryan Lindgren signed a four-year, $18 million contract with the Seattle Kraken on Tuesday. It has an average annual value of $4.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479372,
+        "name": "Josh Mahura",
+        "first": "Josh",
+        "last": "Mahura",
+        "pos": "D",
+        "sweater": 28
+      },
+      "birth_date": "1998-05-05",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/seattle-kraken-sign-josh-mahura-to-two-year-contract",
+        "date": "2025-05-31",
+        "headline": "Mahura signs 2-year, $1.815 million contract to stay with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 907500,
+          "total_value_usd": 1815000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Josh Mahura signed a two-year, $1.815 million contract with the Seattle Kraken on Friday. It has an average annual value of $907,500."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477986,
+        "name": "Brandon Montour",
+        "first": "Brandon",
+        "last": "Montour",
+        "pos": "D",
+        "sweater": 62
+      },
+      "birth_date": "1994-04-11",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brandon-montour-signs-7-year-contract-with-seattle-kraken",
+        "date": "2024-07-01",
+        "headline": "Kraken sign Montour, Stephenson to 7-year contracts\u00a0",
+        "signing_team": "SEA",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7140000,
+          "total_value_usd": 50000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brandon Montour and Chandler Stephenson each signed seven-year contracts with the Seattle Kraken on Monday. Montour, a defenseman who won the Stanley Cup with the Florida Panthers last season, signed a seven-year, $50 million contract with an average annual value of $7.14 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482866,
+        "name": "Ville Ottavainen",
+        "first": "Ville",
+        "last": "Ottavainen",
+        "pos": "D",
+        "sweater": 46
+      },
+      "birth_date": "2002-08-12",
+      "draft_team": "SEA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-sign-goaltender-victor-ostman-and-defenseman-ville-ottavainen-to-one-year-deals",
+        "date": "2026-07-10",
+        "headline": "Seattle Kraken Sign Goaltender Victor \u00d6stman and Defenseman Ville Ottavainen to One-Year Deals",
+        "signing_team": "SEA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kraken General Manager Jason Botterill announced that the club has signed goaltender Victor \u00d6stman and defenseman Ville Ottavainen both to one-year, two-way deals ($850,000 AAV) for the 2026-27 season. \u00d6stman, 25, played his first full professional season with the Coachella Valley Firebirds of the American Hockey Leagu"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478916,
+        "name": "Joey Daccord",
+        "first": "Joey",
+        "last": "Daccord",
+        "pos": "G",
+        "sweater": 35
+      },
+      "birth_date": "1996-08-19",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/joey-daccord-signs-five-year-contract-with-seattle-kraken",
+        "date": "2024-10-10",
+        "headline": "Daccord signs 5-year, $25 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5000000,
+          "total_value_usd": 25000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Joey Daccord signed a five-year, $25 million contract with the Seattle Kraken on Wednesday. It has an average annual value of $5 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475831,
+        "name": "Philipp Grubauer",
+        "first": "Philipp",
+        "last": "Grubauer",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "1991-11-25",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/philipp-grubauer-signing-update-news-status-325806002",
+        "date": "2021-07-28",
+        "headline": "Grubauer signs six-year, $35.4 million contract with Kraken",
+        "signing_team": "SEA",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5900000,
+          "total_value_usd": 35400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Philipp Grubauer](https://www.nhl.com/player/philipp-grubauer-8475831) signed a six-year, $35.4 million contract with the Seattle Kraken on Wednesday. It has an average annual value of $5.9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

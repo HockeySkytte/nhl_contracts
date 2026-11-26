@@ -1,0 +1,2566 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "DET",
+  "team_name": "Detroit Red Wings",
+  "generated_at_utc": "2026-11-26T22:49:26Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/DET/current",
+  "summary": {
+    "roster_players": 24,
+    "contracts_with_verified_source_url": 24,
+    "contracts_matched_nhlpa": 24,
+    "contracts_with_public_aav": 24,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 83382417,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 83382417
+  },
+  "contracts": [
+    {
+      "player_id": 8478891,
+      "player_name": "Mason Appleton",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "1996-01-15",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2025-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2900000,
+      "total_value_usd": 5800000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/james-van-riemsdyk-signs-1-year-contract-with-detroit-red-wings",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2800000,
+      "current_season_base_salary_usd": 2800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 741667,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 741667,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 741667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 2166667,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 2166667,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 2166667,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 2900000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 2900000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478042,
+      "player_name": "Viktor Arvidsson",
+      "position": "L",
+      "sweater_number": 33,
+      "birth_date": "1993-04-08",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 5000000,
+      "total_value_usd": 10000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/viktor-arvidsson-signs-two-year-contract-with-detroit-red-wings",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "NSH",
+          "aav_usd": 631667,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2015-16": {
+          "team": "NSH",
+          "aav_usd": 631667,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 631667,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BOS",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484794,
+      "player_name": "Michael Brandsegg-Nyg\u00e5rd",
+      "position": "R",
+      "sweater_number": 28,
+      "birth_date": "2005-10-05",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-07-11",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-michael-brandsegg-nygard-to-three-year-entry-level-contract",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8477456,
+      "player_name": "J.T. Compher",
+      "position": "L",
+      "sweater_number": 37,
+      "birth_date": "1995-04-08",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-02-21",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 5100000,
+      "total_value_usd": 20400000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/i-love-it-here-rasmussen-grateful-for-four-year-extension-with-red-wings",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4700000,
+      "current_season_base_salary_usd": 4700000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 5100000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 5100000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 5100000,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 5100000,
+          "total_salary_usd": 4700000,
+          "base_salary_usd": 4700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477429,
+      "player_name": "Andrew Copp",
+      "position": "C",
+      "sweater_number": 18,
+      "birth_date": "1994-07-08",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2022-07-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 5625000,
+      "total_value_usd": 28125000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/andrew-copp-signs-five-year-contract-with-red-wings-334796426",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4375000,
+      "current_season_base_salary_usd": 4375000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 1000000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 2280000,
+          "total_salary_usd": 2260000,
+          "base_salary_usd": 2260000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 2280000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 3640000,
+          "total_salary_usd": 3640000,
+          "base_salary_usd": 3640000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 5625000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 5625000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 5625000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 5625000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 5625000,
+          "total_salary_usd": 4375000,
+          "base_salary_usd": 4375000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481523,
+      "player_name": "Kirby Dach",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "2001-01-21",
+      "current_team": "DET",
+      "signing_team": "MTL",
+      "signed_date": "2026-07-16",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 3600000,
+      "total_value_usd": 3600000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kirby-dach-signs-1-year-contract-with-montreal-canadiens",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/redwings/news/horcoff-says-hage-headlined-trade-package-from-canadiens-was-the-right-one-for-red-wings"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3600000,
+      "current_season_base_salary_usd": 3600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 3362500,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 3362500,
+          "total_salary_usd": 4100000,
+          "base_salary_usd": 4100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 3362500,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 2850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 3362500,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479337,
+      "player_name": "Alex DeBrincat",
+      "position": "R",
+      "sweater_number": 93,
+      "birth_date": "1997-12-18",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2023-07-10",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 7875000,
+      "total_value_usd": 31500000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alex-debrincat-traded-to-detroit-red-wings-by-ottawa-senators-344900692",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 7,
+        "aav_usd": 13000000,
+        "total_value_usd": 91000000,
+        "start_season": "2027-28",
+        "end_season": "2033-34",
+        "signed_date": "2026-10-14",
+        "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-alex-debrincat-to-seven-year-contract-extension"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6750000,
+      "current_season_base_salary_usd": 6750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CHI",
+          "aav_usd": 769375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CHI",
+          "aav_usd": 769375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CHI",
+          "aav_usd": 769375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 769375,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 6400000,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 6400000,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 6400000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 7875000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 7875000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 7875000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 7875000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484471,
+      "player_name": "Emmitt Finnie",
+      "position": "C",
+      "sweater_number": 58,
+      "birth_date": "2005-06-27",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-03-26",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 877500,
+      "total_value_usd": 2632500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3VESzQ3ZDlWR2dyMjhabXlNUjJSNjlhaW90X1U4bTVDdF9iNkt1MmdqbEhFV3FXTVU1cGk0Z0dIcEkxRElESm9scWhaT2NoZkpiMWh5NXE4TURmdlItcS1uSHNqWlNQeE84U1NzMG02TFRPTFVnV0t3VkgwbVJMRC1iTDJ1SWtrejc2bVY5Z0VFVms3N1JvTXRNa1RRdGFiRDYxYm01RmRFODB3?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 920000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 70000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 877500,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 877500,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 877500,
+          "total_salary_usd": 920000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8483464,
+      "player_name": "Marco Kasper",
+      "position": "C",
+      "sweater_number": 92,
+      "birth_date": "2004-04-08",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": null,
+      "aav_usd": 912000,
+      "total_value_usd": null,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478434,
+      "player_name": "Keegan Kolesar",
+      "position": "R",
+      "sweater_number": 55,
+      "birth_date": "1997-04-08",
+      "current_team": "DET",
+      "signing_team": "VGK",
+      "signed_date": "2024-12-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 2500000,
+      "total_value_usd": 7500000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/keegan-kolesar-signs-contract-with-vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/redwings/news/red-wings-acquire-keegan-kolesar"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2362500,
+      "current_season_base_salary_usd": 2362500,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 688500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VGK",
+          "aav_usd": 688500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 688500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 688500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 688500,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 715000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2362500,
+          "base_salary_usd": 2362500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482802,
+      "player_name": "Carter Mazur",
+      "position": "L",
+      "sweater_number": 34,
+      "birth_date": "2002-03-28",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (55 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-re-sign-carter-mazur-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 905833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 905833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 905833,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479992,
+      "player_name": "Michael Rasmussen",
+      "position": "C",
+      "sweater_number": 27,
+      "birth_date": "1999-04-17",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-02-21",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 3200000,
+      "total_value_usd": 12800000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/michael-rasmussen-signs-four-year-contract-with-detroit-red-wings",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3650000,
+      "current_season_base_salary_usd": 3650000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 1460000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 1460000,
+          "total_salary_usd": 1480000,
+          "base_salary_usd": 1480000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 1460000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 3200000,
+          "total_salary_usd": 2550000,
+          "base_salary_usd": 2050000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 3200000,
+          "total_salary_usd": 2950000,
+          "base_salary_usd": 2950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3650000,
+          "base_salary_usd": 3650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482078,
+      "player_name": "Lucas Raymond",
+      "position": "L",
+      "sweater_number": 23,
+      "birth_date": "2002-03-28",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-09-17",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 8075000,
+      "total_value_usd": 64600000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/lucas-raymond-signs-8-year-contract-with-detroit-worth-64-million",
+      "secondary_source_url": "https://www.nhl.com/news/detroit-red-wings-lucas-raymond-moritz-seider-contract-status-update",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8075000,
+      "current_season_base_salary_usd": 8075000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 8075000,
+          "total_salary_usd": 8075000,
+          "base_salary_usd": 8075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 8075000,
+          "total_salary_usd": 8075000,
+          "base_salary_usd": 8075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 8075000,
+          "total_salary_usd": 8075000,
+          "base_salary_usd": 8075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480879,
+      "player_name": "Jacob Bernard-Docker",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "2000-06-30",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-03-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1600000,
+      "total_value_usd": 3200000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-jacob-bernard-docker-to-two-year-contract-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1600000,
+      "current_season_base_salary_usd": 1600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 805000,
+          "total_salary_usd": 785000,
+          "base_salary_usd": 785000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 805000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475279,
+      "player_name": "Ben Chiarot",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1991-05-09",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-01-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 3850000,
+      "total_value_usd": 11550000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/i-really-enjoy-coming-to-the-rink-every-day-chiarot-re-signs-three-year-contract-happy-to-keep-calling-detroit-home",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3850000,
+      "current_season_base_salary_usd": 3850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "WPG",
+          "aav_usd": 618333,
+          "total_salary_usd": 582500,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 57500,
+          "minor_league_salary_usd": 57500
+        },
+        "2012-13": {
+          "team": "WPG",
+          "aav_usd": 618333,
+          "total_salary_usd": 610000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 62500
+        },
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 618333,
+          "total_salary_usd": 662500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 62500,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477971,
+      "player_name": "Andreas Englund",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1996-01-21",
+      "current_team": "DET",
+      "signing_team": "NSH",
+      "signed_date": "2025-04-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 900000,
+      "total_value_usd": 1800000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2025/04/predators-re-sign-andreas-englund.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 425000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 775833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 425000
+        }
+      }
+    },
+    {
+      "player_id": 8475753,
+      "player_name": "Justin Faulk",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "1992-03-20",
+      "current_team": "DET",
+      "signing_team": "CAR",
+      "signed_date": "2019-09-24",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 7,
+      "aav_usd": 6500000,
+      "total_value_usd": 45500000,
+      "start_season": "2020-21",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/justin-faulk-traded-for-joel-edmundson-dominik-bokk-309426362",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/justin-faulk-traded-to-detroit-red-wings-by-st-louis-blues"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "CAR",
+          "aav_usd": 840000,
+          "total_salary_usd": 790000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "CAR",
+          "aav_usd": 840000,
+          "total_salary_usd": 840000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "CAR",
+          "aav_usd": 840000,
+          "total_salary_usd": 890000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "CAR",
+          "aav_usd": 4833333,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 4833333,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 4833333,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 4833333,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 4833333,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 4833333,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5850000,
+          "base_salary_usd": 5850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7900000,
+          "base_salary_usd": 7900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481607,
+      "player_name": "Albert Johansson",
+      "position": "D",
+      "sweater_number": 20,
+      "birth_date": "2001-01-04",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2025-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1125000,
+      "total_value_usd": 2250000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-albert-johansson-to-two-year-contract-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1150000,
+      "current_season_base_salary_usd": 1150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 813125,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 813125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 813125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 813125,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1150000,
+          "base_salary_usd": 1150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483679,
+      "player_name": "Anton Johansson",
+      "position": "D",
+      "sweater_number": 42,
+      "birth_date": "2004-06-10",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2025-04-16",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 936667,
+      "total_value_usd": 2810001,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-defenseman-anton-johansson-to-three-year-entry-level-contract",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-detroit-red-wings-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 945000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 936667,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 936667,
+          "total_salary_usd": 945000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8481542,
+      "player_name": "Moritz Seider",
+      "position": "D",
+      "sweater_number": 53,
+      "birth_date": "2001-04-06",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2024-09-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 8550000,
+      "total_value_usd": 59850000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-re-sign-moritz-seider-to-seven-year-contract",
+      "secondary_source_url": "https://www.nhl.com/news/detroit-red-wings-lucas-raymond-moritz-seider-contract-status-update",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8550000,
+      "current_season_base_salary_usd": 8550000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 8550000,
+          "total_salary_usd": 8550000,
+          "base_salary_usd": 8550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 8550000,
+          "total_salary_usd": 8550000,
+          "base_salary_usd": 8550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 8550000,
+          "total_salary_usd": 8550000,
+          "base_salary_usd": 8550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482171,
+      "player_name": "William Wallinder",
+      "position": "D",
+      "sweater_number": 54,
+      "birth_date": "2002-07-28",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-06-25",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (64 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/06/detroit-red-wings-extend-william-wallinder.html",
+      "secondary_source_url": "https://www.nhl.com/redwings/news/red-wings-sign-william-wallinder-to-two-year-two-way-contract-extension",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 110000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        }
+      }
+    },
+    {
+      "player_id": 8476434,
+      "player_name": "John Gibson",
+      "position": "G",
+      "sweater_number": 36,
+      "birth_date": "1993-07-14",
+      "current_team": "DET",
+      "signing_team": "ANA",
+      "signed_date": "2018-08-04",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 6400000,
+      "total_value_usd": 51200000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/anaheim-signs-john-gibson-to-contract-extension-299674724",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/john-gibson-traded-to-detroit-red-wings-by-anaheim-ducks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6400000,
+      "current_season_base_salary_usd": 6400000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "ANA",
+          "aav_usd": 711875,
+          "total_salary_usd": 682500,
+          "base_salary_usd": 590000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 711875,
+          "total_salary_usd": 682500,
+          "base_salary_usd": 590000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 711875,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 695000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 711875,
+          "total_salary_usd": 695000,
+          "base_salary_usd": 695000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 2300000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 2300000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 6400000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478470,
+      "player_name": "Samuel Montembeault",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "1996-10-30",
+      "current_team": "DET",
+      "signing_team": "MTL",
+      "signed_date": "2023-12-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3150000,
+      "total_value_usd": 9450000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sam-montembeault-signs-3-year-deal-with-montreal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/redwings/news/horcoff-says-hage-headlined-trade-package-from-canadiens-was-the-right-one-for-red-wings"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2450000,
+      "current_season_base_salary_usd": 2450000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/montr-al-canadiens",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "FLA",
+          "aav_usd": 725833,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "FLA",
+          "aav_usd": 725833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "FLA",
+          "aav_usd": 725833,
+          "total_salary_usd": 767500,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 708750,
+          "total_salary_usd": 708750,
+          "base_salary_usd": 708750,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "MTL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "MTL",
+          "aav_usd": 3150000,
+          "total_salary_usd": 2450000,
+          "base_salary_usd": 2450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480193,
+      "player_name": "Daniil Tarasov",
+      "position": "G",
+      "sweater_number": 80,
+      "birth_date": "1999-03-27",
+      "current_team": "DET",
+      "signing_team": "DET",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2000000,
+      "total_value_usd": 2000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/red-wings-sign-daniil-tarasov-to-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/detroit-red-wings",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 1050000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 275000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "DET",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

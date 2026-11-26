@@ -1,0 +1,940 @@
+{
+  "team": "FLA",
+  "team_name": "Florida Panthers",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8477493,
+        "name": "Aleksander Barkov",
+        "first": "Aleksander",
+        "last": "Barkov",
+        "pos": "C",
+        "sweater": 16
+      },
+      "birth_date": "1995-09-02",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/florida-panthers-aleksander-barkov-contract-extension-326686894",
+        "date": "2021-10-08",
+        "headline": "Barkov signs eight-year contract extension with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Aleksander Barkov signed an eight-year contract extension with the Florida Panthers on Friday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477935,
+        "name": "Sam Bennett",
+        "first": "Sam",
+        "last": "Bennett",
+        "pos": "C",
+        "sweater": 9
+      },
+      "birth_date": "1996-06-20",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sam-bennett-signs-eight-year-contract-with-florida-panthers",
+        "date": "2025-06-28",
+        "headline": "Bennett signs 8-year contract to stay with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8000000,
+          "total_value_usd": 64000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sam Bennett signed an eight-year, $64 million contract ($8 million average annual value) with the Florida Panthers on Friday. The 29-year-old forward had 51 points (25 goals, 26 assists) in 76 regular-season games for the Panthers this season and 22 points (15 goals, seven assists) in 23 Stanley Cup Playoff games to he"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474189,
+        "name": "Lars Eller",
+        "first": "Lars",
+        "last": "Eller",
+        "pos": "C",
+        "sweater": 20
+      },
+      "birth_date": "1989-05-08",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-lars-eller-on-a-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "Florida Panthers Agree to Terms with Forward Lars Eller on a One-Year Contract",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "nt of Hockey Operations & General Manager Bill Zito announced today that the club has agreed to terms with forward Lars Eller on a one-year contract commencing in 2026-27. \u201cLars is a dependable and diligent veteran forward whose selfless style of play matches our team philosophy,\u201d said Zito."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479981,
+        "name": "Jonah Gadjovich",
+        "first": "Jonah",
+        "last": "Gadjovich",
+        "pos": "L",
+        "sweater": 12
+      },
+      "birth_date": "1998-10-12",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jonah-gadjovich-signs-2-year-contract-with-florida-panthers",
+        "date": "2025-10-12",
+        "headline": "Gadjovich signs 2-year contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Jonah Gadjovich signed a two-year contract with the Florida Panthers on Sunday. Financial terms were not released for the deal, which begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477903,
+        "name": "Garnet Hathaway",
+        "first": "Garnet",
+        "last": "Hathaway",
+        "pos": "R",
+        "sweater": 21
+      },
+      "birth_date": "1991-11-23",
+      "draft_team": null,
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-25",
+        "headline": "Hathaway traded to Panthers by Flyers for draft picks",
+        "url": "https://www.nhl.com/news/garnet-hathaway-traded-to-florida-panthers-by-philadelphia-flyers"
+      }
+    },
+    {
+      "player": {
+        "id": 8478147,
+        "name": "Bokondji Imama",
+        "first": "Bokondji",
+        "last": "Imama",
+        "pos": "L",
+        "sweater": 14
+      },
+      "birth_date": "1996-08-03",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-bokondji-imama-on-a-one-year-two-way-contract",
+        "date": "2026-07-01",
+        "headline": "Florida Panthers Agree to Terms with Forward Bokondji Imama on a One-Year, Two-Way Contract",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Hockey Operations and General Manager Bill Zito announced today that the club has agreed to terms with forward Bokondji Imama on a one-year, two-way contract for the 2026-27 season. Imama, 29, skated in two games with the Pittsburgh Penguins in 2025-26 and played in 66 American Hockey League (AHL) games with Pittsburgh"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482113,
+        "name": "Anton Lundell",
+        "first": "Anton",
+        "last": "Lundell",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "2001-10-03",
+      "draft_team": "FLA",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWVWeDgwSlZla2pudjB4Q1A0U054dTZUVnRScXJ0bVJKazhzUFdEUzBQSC1vOXJDNDRlS1JXbXg0VGtwZy1GSjFUaUsxeGYxVk14aUJ4SWlqOGNCUDBYbUI5eWZLZFRGbXF5N1RkelRMcW5UNWZtRWpPenVRZzN5WDF5TGVvR1JXdFRuaXQtOFNjUkNXSFg5Mw?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2024-07-03",
+        "headline": "Florida Panthers sign Anton Lundell to six-year, $30M contract",
+        "signing_team": "FLA",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5000000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Florida Panthers sign Anton Lundell to six-year, $30M contract"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-anton-lundell-on-six-year-contract",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480185,
+        "name": "Eetu Luostarinen",
+        "first": "Eetu",
+        "last": "Luostarinen",
+        "pos": "C",
+        "sweater": 27
+      },
+      "birth_date": "1998-09-02",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/luostarinen-it-s-a-big-deal-to-get-an-extension-like-this",
+        "date": "2026-07-02",
+        "headline": "Luostarinen: \u2018It\u2019s a big deal to get an extension like this\u2019 ",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "\u2013** Eight more years. One of the most underrated pieces of the Florida Panthers\u2019 success over the last few years, Eetu Luostarinen is here to stay after inking an eight-year extension on Wednesday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/eetu-luostarinen-signs-8-year-deal-with-florida-panthers",
+        "date": "2026-07-02",
+        "headline": "Luostarinen signs 8-year contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Eetu Luostarinen signed an eight-year contract with the Florida Panthers on Wednesday that begins in 2027-28. Financial terms were not disclosed."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8473419,
+        "name": "Brad Marchand",
+        "first": "Brad",
+        "last": "Marchand",
+        "pos": "L",
+        "sweater": 63
+      },
+      "birth_date": "1988-05-11",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brad-marchand-signs-6-year-contract-with-florida-panthers",
+        "date": "2025-07-01",
+        "headline": "Marchand signs 6-year, $31.5 million contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5250000,
+          "total_value_usd": 31500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brad Marchand signed a six-year, $31.5 million contract to remain with the Florida Panthers on Tuesday. It has an average annual value of $5.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477933,
+        "name": "Sam Reinhart",
+        "first": "Sam",
+        "last": "Reinhart",
+        "pos": "C",
+        "sweater": 13
+      },
+      "birth_date": "1995-11-06",
+      "draft_team": "BUF",
+      "active": {
+        "source": "ESPN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUg3YmJJa3BiSERFS2dHaVpLM3lQdWk3OVhtejZvVm04M3Y1RzAxQTdfdDNJMUp5STNzcVlGMXdrdFR0T01FTWJNeGdmY3l5YlBxV2tTZjhxbDZIYXBwUnRqanQxa2JIVy01aERadUxiNzBYVEZibGRlTTBzYVFQQ25LSjBON2xF?oc=5",
+        "source_domain": "https://www.espn.com",
+        "date": "2024-07-01",
+        "headline": "Sources: Panthers, Sam Reinhart agree to 8-year, $69M deal",
+        "signing_team": "FLA",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8625000,
+          "total_value_usd": 69000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sources: Panthers, Sam Reinhart agree to 8-year, $69M deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/sam-reinhart-signs-8-year-deal-with-florida",
+      "future_extension": null,
+      "trade": {
+        "date": "2021-07-25",
+        "headline": "Reinhart trade to Panthers among big moves in NHL",
+        "url": "https://www.nhl.com/news/reinhart-trade-hall-signing-top-nhl-moves-325805910"
+      }
+    },
+    {
+      "player": {
+        "id": 8481655,
+        "name": "Cole Schwindt",
+        "first": "Cole",
+        "last": "Schwindt",
+        "pos": "R",
+        "sweater": 79
+      },
+      "birth_date": "2001-04-25",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-cole-schwindt-on-a-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "Florida Panthers Agree to Terms with Forward Cole Schwindt on a Two-Year Contract",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "nt of Hockey Operations & General Manager Bill Zito announced today that the club has agreed to terms with forward Cole Schwindt on a two-year contract commencing with the 2026-27 season. \u201cCole has developed into a well-rounded two-way forward who fits seamlessly with our team,\u201d said Zito."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-10-03",
+        "headline": "Florida Panthers Claim Forward Cole Schwindt Off Waivers",
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-claim-forward-cole-schwindt-off-waivers"
+      }
+    },
+    {
+      "player": {
+        "id": 8480801,
+        "name": "Brady Tkachuk",
+        "first": "Brady",
+        "last": "Tkachuk",
+        "pos": "L",
+        "sweater": 8
+      },
+      "birth_date": "1999-09-16",
+      "draft_team": "OTT",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-16",
+        "headline": "Panthers acquire B. Tkachuk to join brother, Markstrom to replace Bobrovsky",
+        "url": "https://www.nhl.com/news/florida-panthers-roster-changes-for-2026-27-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8479314,
+        "name": "Matthew Tkachuk",
+        "first": "Matthew",
+        "last": "Tkachuk",
+        "pos": "L",
+        "sweater": 19
+      },
+      "birth_date": "1997-12-11",
+      "draft_team": "CGY",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-16",
+        "headline": "Panthers acquire B. Tkachuk to join brother, Markstrom to replace Bobrovsky",
+        "url": "https://www.nhl.com/news/florida-panthers-roster-changes-for-2026-27-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8477409,
+        "name": "Carter Verhaeghe",
+        "first": "Carter",
+        "last": "Verhaeghe",
+        "pos": "C",
+        "sweater": 23
+      },
+      "birth_date": "1995-08-14",
+      "draft_team": "TOR",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYldPUzBvaFJzcWM0b2FyUDVBY0NmVFRaSjVQMy04QlhNY3ZxZ25uUlJNRzNrUVN4RmVXdGo3VUlwQ0g0N1h5S0dnZzRCNEQ1WVRFbmFjTzdVNXFBbEpYVlN5bXY5LUxOSDlUT3lQV0Fla1J2UlY4Y1JWYjRCdzYyak9iLUI3ZlhNaTk2RGctNE9GNTRxTVUzSjhvczZCOFNoMjYxeWF1TDV4Y19FVkRZY3B1aDR2Ry01TXc?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2024-10-08",
+        "headline": "Florida Panthers, F Carter Verhaeghe agree to terms on eight-year, $56 million extension",
+        "signing_team": "FLA",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7000000,
+          "total_value_usd": 56000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Florida Panthers, F Carter Verhaeghe agree to terms on eight-year, $56 million extension"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/florida-panthers-sign-carter-verhaeghe-to-eight-year-contract",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483771,
+        "name": "Sandis Vilmanis",
+        "first": "Sandis",
+        "last": "Vilmanis",
+        "pos": "L",
+        "sweater": 95
+      },
+      "birth_date": "2004-01-23",
+      "draft_team": "FLA",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmd0QnNrdHk5MUU0clJXajBHa3Bsd045cUVUdjFXemxVNXNSbHFCVGNKVFlROS12QUR0U0JYYmZkVDdKRld5ODB3U1J2Q1c5R015M1dvbTR3U3RJM1l5SDBCZHJOc21jam1QdmNTYkRrYWE3ejRNTzR2NWJjNjVKUEpwMVFVVHcyUjRib1dNLXQ0WHlMWFpMNjNVakdfYW1MRmVoMHhmSE52ajUwRUNCeEhhZTZzVHY5ZHFfbG50WDQtTU0yU2c?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-01",
+        "headline": "Florida Panthers Agree to Terms with Forward Sandis Vilmanis on a Two-Year Contract Extension",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Florida Panthers Agree to Terms with Forward Sandis Vilmanis on a Two-Year Contract Extension"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-sandis-vilmanis-on-a-two-year-contract-extension",
+        "date": "2026-07-01",
+        "headline": "Florida Panthers Agree to Terms with Forward Sandis Vilmanis on a Two-Year Contract Extension",
+        "signing_team": "FLA",
+        "start_season": "2027-28",
+        "end_season": "2028-29",
+        "start_yr": 2027,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "of Hockey Operations & General Manager Bill Zito announced today that the club has agreed to terms with forward Sandis Vilmanis on a two-year contract extension commencing with the 2027-28 season. \u201cSandis is a skilled, competitive young player whose positive attitude and strong work ethic have allowed him to succeed at"
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484304,
+        "name": "Uvis Balinskis",
+        "first": "Uvis",
+        "last": "Balinskis",
+        "pos": "D",
+        "sweater": 26
+      },
+      "birth_date": "1996-08-01",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/uvis-balinskis-signs-2-year-deal-with-florida",
+        "date": "2026-01-16",
+        "headline": "Balinskis signs 2-year contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Uvis Balinskis signed a two-year contract with the Florida Panthers on Friday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477932,
+        "name": "Aaron Ekblad",
+        "first": "Aaron",
+        "last": "Ekblad",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1996-02-07",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/aaron-ekblad-signs-eight-year-contract-to-remain-with-panthers",
+        "date": "2025-07-01",
+        "headline": "Ekblad signs 8-year, $48.8 million contract to remain with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6100000,
+          "total_value_usd": 48800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Aaron Ekblad signed an eight-year, $48.8 million contract to remain with the Florida Panthers on Monday. It has an average annual value of $6.1 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478055,
+        "name": "Gustav Forsling",
+        "first": "Gustav",
+        "last": "Forsling",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "1996-06-12",
+      "draft_team": "VAN",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkV2ZGRrVWNMVWJiTUJ6OUtUOWsyLTZQaVY5WHFmZUFOQW1JT3I1cVBvOWJ5dzJVXzNyWmdoMV9sRndxSFpQeldVTDZhbUVTdUlkalZyeXRFVFZpWkh5bHJ3dWdNVnh0OWxxSHZERGRNdnZfUGh3a3RRT2JjZDJaRk1rYUdNUzVkTHJOTTJvZnlqTDA0SE0yN0MyWQ?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2024-03-07",
+        "headline": "Panthers extend D Forsling on eight-year, $46M deal",
+        "signing_team": "FLA",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5750000,
+          "total_value_usd": 46000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Panthers extend D Forsling on eight-year, $46M deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/gustav-forsling-signs-8-year-contract-with-florida-panthers",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475462,
+        "name": "Radko Gudas",
+        "first": "Radko",
+        "last": "Gudas",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "1990-06-05",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/radko-gudas-signs-6-year-contract-with-florida-panthers",
+        "date": "2026-07-03",
+        "headline": "Gudas signs 6-year contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Radko Gudas signed a six-year contract with the Florida Panthers on Wednesday. Financial terms were not announced."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-29",
+        "headline": "Gudas traded to Panthers by Ducks for Greer",
+        "url": "https://www.nhl.com/news/radko-gudas-traded-to-florida-by-anaheim-for-aj-greer"
+      }
+    },
+    {
+      "player": {
+        "id": 8477495,
+        "name": "Seth Jones",
+        "first": "Seth",
+        "last": "Jones",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "1994-10-03",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/seth-jones-signs-8-year-extension-with-chicago-325841672",
+        "date": "2021-07-28",
+        "headline": "Jones signs eight-year, $76 million extension with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2022-23",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Seth Jones signed an eight-year, $76 million contract extension with the Chicago Blackhawks on Wednesday. It has an average annual value of $9.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-03",
+        "headline": "Seth Jones traded to Panthers by Blackhawks for Knight, 1st-round pick",
+        "url": "https://www.nhl.com/news/seth-jones-traded-to-florida-panthers-by-chicago-blackhawks"
+      }
+    },
+    {
+      "player": {
+        "id": 8475179,
+        "name": "Dmitry Kulikov",
+        "first": "Dmitry",
+        "last": "Kulikov",
+        "pos": "D",
+        "sweater": 7
+      },
+      "birth_date": "1990-10-29",
+      "draft_team": "FLA",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHVzNXlKYVQ2VXdmNjh0bE9fN0lodF9aZkhNU01fclZ3R1NyUjlfdE1YNjN3TWVJOG1VQ2xZdEZXX3dpVkNXemNfTEVublFoNTc1Ui1sQXc4TnhUUVM1d0hQRmgxUEhneU9SeWVkZFZIY1o3S3lfaFBVT2V3d1pIdlRiUmpobmZXeDlMTTdWUlJSVTJoQm1MQmFFWQ?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2024-07-01",
+        "headline": "Report: Panthers to re-sign Dmitry Kulikov to four-year, $1.15M AAV",
+        "signing_team": "FLA",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 1150000,
+          "total_value_usd": 4600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Report: Panthers to re-sign Dmitry Kulikov to four-year, $1.15M AAV"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-defenseman-dmitry-kulikov-on-four-year-contract-extension",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478859,
+        "name": "Niko Mikkola",
+        "first": "Niko",
+        "last": "Mikkola",
+        "pos": "D",
+        "sweater": 77
+      },
+      "birth_date": "1996-04-27",
+      "draft_team": "STL",
+      "active": {
+        "source": "ESPN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDZPZElqR3ZpRmh2WGlkYmtKN3dDMkdHbGQzWWFkZWlDT0VzR250d3NIX3hiWXZRM090STRtVUFzNThiOU0xbG53SUt1NjZEVWtEYmlFOWgyVExpYnZHX1BhSGRpTWpIaU1wYWlpQkp5elRaS2lBNUVJNXcxSS04ZmZSMGNtM3F2eUlYWjRFdVNoa2FTMXdtTW50TDRIb0RT?oc=5",
+        "source_domain": "https://www.espn.com",
+        "date": "2025-10-02",
+        "headline": "Sources: Panthers' Niko Mikkola gets 8-year, $40M extension",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 5000000,
+          "total_value_usd": 40000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sources: Panthers' Niko Mikkola gets 8-year, $40M extension"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/niko-mikkola-signs-8-year-contract-with-florida-panthers",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8474593,
+        "name": "Jacob Markstrom",
+        "first": "Jacob",
+        "last": "Markstrom",
+        "pos": "G",
+        "sweater": 25
+      },
+      "birth_date": "1990-01-31",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/markstrom-extends-with-devils-solidifying-bond-with-allen-in-net-feature-11-1-25",
+        "date": "2025-11-03",
+        "headline": "Markstrom Extends with Devils, Solidifying Bond with Allen in Net | FEATURE",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 6000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Devils have their goaltending tandem locked in after Jacob Markstrom agreed to a two-year, $12 million extension, keeping him in New Jersey through the 2027\u201328 season. For Markstrom, the decision was an easy one."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-16",
+        "headline": "Panthers acquire B. Tkachuk to join brother, Markstrom to replace Bobrovsky",
+        "url": "https://www.nhl.com/news/florida-panthers-roster-changes-for-2026-27-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8481033,
+        "name": "Akira Schmid",
+        "first": "Akira",
+        "last": "Schmid",
+        "pos": "G",
+        "sweater": 40
+      },
+      "birth_date": "2000-05-12",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-goaltender-akira-schmid-on-a-two-year-contract",
+        "date": "2026-07-24",
+        "headline": "Florida Panthers Agree to Terms with Goaltender Akira Schmid on a Two-Year Contract ",
+        "signing_team": "FLA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "Hockey Operations and General Manager Bill Zito announced today that the club has agreed to terms with goaltender Akira Schmid on a two-year contract through the 2027-28 season. \"We are excited to sign Akira for the next two seasons in South Florida,\" said Zito."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-30",
+        "headline": "Schmid traded to Panthers by Golden Knights for 3rd-round pick in 2028 Draft",
+        "url": "https://www.nhl.com/news/vegas-golden-knights-trade-goalie-akira-schmid-to-florida-panthers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2697 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "WPG",
+  "team_name": "Winnipeg Jets",
+  "generated_at_utc": "2026-11-26T22:49:31Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/WPG/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 96171167,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 96171167
+  },
+  "contracts": [
+    {
+      "player_id": 8480289,
+      "player_name": "Morgan Barron",
+      "position": "C",
+      "sweater_number": 36,
+      "birth_date": "1998-12-02",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-07-14",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1850000,
+      "total_value_usd": 3700000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/morgan-barron-winnipeg-jets-avoid-arbitration-with-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 1850000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8486025,
+      "player_name": "Viggo Bj\u00f6rck",
+      "position": "C",
+      "sweater_number": 61,
+      "birth_date": "2008-03-12",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-07-13",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "total_value_usd": 3225000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMW0yMnJZSzMxSTBkLU9QaTFqSGI3WG1CQURWWlJuOXBrdlo4Tjh2aHRROE8wTVdpWTRVM1E1bVJjbzJzS3Z4UWR5cXEtWFcyaGcwVnFJcUVDQ1E5Ynp1Z0FxN3Y2MkptSUZGZGFmXzJIbGhCeTFSenF2SWh4V0t4ZjJ1TTVuOFBYUFc1Q3NvZjJCTVZMclUtMDFMUm1Ndw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 87500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 87500
+        }
+      }
+    },
+    {
+      "player_id": 8478398,
+      "player_name": "Kyle Connor",
+      "position": "L",
+      "sweater_number": 81,
+      "birth_date": "1996-12-09",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-10-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 12000000,
+      "total_value_usd": 96000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kyle-connor-signs-eight-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/winnipeg-jets-patrik-laine-kyle-connor-could-miss-camp-308890872"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 15000000,
+      "current_season_base_salary_usd": 7500000,
+      "current_season_signing_bonus_usd": 7500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 12000000,
+          "total_salary_usd": 15000000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 7500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480113,
+      "player_name": "Alex Iafallo",
+      "position": "L",
+      "sweater_number": 9,
+      "birth_date": "1993-12-21",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-04-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 3666667,
+      "total_value_usd": 11000001,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alex-iafallo-signs-3-year-deal-with-winnipeg",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/los-angeles-acquires-pierre-luc-dubois-from-winnipeg-agrees-to-8-year--345049420"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "LAK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 2425000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 2425000,
+          "total_salary_usd": 2450000,
+          "base_salary_usd": 2450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3700000,
+          "base_salary_usd": 3700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 3666667,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 3666667,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481043,
+      "player_name": "Cole Koepke",
+      "position": "L",
+      "sweater_number": 45,
+      "birth_date": "1998-05-17",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-04-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1450000,
+      "total_value_usd": 2900000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNtc2VtcjlsZzZ2b0I1Q0xPejBPdjhSUnFGNi11bmhucmNsR2NyQmowRVA4SG5wOF91NTVqMVhJU28yanEtU1dzX2JveThyLWp1cGlVVUM1VXVkYW1QU0EwLUtVZzBQdTRLR1p3Wl83eHM1ZW1YX29rcl9sOG5yQ2hFSTQxU0lzajdaSW05bkNwbzJwSnNoeg?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1450000,
+      "current_season_base_salary_usd": 1450000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476392,
+      "player_name": "Adam Lowry",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1993-03-29",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-11-20",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/adam-lowry-signs-five-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5700000,
+      "current_season_base_salary_usd": 2850000,
+      "current_season_signing_bonus_usd": 2850000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 828333,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 828333,
+          "total_salary_usd": 817500,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 828333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 2916667,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 2916667,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 2916667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5700000,
+          "base_salary_usd": 2850000,
+          "signing_bonus_usd": 2850000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482110,
+      "player_name": "Dawson Mercer",
+      "position": "C",
+      "sweater_number": 19,
+      "birth_date": "2001-10-27",
+      "current_team": "WPG",
+      "signing_team": "NJD",
+      "signed_date": "2024-09-20",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 4000000,
+      "total_value_usd": 12000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM191aUVJcDRfdWFnWTBTVTBydW9abkJQNUVKNHR4QnNucWpwbFZucWRoclZmczFLY3pxUzhTNlRMQ050ZzFRUHVRUllTSnpWM2N6RXIycWo4dXlPdmtyaUp3LWZoVVd3Qlp4LXFqYVpPT2IwdHF5Y1NoTkluZXkxdExlMVJPMzV0bHhrV0J30gGXAUFVX3lxTE1FcEc2SmdJc3htbnpZZ3pmNkFjX09iOVBpTG13WG5XTFdFcGpaV0RxbXROSXItZVJlSGhldEVFb0ZFdXJzNElLbnd2WXpFNC1HMGRfdTR6NzhFakRfZGdVbXBFa3dkOGZFQmxtVFl4YXp0Y05vYjh3bHdURlFSU00wNmxvdkdjN1ZDY0VKck1xanF6aXNXRnM?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/winnipeg-jets-gm-comfortable-with-connor-hellebuyck-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476480,
+      "player_name": "Vladislav Namestnikov",
+      "position": "C",
+      "sweater_number": 7,
+      "birth_date": "1992-11-22",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-02-22",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 3000000,
+      "total_value_usd": 6000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/vladislav-namestnikov-signs-2-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vladislav-namestnikov-traded-to-winnipeg-jets-by-san-jose-sharks-341786808"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "TBL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "TBL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "TBL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "TBL",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "TBL",
+          "aav_usd": 1937500,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 1937500,
+          "total_salary_usd": 1975000,
+          "base_salary_usd": 1975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475799,
+      "player_name": "Nino Niederreiter",
+      "position": "R",
+      "sweater_number": 62,
+      "birth_date": "1992-09-08",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2023-12-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 4000000,
+      "total_value_usd": 12000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nino-niederreiter-signs-three-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nino-niederreiter-traded-to-jets-by-predators-341505846"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "NYI",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "NYI",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "MIN",
+          "aav_usd": 877500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "MIN",
+          "aav_usd": 877500,
+          "total_salary_usd": 810000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 2666667,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 4600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6075000,
+          "base_salary_usd": 6075000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5850000,
+          "base_salary_usd": 5850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5475000,
+          "base_salary_usd": 5475000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482149,
+      "player_name": "Cole Perfetti",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "2002-01-01",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-07-15",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 6000000,
+      "total_value_usd": 30000000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/cole-perfetti-signs-5-year-deal-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482765,
+      "player_name": "Isak Rosen",
+      "position": "R",
+      "sweater_number": 27,
+      "birth_date": "2003-03-15",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-06-24",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (9 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 925000,
+      "total_value_usd": 1850000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaW9nOTJqaWtSMUVXQnFVNEhIbUY1elJLRFZRSGh6Wl96X0ExWmstZmRGejFManBpV3R6MnpPNTl1MWNPd1AtMFlvblpFdUc2WGZvS1piU2hMMFhLWU5ESWtCcUktTW9ZWGZCd3hQcXZRMnpva3BEcWs0Q2ZHUTV1U05QN0swSVQ5VFhCc0FCTzVTdHdSa0RzWA?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/defensemen-logan-stanley-luke-schenn-traded-to-sabres-by-jets"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476460,
+      "player_name": "Mark Scheifele",
+      "position": "C",
+      "sweater_number": 55,
+      "birth_date": "1993-03-15",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2023-10-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 7,
+      "aav_usd": 8500000,
+      "total_value_usd": 59500000,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mark-scheifele-connor-hellebuyck-sign-7-year-deals-with-winnipeg",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 7500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 8500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480014,
+      "player_name": "Gabriel Vilardi",
+      "position": "C",
+      "sweater_number": 13,
+      "birth_date": "1999-08-16",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-07-18",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 7500000,
+      "total_value_usd": 45000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/gabriel-vilardi-signs-6-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/los-angeles-acquires-pierre-luc-dubois-from-winnipeg-agrees-to-8-year--345049420"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7600000,
+      "current_season_base_salary_usd": 7600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 3437500,
+          "total_salary_usd": 3275000,
+          "base_salary_usd": 3275000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 3437500,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 7500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 7500000,
+          "total_salary_usd": 7600000,
+          "base_salary_usd": 7600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484242,
+      "player_name": "Brayden Yager",
+      "position": "C",
+      "sweater_number": 29,
+      "birth_date": "2005-01-03",
+      "current_team": "WPG",
+      "signing_team": "PIT",
+      "signed_date": "2024-07-25",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 937500,
+      "total_value_usd": 2812500,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2pzOXdFbmI5dk1oTGlvUExINmZlMVdCVzZsUF9RV0Q3OTdyRjFDZmhKeXhBWHlsS0xsUVVOTkRXX195YmZQaUE1OG53SGx5b2NTRU9LbTluMzNJSFZnUmtpTEVUckhiSmd3WWYxZFpKSlJibkdBVjBWQjBld2oxeXJpN2pxVlVETDQ3YmtkNU5aY2EwRlZVbHhOYTFCVUk?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/brayden-yager-hoping-to-join-josh-morrissey-on-winnipeg-jets-roster"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482459,
+      "player_name": "Tyrel Bauer",
+      "position": "D",
+      "sweater_number": 77,
+      "birth_date": "2002-03-23",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-08-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (60 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/jets/news/jets-sign-defenceman-tyrel-bauer-to-a-two-year-contract",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHRfMFR0cTRTYlhFZ1puU2JDLXVhVV93VHQtVUZyOVVOYWtYZS1TUzk1eTQ0M3JKRHl3aG1KcVQzMVdsOHpkMW9BUkQzYkNKdXktZk42N3FuWHZ5X3hzNllneGFNY0xLVVBJS3JJc1laZk9TVEZsUDJzcnJySXZhMUNhUFhYallWNDlad05n?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 250000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 840000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        }
+      }
+    },
+    {
+      "player_id": 8476331,
+      "player_name": "Dylan DeMelo",
+      "position": "D",
+      "sweater_number": 2,
+      "birth_date": "1993-05-01",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2024-06-25",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 4900000,
+      "total_value_usd": 19600000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dylan-demelo-signs-4-year-deal-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/dylan-demelo-traded-to-winnipeg-from-ottawa-315220492"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "SJS",
+          "aav_usd": 631250,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "SJS",
+          "aav_usd": 631250,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "SJS",
+          "aav_usd": 631250,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 65000
+        },
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 631250,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 650000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 650000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479983,
+      "player_name": "Mario Ferraro",
+      "position": "D",
+      "sweater_number": 38,
+      "birth_date": "1998-09-17",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 4000000,
+      "total_value_usd": 12000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/jets/news/jets-sign-defenceman-mario-ferraro-to-a-three-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477938,
+      "player_name": "Haydn Fleury",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1996-07-08",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-06-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 950000,
+      "total_value_usd": 1900000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/haydn-fleury-signs-2-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TBL",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1550000,
+          "base_salary_usd": 1550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 950000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 950000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477504,
+      "player_name": "Josh Morrissey",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "1995-03-28",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2019-09-12",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 8,
+      "aav_usd": 6250000,
+      "total_value_usd": 50000000,
+      "start_season": "2020-21",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jets-sign-josh-morrissey-to-an-eight-year-contract-extension-309080438",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/josh-morrissey-loves-being-winnipeg-jet-discusses-connor-hellebuyck-trade-request"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 4800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3150000,
+          "base_salary_usd": 3150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 3150000,
+          "total_salary_usd": 3150000,
+          "base_salary_usd": 3150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6400000,
+          "base_salary_usd": 6400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 6250000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480145,
+      "player_name": "Neal Pionk",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1995-07-29",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-04-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2030)",
+      "term_years": 6,
+      "aav_usd": 7000000,
+      "total_value_usd": 42000000,
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/neal-pionk-signs-6-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/jacob-trouba-traded-to-rangers-by-jets-307887710"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 2850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3150000,
+          "base_salary_usd": 3150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 5875000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 5875000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 5875000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 5875000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 7000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 7000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483510,
+      "player_name": "Elias Salomonsson",
+      "position": "D",
+      "sweater_number": 57,
+      "birth_date": "2004-08-31",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2022-07-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 842000,
+      "total_value_usd": 2526000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/jets-sign-defenceman-elias-salomonsson-to-a-three-year-elc-335006918",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 842000,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 842000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 842000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 842000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 842000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8480049,
+      "player_name": "Dylan Samberg",
+      "position": "D",
+      "sweater_number": 54,
+      "birth_date": "1999-01-24",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2025-07-31",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 5750000,
+      "total_value_usd": 17250000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dylan-samberg-avoids-arbitration-signs-3-year-contract-with-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6500000,
+      "current_season_base_salary_usd": 6500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WPG",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "WPG",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 5750000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 5750000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481567,
+      "player_name": "Henry Thrun",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "2001-03-12",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/jets/news/jets-sign-defenceman-henry-thrun-to-a-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 450000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 912500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 912500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 1000000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 1025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        }
+      }
+    },
+    {
+      "player_id": 8482076,
+      "player_name": "Nico Daws",
+      "position": "G",
+      "sweater_number": 35,
+      "birth_date": "2000-12-22",
+      "current_team": "WPG",
+      "signing_team": "NJD",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1100000,
+      "total_value_usd": 2200000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/devils/news/daws-re-sign-release-7-1-26",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/winnipeg-jets-gm-comfortable-with-connor-hellebuyck-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 975000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 850833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2025-26": {
+          "team": "NJD",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 1100000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479973,
+      "player_name": "Stuart Skinner",
+      "position": "G",
+      "sweater_number": 74,
+      "birth_date": "1998-11-01",
+      "current_team": "WPG",
+      "signing_team": "WPG",
+      "signed_date": "2026-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 3750000,
+      "total_value_usd": 7500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/hellebuyck-status-didn-t-spark-stuart-skinner-signing-by-winnipeg-jets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/winnipeg-jets",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "EDM",
+          "aav_usd": 784167,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "EDM",
+          "aav_usd": 784167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 784167,
+          "total_salary_usd": 817500,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "WPG",
+          "aav_usd": 2600000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "WPG",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

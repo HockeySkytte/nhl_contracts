@@ -1,0 +1,326 @@
+{
+  "8484153": {
+    "team": "ANA",
+    "player_name": "Leo Carlsson",
+    "contract": {
+      "source": "TSN",
+      "source_domain": "https://www.tsn.ca",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUJrRUdac1VzaGJQa3VDeXVoZ3B1Nk5HRmc4R1RYM1h1cjdWQjNEVUF0U1JGN1YwbDY5YzJHMl9IN1NKakNUVUI0NFl1WWtKazlNOW11UXNEZjJlaVl6M2NxQWVQeG1OeWxxaW5EUkUzVFlXTl9VcURiTW1XVWVSaGt6NjY3OVFnZVBYZXNRWERHblND?oc=5",
+      "date": "2026-07-03",
+      "headline": "Flyers sign Ducks RFA Carlsson to five-year offer sheet at NHL-high $18M AAV",
+      "signing_team": "ANA",
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "start_yr": 2026,
+      "end_yr": 2030,
+      "terms": {
+        "term_years": 5,
+        "aav_usd": 18000000,
+        "total_value_usd": 90000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": "RFA",
+        "quote": "Flyers sign Ducks RFA Carlsson to five-year offer sheet at NHL-high $18M AAV"
+      }
+    }
+  },
+  "8478421": {
+    "team": "ANA",
+    "player_name": "A.J. Greer",
+    "contract": {
+      "source": "ESPN",
+      "source_domain": "https://www.espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeXRzNkcyRTNScldmYVNxaFl6MnVSNHE2Q1l0czloeU5ndG5UemFZQ0U5bm5SY0VUWmI0aV9RbmowY1V3OERFdWRKNzgwT2tpelF0TTVpdlplTjkwbTJrQ2tFU25YNUdCeDZXZ05fQ1dqUF9zbDYtNUhCTUlOYjJGYmdDYXdsMU4wOU9zcllhUlRLWjBlelVDeS1fTTc?oc=5",
+      "date": "2026-06-30",
+      "headline": "Source: Ducks sign AJ Greer to 4-year deal with $4.25M AAV",
+      "signing_team": "ANA",
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "start_yr": 2026,
+      "end_yr": 2029,
+      "terms": {
+        "term_years": 4,
+        "aav_usd": 4250000,
+        "total_value_usd": 17000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Source: Ducks sign AJ Greer to 4-year deal with $4.25M AAV"
+      }
+    }
+  },
+  "8481605": {
+    "team": "ANA",
+    "player_name": "Jackson LaCombe",
+    "contract": {
+      "source": "TSN",
+      "source_domain": "https://www.tsn.ca",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU8tZldjMkF2Um5RRzlneFJfS2YzaWtocGE0MmxrT0ZZRGtMMGtCUVRvRWlNNzJ0azVaaHRqZ1UtLVR5OUdHc05yZ2h1bWxHMDFJRXY2X2FWTzdUN1c2MGtGZGkxS29rT1JBWTF4aS1PVkFYR1dXb1N2MHE5T1owS0lESQ?oc=5",
+      "date": "2025-10-02",
+      "headline": "Ducks lock up LaCombe with eight-year, $72M extension",
+      "signing_team": "ANA",
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "start_yr": 2026,
+      "end_yr": 2033,
+      "terms": {
+        "term_years": 8,
+        "aav_usd": 9000000,
+        "total_value_usd": 72000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Ducks lock up LaCombe with eight-year, $72M extension"
+      }
+    }
+  },
+  "8481611": {
+    "team": "CAR",
+    "player_name": "Pyotr Kochetkov",
+    "contract": {
+      "source": "NHL.com",
+      "source_domain": "https://www.nhl.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1dnclN1dlA3bERTdGFvbDlGd2R1d3NkdDZQTXctWFg2dHNVRkdZX3IxZFdvMTJYY2JGOXZTTk4zcC1TWWQyYXczbXBLVGJOcWt6b2JsU2UzSWRYZmUwSHJKSGZuQlRPYmZzeGZTWWRaWG5WOTRpM000U1NmcUp4TWIyTFVXV1QycFByYWFGY2k2TU0?oc=5",
+      "date": "2026-09-26",
+      "headline": "Kochetkov signs 2-year, $7.9 million contract with Hurricanes",
+      "signing_team": "CAR",
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "start_yr": 2026,
+      "end_yr": 2027,
+      "terms": {
+        "term_years": 2,
+        "aav_usd": 3950000,
+        "total_value_usd": 7900000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Kochetkov signs 2-year, $7.9 million contract with Hurricanes"
+      }
+    }
+  },
+  "8480806": {
+    "team": "CBJ",
+    "player_name": "Isac Lundestr\u00f6m",
+    "contract": {
+      "source": "Sportsnet.ca",
+      "source_domain": "https://www.sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTjg2LUtpcl9YSF9uQUNJbGJLZ2hPVGQ4eUNmcmxsRl9JdENGTk1aY3YwdHgydG1RQno0MndBbHJSc0IyOHI2QzhRWHAzUzQtaThWMnFKSWJYWUNwRFhiZkk2bmxhVUhpVkg5VDdrcTQ5bWN3bEpUU3RET0JmRnZkRnBhSHlfODJCWEl5SjItVXBMYWFxdWl2N3Y1VlBiaGRsMXIyWA?oc=5",
+      "date": "2025-07-01",
+      "headline": "Report: Blue Jackets sign C Isac Lundestrom to two-year, $2.6M deal",
+      "signing_team": "CBJ",
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "start_yr": 2025,
+      "end_yr": 2026,
+      "terms": {
+        "term_years": 2,
+        "aav_usd": 1300000,
+        "total_value_usd": 2600000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Report: Blue Jackets sign C Isac Lundestrom to two-year, $2.6M deal"
+      }
+    }
+  },
+  "8476422": {
+    "team": "COL",
+    "player_name": "Mike Reilly",
+    "contract": {
+      "source": "NHL.com",
+      "source_domain": "https://www.nhl.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzVjVHpaSDE3WEtycFRVaUxTakVMOEpwWGdBLWhlV2hyOUtLdEdKemRqcURTY1RUUzFhallXRkFSMmNKTnl2Zm5Dbno4elNGemFvWnBmQUdSNDhlUmthdzQxWV81c0lwek51THZOQmNzOU55RFpjWUVpTk8wTVZTdlpJeU5xb0I2aUhv?oc=5",
+      "date": "2026-07-01",
+      "headline": "Reilly agrees to two-year, $3 million contract with Canadiens",
+      "signing_team": "MTL",
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "start_yr": 2026,
+      "end_yr": 2027,
+      "terms": {
+        "term_years": 2,
+        "aav_usd": 1500000,
+        "total_value_usd": 3000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Reilly agrees to two-year, $3 million contract with Canadiens"
+      }
+    }
+  },
+  "8475809": {
+    "team": "COL",
+    "player_name": "Scott Wedgewood",
+    "contract": {
+      "source": "Daily Faceoff",
+      "source_domain": "https://www.dailyfaceoff.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDJtS1JYSEtFczU4Y1B5Q3k3em5ickRZRkFqOEJndWpOMDMtRnhrTEtTOEZvSEM5Y3ZVM1A4Y2lLaUswdmljaXhiLV9tOFlvWHhqNTlSZVpqS2ZGbFo1MzZlbWV4YnVhYk1GUGZ5XzBnVFJKaGM3anVyMkJxRjJ4b1Q2dHdWU1VMSlFlMGJweVk3dzJaUlRBN3FqSVlkcFJGeGpabUhKVlQ?oc=5",
+      "date": "2025-11-13",
+      "headline": "Avalanche sign Scott Wedgewood to one-year, $2.5 million extension",
+      "signing_team": "COL",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "start_yr": 2026,
+      "end_yr": 2026,
+      "terms": {
+        "term_years": 1,
+        "aav_usd": 2500000,
+        "total_value_usd": 2500000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Avalanche sign Scott Wedgewood to one-year, $2.5 million extension"
+      }
+    }
+  },
+  "8482109": {
+    "team": "NYR",
+    "player_name": "Alexis Lafreni\u00e8re",
+    "contract": {
+      "source": "NHL.com",
+      "source_domain": "https://www.nhl.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblROSmVidDU5VGY0TWU2UzMyQlNRalRoZFpGaVRxVVM1QWRqOFpZU0J6bzdUZy04LUJNOEZsUGg3a2dWd0xaM1l3N3lDS0lSVjNXT0Rfd3FIM1VWRXl5ekZtbTZLZ1g0bVZEY0VDMjZyUjhsUHlrSk1RQ3o3d0FpRGZFMlJZbzBZWXkwRjJZVQ?oc=5",
+      "date": "2024-10-26",
+      "headline": "Lafreniere signs 7-year, $52.15 million contract with Rangers",
+      "signing_team": "NYR",
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "start_yr": 2024,
+      "end_yr": 2030,
+      "terms": {
+        "term_years": 7,
+        "aav_usd": 7450000,
+        "total_value_usd": 52150000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Lafreniere signs 7-year, $52.15 million contract with Rangers"
+      }
+    }
+  },
+  "8482745": {
+    "team": "STL",
+    "player_name": "Mason McTavish",
+    "contract": {
+      "source": "Sportsnet.ca",
+      "source_domain": "https://www.sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWFpWlFRT3prbEVIc2lWazY2R080S0RPZXdPV3ZJbWk3WmdaRFF2cTBJNjl0V2xjTDZNTG9XanFTTHM2dFdYRFlLV0pRMjg2VGlpdGVTR2o0bUdlMU1UQ0lsNk9jYWxjVUdtOXFGQ1VDaEtWbmpQb2pXQVRFYmo4Tm1GWnJxTWxKZkVTNFoxX0pYRDVJRGZYVkFtMA?oc=5",
+      "date": "2025-09-28",
+      "headline": "Ducks re-sign Mason McTavish to six-year, $42M extension",
+      "signing_team": "ANA",
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "start_yr": 2026,
+      "end_yr": 2031,
+      "terms": {
+        "term_years": 6,
+        "aav_usd": 7000000,
+        "total_value_usd": 42000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Ducks re-sign Mason McTavish to six-year, $42M extension"
+      }
+    }
+  },
+  "8480014": {
+    "team": "WPG",
+    "player_name": "Gabriel Vilardi",
+    "contract": {
+      "source": "Daily Faceoff",
+      "source_domain": "https://www.dailyfaceoff.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWNzaHRjZnJUeGZCTzlkWFlDRkNETkRTZ1RUX0FZQ2c3UXBhVGNwMHM0bjZwempXVEQyV3dfcUc1dEhtbkdwY0taRG43bVpWbWtCNzQ3R29LM0xzUFAyLXM0OGREemNHd0JvS2NhUzhRYXhTQzIwb2NwV2RieFhFeXVGcmx1V0NsRXIxd1oybXVETE44clpQdlNwS2F5ZWFrSUwzQW5mNkY1Zw?oc=5",
+      "date": "2025-07-18",
+      "headline": "Jets sign Gabriel Vilardi to six-year deal with $7.5 million AAV",
+      "signing_team": "WPG",
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "start_yr": 2025,
+      "end_yr": 2030,
+      "terms": {
+        "term_years": 6,
+        "aav_usd": 7500000,
+        "total_value_usd": 45000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Jets sign Gabriel Vilardi to six-year deal with $7.5 million AAV"
+      }
+    }
+  },
+  "8479400": {
+    "team": "WSH",
+    "player_name": "Pierre-Luc Dubois",
+    "contract": {
+      "source": "Sportsnet.ca",
+      "source_domain": "https://www.sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzlKRFBZVGxvVnktdk9pdkJBY0FFQmpUU1pIM3JWRTlOUTRuNFZEQkpyUHRKSGt5cnlZWWRMMnUwM0xQY3ZNSWxyRHRrc3hfdDRRYVNBOWZGMmhFLXRrbzFFLUV4LWIwbWVHb0xCSXlmd1k2SkVqNzlxTmxyWmlxNHYzM3AyVzhfTy0wdXA3YkJvbE1LbWoyOERGZllrVkVqNEk0Sk5hVXc3Z0tyNHExRC1wS0U0OU5vX0JxMEFxdw?oc=5",
+      "date": "2023-06-27",
+      "headline": "Pierre-Luc Dubois traded from Jets to Kings, signs eight-year, $68M extension",
+      "signing_team": "LAK",
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "start_yr": 2023,
+      "end_yr": 2030,
+      "terms": {
+        "term_years": 8,
+        "aav_usd": 8500000,
+        "total_value_usd": 68000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Pierre-Luc Dubois traded from Jets to Kings, signs eight-year, $68M extension"
+      }
+    }
+  },
+  "8480796": {
+    "team": "WSH",
+    "player_name": "Martin Feh\u00e9rv\u00e1ry",
+    "contract": {
+      "source": "NHL.com",
+      "source_domain": "https://www.nhl.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUxKZjFUdzk2ZE8xaVEzRmNuUGo1YWh1SG42UzBzS3RoZ3FSN1l1bDVXMTRrNDFPY0lUZ2VZRFU3WW00Z1pMbHFXdjk2ekZTc3FQVUk4TGU5S25TV3dKdF90OC0xcm5pc1lHUXlaTTJxQ0ZiTDhDMExNbXZmdXEySzRxai1lVjVleXpzSkU2RFhGZw?oc=5",
+      "date": "2025-07-01",
+      "headline": "Fehervary signs 7-year, $42 million contract with Capitals",
+      "signing_team": "WSH",
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "start_yr": 2025,
+      "end_yr": 2031,
+      "terms": {
+        "term_years": 7,
+        "aav_usd": 6000000,
+        "total_value_usd": 42000000,
+        "is_elc": false,
+        "two_way": false,
+        "explicit_start": null,
+        "explicit_end": null,
+        "status_hint": null,
+        "quote": "Fehervary signs 7-year, $42 million contract with Capitals"
+      }
+    }
+  }
+}

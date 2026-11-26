@@ -1,0 +1,2523 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "SJS",
+  "team_name": "San Jose Sharks",
+  "generated_at_utc": "2026-11-26T12:52:58Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/SJS/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 81374167,
+    "cap_penalties_count": 5,
+    "total_cap_penalties_usd": 6534528,
+    "combined_roster_plus_penalties_usd": 87908695
+  },
+  "contracts": [
+    {
+      "player_id": 8484801,
+      "player_name": "Macklin Celebrini",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "2006-06-13",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-07-06",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 975000,
+      "total_value_usd": 2925000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 5,
+        "aav_usd": 18800000,
+        "total_value_usd": 94000000,
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "signed_date": "2026-07-29",
+        "source_url": "https://www.nhl.com/news/macklin-celebrini-signs-five-year-94-million-contract-with-san-jose-sharks"
+      },
+      "notes": "Final year of 3-year ELC ($975K base + bonuses); already signed 5-year, $94M ($18.8M AAV) extension starting 2027-28.",
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8484994,
+      "player_name": "Igor Chernyshov",
+      "position": "L",
+      "sweater_number": 92,
+      "birth_date": "2005-11-30",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-08-01",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 943750,
+      "total_value_usd": 2831250,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2024/08/sharks-sign-igor-chernyshov-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 943750,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 852500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 943750,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 852500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 943750,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8480848,
+      "player_name": "Ty Dellandrea",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "2000-07-21",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-03-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1625000,
+      "total_value_usd": 3250000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2026/03/sharks-sign-ty-dellandrea-to-two-year-extension.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/stars/news/dallas-stars-acquire-fourth-round-pick-in-2025-nhl-draft-from-san-jose-sharks-in-exchange-for-ty-dellandrea"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1625000,
+      "current_season_base_salary_usd": 1625000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 1625000,
+          "total_salary_usd": 1625000,
+          "base_salary_usd": 1625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478874,
+      "player_name": "Adam Gaudette",
+      "position": "R",
+      "sweater_number": 81,
+      "birth_date": "1996-10-03",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "total_value_usd": 4000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-forward-adam-gaudette",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 997500,
+          "total_salary_usd": 997500,
+          "base_salary_usd": 997500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476624,
+      "player_name": "Barclay Goodrow",
+      "position": "C",
+      "sweater_number": 23,
+      "birth_date": "1993-02-26",
+      "current_team": "SJS",
+      "signing_team": "NYR",
+      "signed_date": "2021-07-22",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 3641667,
+      "total_value_usd": 21850002,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2021/07/new-york-rangers-barclay-goodrow-progressing-on-contract.html",
+      "secondary_source_url": "https://www.nhl.com/news/rangers-agree-to-terms-with-barclay-goodrow-on-contract-325738860",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/barclay-goodrow-claimed-off-waivers-by-san-jose-from-new-york"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 1250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "SJS",
+          "aav_usd": 626667,
+          "total_salary_usd": 610000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 60000
+        },
+        "2015-16": {
+          "team": "SJS",
+          "aav_usd": 626667,
+          "total_salary_usd": 635000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 65000
+        },
+        "2016-17": {
+          "team": "SJS",
+          "aav_usd": 626667,
+          "total_salary_usd": 635000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 925000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 3641667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 1750000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 3641667,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 3641667,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 3641667,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 3641667,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 3641667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 1250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484911,
+      "player_name": "Collin Graf",
+      "position": "R",
+      "sweater_number": 51,
+      "birth_date": "2002-09-21",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-31",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 4250000,
+      "total_value_usd": 12750000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/collin-graf-signs-3-year-contract-with-san-jose-sharks-x7192",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 941667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 830000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 941667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 4250000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481517,
+      "player_name": "Brett Leason",
+      "position": "R",
+      "sweater_number": 17,
+      "birth_date": "1999-04-30",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-forward-brett-leason-to-a-one-year-two-way-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": "One-year, two-way contract ($850K NHL salary).",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 425000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 842500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 842500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 842500,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 775000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 775000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 425000
+        }
+      }
+    },
+    {
+      "player_id": 8478975,
+      "player_name": "Mason Marchment",
+      "position": "L",
+      "sweater_number": 27,
+      "birth_date": "1995-06-18",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 6750000,
+      "total_value_usd": 33750000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/mason-marchment-signs-five-year-contract-with-san-jose-sharks-x0905",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/mason-marchment-traded-to-columbus-blue-jackets-by-seattle-kraken"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9500000,
+      "current_season_base_salary_usd": 6500000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "TOR",
+          "aav_usd": 767500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 767500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DAL",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 6750000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485402,
+      "player_name": "Michael Misa",
+      "position": "C",
+      "sweater_number": 77,
+      "birth_date": "2007-02-16",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2025-09-10",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 982500,
+      "total_value_usd": 2947500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sharks/news/michael-misa-signs-entry-level-contract-with-san-jose-sharks",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482859,
+      "player_name": "Zack Ostapchuk",
+      "position": "C",
+      "sweater_number": 63,
+      "birth_date": "2003-05-29",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 2350000,
+      "total_value_usd": 9400000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/zack-ostapchuk-signs-four-year-contract-with-sharks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/senators/news/senators-acquire-zetterlund-robins-from-sharks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2800000,
+      "current_season_base_salary_usd": 2300000,
+      "current_season_signing_bonus_usd": 500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 832000,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 832000,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 832000,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 832000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 832000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 2350000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480748,
+      "player_name": "Kiefer Sherwood",
+      "position": "L",
+      "sweater_number": 44,
+      "birth_date": "1995-03-31",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-03-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 5750000,
+      "total_value_usd": 28750000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/kiefer-sherwood-signs-5-year-deal-with-san-jose-x6225",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/sharks/news/kiefer-sherwood-traded-to-san-jose-by-vancouver-x1954"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 2500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 335000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 925000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 525000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 5750000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484227,
+      "player_name": "Will Smith",
+      "position": "C",
+      "sweater_number": 2,
+      "birth_date": "2005-03-17",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-05-28",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "total_value_usd": 2850000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2024/05/sharks-expected-to-sign-will-smith-to-elc-this-summer.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8486103,
+      "player_name": "Ivar Stenberg",
+      "position": "L",
+      "sweater_number": 41,
+      "birth_date": "2007-09-30",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-02",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 1075000,
+      "total_value_usd": 3225000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/07/sharks-sign-ivar-stenberg-to-entry-level-contract.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 87500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 87500
+        }
+      }
+    },
+    {
+      "player_id": 8475726,
+      "player_name": "Tyler Toffoli",
+      "position": "C",
+      "sweater_number": 73,
+      "birth_date": "1992-04-24",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 6000000,
+      "total_value_usd": 24000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/tyler-toffoli-signs-4-year-contract-with-san-jose-sharks-x5304",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/tyler-toffoli-traded-to-winnipeg-jets-by-new-jersey-devils"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "LAK",
+          "aav_usd": 712500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 610000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "LAK",
+          "aav_usd": 712500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 610000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "LAK",
+          "aav_usd": 712500,
+          "total_salary_usd": 765000,
+          "base_salary_usd": 675000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "LAK",
+          "aav_usd": 712500,
+          "total_salary_usd": 685000,
+          "base_salary_usd": 685000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "LAK",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "LAK",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "LAK",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4400000,
+          "base_salary_usd": 4050000,
+          "signing_bonus_usd": 350000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 4600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 4250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 4250000,
+          "total_salary_usd": 5125000,
+          "base_salary_usd": 5125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 4250000,
+          "total_salary_usd": 5125000,
+          "base_salary_usd": 5125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 4250000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477505,
+      "player_name": "Alexander Wennberg",
+      "position": "C",
+      "sweater_number": 21,
+      "birth_date": "1994-09-22",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-01-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 6000000,
+      "total_value_usd": 18000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/alexander-wennberg-signs-three-year-contract-with-san-jose-sharks-x1676",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/alex-wennberg-takes-long-road-to-new-york"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 4900000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482700,
+      "player_name": "Nolan Allan",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "2003-04-28",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-06-23",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (24 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/06/sharks-sign-nolan-allan-to-two-year-contract.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-acquire-ryan-ellis-jake-furlong-and-fourth-round-pick-from-sharks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 300000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 832000,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 832000,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 832000,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 832000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 832000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        }
+      }
+    },
+    {
+      "player_id": 8484806,
+      "player_name": "Sam Dickinson",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "2006-06-07",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-07-10",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/sharks-sign-first-rounder-sam-dickinson.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8479333,
+      "player_name": "Libor Hajek",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1998-02-04",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sharks/news/sharks-sign-defensemen-libor-hajek-to-a-one-year-two-way-contract",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/07/san-jose-sharks-sign-libor-hajek.html",
+      "future_extension": null,
+      "notes": "One-year, two-way contract; NHL dollar figure not disclosed in team/PHR announcements.",
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 350000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 810625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 810625,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 810625,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 810625,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        }
+      }
+    },
+    {
+      "player_id": 8480891,
+      "player_name": "Michael Kesselring",
+      "position": "D",
+      "sweater_number": 7,
+      "birth_date": "2000-01-13",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-06-29",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 4500000,
+      "total_value_usd": 13500000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/michael-kesselring-signs-3-year-deal-with-san-jose",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/michael-kesselring-traded-to-san-jose-sharks-by-buffalo-sabres"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477498,
+      "player_name": "Darnell Nurse",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "1995-02-04",
+      "current_team": "SJS",
+      "signing_team": "EDM",
+      "signed_date": "2021-08-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 9250000,
+      "total_value_usd": 74000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/edmonton-oilers-darnell-nurse-contract-325924978",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/sharks/news/darnell-nurse-traded-to-san-jose-sharks-by-edmonton-oilers-x9931"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 6000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "EDM",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "EDM",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 5600000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 5600000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 9250000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "EDM",
+          "aav_usd": 9250000,
+          "total_salary_usd": 10400000,
+          "base_salary_usd": 10400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "EDM",
+          "aav_usd": 9250000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 9250000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 9250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475200,
+      "player_name": "Dmitry Orlov",
+      "position": "D",
+      "sweater_number": 9,
+      "birth_date": "1991-07-23",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2025-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 6500000,
+      "total_value_usd": 13000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dmitry-orlov-signs-2-year-contract-with-san-jose-sharks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/orlov-hathaway-traded-to-bruins-in-3-team-deal-341417330"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5600000,
+      "current_season_base_salary_usd": 4100000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "WSH",
+          "aav_usd": 690000,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "WSH",
+          "aav_usd": 690000,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "WSH",
+          "aav_usd": 690000,
+          "total_salary_usd": 740000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 2570000,
+          "total_salary_usd": 2570000,
+          "base_salary_usd": 2570000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 5100000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 5100000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 5100000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 5100000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 5100000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 5100000,
+          "total_salary_usd": 3300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CAR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 7750000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 7750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 4100000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484421,
+      "player_name": "Eric Pohlkamp",
+      "position": "D",
+      "sweater_number": 48,
+      "birth_date": "2004-03-23",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-04-16",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1050000,
+      "total_value_usd": 2100000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2026/04/sharks-to-sign-eric-pohlkamp-to-entry-level-deal.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8476885,
+      "player_name": "Jacob Trouba",
+      "position": "D",
+      "sweater_number": 65,
+      "birth_date": "1994-02-26",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 8250000,
+      "total_value_usd": 33000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/jacob-trouba-signs-four-year-contract-with-anaheim-ducks-x3699",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/new-york-rangers-trade-jacob-trouba-to-anaheim-ducks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11000000,
+      "current_season_base_salary_usd": 8500000,
+      "current_season_signing_bonus_usd": 2500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WPG",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "WPG",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 8000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 8000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 8000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 8250000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 8500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482137,
+      "player_name": "Yaroslav Askarov",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "2002-06-16",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2024-08-23",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 2000000,
+      "total_value_usd": 4000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/08/san-jose-sharks-close-to-acquiring-yaroslav-askarov.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/sharks/news/rookie-watch-first-year-players-excelling-with-new-teams-x1457"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2100000,
+      "current_season_base_salary_usd": 2100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 200000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477968,
+      "player_name": "Alex Nedeljkovic",
+      "position": "G",
+      "sweater_number": 33,
+      "birth_date": "1996-01-07",
+      "current_team": "SJS",
+      "signing_team": "SJS",
+      "signed_date": "2026-03-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 3000000,
+      "total_value_usd": 6000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/alex-nedeljkovic-signs-2-year-contract-to-remain-with-san-jose-sharks-x4602",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhldraft21-preview-red-wings-make-splash-with-huge-trade-on-draft-eve-325750094"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/san-jose-sharks",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "CAR",
+          "aav_usd": 806875,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 806875,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 806875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 806875,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 737500,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 737500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SJS",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SJS",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "retained_salary",
+      "player_id": 8474578,
+      "player_name": "Erik Karlsson",
+      "event_date": "2023-08-06",
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1500000,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": null,
+      "notes": "Retained $1.5M/yr in Aug 2023 trade to PIT; expires after 2026-27."
+    },
+    {
+      "penalty_type": "retained_salary",
+      "player_id": 8476881,
+      "player_name": "Tomas Hertl",
+      "event_date": "2024-03-08",
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1387500,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": null,
+      "notes": "Retained 17% ($1.3875M/yr) in Mar 2024 trade to VGK; runs through 2029-30."
+    },
+    {
+      "penalty_type": "buyout",
+      "player_id": 8474889,
+      "player_name": "Martin Jones",
+      "event_date": "2021-07-27",
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1666667,
+      "source_url": "https://www.prohockeyrumors.com/2021/07/san-jose-sharks-to-buy-out-martin-jones.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "notes": "Final year of 6-year buyout penalty from July 2021 buyout."
+    },
+    {
+      "penalty_type": "buyout",
+      "player_id": 8471709,
+      "player_name": "Marc-Edouard Vlasic",
+      "event_date": "2025-06-30",
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1166667,
+      "source_url": "https://www.prohockeyrumors.com/2025/06/san-jose-sharks-to-buyout-marc-edouard-vlasic.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "notes": "Final year of 2-year buyout penalty from June 2025 buyout of final contract year."
+    },
+    {
+      "penalty_type": "bonus_overage",
+      "player_id": null,
+      "player_name": "Team Performance Bonus Overage (2025-26 carryover)",
+      "event_date": "2026-09-01",
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 813694,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-san-jose-sharks-9.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/04/at-least-eight-teams-to-carry-overage-penalty-into-2026-27.html",
+      "notes": "2025-26 ELC bonus carryover (Celebrini, Smith, Eklund). Note: SJS also carries a ~$6.307M 2026-27 bonus cushion overage because potential ELC bonuses exceed 7.5% of the cap."
+    }
+  ]
+}

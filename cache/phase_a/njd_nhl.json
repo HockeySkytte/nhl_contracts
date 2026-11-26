@@ -1,0 +1,932 @@
+{
+  "team": "NJD",
+  "team_name": "New Jersey Devils",
+  "roster_count": 23,
+  "results": [
+    {
+      "player": {
+        "id": 8480003,
+        "name": "Jesper Boqvist",
+        "first": "Jesper",
+        "last": "Boqvist",
+        "pos": "C",
+        "sweater": 70
+      },
+      "birth_date": "1998-10-30",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-jesper-boqvist-on-two-year-contract-extension",
+        "date": "2025-03-04",
+        "headline": "Florida Panthers Agree to Terms with Forward Jesper Boqvist on Two-Year Contract Extension",
+        "signing_team": "FLA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "of Hockey Operations & General Manager Bill Zito announced today that the club has agreed to terms with forward Jesper Boqvist on a two-year contract extension through the 2026-27 season. \u201cJesper has proven to be a highly competitive and dynamic forward who can be used in all situations,\u201d said Zito."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-02",
+        "headline": "Markstrom traded to Panthers by Devils for 3 forwards",
+        "url": "https://www.nhl.com/news/new-jersey-devils-trade-goalie-jacob-markstrom-to-florida-panthers"
+      }
+    },
+    {
+      "player": {
+        "id": 8479407,
+        "name": "Jesper Bratt",
+        "first": "Jesper",
+        "last": "Bratt",
+        "pos": "L",
+        "sweater": 63
+      },
+      "birth_date": "1998-07-30",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jesper-bratt-agrees-to-deal-with-new-jersey-344852550",
+        "date": "2023-06-16",
+        "headline": "Bratt agrees to 8-year, $63 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7875000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Jesper Bratt agreed to an eight-year, $63 million contract with the New Jersey Devils on Thursday. It has an average annual value of $7.875 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-02-06",
+        "headline": "Fitzgerald talks Devils plan for trade deadline in Q&A with NHL.com",
+        "url": "https://www.nhl.com/news/devils-general-manager-tom-fitzgerald-chats-trade-deadline-jesper-brat-330503784"
+      }
+    },
+    {
+      "player": {
+        "id": 8477015,
+        "name": "Connor Brown",
+        "first": "Connor",
+        "last": "Brown",
+        "pos": "R",
+        "sweater": 16
+      },
+      "birth_date": "1994-01-14",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/brown-signs-with-devils-release-7-1-25",
+        "date": "2025-07-01",
+        "headline": "Brown Agrees to Terms with Devils | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms forward Connor Brown to a four-year contract worth $12,000,000, with an annual average value of $3,000,000. The contract breakdown is as follows: 2025-26: $3,500,000; 2026-27: $3,500,000; 2027-28: $2,500,000 & 2028-29: $2,500,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482146,
+        "name": "Luke Evangelista",
+        "first": "Luke",
+        "last": "Evangelista",
+        "pos": "R",
+        "sweater": 77
+      },
+      "birth_date": "2002-02-21",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-luke-evangelista-to-two-year-6-million-contract-2025-10-04",
+        "date": "2025-10-04",
+        "headline": "Predators Sign Luke Evangelista to Two-Year, $6 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3000000,
+          "total_value_usd": 6000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "(Oct. 4, 2025) \u2013 Nashville Predators General Manager Barry Trotz announced today that the team has signed forward Luke Evangelista to a two-year, $6 million contract."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/luke-evangelista-signs-5-year-contract-with-new-jersey-devils",
+        "date": "2026-09-16",
+        "headline": "Evangelista signs 5-year, $36.25 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "start_yr": 2027,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 7250000,
+          "total_value_usd": 36250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luke Evangelista signed a five-year, $36.25 million contract with the New Jersey Devils on Tuesday. It has an average annual value of $7.25 million and begins with the 2027-28 season."
+        }
+      },
+      "trade": {
+        "date": "2026-09-03",
+        "headline": "Evangelista wants taste of Devils home playoff game after trade from Predators",
+        "url": "https://www.nhl.com/news/luke-evangelista-ready-to-rock-after-trade-to-new-jersey"
+      }
+    },
+    {
+      "player": {
+        "id": 8479996,
+        "name": "Cody Glass",
+        "first": "Cody",
+        "last": "Glass",
+        "pos": "C",
+        "sweater": 12
+      },
+      "birth_date": "1999-04-01",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/glass-2-year-deal-release-7-2-25",
+        "date": "2025-07-02",
+        "headline": "Glass Agrees to Terms on 2-Year Deal | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2500000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms with center Cody Glass on a two-year contract worth $5,000,000, with an annual average value of $2,500,000. The contract breakdown is as follows: 2025-26: $2,500,000 & 2026-27: $2,500,000."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-08",
+        "headline": "Devils Acquire Glass | RELEASE",
+        "url": "https://www.nhl.com/devils/news/devils-acquire-glass-release-3-7-25"
+      }
+    },
+    {
+      "player": {
+        "id": 8481721,
+        "name": "Arseny Gritsyuk",
+        "first": "Arseny",
+        "last": "Gritsyuk",
+        "pos": "R",
+        "sweater": 81
+      },
+      "birth_date": "2001-03-15",
+      "draft_team": "NJD",
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/arseny-gritsyuk-signs-3-year-contract-with-new-jersey-devils",
+        "date": "2026-07-03",
+        "headline": "Gritsyuk signs 3-year, $9.75 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "start_yr": 2027,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3250000,
+          "total_value_usd": 9750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Arseny Gritsyuk signed a three-year, $9.75 million contract with the New Jersey Devils on Tuesday. It has an average annual value of $3.25 million and begins next season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484177,
+        "name": "Lenni Hameenaho",
+        "first": "Lenni",
+        "last": "Hameenaho",
+        "pos": "R",
+        "sweater": 29
+      },
+      "birth_date": "2004-11-07",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/hameenaho-inks-elc-with-devils-release-5-8-25",
+        "date": "2025-05-08",
+        "headline": "Hameenaho Inks Entry-Level Contract | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "The New Jersey Devils announced today that the team has signed forward Lenni Hameenaho to a three-year, entry-level contract starting in 2025-26. The announcement was made by President/General Manager Tom Fitzgerald."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480002,
+        "name": "Nico Hischier",
+        "first": "Nico",
+        "last": "Hischier",
+        "pos": "C",
+        "sweater": 13
+      },
+      "birth_date": "1999-01-04",
+      "draft_team": "NJD",
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nico-hischier-signs-5-year-deal-with-new-jersey-begins-in-2027-2028",
+        "date": "2026-07-01",
+        "headline": "Hischier signs 5-year, $58 million contract with Devils, says New Jersey 'has been home for me'",
+        "signing_team": "NJD",
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "start_yr": 2027,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 11700000,
+          "total_value_usd": 58500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nico Hischier wanted to remain with the New Jersey Devils and wanted his teammates to know it too. He made it clear by signing a five-year, $58.5 million contract Wednesday."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481559,
+        "name": "Jack Hughes",
+        "first": "Jack",
+        "last": "Hughes",
+        "pos": "C",
+        "sweater": 86
+      },
+      "birth_date": "2001-05-14",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/luke-hughes-signs-7-year-contract-with-new-jersey-devils",
+        "date": "2025-10-01",
+        "headline": "Luke Hughes signs 7-year, $63 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 9000000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luke Hughes signed a seven-year, $63 million contract with the New Jersey Devils on Wednesday. It has an average annual value of $9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483695,
+        "name": "Amadeus Lombardi",
+        "first": "Amadeus",
+        "last": "Lombardi",
+        "pos": "C",
+        "sweater": 93
+      },
+      "birth_date": "2003-06-05",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/lombardi-signing-release-7-3-26",
+        "date": "2026-07-03",
+        "headline": "Lombardi Signs 2-Year Contract | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The New Jersey Devils announced today that the team has re-signed forward Amadeus Lombardi to a two-year contract. The contract details are as follows: 2026-27: two-way deal with $850,000 at the NHL level and $175,000 at the American Hockey League (AHL) level & 2027-28: one-way deal at $900,000."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-25",
+        "headline": "Devils Acquire F Lombardi from Detroit | RELEASE",
+        "url": "https://www.nhl.com/devils/news/lombardi-acquired-from-detroit-release-6-25-26"
+      }
+    },
+    {
+      "player": {
+        "id": 8477511,
+        "name": "Anthony Mantha",
+        "first": "Anthony",
+        "last": "Mantha",
+        "pos": "R",
+        "sweater": 39
+      },
+      "birth_date": "1994-09-16",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/anthony-mantha-video-call-with-new-jersey-gm-sold-forward-on-devils",
+        "date": "2026-07-17",
+        "headline": "Mantha's video call with GM Mehta helped persuade him to sign with Devils",
+        "signing_team": "NJD",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4750000,
+          "total_value_usd": 9500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Anthony Mantha didn't need a hard sell to understand what the New Jersey Devils could offer. The speed was obvious."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478414,
+        "name": "Timo Meier",
+        "first": "Timo",
+        "last": "Meier",
+        "pos": "R",
+        "sweater": 28
+      },
+      "birth_date": "1996-10-08",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/timo-meier-signs-eight-year-contract-with-new-jersey-devils-344881706",
+        "date": "2023-06-28",
+        "headline": "Meier signs 8-year, $70.4 million contract to stay with Devils",
+        "signing_team": "NJD",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8800000,
+          "total_value_usd": 70400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Timo Meier signed an eight-year, $70.4 million contract to stay with the New Jersey Devils on Wednesday. It has an average annual value of $8.8 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-02-28",
+        "headline": "Fantasy spin: Meier trade impact on Devils, Sharks",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-trade-timo-meier-new-jersey-san-jose-341562334"
+      }
+    },
+    {
+      "player": {
+        "id": 8476474,
+        "name": "Stefan Noesen",
+        "first": "Stefan",
+        "last": "Noesen",
+        "pos": "R",
+        "sweater": 11
+      },
+      "birth_date": "1993-02-12",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/noesen-returns-to-devils-on-3-year-deal-release-7-1-24",
+        "date": "2024-07-01",
+        "headline": "Noesen Agrees to Terms to Re-Join Devils on 3-Year Deal | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2750000,
+          "total_value_usd": 8250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms with unrestricted free agent forward Stefan Noesen on a three-year contract worth $8,250,000, with an annual average value of $2,750,000. The breakdown of the contract is a flat $2,750,000 per year."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478542,
+        "name": "Evan Rodrigues",
+        "first": "Evan",
+        "last": "Rodrigues",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1993-07-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/evan-rodrigues-signs-four-year-contract-with-florida-panthers-345182468",
+        "date": "2023-07-02",
+        "headline": "Rodrigues signs 4-year contract with Panthers",
+        "signing_team": "FLA",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Evan Rodrigues](https://www.nhl.com/player/evan-rodrigues-8478542) signed a four-year contract with the Florida Panthers on Sunday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-02",
+        "headline": "Markstrom traded to Panthers by Devils for 3 forwards",
+        "url": "https://www.nhl.com/news/new-jersey-devils-trade-goalie-jacob-markstrom-to-florida-panthers"
+      }
+    },
+    {
+      "player": {
+        "id": 8480990,
+        "name": "Declan Chisholm",
+        "first": "Declan",
+        "last": "Chisholm",
+        "pos": "D",
+        "sweater": 47
+      },
+      "birth_date": "2000-01-12",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/declan-chisholm-signs-two-year-contract-with-washington-capitals",
+        "date": "2025-06-30",
+        "headline": "Chisholm signs 2-year, $3.2 million deal with Capitals",
+        "signing_team": "WSH",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1600000,
+          "total_value_usd": 3200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Declan Chisholm signed a two-year, $3.2 million contract with the Washington Capitals on Monday. The contract has an average annual value of $1.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-25",
+        "headline": "Chisholm Acquired from Washington | RELEASE",
+        "url": "https://www.nhl.com/devils/news/chisholm-acquired-from-washington-release-6-25-26"
+      }
+    },
+    {
+      "player": {
+        "id": 8475455,
+        "name": "Brenden Dillon",
+        "first": "Brenden",
+        "last": "Dillon",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1990-11-13",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/dillon-3-year-deal-with-devils-release-7-1-24",
+        "date": "2024-07-01",
+        "headline": "Dillon Agrees to Terms on 3-Year Deal with Devils | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4000000,
+          "total_value_usd": 12000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms with unrestricted free agent defenseman Brenden Dillon on a three-year contract worth $12,000,000 with an annual average value of $4,000,000. The contract breakdown is as follows: 2024-25: $5,000,000; 2025-26: $4,000,000 & 2026-27: $3,000,000."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476462,
+        "name": "Dougie Hamilton",
+        "first": "Dougie",
+        "last": "Hamilton",
+        "pos": "D",
+        "sweater": 7
+      },
+      "birth_date": "1993-06-17",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dougie-hamilton-signing-update-news-status-325804808",
+        "date": "2021-07-29",
+        "headline": "Hamilton agrees to seven-year, $63 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2021-22",
+        "end_season": "2027-28",
+        "start_yr": 2021,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 9000000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dougie Hamilton agreed to a seven-year, $63 million contract with the New Jersey Devils on Wednesday. It has an average annual value of $9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-10-23",
+        "headline": "Hamilton making impact for Devils season after trade speculation",
+        "url": "https://www.nhl.com/devils/news/dougie-hamilton-thriving-for-new-jersey-devils-following-trade-speculation-x4645"
+      }
+    },
+    {
+      "player": {
+        "id": 8482684,
+        "name": "Luke Hughes",
+        "first": "Luke",
+        "last": "Hughes",
+        "pos": "D",
+        "sweater": 43
+      },
+      "birth_date": "2003-09-09",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/luke-hughes-signs-7-year-contract-with-new-jersey-devils",
+        "date": "2025-10-01",
+        "headline": "Luke Hughes signs 7-year, $63 million contract with Devils",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 9000000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luke Hughes signed a seven-year, $63 million contract with the New Jersey Devils on Wednesday. It has an average annual value of $9 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480192,
+        "name": "Johnathan Kovacevic",
+        "first": "Johnathan",
+        "last": "Kovacevic",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1997-07-12",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/kovacevic-re-signs-with-devils-release-3-7-25",
+        "date": "2025-03-08",
+        "headline": "Kovacevic Re-Signs with Devils | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4000000,
+          "total_value_usd": 20000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms with defenseman Johnathan Kovacevic on a five-year contract worth $20,000,000 with an annual average value of $4,000,000. The contract breakdown is as follows: 2025-26: $5,250,000; 2026-27: $4,750,000; 2027-28: $3,700,000; 2028-29: $3,150,000 & 202"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-06-30",
+        "headline": "Kovacevic Traded to Devils | RELEASE",
+        "url": "https://www.nhl.com/devils/news/kovacevic-acquired-by-devils-release-6-30-24"
+      }
+    },
+    {
+      "player": {
+        "id": 8477488,
+        "name": "Brett Pesce",
+        "first": "Brett",
+        "last": "Pesce",
+        "pos": "D",
+        "sweater": 22
+      },
+      "birth_date": "1994-11-15",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/devils/news/pesce-joins-devils-on-6-year-contract-release-7-1-24",
+        "date": "2024-07-01",
+        "headline": "Pesce Agrees to Terms with Devils on 6-Year Contract | RELEASE",
+        "signing_team": "NJD",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5500000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The New Jersey Devils announced today that the team has agreed to terms with unrestricted free agent defenseman Brett Pesce on a six-year contract worth $33,000,000 with an annual average value of $5,500,000. The contract breakdown is as follows: 2024-25: $7,000,000; 2025-26: $6,000,000; 2026-27: $6,000,000; 2027-28: $"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478399,
+        "name": "Jonas Siegenthaler",
+        "first": "Jonas",
+        "last": "Siegenthaler",
+        "pos": "D",
+        "sweater": 71
+      },
+      "birth_date": "1997-05-06",
+      "draft_team": "WSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jonas-siegenthaler-signs-five-year-contract-extension-with-new-jersey--335098550",
+        "date": "2022-07-26",
+        "headline": "Siegenthaler signs five-year, $17 million contract extension with Devils",
+        "signing_team": "NJD",
+        "start_season": "2023-24",
+        "end_season": "2027-28",
+        "start_yr": 2023,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 3400000,
+          "total_value_usd": 17000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2023-24",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jonas Siegenthaler signed a five-year, $17 million contract extension with the New Jersey Devils on Tuesday. It has an average annual value of $3.4 million and begins in 2023-24."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2021-04-12",
+        "headline": "Siegenthaler traded to Devils by Capitals",
+        "url": "https://www.nhl.com/news/washington-capitals-trade-jonas-siegenthaler-to-new-jersey-devils-323533892"
+      }
+    },
+    {
+      "player": {
+        "id": 8474596,
+        "name": "Jake Allen",
+        "first": "Jake",
+        "last": "Allen",
+        "pos": "G",
+        "sweater": 34
+      },
+      "birth_date": "1990-08-07",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-allen-signs-5-year-deal-to-stay-with-new-jersey",
+        "date": "2025-07-02",
+        "headline": "Allen signs 5-year, $9 million contract to remain with Devils",
+        "signing_team": "NJD",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 1800000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake Allen signed a five-year, $9 million contract to remain with the New Jersey Devils on Tuesday. It has an average annual value of $1.8 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-03-08",
+        "headline": "Jake Allen traded to New Jersey for a conditional third-round pick in 2025",
+        "url": "https://www.nhl.com/canadiens/news/jake-allen-traded-to-new-jersey-for-a-conditional-third-round-pick-in-2025"
+      }
+    },
+    {
+      "player": {
+        "id": 8476945,
+        "name": "Connor Hellebuyck",
+        "first": "Connor",
+        "last": "Hellebuyck",
+        "pos": "G",
+        "sweater": 37
+      },
+      "birth_date": "1993-05-19",
+      "draft_team": "WPG",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/hellebuyck-status-didn-t-spark-stuart-skinner-signing-by-winnipeg-jets",
+        "date": "2026-07-03",
+        "headline": "Hellebuyck\u2019s unclear future not reason Jets signed Skinner, GM says",
+        "signing_team": "WPG",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3750000,
+          "total_value_usd": 7500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Connor Hellebuyck\u2019s cloudy future with the Winnipeg Jets was not the reason the team [signed free-agent goalie Stuart Skinner to a two-year, $7.5 million contract on Wednesday](https://www.nhl.com/news/topic/free-agency/stuart-skinner-signs-two-year-contract-with-winnipeg-jets), general manager Kevin Cheveldayoff said "
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-18",
+        "headline": "Devils rising in Metropolitan Division, getting boost from Hellebuyck trade",
+        "url": "https://www.nhl.com/news/devils-getting-boost-from-connor-hellebuyck-trade"
+      }
+    }
+  ]
+}

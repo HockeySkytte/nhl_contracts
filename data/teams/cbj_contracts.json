@@ -1,0 +1,2590 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "CBJ",
+  "team_name": "Columbus Blue Jackets",
+  "generated_at_utc": "2026-11-26T22:49:25Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/CBJ/current",
+  "summary": {
+    "roster_players": 24,
+    "contracts_with_verified_source_url": 24,
+    "contracts_matched_nhlpa": 24,
+    "contracts_with_public_aav": 24,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 101984333,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 101984333
+  },
+  "contracts": [
+    {
+      "player_id": 8475745,
+      "player_name": "Charlie Coyle",
+      "position": "C",
+      "sweater_number": 3,
+      "birth_date": "1992-03-02",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-05-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 40 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 6000000,
+      "total_value_usd": 36000000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/charlie-coyle-signs-6-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/columbus-blue-jackets-roster-changes-for-2025-26-season"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "MIN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 3200000,
+          "total_salary_usd": 1900000,
+          "base_salary_usd": 1900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 3200000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "BOS",
+          "aav_usd": 3200000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BOS",
+          "aav_usd": 3200000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 5250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 5250000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483432,
+      "player_name": "Luca Del Bel Belluz",
+      "position": "C",
+      "sweater_number": 93,
+      "birth_date": "2003-11-10",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 864000,
+      "total_value_usd": null,
+      "start_season": "2022-23",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 864000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 864000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 864000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 864000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 864000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8484166,
+      "player_name": "Adam Fantilli",
+      "position": "C",
+      "sweater_number": 19,
+      "birth_date": "2004-10-12",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-09-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 13750000,
+      "total_value_usd": 82500000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/adam-fantilli-gets-6-year-contract-with-columbus",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 16000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 10000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 13750000,
+          "total_salary_usd": 16000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478856,
+      "player_name": "Conor Garland",
+      "position": "R",
+      "sweater_number": 83,
+      "birth_date": "1996-03-11",
+      "current_team": "CBJ",
+      "signing_team": "VAN",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 6000000,
+      "total_value_usd": 36000000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/thatcher-demko-signs-3-year-contract-with-vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/conor-garland-traded-to-columbus-blue-jackets-by-vancouver-canucks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "ARI",
+          "aav_usd": 675000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 675000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 675000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 675000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ARI",
+          "aav_usd": 775000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 4950000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 4950000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 4950000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 4950000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 4950000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 6000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482660,
+      "player_name": "Kent Johnson",
+      "position": "C",
+      "sweater_number": 91,
+      "birth_date": "2002-10-18",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2024-07-27",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 1800000,
+      "total_value_usd": 5400000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kent-johnson-signs-three-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 1800000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482720,
+      "player_name": "Matthew Knies",
+      "position": "L",
+      "sweater_number": 89,
+      "birth_date": "2002-10-17",
+      "current_team": "CBJ",
+      "signing_team": "TOR",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 7750000,
+      "total_value_usd": 46500000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matthew-knies-signs-six-year-contract-with-toronto-maple-leafs",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 7750000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479066,
+      "player_name": "Ryan Lomberg",
+      "position": "L",
+      "sweater_number": 94,
+      "birth_date": "1994-12-09",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1300000,
+      "total_value_usd": 2600000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-ryan-lomberg-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1300000,
+      "current_season_base_salary_usd": 1300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 710000,
+          "total_salary_usd": 710000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 710000,
+          "total_salary_usd": 710000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 800000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480806,
+      "player_name": "Isac Lundestr\u00f6m",
+      "position": "C",
+      "sweater_number": 21,
+      "birth_date": "1999-11-06",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1300000,
+      "total_value_usd": 2600000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-isac-lundestrom-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1300000,
+      "current_season_base_salary_usd": 1300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477497,
+      "player_name": "Sean Monahan",
+      "position": "C",
+      "sweater_number": 23,
+      "birth_date": "1994-10-12",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2029)",
+      "term_years": 5,
+      "aav_usd": 5500000,
+      "total_value_usd": 27500000,
+      "start_season": "2024-25",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sean-monahan-signs-5-year-deal-with-columbus",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4700000,
+      "current_season_base_salary_usd": 3200000,
+      "current_season_signing_bonus_usd": 1500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6125000,
+          "base_salary_usd": 6125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 6375000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 1985000,
+          "total_salary_usd": 1985000,
+          "base_salary_usd": 1985000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4700000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477501,
+      "player_name": "Valeri Nichushkin",
+      "position": "R",
+      "sweater_number": 43,
+      "birth_date": "1995-03-04",
+      "current_team": "CBJ",
+      "signing_team": "COL",
+      "signed_date": "2022-07-11",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 6125000,
+      "total_value_usd": 49000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/avalanche-nichushkin-eight-year-contract-334785604",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjl4bjdDbmZlWGM0T1AtWWVKMlQ4Q2tMdkZ2THdGQlQzbkdPWVM1LVcyNGltdERfcWxlQWM0YkliZ0FmcU9hM0Fzajk5SExvWVU2U3JCcVVzbUQ1Z1NnRXRlOW96d18yWmI1ZEtYNWoxM1VPdnJGZVM4UGJnaTQwWVBvSVBQQk9Rbm4tR3Q4TUFQWE1KeHowZFV2eXhCckQwcmhNNDZxLUVEWDRoZ19BdVFuSFVMLXNKRHR6N3F5MEpxb2ZzTHBmaGItQVI?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/valeri-nichushkin-traded-to-columbus-blue-jackets-by-colorado-avalanche"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5800000,
+      "current_season_base_salary_usd": 4800000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 2950000,
+          "total_salary_usd": 2700000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 6125000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 6125000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 6125000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 6125000,
+          "total_salary_usd": 7300000,
+          "base_salary_usd": 7300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 6125000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479671,
+      "player_name": "Mathieu Olivier",
+      "position": "R",
+      "sweater_number": 24,
+      "birth_date": "1997-02-11",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-03-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 3000000,
+      "total_value_usd": 18000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mathieu-olivier-signs-six-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3900000,
+      "current_season_base_salary_usd": 3900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 730000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 730000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 30000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 3000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482451,
+      "player_name": "Mikael Pyyhtia",
+      "position": "L",
+      "sweater_number": 82,
+      "birth_date": "2001-12-17",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 875000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 200000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        }
+      }
+    },
+    {
+      "player_id": 8482705,
+      "player_name": "Cole Sillinger",
+      "position": "C",
+      "sweater_number": 4,
+      "birth_date": "2003-05-16",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-07-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (projected 8 accrued NHL seasons)",
+      "term_years": 3,
+      "aav_usd": 4625000,
+      "total_value_usd": 13875000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/cole-sillinger-signs-three-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4625000,
+      "current_season_base_salary_usd": 3625000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 4625000,
+          "total_salary_usd": 4625000,
+          "base_salary_usd": 3625000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481716,
+      "player_name": "Dmitri Voronkov",
+      "position": "L",
+      "sweater_number": 10,
+      "birth_date": "2000-09-10",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-07-05",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 4175000,
+      "total_value_usd": 8350000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dmitri-voronkov-signs-two-year-contract-with-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4350000,
+      "current_season_base_salary_usd": 4350000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 4175000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 4175000,
+          "total_salary_usd": 4350000,
+          "base_salary_usd": 4350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485469,
+      "player_name": "Jack Williams",
+      "position": "C",
+      "sweater_number": 92,
+      "birth_date": "2002-03-02",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 875000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 100000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 923750,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 923750,
+          "total_salary_usd": 872500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        }
+      }
+    },
+    {
+      "player_id": 8481161,
+      "player_name": "Jake Christiansen",
+      "position": "D",
+      "sweater_number": 2,
+      "birth_date": "1999-09-12",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-01-17",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 975000,
+      "total_value_usd": 1950000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-jake-christiansen-to-two-year-contract-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 275000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479371,
+      "player_name": "Dante Fabbro",
+      "position": "D",
+      "sweater_number": 15,
+      "birth_date": "1998-06-20",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-06-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4125000,
+      "total_value_usd": 16500000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dante-fabbro-signs-4-year-contract-to-remain-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/bluejackets/news/blue-jackets-claim-dante-fabbro-place-kent-johnson-on-injured-reserve"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4125000,
+      "current_season_base_salary_usd": 4125000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 2400000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 2400000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 4125000,
+          "total_salary_usd": 5125000,
+          "base_salary_usd": 4125000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 4125000,
+          "total_salary_usd": 4125000,
+          "base_salary_usd": 4125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475790,
+      "player_name": "Erik Gudbranson",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "1992-01-07",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1750000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/erik-gudbranson-signs-1-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1750000,
+      "current_season_base_salary_usd": 1750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "FLA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "FLA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "FLA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "FLA",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "VAN",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 750000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 1950000,
+          "total_salary_usd": 1950000,
+          "base_salary_usd": 1950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483485,
+      "player_name": "Denton Mateychuk",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "2004-07-12",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2024-07-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 912000,
+      "total_value_usd": 2736000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmh1RV9VSG9IZVNJUW84cDk0dURDWFVHXzRBbDF6MlB1NEwwanU1MmljVkFmUzdCTEVZcWxxeVJORkZTSmF0Vk5Xb2c4cllPZmd6UXZ1THhLLUw2MWo4ekZqeVlnRHNnb0p0NjQ4VXVTUV9BRGM5aVBEd3phX3pHbFdBcDdZVnFZTEJBaXU5RHk1RHNjWF9VV1JqeUpWSVhaay1veTZBSG9CcnpacVE?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478500,
+      "player_name": "Ivan Provorov",
+      "position": "D",
+      "sweater_number": 9,
+      "birth_date": "1997-01-13",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 8500000,
+      "total_value_usd": 59500000,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ivan-provorov-signs-7-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/ivan-provorov-traded-to-columbus-in-3-team-trade-344759764"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8500000,
+      "current_season_base_salary_usd": 5750000,
+      "current_season_signing_bonus_usd": 2750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 6750000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PHI",
+          "aav_usd": 6750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 6750000,
+          "total_salary_usd": 7125000,
+          "base_salary_usd": 4125000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 6750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 6750000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 6750000,
+          "total_salary_usd": 8625000,
+          "base_salary_usd": 6625000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 8500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 8500000,
+          "total_salary_usd": 8500000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 2750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476923,
+      "player_name": "Damon Severson",
+      "position": "D",
+      "sweater_number": 78,
+      "birth_date": "1994-08-07",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2023-06-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 6250000,
+      "total_value_usd": 50000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEl3UGdPQ2lWUWw0RGZSdGM0RmFSMjBTZEtpX1BsX2pVRFU4VHEtQjdEYlNObTBVM2NhVUJvT3ZTNU03eTZZY3ZxVWNESmdfbnJwUy16MVJObmJham5Sa0htVy1UT1diaE1JNzVMSVNkSlBrdlBBNGM3N1l5TXdvcl9mMTdjTk9jM1MzeXNxVVFhc2Q2aU9QRzE0Wm9OX0pIOEU3MWhpNThMbklmOWVpUnF1aGE?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/damon-severson-traded-to-columbus-344794714"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6100000,
+      "current_season_base_salary_usd": 4100000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "NJD",
+          "aav_usd": 615500,
+          "total_salary_usd": 617500,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "NJD",
+          "aav_usd": 615500,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "NJD",
+          "aav_usd": 615500,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "NJD",
+          "aav_usd": 615500,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "NJD",
+          "aav_usd": 615500,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2017-18": {
+          "team": "NJD",
+          "aav_usd": 4166667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 4166667,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4675000,
+          "base_salary_usd": 4675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4675000,
+          "base_salary_usd": 4675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 4166667,
+          "total_salary_usd": 5050000,
+          "base_salary_usd": 5050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 4166667,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 6250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 6250000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 4100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478460,
+      "player_name": "Zach Werenski",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1997-07-19",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2021-07-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2028)",
+      "term_years": 6,
+      "aav_usd": 9583333,
+      "total_value_usd": 57499998,
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/blue-jackets-sign-zach-werenski-to-six-year-contract-extension-325875476",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/zach-werenski-says-columbus-is-where-i-want-to-be"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7250000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 6250000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CBJ",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 5000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 9583333,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 9583333,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 9583333,
+          "total_salary_usd": 11500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 9583333,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 9583333,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 6250000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482982,
+      "player_name": "Jet Greaves",
+      "position": "G",
+      "sweater_number": 73,
+      "birth_date": "2001-03-30",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-07-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 5000000,
+      "total_value_usd": 15000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jet-greaves-signs-three-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 758333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 758333,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 758333,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 812500,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 25000,
+          "minor_league_salary_usd": 250000
+        },
+        "2025-26": {
+          "team": "CBJ",
+          "aav_usd": 812500,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 25000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475660,
+      "player_name": "Cam Talbot",
+      "position": "G",
+      "sweater_number": 33,
+      "birth_date": "1987-07-05",
+      "current_team": "CBJ",
+      "signing_team": "CBJ",
+      "signed_date": "2026-09-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 950000,
+      "total_value_usd": 950000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/cam-talbot-signs-1-year-contract-with-columbus-blue-jackets",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/columbus-blue-jackets",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "NYR",
+          "aav_usd": 665000,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "NYR",
+          "aav_usd": 665000,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "NYR",
+          "aav_usd": 550000,
+          "total_salary_usd": 550000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 75000
+        },
+        "2013-14": {
+          "team": "NYR",
+          "aav_usd": 562500,
+          "total_salary_usd": 550000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2014-15": {
+          "team": "EDM",
+          "aav_usd": 562500,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "EDM",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 3150000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4150000,
+          "base_salary_usd": 4150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 3666667,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 3666667,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 3666667,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 225000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "DET",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CBJ",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

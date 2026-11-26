@@ -1,0 +1,2633 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "VAN",
+  "team_name": "Vancouver Canucks",
+  "generated_at_utc": "2026-11-26T22:49:31Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/VAN/current",
+  "summary": {
+    "roster_players": 26,
+    "contracts_with_verified_source_url": 26,
+    "contracts_matched_nhlpa": 26,
+    "contracts_with_public_aav": 26,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 85504917,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 4766667,
+    "combined_roster_plus_penalties_usd": 90271584
+  },
+  "contracts": [
+    {
+      "player_id": 8483395,
+      "player_name": "Arshdeep Bains",
+      "position": "L",
+      "sweater_number": 13,
+      "birth_date": "2001-01-09",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-06-30",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (14 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc293eFFCalRZUG1sTzNrUU5DeUNqMGtWMFJ2eVNnWmlBTk9XVTBLekJLS244UkJ4bS1RbmZIbk5UaTd2bEJjNzdLNkFhZm1PRy1SQ3lhZUFSZ1hXbEtfQkhBQWppRWFhSVl1M1B5VmRyZl9LN09WVWRNeFlOTXR0Si03MlVTVUdtVHVlNVNXUGFTMkxhNlhMdDBjWWc0ZWNCSkoySV9FMnRrcElV?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 816667,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 816667,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 816667,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 70000
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 290000
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478444,
+      "player_name": "Brock Boeser",
+      "position": "R",
+      "sweater_number": 6,
+      "birth_date": "1997-02-25",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 7250000,
+      "total_value_usd": 50750000,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brock-boeser-happy-to-stay-with-vancouver-canucks-after-signing-7-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/canucks-gm-has-no-intention-of-trading-brock-boeser-317416740"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 4000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 5875000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 3300000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 5875000,
+          "total_salary_usd": 6125000,
+          "base_salary_usd": 3125000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 5875000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 6650000,
+          "total_salary_usd": 6650000,
+          "base_salary_usd": 6650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 6650000,
+          "total_salary_usd": 6650000,
+          "base_salary_usd": 6650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 6650000,
+          "total_salary_usd": 6650000,
+          "base_salary_usd": 6650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 7250000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 7250000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480078,
+      "player_name": "Filip Chytil",
+      "position": "C",
+      "sweater_number": 77,
+      "birth_date": "1999-09-05",
+      "current_team": "VAN",
+      "signing_team": "NYR",
+      "signed_date": "2023-04-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 4437500,
+      "total_value_usd": 17750000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/filip-chytil-agrees-to-four-year-contract-with-new-york-rangers-342878888",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vancouver-canucks-trade-j-t-miller-to-new-york-rangers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3750000,
+      "current_season_base_salary_usd": 3750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 4437500,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 4437500,
+          "total_salary_usd": 4625000,
+          "base_salary_usd": 4625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 4437500,
+          "total_salary_usd": 4875000,
+          "base_salary_usd": 4875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 4437500,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481032,
+      "player_name": "Paul Cotter",
+      "position": "L",
+      "sweater_number": 47,
+      "birth_date": "1999-11-16",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2150000,
+      "total_value_usd": 2150000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canucks/news/canucks-agree-to-terms-with-paul-cotter-on-a-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2150000,
+      "current_season_base_salary_usd": 2150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 758000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 758000,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 758000,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 758000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 758000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 2150000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478498,
+      "player_name": "Jake DeBrusk",
+      "position": "L",
+      "sweater_number": 74,
+      "birth_date": "1996-10-17",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 5500000,
+      "total_value_usd": 38500000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-debrusk-signs-7-year-contract-with-vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "BOS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BOS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BOS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BOS",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BOS",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 3675000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 3675000,
+          "total_salary_usd": 4850000,
+          "base_salary_usd": 4850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475848,
+      "player_name": "Brendan Gallagher",
+      "position": "R",
+      "sweater_number": 7,
+      "birth_date": "1992-05-06",
+      "current_team": "VAN",
+      "signing_team": "MTL",
+      "signed_date": "2020-10-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 6500000,
+      "total_value_usd": 39000000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nfl-s-mixon-gallagher-message-of-congratulations-319472590",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/canadiens/news/canadiens-trade-forward-brendan-gallagher-to-the-vancouver-canucks-june-29-2026"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "MTL",
+          "aav_usd": 686250,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "MTL",
+          "aav_usd": 686250,
+          "total_salary_usd": 690000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "MTL",
+          "aav_usd": 686250,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "MTL",
+          "aav_usd": 686250,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MTL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1750000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MTL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481024,
+      "player_name": "Linus Karlsson",
+      "position": "C",
+      "sweater_number": 94,
+      "birth_date": "1999-11-16",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2026-01-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2250000,
+      "total_value_usd": 4500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODZ4bkthR3lrYkdGSmc2OGtiY013RTQ2eDItcV85RFdWZjF1QmVxYzNPUWt0S1p3ZmVNVHJBaXJlaGZZWExlSjVGOGs1RkRvVmFJQ2c4X1hyYlRJQ2NzbDlxajBZTzI0WDNpS1ktU1luVXprY1lmaVdNQkNMakFiY1JYZ3M1THZSQUdSSVNZRkNzR1ZpOVgyU01ZY0p6ZlMta013?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 883750,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 883750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483476,
+      "player_name": "Jonathan Lekkerim\u00e4ki",
+      "position": "R",
+      "sweater_number": 88,
+      "birth_date": "2004-07-24",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2023-05-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 926250,
+      "total_value_usd": 2778750,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUEwMkIwVFdzUUhWS2Z2TzZndlMybHdrWlRWeWhLenJSd0JZYV9ST3ctU1lleFFBSnZVVzE1Nzg3TXAteV9IZkQxWWVUUWFUcFFwcjdrb1BwcjdER3EwV3BXMmYzUXphZ2x4OGhnTm9TQWVwSlFtMVdsanpXWm9KNjhIRlA1eVp6T1lfcDRCMHh1Mm9WeGFDWUFBUEF4Y1RrOXRjdEtLS2JRQi1X?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 926250,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8484406,
+      "player_name": "Ty Mueller",
+      "position": "C",
+      "sweater_number": 39,
+      "birth_date": "2003-02-26",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2024-04-02",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 895000,
+      "total_value_usd": 2685000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzVfeHBSX2hFOEVueW9rRUI1dXNGNkdsQVdDdVlCMDRrS0IzZkF1XzhZUU00elh5ZE5sdUQzOVdXQjVIOXNjTUhCOUVvM21PTHNDbFdWNGQyS21rOEdGUkZPNndvb0xCdHVPQm5tYjBZeTNRNFF5cDBBcVpYbmlRcE55WWg3enBKZFk3LWUtWVFPWTdkVENj?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 945000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 895000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 895000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 895000,
+          "total_salary_usd": 945000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482055,
+      "player_name": "Drew O'Connor",
+      "position": "L",
+      "sweater_number": 18,
+      "birth_date": "1998-06-09",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-02-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2500000,
+      "total_value_usd": 5000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/drew-o-connor-signs-2-year-deal-with-vancouver",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95LXN0ZlRDNWgxY29EbkFnX3E4Q0tTQzRjbGdfelBGeXBkYTNyeGtpZDRZWlFja0lrWDZWZTNqcHdVVFIyamtnek10Y1dJbDc2NXpJLXBMWW15OUlQVmpwSUZtNHFYRU05UVBMa0V4czJtelZibWJLbTgycw?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2150000,
+      "current_season_base_salary_usd": 2150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 2075000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483499,
+      "player_name": "Liam Ohgren",
+      "position": "L",
+      "sweater_number": 92,
+      "birth_date": "2004-01-28",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 912000,
+      "total_value_usd": null,
+      "start_season": "2022-23",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8480012,
+      "player_name": "Elias Pettersson",
+      "position": "C",
+      "sweater_number": 40,
+      "birth_date": "1998-11-12",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2024-03-03",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 11600000,
+      "total_value_usd": 92800000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/elias-pettersson-agrees-to-8-year-contract-with-vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11000000,
+      "current_season_base_salary_usd": 11000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 7350000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 7350000,
+          "total_salary_usd": 7800000,
+          "base_salary_usd": 7800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 7350000,
+          "total_salary_usd": 10250000,
+          "base_salary_usd": 10250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 11600000,
+          "total_salary_usd": 14500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 12000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 11600000,
+          "total_salary_usd": 14500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 11600000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484901,
+      "player_name": "Jacob Quillan",
+      "position": "C",
+      "sweater_number": 62,
+      "birth_date": "2002-02-02",
+      "current_team": "VAN",
+      "signing_team": "TOR",
+      "signed_date": "2026-07-08",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (50 more GP needed); otherwise Group 6 UFA",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/mapleleafs/news/maple-leafs-sign-quillan-tverberg-and-villeneuve",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 350000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        }
+      }
+    },
+    {
+      "player_id": 8481133,
+      "player_name": "Cole Reinhardt",
+      "position": "L",
+      "sweater_number": 29,
+      "birth_date": "2000-02-01",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 812500,
+      "total_value_usd": null,
+      "start_season": "2025-26",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/florida-panthers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/florida-panthers",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 813333,
+          "total_salary_usd": 805000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 65000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 813333,
+          "total_salary_usd": 805000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 65000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 813333,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 95000
+        },
+        "2025-26": {
+          "team": "FLA",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "FLA",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482079,
+      "player_name": "Marco Rossi",
+      "position": "C",
+      "sweater_number": 23,
+      "birth_date": "2001-09-23",
+      "current_team": "VAN",
+      "signing_team": "MIN",
+      "signed_date": "2025-08-22",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 5000000,
+      "total_value_usd": 15000000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/wild/news/minnesota-wild-signs-marco-rossi-to-three-year-contract-082225",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478465,
+      "player_name": "Guillaume Brisebois",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "1997-07-21",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2026-06-30",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 900000,
+      "total_value_usd": 900000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2tqQVF3SUJuNDNhWUs5S0FfT0NMVmVKQ2x3dVVWTUNNVkZpQzNZSEtOWnhlbTVwYkVmY2NKcVl0TElvYlJUNUlCUXJLbUhPbDJJX2tRTTU2NUlCVHhVcmZ0SXBicmZzM1k0ZWxaRW9teHhZalU5cVhJdVk0MlVkQzhiU3k1N2o0VENSd1hfdzRvcTNFbE9jMnFHNlZDbnJNRFQ2ZjN5cGVEXzVoRENLVA?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 325000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "VAN",
+          "aav_usd": 685500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 685500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 685500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 685500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 685500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 180000
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 180000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 375000
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 325000
+        }
+      }
+    },
+    {
+      "player_id": 8484798,
+      "player_name": "Zeev Buium",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "2005-12-07",
+      "current_team": "VAN",
+      "signing_team": "MIN",
+      "signed_date": "2025-04-14",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 966667,
+      "total_value_usd": 2900001,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/zeev-buium-signs-entry-level-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 9380000,
+        "total_value_usd": 75040000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-09-04",
+        "source_url": "https://www.nhl.com/news/zeev-buium-signs-8-year-contract-with-vancouver-canucks"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/canucks-look-to-future-with-rossi-buium-ohgren-after-quinn-hughes-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 966667,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 852500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 966667,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 966667,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8480075,
+      "player_name": "Cameron Crotty",
+      "position": "D",
+      "sweater_number": 51,
+      "birth_date": "1999-05-05",
+      "current_team": "VAN",
+      "signing_team": "OTT",
+      "signed_date": "2025-08-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/senators/news/senators-sign-defenceman-cameron-crotty-and-forward-jan-jenik-to-two-way-contracts",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 300000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        }
+      }
+    },
+    {
+      "player_id": 8479425,
+      "player_name": "Filip Hronek",
+      "position": "D",
+      "sweater_number": 17,
+      "birth_date": "1997-11-02",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2024-06-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 7250000,
+      "total_value_usd": 58000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/filip-hronek-signs-8-year-contract-with-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/red-wings-trade-filip-hronek-to-canucks-341687204"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6750000,
+      "current_season_base_salary_usd": 6750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "DET",
+          "aav_usd": 710500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2017-18": {
+          "team": "DET",
+          "aav_usd": 710500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2018-19": {
+          "team": "DET",
+          "aav_usd": 710500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2019-20": {
+          "team": "DET",
+          "aav_usd": 710500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 710500,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 4400000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 2700000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 4400000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 4400000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 7250000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 7250000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 7250000,
+          "total_salary_usd": 6750000,
+          "base_salary_usd": 6750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476467,
+      "player_name": "Jamie Oleksiak",
+      "position": "D",
+      "sweater_number": 4,
+      "birth_date": "1992-12-21",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 5000000,
+      "total_value_usd": 10000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/canucks/news/canucks-agree-to-terms-with-jamie-oleksiak-on-a-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "DAL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "DAL",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "DAL",
+          "aav_usd": 918750,
+          "total_salary_usd": 918750,
+          "base_salary_usd": 918750,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 964688,
+          "total_salary_usd": 964688,
+          "base_salary_usd": 964688,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 2137500,
+          "total_salary_usd": 1950000,
+          "base_salary_usd": 1950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 2137500,
+          "total_salary_usd": 1962500,
+          "base_salary_usd": 1962500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 2137500,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 4600000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 4600000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 4600000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 4600000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483678,
+      "player_name": "Elias Pettersson",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "2004-02-16",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2023-04-19",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 865000,
+      "total_value_usd": 2595000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/canucks/news/canucks-sign-defenceman-elias-pettersson-to-three-year-elc-343687242",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/penguins-trade-pettersson-o-connor-to-canucks-for-heinen-desharnais"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 865000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 865000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 865000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 865000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8474568,
+      "player_name": "Luke Schenn",
+      "position": "D",
+      "sweater_number": 2,
+      "birth_date": "1989-11-02",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2250000,
+      "total_value_usd": 2250000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/luke-schenn-signs-1-year-deal-with-vancouver",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/toronto-maple-leafs-trade-for-luke-schenn-and-erik-gustafsson-from-van-341632222"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "PHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "PHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "PHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "LAK",
+          "aav_usd": 3600000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "TBL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "TBL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 850000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 850000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WPG",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484240,
+      "player_name": "Tom Willander",
+      "position": "D",
+      "sweater_number": 5,
+      "birth_date": "2005-02-09",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-05-14",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 965000,
+      "total_value_usd": 2895000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjlwS2wyYjg3eklHcm90VmhqOS1HUjZEcG1NNTF4MGtVUlU5bEtXZXNDOHJNTVl1YWxuT0xReU93c0RJM1NFSUZpUUJrVEU0Tzdfdkw0MkttcHZKdmpMbnR2ZU5XaDV3UWlzcmpRenFyVS1tbU9PRERCeGhaNDRrZDRDSEl1VUtKQ2RtVlVGT1JfakFjTE0zZENlaDgwNnZWQXIzcGRjcFdPNHpqSVVWT2VzdzNqd0tXSlFQMg?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 965000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8477967,
+      "player_name": "Thatcher Demko",
+      "position": "G",
+      "sweater_number": 35,
+      "birth_date": "1995-12-08",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 8500000,
+      "total_value_usd": 25500000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/thatcher-demko-signs-3-year-contract-with-vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10500000,
+      "current_season_base_salary_usd": 10500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VAN",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 1050000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 8500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 10500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480947,
+      "player_name": "Kevin Lankinen",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "1995-04-28",
+      "current_team": "VAN",
+      "signing_team": "VAN",
+      "signed_date": "2025-02-21",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 4500000,
+      "total_value_usd": 22500000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kevin-lankinen-signs-five-year-contract-with-vancouver-canucks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CHI",
+          "aav_usd": 800000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 800000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VAN",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "VAN",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482447,
+      "player_name": "Leevi Meril\u00e4inen",
+      "position": "G",
+      "sweater_number": 31,
+      "birth_date": "2002-08-13",
+      "current_team": "VAN",
+      "signing_team": "OTT",
+      "signed_date": "2026-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 1100000,
+      "total_value_usd": 1100000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblA5aWRqSzQ3R18tUjBtcmRpemtjcENrWVNNYTlrTDVNdUxCRVl2aUFLLXRFVWMza1NaLTl4OEZxVF8zT0hHUDJjaGtfVHdaY0ZQbGxmbXBZMVJvWWEyaUhwWW1tUmlZWm5Rd2xYeVhjc0hHSl9ienVQRTNxblJOamlpano0c1ZObWZzN3N5RUFIXzk4UHE1TGtmRDBZaE9nR3lHRjZSVQ?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1100000,
+      "current_season_base_salary_usd": 1100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/vancouver-canucks",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 822500,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 822500,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 822500,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 822500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "VAN",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8475171,
+      "player_name": "Oliver Ekman-Larsson",
+      "event_date": "2023-06-16",
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 4766667,
+      "source_url": "https://www.nhl.com/news/oliver-ekman-larsson-bought-out-by-canucks-344911236",
+      "notes": "Peak buyout year ($4,766,667 in 2025-26 and 2026-27); drops to $2,126,667/yr for 2027-28 through 2030-31."
+    }
+  ]
+}

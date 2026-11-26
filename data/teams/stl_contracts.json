@@ -1,0 +1,2732 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "STL",
+  "team_name": "St. Louis Blues",
+  "generated_at_utc": "2026-11-26T22:49:30Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/STL/current",
+  "summary": {
+    "roster_players": 27,
+    "contracts_with_verified_source_url": 27,
+    "contracts_matched_nhlpa": 27,
+    "contracts_with_public_aav": 27,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 96721000,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 1333333,
+    "combined_roster_plus_penalties_usd": 98054333
+  },
+  "contracts": [
+    {
+      "player_id": 8481013,
+      "player_name": "Jonatan Berggren",
+      "position": "R",
+      "sweater_number": 29,
+      "birth_date": "2000-07-16",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 2000000,
+      "total_value_usd": 2000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/blues-sign-berggren-to-one-year-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 1825000,
+          "total_salary_usd": 1825000,
+          "base_salary_usd": 1825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477402,
+      "player_name": "Pavel Buchnevich",
+      "position": "L",
+      "sweater_number": 89,
+      "birth_date": "1995-04-17",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2024-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 8000000,
+      "total_value_usd": 48000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/pavel-buchnevich-signs-six-year-contract-with-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/rangers-trade-buchnevich-to-blues-for-blais-325753434"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 6900000,
+          "base_salary_usd": 6900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 5800000,
+          "total_salary_usd": 6300000,
+          "base_salary_usd": 6300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 8000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479346,
+      "player_name": "Dillon Dube",
+      "position": "C",
+      "sweater_number": 65,
+      "birth_date": "1998-07-20",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/blues-sign-dube-to-one-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 769375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 769375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 769375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 769375,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2300000,
+          "base_salary_usd": 2300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484164,
+      "player_name": "Dalibor Dvorsky",
+      "position": "R",
+      "sweater_number": 15,
+      "birth_date": "2005-06-15",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2023-07-31",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 921000,
+      "total_value_usd": 2763000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNk9kRWdNOGFoYkhsZl9VcGhfOVVjLWQ0ZjQ3MzNsX0NtUnVpcVNaWGpDeV9sMVZLLTFaemlRMnVjZHJNZEpKeTZENmxDU1Zyb092X082YmpzNDlkVnpnbnpJdlpiMGl2UVgtOWhkWjNWZUlSeV8zRkoweUVvMDRteUlpVF9zNzhSYXRKa0FhVzh6RjBWQTk2WmdtMmVod1hHTzRRQ3ZzRlg5b2hVQnluZWpwVzE1M1ZH?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 921000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 921000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482077,
+      "player_name": "Dylan Holloway",
+      "position": "L",
+      "sweater_number": 81,
+      "birth_date": "2001-09-23",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-05-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 7750000,
+      "total_value_usd": 38750000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/st-louis-blues-sign-dylan-holloway-to-five-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-broberg-holloway-from-oilers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 10000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 2290457,
+          "total_salary_usd": 2290457,
+          "base_salary_usd": 2290457,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 2290457,
+          "total_salary_usd": 2290457,
+          "base_salary_usd": 2290457,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 7750000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477527,
+      "player_name": "Ross Johnston",
+      "position": "L",
+      "sweater_number": 49,
+      "birth_date": "1994-02-18",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 2000000,
+      "total_value_usd": 6000000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ross-johnston-signs-3-year-deal-with-st-louis",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 666667,
+          "total_salary_usd": 620000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 666667,
+          "total_salary_usd": 670000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 666667,
+          "total_salary_usd": 710000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 10000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYI",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483463,
+      "player_name": "Aleksanteri Kaskimaki",
+      "position": "C",
+      "sweater_number": 41,
+      "birth_date": "2004-02-06",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2024-05-28",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 895000,
+      "total_value_usd": 2685000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0NocVRFdXMyN1FVbTdKVHZHZlhzM081UmdoTlM3RGY0ZFBIR25vak1iUXF4Z3doZGNNZGY2SHZfMXF2MTByU0ZybThMTE5YNGRxdlduSjlHMU5SbEcwWDNHZFpLR0hhTzY1cUZJQzgxMC1zeG13LXVPREFhSW92MHZ3Nzl2Y0g1SFQyOS1peHdlN1A3ejE4?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 945000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 895000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 895000,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 895000,
+          "total_salary_usd": 945000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8481580,
+      "player_name": "Connor McMichael",
+      "position": "L",
+      "sweater_number": 77,
+      "birth_date": "2001-01-15",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-07-16",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 6750000,
+      "total_value_usd": 40500000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/mcmichael-signs-6-year-deal-with-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 7500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 6750000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482745,
+      "player_name": "Mason McTavish",
+      "position": "C",
+      "sweater_number": 83,
+      "birth_date": "2003-01-30",
+      "current_team": "STL",
+      "signing_team": "ANA",
+      "signed_date": "2025-09-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 7000000,
+      "total_value_usd": 42000000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mason-mctavish-signs-6-year-contract-with-anaheim-ducks",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/mason-mctavish-traded-to-st-louis-blues-by-anaheim-ducks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 7000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482089,
+      "player_name": "Jake Neighbours",
+      "position": "L",
+      "sweater_number": 63,
+      "birth_date": "2002-03-29",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2024-10-23",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3750000,
+      "total_value_usd": 7500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-neighbours-signs-two-year-contract-with-st-louis-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 838500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 838500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 838500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 838500,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 838500,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 3750000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483516,
+      "player_name": "Jimmy Snuggerud",
+      "position": "R",
+      "sweater_number": 21,
+      "birth_date": "2004-06-01",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-03-28",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "total_value_usd": 2850000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blues/news/blues-sign-snuggerud-to-3-year-entry-level-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8484230,
+      "player_name": "Otto Stenberg",
+      "position": "C",
+      "sweater_number": 28,
+      "birth_date": "2005-05-29",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2024-05-01",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 937500,
+      "total_value_usd": 2812500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blues/news/blues-sign-stenberg-to-3-year-entry-level-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 937500,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8480459,
+      "player_name": "Pius Suter",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "1996-05-24",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 4125000,
+      "total_value_usd": 8250000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/pius-suter-signs-2-year-contract-with-st-louis-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "DET",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "DET",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 4125000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 4125000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480023,
+      "player_name": "Robert Thomas",
+      "position": "C",
+      "sweater_number": 18,
+      "birth_date": "1999-07-02",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2022-07-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8125000,
+      "total_value_usd": 65000000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/thomas-signs-8-year-contract-extension-with-blues-334950376",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8250000,
+      "current_season_base_salary_usd": 8250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 2800000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 10900000,
+          "base_salary_usd": 10900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 10500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 8125000,
+          "total_salary_usd": 8250000,
+          "base_salary_usd": 8250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480281,
+      "player_name": "Alexey Toropchenko",
+      "position": "R",
+      "sweater_number": 13,
+      "birth_date": "1999-06-25",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-01-05",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2500000,
+      "total_value_usd": 5000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/toropchenko-signs-2-year-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2850000,
+      "current_season_base_salary_usd": 2850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 765625,
+          "total_salary_usd": 737500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 765625,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 765625,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 765625,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 1700000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 2850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477573,
+      "player_name": "Nathan Walker",
+      "position": "L",
+      "sweater_number": 26,
+      "birth_date": "1994-02-07",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-09-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 887500,
+      "total_value_usd": 1775000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/walker-signs-two-year-contract-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 875000,
+      "current_season_base_salary_usd": 875000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 635000,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 635000,
+          "total_salary_usd": 645000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 635000,
+          "total_salary_usd": 645000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 310000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 887500,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482111,
+      "player_name": "Justin Barron",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "2001-11-15",
+      "current_team": "STL",
+      "signing_team": "NSH",
+      "signed_date": "2026-07-06",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 1575000,
+      "total_value_usd": 1575000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/predators/news/predators-sign-justin-barron-to-one-year-1-575-million-contract-2026-07-05",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1575000,
+      "current_season_base_salary_usd": 1575000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 1150000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "NSH",
+          "aav_usd": 1150000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 1575000,
+          "total_salary_usd": 1575000,
+          "base_salary_usd": 1575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481598,
+      "player_name": "Philip Broberg",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "2001-06-25",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-01-10",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 8000000,
+      "total_value_usd": 48000000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/philip-broberg-signs-six-year-contract-with-st-louis-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-broberg-holloway-from-oilers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 10000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 4580917,
+          "total_salary_usd": 4580917,
+          "base_salary_usd": 4580917,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 4580917,
+          "total_salary_usd": 4580917,
+          "base_salary_usd": 4580917,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478443,
+      "player_name": "Brandon Carlo",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "1996-11-26",
+      "current_team": "STL",
+      "signing_team": "BOS",
+      "signed_date": "2021-07-14",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 4100000,
+      "total_value_usd": 24600000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/boston-bruins-brandon-carlo-signs-six-year-contract-325653162",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/brandon-carlo-traded-to-st-louis-blues-from-toronto-maple-leafs"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3250000,
+      "current_season_base_salary_usd": 3250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "BOS",
+          "aav_usd": 771250,
+          "total_salary_usd": 717500,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BOS",
+          "aav_usd": 771250,
+          "total_salary_usd": 717500,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BOS",
+          "aav_usd": 771250,
+          "total_salary_usd": 817500,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BOS",
+          "aav_usd": 771250,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BOS",
+          "aav_usd": 2850000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 2850000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 4100000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 4100000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 4100000,
+          "total_salary_usd": 5700000,
+          "base_salary_usd": 4700000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 4100000,
+          "total_salary_usd": 5450000,
+          "base_salary_usd": 5450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 4200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 4100000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475764,
+      "player_name": "Cam Fowler",
+      "position": "D",
+      "sweater_number": 17,
+      "birth_date": "1991-12-05",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-09-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 6100000,
+      "total_value_usd": 18300000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/cam-fowler-signs-3-year-contract-with-st-louis-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/anaheim-ducks-trade-cam-fowler-to-st-louis-blues"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6100000,
+      "current_season_base_salary_usd": 6100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2011-12": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "ANA",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 6100000,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 6100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484790,
+      "player_name": "Adam Jiricek",
+      "position": "D",
+      "sweater_number": 36,
+      "birth_date": "2006-06-28",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2024-07-02",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 955000,
+      "total_value_usd": 2865000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kWkxXaDE3ZUQyX3ZnZW5vdDJ5bWo1cG9rQ0NvdkZaRE1mX1BXdXBkS3VzSzBjZ2Y1d1JDQ2lhWFRLS0prZ1dCRFo0Sm5qY2RGUWVTWUlhaDhBMHFlNXcteGtYMVUxeXBUdWlJX2tsdzJWTkVrdV9RdEdsbFI?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 955000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 955000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 955000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482733,
+      "player_name": "Logan Mailloux",
+      "position": "D",
+      "sweater_number": 23,
+      "birth_date": "2003-04-15",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-01-14",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/mailloux-signs-one-year-extension-with-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/zachary-bolduc-traded-to-montreal-canadiens-by-st-louis-blues-for-logan-mailloux"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "MTL",
+          "aav_usd": 866875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "MTL",
+          "aav_usd": 866875,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 866875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 866875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476892,
+      "player_name": "Colton Parayko",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "1993-05-12",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2021-09-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 6500000,
+      "total_value_usd": 52000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/st-louis-blues-colton-parayko-contract-extension-326061514",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6350000,
+      "current_season_base_salary_usd": 6350000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 858750,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 858750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5525000,
+          "base_salary_usd": 5525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5625000,
+          "base_salary_usd": 5625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6350000,
+          "base_salary_usd": 6350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480157,
+      "player_name": "Calle Rosen",
+      "position": "D",
+      "sweater_number": 43,
+      "birth_date": "1994-02-02",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2026-03-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blues/news/rosen-signs-two-year-two-way-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/blues/news/blues-acquire-rosen-in-trade-with-capitals"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 500000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "TOR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 450000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 525000
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 875000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 500000
+        }
+      }
+    },
+    {
+      "player_id": 8481006,
+      "player_name": "Tyler Tucker",
+      "position": "D",
+      "sweater_number": 75,
+      "birth_date": "2000-03-01",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-02-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 925000,
+      "total_value_usd": 1850000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blues/news/blues-sign-tucker-to-two-year-extension",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 808333,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 808333,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 808333,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 925000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 925000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476412,
+      "player_name": "Jordan Binnington",
+      "position": "G",
+      "sweater_number": 50,
+      "birth_date": "1993-07-11",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2021-03-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 6000000,
+      "total_value_usd": 36000000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/blues-binnington-six-year-36-million-contract-322389078",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "STL",
+          "aav_usd": 631250,
+          "total_salary_usd": 615000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "STL",
+          "aav_usd": 631250,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "STL",
+          "aav_usd": 631250,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 631250,
+          "total_salary_usd": 625000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 75000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 660000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 660000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 75000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 4400000,
+          "total_salary_usd": 4550000,
+          "base_salary_usd": 4550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 4400000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 6000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480981,
+      "player_name": "Joel Hofer",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "2000-07-30",
+      "current_team": "STL",
+      "signing_team": "STL",
+      "signed_date": "2025-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3400000,
+      "total_value_usd": 6800000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/joel-hofer-signs-two-year-contract-with-st-louis-blues",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3400000,
+      "current_season_base_salary_usd": 3400000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/st-louis-blues",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "STL",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 794375,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 794375,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "STL",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "STL",
+          "aav_usd": 3400000,
+          "total_salary_usd": 3400000,
+          "base_salary_usd": 3400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8477494,
+      "player_name": "Jonathan Drouin",
+      "event_date": "2026-06-30",
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 1333333,
+      "source_url": "https://www.prohockeyrumors.com/2026/09/salary-cap-deep-dive-st-louis-blues-10.html",
+      "notes": "2026 buyout cap penalty ($1,333,333 in 2026-27)."
+    }
+  ]
+}

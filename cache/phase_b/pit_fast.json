@@ -1,0 +1,1051 @@
+{
+  "team": "PIT",
+  "team_name": "Pittsburgh Penguins",
+  "roster_count": 26,
+  "results": [
+    {
+      "player": {
+        "id": 8479638,
+        "name": "Justin Brazeau",
+        "first": "Justin",
+        "last": "Brazeau",
+        "pos": "R",
+        "sweater": 16
+      },
+      "birth_date": "1998-02-02",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/penguins/news/penguins-sign-justin-brazeau-parker-wotherspoon-and-caleb-jones-to-two-year-contracts",
+        "date": "2025-07-01",
+        "headline": "Penguins Sign Justin Brazeau, Parker Wotherspoon and Caleb Jones to Two-Year Contracts",
+        "signing_team": "PIT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1500000,
+          "total_value_usd": 3000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Pittsburgh Penguins have signed forward Justin Brazeau as well as defensemen Parker Wotherspoon and Caleb Jones to two-year contracts, it was announced today by President of Hockey Operations and General Manager Kyle Dubas. Brazeau, 27, is signed through the 2026-27 season and his contract carries an average annual"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482475,
+        "name": "Egor Chinakhov",
+        "first": "Egor",
+        "last": "Chinakhov",
+        "pos": "R",
+        "sweater": 59
+      },
+      "birth_date": "2001-02-01",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/egor-chinakhov-gets-3-year-deal-with-pittsburgh-penguins",
+        "date": "2026-07-05",
+        "headline": "Chinakhov signs 3-year, $18.75 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 6250000,
+          "total_value_usd": 18750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Egor Chinakhov signed a three-year, $18.75 million contract with the Pittsburgh Penguins on Sunday. It has an average annual value of $6.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-30",
+        "headline": "Chinakhov traded to Penguins by Blue Jackets for Heinen",
+        "url": "https://www.nhl.com/news/yegor-chinakhov-traded-to-pittsburgh-penguins-by-columbus-blue-jackets-for-danton-heinen-draft-picks"
+      }
+    },
+    {
+      "player": {
+        "id": 8471675,
+        "name": "Sidney Crosby",
+        "first": "Sidney",
+        "last": "Crosby",
+        "pos": "C",
+        "sweater": 87
+      },
+      "birth_date": "1987-08-07",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sidney-crosby-signs-two-year-contract-with-pittsburgh-penguins",
+        "date": "2024-09-16",
+        "headline": "Crosby signs 2-year, $17.4 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 8700000,
+          "total_value_usd": 17400000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2025-26",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Sidney Crosby signed a two-year, $17.4 million contract with the Pittsburgh Penguins on Monday. The contract, which has an average annual value of $8.7 million, begins in the 2025-26 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-08-07",
+        "headline": "Karlsson trade an 'affirmation' Penguins can compete for Cup, Dubas says",
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-pushing-for-stanley-cup-after-erik-karlsson-trade-345537402"
+      }
+    },
+    {
+      "player": {
+        "id": 8480980,
+        "name": "Connor Dewar",
+        "first": "Connor",
+        "last": "Dewar",
+        "pos": "C",
+        "sweater": 19
+      },
+      "birth_date": "1999-06-26",
+      "draft_team": "MIN",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWxkMEhhQW0tT01NbWdBMlpDcTBCQkJNMktyQ0dEb2JOYjFNbDNqYndCOVgzd0JqRTdvOVNFT3k5SlJpWGtlcEtTYU0wQUpTTHBnSlBaUW9BVFh2ajZaeXNibFg3Yjljbk9Tb2xSZUdtMVcyRS00U0lwRWdkVTA5RmhOU1g0elYy?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2026-05-07",
+        "headline": "Penguins extend Dewar to two-year, $4.5 million deal",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2250000,
+          "total_value_usd": 4500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins extend Dewar to two-year, $4.5 million deal"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482993,
+        "name": "Avery Hayes",
+        "first": "Avery",
+        "last": "Hayes",
+        "pos": "R",
+        "sweater": 85
+      },
+      "birth_date": "2002-10-10",
+      "draft_team": null,
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHdVeG9aR0VhVThmdFRGVXE4UllPbVRjYkhWMHhRVW9kLTF4TWN1NWxIOWoyQjRPZS1oaUZxZEN1cXlKRjAwazIwODV3MU5GQWt3Q0ZNNVFoVi1nY1hpaGdMRzNhMWtISUt5ZkY1ZUo2T2VzSEFKTXZXSVl4ajRkNUw1d2N2MmZDam50VXUwZ2xldDFzdnpJeE5oLWNoY05SODQzYw?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2025-03-13",
+        "headline": "Penguins Sign Forward Avery Hayes to a Two-Year Entry-Level Contract | Pittsburgh Penguins",
+        "signing_team": "PIT",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins Sign Forward Avery Hayes to a Two-Year Entry-Level Contract | Pittsburgh Penguins"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485414,
+        "name": "Ben Kindel",
+        "first": "Ben",
+        "last": "Kindel",
+        "pos": "C",
+        "sweater": 81
+      },
+      "birth_date": "2007-04-19",
+      "draft_team": "PIT",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXBzVU1GV0xkSXRnaFNKZWJpNmFHRnIwMVYxZnhXeUxEVmh1czJ6YnRScWM2Zld4ZGpjc01BN1Z3cV9rOUtnMDIydmlvalBkNV92eXFYR1ctY3dMR3FzYThjZGlZSFBmQXJqSnZZWVcxdFZJVWdsZUxBV0gwRUpZdVNIbU9mbjY1dHJJWUEwVzBuZmZVTlUta3N1UFRNcnNWS3RrZjdOdWpSUU9QdGs2Sg?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2025-07-08",
+        "headline": "Penguins sign Ben Kindel to three-year, entry-level contract",
+        "signing_team": "PIT",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Penguins sign Ben Kindel to three-year, entry-level contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482758,
+        "name": "Ville Koivunen",
+        "first": "Ville",
+        "last": "Koivunen",
+        "pos": "R",
+        "sweater": 41
+      },
+      "birth_date": "2003-06-13",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ville-koivunen-signs-eight-year-contract-with-pittsburgh-penguins",
+        "date": "2026-08-06",
+        "headline": "Koivunen signs 8-year, $32 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 4000000,
+          "total_value_usd": 32000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ville Koivunen signed an eight-year, $32 million contract with the Pittsburgh Penguins on Thursday. It has an average annual value of $4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-07-20",
+        "headline": "Koivunen not feeling pressure after being acquired by Penguins in Guentzel trade",
+        "url": "https://www.nhl.com/news/ville-koivunen-not-yet-feeling-pressure-with-pittburgh"
+      }
+    },
+    {
+      "player": {
+        "id": 8483808,
+        "name": "Andrei Kuzmenko",
+        "first": "Andrei",
+        "last": "Kuzmenko",
+        "pos": "L",
+        "sweater": 62
+      },
+      "birth_date": "1996-02-04",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kuzmenko-carlile-van-riemsdyk-sign-contracts-with-pittsburgh-penguins",
+        "date": "2026-07-01",
+        "headline": "Kuzmenko signs 1-year contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 5000000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Andrei Kuzmenko signed a one-year, $5 million contract with the Pittsburgh Penguins on Wednesday. The 30-year-old forward had 25 points (13 goals, 12 assists) in 52 regular-season games for the Los Angeles Kings last season and no points in one Stanley Cup Playoff game."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482148,
+        "name": "Hendrix Lapierre",
+        "first": "Hendrix",
+        "last": "Lapierre",
+        "pos": "C",
+        "sweater": 22
+      },
+      "birth_date": "2002-02-09",
+      "draft_team": "WSH",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG9QUVlOMUdaVWFaa1dQSEhxYmk4MWpJdHRidmdCT1VTR0UzUC1PRlZYeEdydTNzUHdJNml1MGZ2TlJ5dkVWZkNyZ20tQkttbW9xcDBJMGRuNnB6S3ZQWjhxMkVpT0dYdEJYM1RhYldVaHpZeFdNa0lzbElJYVA5TkMtYWxYS3RHWTFGVUIwNW5TNkh6cjYwamVtN3Q3MzN0dHc2dA?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2026-07-03",
+        "headline": "Penguins sign recently acquired F Lapierre to two-year, $2.6 million deal",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1300000,
+          "total_value_usd": 2600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins sign recently acquired F Lapierre to two-year, $2.6 million deal"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/penguins/news/penguins-sign-forward-hendrix-lapierre-to-a-two-year-contract",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481481,
+        "name": "Blake Lizotte",
+        "first": "Blake",
+        "last": "Lizotte",
+        "pos": "C",
+        "sweater": 46
+      },
+      "birth_date": "1997-12-13",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/blake-lizotte-signs-3-year-contract-with-pittsburgh-penguins",
+        "date": "2026-01-12",
+        "headline": "Lizotte signs 3-year, $6.75 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 2250000,
+          "total_value_usd": 6750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Blake Lizotte signed a three-year, $6.75 million contract with the Pittsburgh Penguins on Monday. It has an average annual value of $2.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8471215,
+        "name": "Evgeni Malkin",
+        "first": "Evgeni",
+        "last": "Malkin",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "1986-07-31",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/evgeni-malkin-signs-one-year-contract-with-pittsburgh-penguins",
+        "date": "2026-05-26",
+        "headline": "Malkin signs 1-year, $5.5 million contract to remain with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 5500000,
+          "total_value_usd": 5500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Evgeni Malkin signed a one-year, $5.5 million contract to remain with the Pittsburgh Penguins on Tuesday. The forward, who will turn 40 on July 31, had 61 points (19 goals, 42 assists) in 56 regular-season games for the Penguins this season and three points (two goals, one assist) in six Stanley Cup Playoff games."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-08-07",
+        "headline": "Karlsson trade an 'affirmation' Penguins can compete for Cup, Dubas says",
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-pushing-for-stanley-cup-after-erik-karlsson-trade-345537402"
+      }
+    },
+    {
+      "player": {
+        "id": 8483487,
+        "name": "Rutger McGroarty",
+        "first": "Rutger",
+        "last": "McGroarty",
+        "pos": "R",
+        "sweater": 2
+      },
+      "birth_date": "2004-03-30",
+      "draft_team": "WPG",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-08-28",
+        "headline": "McGroarty traded to Penguins by Jets for Yager",
+        "url": "https://www.nhl.com/news/winnipeg-trades-rutger-mcgroarty-to-pittsburgh-for-brayden-yager"
+      }
+    },
+    {
+      "player": {
+        "id": 8478438,
+        "name": "Tommy Novak",
+        "first": "Tommy",
+        "last": "Novak",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "1997-04-28",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tommy-novak-signs-three-year-deal-with-nashville",
+        "date": "2024-03-04",
+        "headline": "Novak signs 3-year, $10.5 million contract with Predators",
+        "signing_team": "NSH",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3500000,
+          "total_value_usd": 10500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Tommy Novak signed a three-year, $10.5 million contract with the Nashville Predators on Monday. It has an average annual value of $3.5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tommy-novak-signs-three-year-contract-with-pittsburgh-penguins",
+        "date": "2026-07-31",
+        "headline": "Novak signs 3-year, $13.95 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "start_yr": 2027,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4650000,
+          "total_value_usd": 13950000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tommy Novak signed a three-year, $13.95 million contract with the Pittsburgh Penguins on Friday. It begins with the 2027-28 season and has an average annual value of $4.65 million."
+        }
+      },
+      "trade": {
+        "date": "2025-03-06",
+        "headline": "Predators Acquire Michael Bunting, Fourth-Round Pick in 2026 NHL Draft From Pittsburgh",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-michael-bunting-fourth-round-pick-in-2026-nhl-draft-from-pittsburgh-2025-03-05"
+      }
+    },
+    {
+      "player": {
+        "id": 8476483,
+        "name": "Rickard Rakell",
+        "first": "Rickard",
+        "last": "Rakell",
+        "pos": "R",
+        "sweater": 67
+      },
+      "birth_date": "1993-05-05",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/penguins-sign-rickard-rakell-to-six-year-contract-334789752",
+        "date": "2022-07-12",
+        "headline": "Rakell signs six-year, $30 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5000000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Rickard Rakell signed a six-year, $30 million contract with the Pittsburgh Penguins on Monday. It has an average annual value of $5 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-22",
+        "headline": "Rakell traded to Penguins by Ducks for Aston-Reese, Simon",
+        "url": "https://www.nhl.com/news/rickard-rakell-traded-to-pittsburgh-penguins-by-anaheim-ducks-331856986"
+      }
+    },
+    {
+      "player": {
+        "id": 8481582,
+        "name": "Nick Robertson",
+        "first": "Nick",
+        "last": "Robertson",
+        "pos": "L",
+        "sweater": 14
+      },
+      "birth_date": "2001-09-11",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nicholas-robertson-signs-2-year-contract-with-pittsburgh-penguins",
+        "date": "2026-07-14",
+        "headline": "Robertson signs 2-year, $6.5 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3250000,
+          "total_value_usd": 6500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nicholas Robertson signed a two-year, $6.5 million contract with the Pittsburgh Penguins on Tuesday, avoiding an arbitration hearing. It has an average annual value of $3.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-01",
+        "headline": "Robertson traded to Penguins by Maple Leafs for draft pick",
+        "url": "https://www.nhl.com/news/nicholas-robertson-traded-to-pittsburgh-penguins-by-toronto-maple-leafs"
+      }
+    },
+    {
+      "player": {
+        "id": 8475810,
+        "name": "Bryan Rust",
+        "first": "Bryan",
+        "last": "Rust",
+        "pos": "R",
+        "sweater": 17
+      },
+      "birth_date": "1992-05-11",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-sign-bryan-rust-to-six-year-contract-334235686",
+        "date": "2022-05-23",
+        "headline": "Rust agrees to six-year contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5125000,
+          "total_value_usd": 30750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Bryan Rust agreed to a six-year, $30.75 million contract with the Pittsburgh Penguins on Saturday. It has an average annual value of $5.125 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481725,
+        "name": "Elmer Soderblom",
+        "first": "Elmer",
+        "last": "Soderblom",
+        "pos": "L",
+        "sweater": 25
+      },
+      "birth_date": "2001-07-05",
+      "draft_team": "DET",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkJORG9CNlVxR0tTQWI5R2xldGNjV0ttMXFUc1pibXFpUWZDQmNwTEVhOUhyWE1xTFJIX0tVWkZ2NmI2LTU3X0k4TVB4Q3pLWGRMZTQzaExBM0VtdTRWUGJNdTBYWlU2OGo4cDM4THZSUDg0YjkteTB3Qi1NVDllZm9tcDNYY3lxcEdLN1Y3MVAxSjMxSGdRU2VRQzNtRzhfcnc?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-07-02",
+        "headline": "Red Wings re-sign F Elmer Soderblom to two-year, $2.25M contract",
+        "signing_team": "DET",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1125000,
+          "total_value_usd": 2250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Red Wings re-sign F Elmer Soderblom to two-year, $2.25M contract"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/redwings/news/happy-to-re-sign-two-year-deal-with-detroit-soderblom-confident-offseason-work-will-pay-off",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483398,
+        "name": "Declan Carlile",
+        "first": "Declan",
+        "last": "Carlile",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "2000-05-18",
+      "draft_team": null,
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVh1T1JyRENOWDVfMzdyTWt3NmtjdEpoYmlIWTV6Z1l3aTlGXzMtRXN6Z0xVMF9jdE1fcEZFNlhVdzc1dkwzMU4zQVNWZ0cyZmVPVHdQQ29YWGJ1LVdyc0ZEZUljejdTZ2FCSHZuc1pvZlp4RzhoU0YySXdXTWZFQ0pzMGJJVG1YQkd5bTBVVm4?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-01",
+        "headline": "Penguins Sign Defenseman Declan Carlile to a Two-Year Contract",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins Sign Defenseman Declan Carlile to a Two-Year Contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479398,
+        "name": "Samuel Girard",
+        "first": "Samuel",
+        "last": "Girard",
+        "pos": "D",
+        "sweater": 49
+      },
+      "birth_date": "1998-05-12",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/samuel-girard-signs-seven-year-deal-with-colorado-308402552",
+        "date": "2019-07-31",
+        "headline": "Girard signs seven-year extension with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2020-21",
+        "end_season": "2026-27",
+        "start_yr": 2020,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Samuel Girard signed a seven-year contract extension with the Colorado Avalanche on Wednesday. Financial terms were not released."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-02-25",
+        "headline": "Girard traded to Penguins by Avalanche for Kulak",
+        "url": "https://www.nhl.com/news/samuel-girard-traded-to-pittsburgh-by-colorado-for-brett-kulak"
+      }
+    },
+    {
+      "player": {
+        "id": 8474578,
+        "name": "Erik Karlsson",
+        "first": "Erik",
+        "last": "Karlsson",
+        "pos": "D",
+        "sweater": 65
+      },
+      "birth_date": "1990-05-31",
+      "draft_team": "OTT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/erik-karlsson-and-san-jose-sharks-agree-to-contract-307876282",
+        "date": "2019-06-17",
+        "headline": "Karlsson signs eight-year contract with Sharks",
+        "signing_team": "SJS",
+        "start_season": "2019-20",
+        "end_season": "2026-27",
+        "start_yr": 2019,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Erik Karlsson signed an eight-year contract to remain with the San Jose Sharks on Monday. Financial terms were not released."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-01-08",
+        "headline": "Karlsson focused on winning Stanley Cup with Penguins, not Trade Deadline",
+        "url": "https://www.nhl.com/news/erik-karlsson-focused-on-winning-stanley-cup-with-pittsburgh-penguins-not-trade-deadline"
+      }
+    },
+    {
+      "player": {
+        "id": 8481527,
+        "name": "Kaedan Korczak",
+        "first": "Kaedan",
+        "last": "Korczak",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "2001-01-29",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kaedan-korczak-signs-4-year-contract-with-vegas-golden-knights",
+        "date": "2025-07-02",
+        "headline": "Korczak signs 4-year, $13 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3250000,
+          "total_value_usd": 13000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kaedan Korczak signed a four-year, $13 million contract with the Vegas Golden Knights on Wednesday. It has an average annual value of $3.25 million and begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8471724,
+        "name": "Kris Letang",
+        "first": "Kris",
+        "last": "Letang",
+        "pos": "D",
+        "sweater": 58
+      },
+      "birth_date": "1987-04-24",
+      "draft_team": "PIT",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kris-letang-hopes-pittsburgh-penguins-can-sign-evgeni-malkin-334868366",
+        "date": "2022-07-08",
+        "headline": "Letang hopes new contract with Penguins leaves room to sign Malkin",
+        "signing_team": "PIT",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 6100000,
+          "total_value_usd": 36600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**MONTREAL --** Kris Letang said he wanted to stay with the Pittsburgh Penguins all along and structured his new contract in the hope that longtime teammate Evgeni Malkin can also stick around. The 35-year-old defenseman, who [agreed to a six-year, $36.6 million contract](https://www.nhl.com/news/kris-letang-agrees-to-"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-03-05",
+        "headline": "Letang, Penguins in unfamiliar position days ahead of NHL Trade Deadline",
+        "url": "https://www.nhl.com/news/kris-letang-says-pittsburgh-in-strange-spot-ahead-of-trade-deadline"
+      }
+    },
+    {
+      "player": {
+        "id": 8481056,
+        "name": "Spencer Stastney",
+        "first": "Spencer",
+        "last": "Stastney",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "2000-01-04",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/shakir-mukhamadullin-spencer-stastney-each-sign-with-edmonton-oilers",
+        "date": "2026-07-05",
+        "headline": "Mukhamadullin signs 2-year, $3.5 million contract with Oilers",
+        "signing_team": "EDM",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1525000,
+          "total_value_usd": 1525000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "adullin has 22 points (seven goals, 15 assists) in 83 games, all with San Jose. Edmonton also signed defenseman Spencer Stastney on Sunday to a one-year, $1.525 million contract."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477845,
+        "name": "Trevor van Riemsdyk",
+        "first": "Trevor",
+        "last": "van Riemsdyk",
+        "pos": "D",
+        "sweater": 57
+      },
+      "birth_date": "1991-07-24",
+      "draft_team": null,
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmgwQmF0UmFIbG9IX21DdzlYSER0ZUh5X1ZZOGZkaW50Mk9XYTB5S3JUcmxfVDI2V0RiZ182RnJPZHVlVHV1OGpDTDR1OGtuaDVhZzZod01WTWJIcTluajd6RkNqLThGY1dwQ1BJOHMyOUIxdVpPSG1BZmFqazU5TFFuU0lLTTcxQnpIb2lpeDVpaHBSVEFB?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-01",
+        "headline": "Penguins Sign Defenseman Trevor van Riemsdyk to a Two-Year Contract",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins Sign Defenseman Trevor van Riemsdyk to a Two-Year Contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483703,
+        "name": "Sergei Murashov",
+        "first": "Sergei",
+        "last": "Murashov",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "2004-04-01",
+      "draft_team": "PIT",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLURmZ3lka01RMWhtMUNjZzA4Z1RMcV9zMlhkRXFlVUc4djlPOTl4QzBmV1hvcDAwV3hBLXFSblJjN0h4dktTdXJiSTFpSXQtdEhLcGVKNEZHMkZXSngzN3RZckVlVnR6Mm1idnozVk5lWVRHSS1idE1kb3dNWXBxRE8xREd5aDduUjhUUlNCYlFxV1Robmdka3dxSTdKM3oyWXpaRlpJR0MxMUR5dE44eg?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2024-07-30",
+        "headline": "Penguins Sign Goaltender Sergei Murashov to a Three-Year, Entry-Level Contract | Pittsburgh Penguins",
+        "signing_team": "PIT",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Penguins Sign Goaltender Sergei Murashov to a Three-Year, Entry-Level Contract | Pittsburgh Penguins"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481668,
+        "name": "Arturs Silovs",
+        "first": "Arturs",
+        "last": "Silovs",
+        "pos": "G",
+        "sweater": 37
+      },
+      "birth_date": "2001-03-22",
+      "draft_team": "VAN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/egor-chinakhov-gets-3-year-deal-with-pittsburgh-penguins",
+        "date": "2026-07-05",
+        "headline": "Chinakhov signs 3-year, $18.75 million contract with Penguins",
+        "signing_team": "PIT",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 2800000,
+          "total_value_usd": 2800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "NHL Draft, Chinakhov has 113 points (55 goals, 58 assists) in 247 regular-season games. The Penguins also signed Arturs Silovs to a one-year, $2.8 million contract on Sunday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-13",
+        "headline": "Silovs traded to Penguins by Canucks for Stillman, draft pick",
+        "url": "https://www.nhl.com/news/vancouver-canucks-trade-arturs-silovs-to-pittsburgh-penguins"
+      }
+    }
+  ]
+}

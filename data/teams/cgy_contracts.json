@@ -1,0 +1,2358 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "CGY",
+  "team_name": "Calgary Flames",
+  "generated_at_utc": "2026-11-26T22:49:25Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/CGY/current",
+  "summary": {
+    "roster_players": 24,
+    "contracts_with_verified_source_url": 24,
+    "contracts_matched_nhlpa": 24,
+    "contracts_with_public_aav": 24,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 83560833,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 83560833
+  },
+  "contracts": [
+    {
+      "player_id": 8474150,
+      "player_name": "Mikael Backlund",
+      "position": "C",
+      "sweater_number": 11,
+      "birth_date": "1989-03-17",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-09-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 3250000,
+      "total_value_usd": 6500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mikael-backlund-signs-2-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3700000,
+      "current_season_base_salary_usd": 3700000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "CGY",
+          "aav_usd": 853125,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "CGY",
+          "aav_usd": 853125,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "CGY",
+          "aav_usd": 725000,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "CGY",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "CGY",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "CGY",
+          "aav_usd": 3575000,
+          "total_salary_usd": 3575000,
+          "base_salary_usd": 3575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "CGY",
+          "aav_usd": 3575000,
+          "total_salary_usd": 3575000,
+          "base_salary_usd": 3575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CGY",
+          "aav_usd": 3575000,
+          "total_salary_usd": 3575000,
+          "base_salary_usd": 3575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 4350000,
+          "base_salary_usd": 4350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3700000,
+          "base_salary_usd": 3700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484154,
+      "player_name": "Jonathan Castagna",
+      "position": "C",
+      "sweater_number": 38,
+      "birth_date": "2005-04-20",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 1075000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/mackenzie-weegar-traded-to-utah-mammoth-by-calgary-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1025000,
+      "current_season_base_salary_usd": 922500,
+      "current_season_signing_bonus_usd": 102500,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 1075000,
+          "total_salary_usd": 1025000,
+          "base_salary_usd": 922500,
+          "signing_bonus_usd": 102500,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482679,
+      "player_name": "Matt Coronato",
+      "position": "R",
+      "sweater_number": 27,
+      "birth_date": "2002-11-14",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-05-03",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2032)",
+      "term_years": 7,
+      "aav_usd": 6500000,
+      "total_value_usd": 45500000,
+      "start_season": "2025-26",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matt-coronato-signs-seven-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6500000,
+      "current_season_base_salary_usd": 6500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480797,
+      "player_name": "Joel Farabee",
+      "position": "L",
+      "sweater_number": 86,
+      "birth_date": "2000-02-25",
+      "current_team": "CGY",
+      "signing_team": "PHI",
+      "signed_date": "2021-09-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 6,
+      "aav_usd": 5000000,
+      "total_value_usd": 30000000,
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/philadelphia-flyers-joel-farabee-contract-extension-326064668",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/andrei-kuzmenko-traded-to-flyers-from-flames-for-morgan-frost-joel-farabee"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 1500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480028,
+      "player_name": "Morgan Frost",
+      "position": "C",
+      "sweater_number": 16,
+      "birth_date": "1999-05-14",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-07-03",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 4375000,
+      "total_value_usd": 8750000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/morgan-frost-signs-2-year-deal-with-calgary",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/andrei-kuzmenko-traded-to-flyers-from-flames-for-morgan-frost-joel-farabee"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4375000,
+      "current_season_base_salary_usd": 4375000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "PHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 350000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 4375000,
+          "total_salary_usd": 4375000,
+          "base_salary_usd": 3875000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 4375000,
+          "total_salary_usd": 4375000,
+          "base_salary_usd": 4375000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484860,
+      "player_name": "Matvei Gridin",
+      "position": "R",
+      "sweater_number": 92,
+      "birth_date": "2006-03-01",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2024-07-05",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGs5NGhqOHFnRzVfaHo2YzdnVTBpa3g3NlVpbFlOTE95bFNjNHZaY3dpbi1NSlIzWElUWXpJaVpKeVhVaVdjRDlRRndGY1JBRGlfZFZEMWtkektwTGpTVURzUXVMUnNza0xRVjZ3RjBJQ1JGbS0xVWNkWFVfenhKWXJibnowcTgzdDJwZVpraFR2RUFyT2FRQTA5LVRtYVU?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8476456,
+      "player_name": "Jonathan Huberdeau",
+      "position": "L",
+      "sweater_number": 10,
+      "birth_date": "1993-06-04",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2022-08-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 10500000,
+      "total_value_usd": 84000000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkRpVUNFM052SmozYVMyTjE5QXBBdXlZX1RuMi00N01WbkI1SmNQUFV5bEw4SmRDQ3dUcHAxaU5PejFDcHlOSzZoV1M4OHU2N3dGLW1YYXBsbEx4WEt3M1RVVmFOTUdOd081U0xKTTJ5RmV3bC1xbzdpWl8tQmRJQTk4aERENEhHM2UtQnZR?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/sitting-down-with-jacob-markstrom-335496054"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 9500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "FLA",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "FLA",
+          "aav_usd": 3250000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "FLA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 6200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "FLA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 6200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "FLA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 6200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 4200000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 10500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 10500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 10500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 7000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 10500000,
+          "total_salary_usd": 10500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 9500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483609,
+      "player_name": "Adam Klapka",
+      "position": "R",
+      "sweater_number": 43,
+      "birth_date": "2000-09-14",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-06-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1250000,
+      "total_value_usd": 2500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://flamesnation.ca/news/flames-sign-forward-adam-klapka-to-two-year-contract-extension-1-25-million-aav",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 832500,
+          "total_salary_usd": 820000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 832500,
+          "total_salary_usd": 845000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1150000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482747,
+      "player_name": "Brennan Othmann",
+      "position": "L",
+      "sweater_number": 78,
+      "birth_date": "2003-01-05",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2026-09-18",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 975000,
+      "total_value_usd": 975000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/flames/news/flames-re-sign-forward-brennan-othmann",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVNxMWFXdzVpOGIwWmY5MWZoaGppWUpkYTNJWkRnRWY0YkFFdF8wWnFlZ2lXVllNc0lWckVwWDBpbzFCcDh4RlotSm1Ld3MwYXdfWG1MSWdBSVdiekZvOUY2d0x6OXhGZkV6eHZmNWFEZHNZRUphR3FYR3B0Q1NZN0dsRQ?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 975000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 220000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 220000
+        }
+      }
+    },
+    {
+      "player_id": 8481028,
+      "player_name": "Martin Pospisil",
+      "position": "C",
+      "sweater_number": 76,
+      "birth_date": "1999-11-19",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-07-30",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 2500000,
+      "total_value_usd": 7500000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/martin-pospisil-gets-3-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "CGY",
+          "aav_usd": 796667,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 796667,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 796667,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481068,
+      "player_name": "Yegor Sharangovich",
+      "position": "C",
+      "sweater_number": 17,
+      "birth_date": "1998-06-06",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 5750000,
+      "total_value_usd": 28750000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/yegor-sharangovich-signs-5-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/calgary-flames-trade-tyler-toffoli-to-new-jersey-devils-for-yegor-shar-345054908"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5750000,
+      "current_season_base_salary_usd": 4750000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NJD",
+          "aav_usd": 775833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 2000000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1650000,
+          "signing_bonus_usd": 150000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2050000,
+          "signing_bonus_usd": 150000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 3100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 5750000,
+          "total_salary_usd": 5750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476458,
+      "player_name": "Ryan Strome",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "1993-07-11",
+      "current_team": "CGY",
+      "signing_team": "ANA",
+      "signed_date": "2022-07-15",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ducks-ryan-strome-five-year-contract-334789862",
+      "secondary_source_url": "https://www.nhl.com/news/ryan-strome-ready-for-great-opportunity-following-trade-to-flames",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/ryan-strome-ready-for-great-opportunity-following-trade-to-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "NYI",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "EDM",
+          "aav_usd": 2500000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "EDM",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3200000,
+          "base_salary_usd": 3200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484234,
+      "player_name": "Aydar Suniev",
+      "position": "L",
+      "sweater_number": 61,
+      "birth_date": "2004-11-16",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-04-02",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 923333,
+      "total_value_usd": 2769999,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMW11LUZnQS1tWGc0MWd5bWM0QlN4TFBwNFhaWnZOSU5KSEx4TlV6X3NEeERTY2dTVXdCZzFKcDBuVWo4dF9TWXIzMmNPQ2NoZ0RfZnNCWFJCRmhMdDkzbFQxQV9nV09DU1M4c1BuOVJVMWRraFhiMXpsMXdwcjB4TUV5TVZaazN6R2I3ek5UT1BsUEgzUGFGNTlWcEVxdw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 923333,
+          "total_salary_usd": 870000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 923333,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 923333,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8484958,
+      "player_name": "Maxim Tsyplakov",
+      "position": "R",
+      "sweater_number": 72,
+      "birth_date": "1998-09-19",
+      "current_team": "CGY",
+      "signing_team": "NYI",
+      "signed_date": "2025-07-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2250000,
+      "total_value_usd": 4500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/islanders/news/islanders-sign-tsyplakov",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/simon-nemec-traded-to-calgary-flames-by-new-jersey-devils"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NYI",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480860,
+      "player_name": "Kevin Bahl",
+      "position": "D",
+      "sweater_number": 7,
+      "birth_date": "2000-06-27",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-06-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2031)",
+      "term_years": 6,
+      "aav_usd": 5350000,
+      "total_value_usd": 32100000,
+      "start_season": "2025-26",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kevin-bahl-signs-6-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/jacob-markstrom-traded-to-new-jersey-by-calgary"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5350000,
+      "current_season_base_salary_usd": 5350000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 794375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 794375,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 794375,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 1050000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 2350000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 5350000,
+          "total_salary_usd": 5350000,
+          "base_salary_usd": 5350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477810,
+      "player_name": "Joel Hanley",
+      "position": "D",
+      "sweater_number": 44,
+      "birth_date": "1991-06-08",
+      "current_team": "CGY",
+      "signing_team": "DAL",
+      "signed_date": "2026-07-27",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1750000,
+      "total_value_usd": 1750000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakxBV1E0MHNoMUMzNHVHRTFxdjBINEJnZDJhZWRteFFrTDd5ODRqalRocTNGdTJNSlZXV2pXenhibFZoRm8wSDZ1aFNSenZCM0RFVDBhejVYbkswZW5FQ0pRSWdQU0pPY2lDSms5ZzdwZVhJellpWkZwSWNGTHpfX1laNHVnblkzb1N4MWtHdVE3Mk9pVGFEVW00LVp6Zmp5QnMwM0dMOGluc2ZVbGN3?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1750000,
+      "current_season_base_salary_usd": 1750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "MTL",
+          "aav_usd": 667500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2017-18": {
+          "team": "DAL",
+          "aav_usd": 725000,
+          "total_salary_usd": 725000,
+          "base_salary_usd": 725000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2018-19": {
+          "team": "DAL",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2019-20": {
+          "team": "DAL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 275000
+        },
+        "2020-21": {
+          "team": "DAL",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2021-22": {
+          "team": "DAL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "DAL",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 787500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 787500,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482165,
+      "player_name": "Yan Kuznetsov",
+      "position": "D",
+      "sweater_number": 37,
+      "birth_date": "2002-03-09",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-07-17",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUUzWGNxTW1UZTZhZkJscTJmRERyWS0xYmRGVDJDcFlyOGtTWElDalkxQWRJZzVrWG8yR1RNYWtBUmg1MWpHZUlZSV9fU3pNVEY4ZUJ6NVRGUGx0V1QtYXY2TE43T0ctTEZiYWdXOUw2UFdGOXZ4RmtfcHVEMThmYkRKYkxQZVR4UGxPcXA4Snl1Rjk2bnk4eWlKT2FJblk?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 875625,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 875625,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 875625,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 875625,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478136,
+      "player_name": "Jake Middleton",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "1996-01-02",
+      "current_team": "CGY",
+      "signing_team": "MIN",
+      "signed_date": "2024-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4350000,
+      "total_value_usd": 17400000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jake-middleton-signs-4-year-contract-with-minnesota-wild",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/coleman-maatta-traded-to-wild-from-flames-for-middleton-plus-draft-picks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3450000,
+      "current_season_base_salary_usd": 3450000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "SJS",
+          "aav_usd": 735000,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 735000,
+          "total_salary_usd": 720000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 735000,
+          "total_salary_usd": 770000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 2450000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 2450000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "MIN",
+          "aav_usd": 2450000,
+          "total_salary_usd": 2050000,
+          "base_salary_usd": 2050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 4350000,
+          "total_salary_usd": 4600000,
+          "base_salary_usd": 4600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 4350000,
+          "total_salary_usd": 3450000,
+          "base_salary_usd": 3450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483495,
+      "player_name": "Simon Nemec",
+      "position": "D",
+      "sweater_number": 71,
+      "birth_date": "2004-02-15",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2026-07-06",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2031)",
+      "term_years": 5,
+      "aav_usd": 7250000,
+      "total_value_usd": 36250000,
+      "start_season": "2026-27",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/simon-nemec-signs-5-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/simon-nemec-ready-for-new-challenge-with-calgary-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7750000,
+      "current_season_base_salary_usd": 5750000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "NJD",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "NJD",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "NJD",
+          "aav_usd": 926250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 926250,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7750000,
+          "base_salary_usd": 5750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481167,
+      "player_name": "Brayden Pachal",
+      "position": "D",
+      "sweater_number": 94,
+      "birth_date": "1999-08-23",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2024-12-17",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1187500,
+      "total_value_usd": 2375000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1BiZVRDbklWLU83MFhSVTFlbXU3U0djb0E3d1NJV2RrbjJLLXhJUWJaR1o3TV9sanVuV2dQb21ZWHIwSmdKN3pWWktYTTQyeTZZc0hSczFTWGIxY3A5ZDJYMktyM1Q2S1Z4WERZWlh6czZ2NXdqbWg3MmQ4VTR0MUZrR0NFOW42Qk4wVFRseVdKbXhydlVGSTlhVlh0VjZ4NWlyQUpnT1cwUQ?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1187500,
+      "current_season_base_salary_usd": 1187500,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 765000,
+          "total_salary_usd": 745000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 45000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 765000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 765000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 1187500,
+          "total_salary_usd": 1187500,
+          "base_salary_usd": 1187500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 1187500,
+          "total_salary_usd": 1187500,
+          "base_salary_usd": 1187500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484768,
+      "player_name": "Zayne Parekh",
+      "position": "D",
+      "sweater_number": 19,
+      "birth_date": "2006-02-15",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2024-07-05",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGs5NGhqOHFnRzVfaHo2YzdnVTBpa3g3NlVpbFlOTE95bFNjNHZaY3dpbi1NSlIzWElUWXpJaVpKeVhVaVdjRDlRRndGY1JBRGlfZFZEMWtkektwTGpTVURzUXVMUnNza0xRVjZ3RjBJQ1JGbS0xVWNkWFVfenhKWXJibnowcTgzdDJwZVpraFR2RUFyT2FRQTA5LVRtYVU?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8480727,
+      "player_name": "Zach Whitecloud",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "1996-11-28",
+      "current_team": "CGY",
+      "signing_team": "VGK",
+      "signed_date": "2021-10-28",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 2750000,
+      "total_value_usd": 16500000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/zach-whitecloud-signs-deal-with-vegas-327327388",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/rasmus-andersson-traded-to-golden-knights-by-flames"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 725000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482445,
+      "player_name": "Devin Cooley",
+      "position": "G",
+      "sweater_number": 1,
+      "birth_date": "1997-05-25",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 1350000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": false,
+      "source_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/calgary-goalies-set-for-open-competition-at-camp"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1350000,
+      "current_season_base_salary_usd": 1350000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 785000,
+          "total_salary_usd": 760000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 785000,
+          "total_salary_usd": 810000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 787500,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481692,
+      "player_name": "Dustin Wolf",
+      "position": "G",
+      "sweater_number": 32,
+      "birth_date": "2001-04-16",
+      "current_team": "CGY",
+      "signing_team": "CGY",
+      "signed_date": "2025-09-09",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 7500000,
+      "total_value_usd": 52500000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dustin-wolf-signs-7-year-contract-with-calgary-flames",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/calgary-goalies-set-for-open-competition-at-camp"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 6000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/calgary-flames",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "CGY",
+          "aav_usd": 805625,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "CGY",
+          "aav_usd": 805625,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 82500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "CGY",
+          "aav_usd": 805625,
+          "total_salary_usd": 835000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 805625,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "CGY",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 275000
+        },
+        "2025-26": {
+          "team": "CGY",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "CGY",
+          "aav_usd": 7500000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

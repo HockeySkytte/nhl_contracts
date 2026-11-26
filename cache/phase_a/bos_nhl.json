@@ -1,0 +1,757 @@
+{
+  "team": "BOS",
+  "team_name": "Boston Bruins",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8479591,
+        "name": "Michael Eyssimont",
+        "first": "Michael",
+        "last": "Eyssimont",
+        "pos": "C",
+        "sweater": 81
+      },
+      "birth_date": "1996-09-09",
+      "draft_team": "LAK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/bruins/news/bruins-announce-july-1-transactions-x3998",
+        "date": "2025-07-01",
+        "headline": "Bruins Announce July 1 Transactions",
+        "signing_team": "BOS",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1450000,
+          "total_value_usd": 2900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "l with Team USA at the 2013 IIHF World Junior Championship, recording three points in seven tournament games. **Michael Eyssimont, Forward, 2 Years, $1.45 million AAV** The Bruins have signed forward Michael Eyssimont to a two-year contract with an annual cap hit of $1.45 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479987,
+        "name": "Morgan Geekie",
+        "first": "Morgan",
+        "last": "Geekie",
+        "pos": "C",
+        "sweater": 39
+      },
+      "birth_date": "1998-07-20",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/morgan-geekie-signs-six-year-contract-with-bruins",
+        "date": "2025-06-30",
+        "headline": "Geekie signs 6-year, $33 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5500000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Morgan Geekie signed a six-year, $33 million contract with the Boston Bruins on Sunday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485395,
+        "name": "James Hagens",
+        "first": "James",
+        "last": "Hagens",
+        "pos": "C",
+        "sweater": 44
+      },
+      "birth_date": "2006-11-03",
+      "draft_team": "BOS",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479661,
+        "name": "Tanner Jeannot",
+        "first": "Tanner",
+        "last": "Jeannot",
+        "pos": "L",
+        "sweater": 84
+      },
+      "birth_date": "1997-05-29",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tanner-jeannot-signs-5-year-contract-with-boston-bruins",
+        "date": "2025-07-01",
+        "headline": "Jeannot signs 5-year, $17 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 3400000,
+          "total_value_usd": 17000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tanner Jeannot signed a five-year, $17 million contract with the Boston Bruins on Tuesday. It has an average annual value of $3.4 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480355,
+        "name": "Mark Kastelic",
+        "first": "Mark",
+        "last": "Kastelic",
+        "pos": "C",
+        "sweater": 47
+      },
+      "birth_date": "1999-03-11",
+      "draft_team": "OTT",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482177,
+        "name": "Marat Khusnutdinov",
+        "first": "Marat",
+        "last": "Khusnutdinov",
+        "pos": "C",
+        "sweater": 92
+      },
+      "birth_date": "2002-07-17",
+      "draft_team": "MIN",
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/marat-khusnutdinov-signs-three-year-contract-with-boston-bruins",
+        "date": "2026-10-21",
+        "headline": "Khusnutdinov signs three-year, $11.85 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "start_yr": 2027,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3950000,
+          "total_value_usd": 11850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Marat Khusnutdinov signed a three-year, $11.85 million contract with the Boston Bruins on Wednesday. It begins next season and has an average annual value of $3.95 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476374,
+        "name": "Sean Kuraly",
+        "first": "Sean",
+        "last": "Kuraly",
+        "pos": "C",
+        "sweater": 52
+      },
+      "birth_date": "1993-01-20",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/bruins/news/bruins-announce-july-1-transactions-x3998",
+        "date": "2025-07-01",
+        "headline": "Bruins Announce July 1 Transactions",
+        "signing_team": "BOS",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1850000,
+          "total_value_usd": 3700000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "ists for 93 points. The Estevan, Saskatchewan native was originally signed by Nashville as a free agent in 2018."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477496,
+        "name": "Elias Lindholm",
+        "first": "Elias",
+        "last": "Lindholm",
+        "pos": "C",
+        "sweater": 28
+      },
+      "birth_date": "1994-12-02",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/elias-lindholm-willing-to-sign-contract-to-stay-with-calgary-flames",
+        "date": "2023-09-13",
+        "headline": "Lindholm willing to sign contract to stay with Flames",
+        "signing_team": "CGY",
+        "start_season": "2023-24",
+        "end_season": "2028-29",
+        "start_yr": 2023,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4850000,
+          "total_value_usd": 29100000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "**CALGARY --** Elias Lindholm is willing to sign a contract to remain with the Calgary Flames. The 28-year-old forward is in the final season of a six-year, $29.1 million contract ($4.85 million average annual value) he signed July 16, 2018, and can become an unrestricted free agent after the season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-20",
+        "headline": "Lindholm agrees to eight-year contract with Bruins one day after trade",
+        "url": "https://www.nhl.com/news/hampus-lindholm-traded-to-bruins-by-ducks-332020338"
+      }
+    },
+    {
+      "player": {
+        "id": 8483489,
+        "name": "Fraser Minten",
+        "first": "Fraser",
+        "last": "Minten",
+        "pos": "C",
+        "sweater": 93
+      },
+      "birth_date": "2004-07-05",
+      "draft_team": "TOR",
+      "active": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/fraser-minten-signs-7-year-contact-with-boston-bruins",
+        "date": "2026-09-08",
+        "headline": "Minten signs 7-year, $50.4 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2027-28",
+        "end_season": "2033-34",
+        "start_yr": 2027,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7200000,
+          "total_value_usd": 50400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Fraser Minten signed a seven-year, $50.4 million contract with the Boston Bruins on Tuesday. The deal begins next season and has an average annual value of $7.2 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479999,
+        "name": "Casey Mittelstadt",
+        "first": "Casey",
+        "last": "Mittelstadt",
+        "pos": "C",
+        "sweater": 11
+      },
+      "birth_date": "1998-11-22",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/casey-mittelstadt-signs-3-year-deal-with-colorado-avalanche",
+        "date": "2024-06-25",
+        "headline": "Mittelstadt signs 3-year contract to remain with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Casey Mittelstadt signed a three-year contract with the Colorado Avalanche on Tuesday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-03-08",
+        "headline": "Coyle traded to Avalanche by Bruins for Mittelstadt",
+        "url": "https://www.nhl.com/news/charlie-coyle-traded-to-avalanche-by-bruins-for-casey-mittelstadt"
+      }
+    },
+    {
+      "player": {
+        "id": 8477956,
+        "name": "David Pastrnak",
+        "first": "David",
+        "last": "Pastrnak",
+        "pos": "R",
+        "sweater": 88
+      },
+      "birth_date": "1996-05-25",
+      "draft_team": "BOS",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482175,
+        "name": "JJ Peterka",
+        "first": "JJ",
+        "last": "Peterka",
+        "pos": "R",
+        "sweater": 10
+      },
+      "birth_date": "2002-01-14",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/buffalo-sabres-trade-jj-peterka-to-utah-mammoth",
+        "date": "2025-06-26",
+        "headline": "Peterka traded to Mammoth by Sabres, signs 5-year contract",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 7700000,
+          "total_value_usd": 38500000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "JJ Peterka was traded to the Utah Mammoth by the Buffalo Sabres on Thursday for defenseman Michael Kesselring and forward Josh Doan. Peterka signed a five-year, $38.5 million contract ($7.7 million average annual value) with Utah."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-27",
+        "headline": "Peterka views Bruins as \u2018awesome fit\u2019 after trade from Mammoth",
+        "url": "https://www.nhl.com/news/jj-peterka-views-boston-bruins-as-awesome-fit-after-trade-from-utah-mammoth"
+      }
+    },
+    {
+      "player": {
+        "id": 8483505,
+        "name": "Matthew Poitras",
+        "first": "Matthew",
+        "last": "Poitras",
+        "pos": "C",
+        "sweater": 51
+      },
+      "birth_date": "2004-03-10",
+      "draft_team": "BOS",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478401,
+        "name": "Pavel Zacha",
+        "first": "Pavel",
+        "last": "Zacha",
+        "pos": "C",
+        "sweater": 18
+      },
+      "birth_date": "1997-04-06",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pavel-zacha-signs-4-year-contract-with-boston-bruins-339962724",
+        "date": "2023-01-16",
+        "headline": "Zacha signs 4-year, $19 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4750000,
+          "total_value_usd": 19000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Pavel Zacha signed a four-year, $19 million contract with the Boston Bruins on Saturday. It has an average annual value of $4.75 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481219,
+        "name": "Jonathan Aspirot",
+        "first": "Jonathan",
+        "last": "Aspirot",
+        "pos": "D",
+        "sweater": 45
+      },
+      "birth_date": "1999-05-16",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478840,
+        "name": "Will Borgen",
+        "first": "Will",
+        "last": "Borgen",
+        "pos": "D",
+        "sweater": 17
+      },
+      "birth_date": "1996-12-19",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/will-borgen-signs-five-year-contract-with-new-york-rangers",
+        "date": "2025-01-25",
+        "headline": "Borgen signs 5-year, $20.5 million contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4100000,
+          "total_value_usd": 20500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Will Borgen signed a five-year, $20.5 million contract with the New York Rangers on Saturday. It has an average annual value of $4.1 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483017,
+        "name": "Frederic Brunet",
+        "first": "Frederic",
+        "last": "Brunet",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "2003-08-21",
+      "draft_team": "BOS",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477365,
+        "name": "Connor Clifton",
+        "first": "Connor",
+        "last": "Clifton",
+        "pos": "D",
+        "sweater": 75
+      },
+      "birth_date": "1995-04-28",
+      "draft_team": "PHX",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/connor-clifton-signs-2-year-contract-with-boston-bruins",
+        "date": "2026-07-01",
+        "headline": "Clifton signs 2-year, $4.5 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2250000,
+          "total_value_usd": 4500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Connor Clifton signed a two-year, $4.5 million contract with the Boston Bruins on Wednesday. It has an average annual value of $2.25 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476854,
+        "name": "Hampus Lindholm",
+        "first": "Hampus",
+        "last": "Lindholm",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "1994-01-20",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/hampus-lindholm-traded-to-bruins-by-ducks-332020338",
+        "date": "2022-03-20",
+        "headline": "Lindholm agrees to eight-year contract with Bruins one day after trade",
+        "signing_team": "BOS",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 6500000,
+          "total_value_usd": 52000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Hampus Lindholm agreed to an eight-year, $52 million contract with the Boston Bruins on Sunday, one day after the defenseman was acquired in a trade with the Anaheim Ducks. The contract has an average annual value of $6.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-20",
+        "headline": "Lindholm agrees to eight-year contract with Bruins one day after trade",
+        "url": "https://www.nhl.com/news/hampus-lindholm-traded-to-bruins-by-ducks-332020338"
+      }
+    },
+    {
+      "player": {
+        "id": 8482511,
+        "name": "Mason Lohrei",
+        "first": "Mason",
+        "last": "Lohrei",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "2001-01-17",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mason-lohrei-signs-2-year-contract-with-boston-bruins",
+        "date": "2025-06-23",
+        "headline": "Lohrei signs 2-year, $6.4 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3200000,
+          "total_value_usd": 6400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mason Lohrei signed a two-year, $6.4 million contract with the Boston Bruins on Monday. It has an average annual value of $3.2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479325,
+        "name": "Charlie McAvoy",
+        "first": "Charlie",
+        "last": "McAvoy",
+        "pos": "D",
+        "sweater": 73
+      },
+      "birth_date": "1997-12-21",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/boston-bruins-agree-to-eight-year-contract-with-charlie-mcavoy-326871158",
+        "date": "2021-10-15",
+        "headline": "McAvoy signs eight-year, $76 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2021-22",
+        "end_season": "2028-29",
+        "start_yr": 2021,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Charlie McAvoy signed an eight-year, $76 million contract with the Boston Bruins on Friday. It has an average annual value of $9.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477507,
+        "name": "Nikita Zadorov",
+        "first": "Nikita",
+        "last": "Zadorov",
+        "pos": "D",
+        "sweater": 91
+      },
+      "birth_date": "1995-04-16",
+      "draft_team": "BUF",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/elias-lindholm-nikita-zadorov-signs-contract-with-boston-bruins",
+        "date": "2024-07-01",
+        "headline": "Lindholm, Zadorov each signs contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5000000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Elias Lindholm and Nikita Zadorov each signed a contract with the Boston Bruins on Monday. Lindholm, a 29-year-old forward had 44 points (15 goals, 29 assists) in 75 regular-season games for the Vancouver Canucks and Calgary Flames last season, including 12 points (six goals, six assists) in 26 games after he was acqui"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480022,
+        "name": "Michael DiPietro",
+        "first": "Michael",
+        "last": "DiPietro",
+        "pos": "G",
+        "sweater": 30
+      },
+      "birth_date": "1999-06-09",
+      "draft_team": "VAN",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480280,
+        "name": "Jeremy Swayman",
+        "first": "Jeremy",
+        "last": "Swayman",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "1998-11-24",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jeremy-swayman-signs-eight-year-contract-with-boston-bruins",
+        "date": "2024-10-06",
+        "headline": "Swayman signs 8-year, $66 million contract with Bruins",
+        "signing_team": "BOS",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8250000,
+          "total_value_usd": 66000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2031-32",
+          "status_hint": null,
+          "quote": "Jeremy Swayman signed an eight-year, $66 million contract with the Boston Bruins on Sunday. It has an average annual value of $8.25 million and runs through the 2031-32 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

@@ -1,0 +1,2598 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "SEA",
+  "team_name": "Seattle Kraken",
+  "generated_at_utc": "2026-11-26T22:49:29Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/SEA/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 87663839,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 379147,
+    "combined_roster_plus_penalties_usd": 88042986
+  },
+  "contracts": [
+    {
+      "player_id": 8482665,
+      "player_name": "Matty Beniers",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "2002-11-05",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-08-20",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 7142857,
+      "total_value_usd": 49999999,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/matty-beniers-signs-7-year-deal-with-seattle",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7150000,
+      "current_season_base_salary_usd": 7150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7150000,
+          "base_salary_usd": 7150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484800,
+      "player_name": "Berkly Catton",
+      "position": "C",
+      "sweater_number": 27,
+      "birth_date": "2006-01-14",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-07-05",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/news/eeli-tolvanen-berkly-catton-each-sign-deals-with-seattle",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8480876,
+      "player_name": "Curtis Douglas",
+      "position": "C",
+      "sweater_number": 42,
+      "birth_date": "2000-03-06",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1250000,
+      "total_value_usd": 2500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHctVWZsVThZUTdBUjdfQTdCR01qbjdJNlRUdmplRVpRVTYybjBweEdwaVE3NExRZEstYXdoMVg2bVphX2pLaGJLYWxHaVptd1R6S3ViVzNiX1poVnpITTdoZ1lMOHU5WEtNcVo5WDNLMGEzYjBrb1p5djVNR2lCOUViWl90eVFvd0RVOFhUcDVyZHhJRG9pRjlCeHNSQQ?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1400000,
+      "current_season_base_salary_usd": 1400000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 837500,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 837500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "UTA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 325000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474586,
+      "player_name": "Jordan Eberle",
+      "position": "R",
+      "sweater_number": 7,
+      "birth_date": "1990-05-15",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-03-06",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 38 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 5500000,
+      "total_value_usd": 11000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-captain-jordan-eberle-signs-contract-extension-bn",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 5500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "EDM",
+          "aav_usd": 853125,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "EDM",
+          "aav_usd": 853125,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "EDM",
+          "aav_usd": 853125,
+          "total_salary_usd": 787500,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "EDM",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "EDM",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "EDM",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "NYI",
+          "aav_usd": 6000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "NYI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477919,
+      "player_name": "Frederick Gaudreau",
+      "position": "C",
+      "sweater_number": 89,
+      "birth_date": "1993-05-01",
+      "current_team": "SEA",
+      "signing_team": "MIN",
+      "signed_date": "2023-04-14",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 5,
+      "aav_usd": 2100000,
+      "total_value_usd": 10500000,
+      "start_season": "2023-24",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/frederick-gaudreau-signs-5-year-10-5-million-contract-with-minnesota-w-343496304",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/frederick-gaudreau-traded-to-seattle-kraken-by-minnesota-wild"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1770000,
+      "current_season_base_salary_usd": 1770000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "NSH",
+          "aav_usd": 595000,
+          "total_salary_usd": 595000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 595000,
+          "total_salary_usd": 595000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 20000,
+          "minor_league_salary_usd": 60000
+        },
+        "2017-18": {
+          "team": "NSH",
+          "aav_usd": 666667,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "NSH",
+          "aav_usd": 666667,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 666667,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "MIN",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2950000,
+          "base_salary_usd": 2950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2240000,
+          "base_salary_usd": 2240000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1770000,
+          "base_salary_usd": 1770000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1770000,
+          "base_salary_usd": 1770000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481554,
+      "player_name": "Kaapo Kakko",
+      "position": "R",
+      "sweater_number": 84,
+      "birth_date": "2001-02-13",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-07-22",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 4525000,
+      "total_value_usd": 13575000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kaapo-kakko-signs-three-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/kraken/news/seattle-kraken-acquire-forward-kaapo-kakko-from-new-york-in-exchange-for-defenseman-will-borgen-a-2025-third-round-pick-and-a-2025-sixth-round-pick-pr"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4525000,
+      "current_season_base_salary_usd": 4525000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 2400000,
+          "total_salary_usd": 2400000,
+          "base_salary_usd": 2400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 4525000,
+          "total_salary_usd": 4525000,
+          "base_salary_usd": 2525000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 4525000,
+          "total_salary_usd": 4525000,
+          "base_salary_usd": 4525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477955,
+      "player_name": "Jared McCann",
+      "position": "L",
+      "sweater_number": 19,
+      "birth_date": "1996-05-31",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2022-03-08",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/seattle-kraken-sign-jared-mccann-to-five-year-contract-331585322",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "VAN",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "FLA",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1125000,
+          "signing_bonus_usd": 125000,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 1250000,
+          "total_salary_usd": 1250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 2940000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 2940000,
+          "total_salary_usd": 3380000,
+          "base_salary_usd": 3380000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482259,
+      "player_name": "Bobby McMann",
+      "position": "C",
+      "sweater_number": 74,
+      "birth_date": "1996-06-15",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-06-21",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 5750000,
+      "total_value_usd": 34500000,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/bobby-mcmann-signs-six-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/bobby-mcmann-delivering-for-kraken-after-trade-from-maple-leafs"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7250000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 2750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5750000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 2750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482874,
+      "player_name": "Jacob Melanson",
+      "position": "R",
+      "sweater_number": 63,
+      "birth_date": "2003-04-22",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-09-04",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (38 more GP needed); otherwise Group 6 UFA",
+      "term_years": 3,
+      "aav_usd": 1450000,
+      "total_value_usd": 4350000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/jacob-melanson-signs-three-year-deal",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1450000,
+      "current_season_base_salary_usd": 1450000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 826250,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 826250,
+          "total_salary_usd": 852500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 77500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 826250,
+          "total_salary_usd": 852500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 77500,
+          "minor_league_salary_usd": 70000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 826250,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483570,
+      "player_name": "Ben Meyers",
+      "position": "C",
+      "sweater_number": 59,
+      "birth_date": "1998-11-15",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-02-24",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1000000,
+      "total_value_usd": 2000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-ben-meyers-and-ryan-wintertonn-on-two-year-contract-extensions-pr",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 912500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 912500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8485383,
+      "player_name": "Jake O'Brien",
+      "position": "C",
+      "sweater_number": 44,
+      "birth_date": "2007-06-16",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-07-03",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 22 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 974375,
+      "total_value_usd": 2923125,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDR4S192aFl2NWFOZHhCbzgzOEpYWVluaGxEdjMtQmtVdGtuQlY3QkVhWFduX2tjbk5yazA1MkJadnFjZksxc0dfVEc2ZXhZSjBJYUNOQkJPcVlDRHJvUEx6R2hDMkFvR2Q4dHFRd19ScGZUcm9uczlkSDBEdEQtakptQjktcnBNLWRIWFlTeGxrcjNqc0dKR1I3X2d5NHNzRE5oa280cw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 974375,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482713,
+      "player_name": "Mackie Samoskevich",
+      "position": "R",
+      "sweater_number": 11,
+      "birth_date": "2002-11-15",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 3850000,
+      "total_value_usd": 11550000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mackie-samoskevich-signs-three-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/seattle-kraken-roster-changes-for-2026-27-season"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "FLA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 3850000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476905,
+      "player_name": "Chandler Stephenson",
+      "position": "C",
+      "sweater_number": 9,
+      "birth_date": "1994-04-22",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 6250000,
+      "total_value_usd": 43750000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brandon-montour-signs-7-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 4250000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 725833,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 725833,
+          "total_salary_usd": 692500,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 725833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 1050000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 1625000,
+          "base_salary_usd": 1625000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3025000,
+          "base_salary_usd": 3025000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3125000,
+          "base_salary_usd": 3125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3225000,
+          "base_salary_usd": 3225000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482751,
+      "player_name": "Ryan Winterton",
+      "position": "C",
+      "sweater_number": 26,
+      "birth_date": "2003-09-04",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-02-24",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1125000,
+      "total_value_usd": 2250000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-ben-meyers-and-ryan-wintertonn-on-two-year-contract-extensions-pr",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1125000,
+      "current_season_base_salary_usd": 1125000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 828750,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 75000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 828750,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 75000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 828750,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 75000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 828750,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1125000,
+          "base_salary_usd": 1125000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484241,
+      "player_name": "Matthew Wood",
+      "position": "R",
+      "sweater_number": 71,
+      "birth_date": "2005-02-06",
+      "current_team": "SEA",
+      "signing_team": "NSH",
+      "signed_date": "2025-03-29",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 950000,
+      "total_value_usd": 2850000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/predators/news/predators-sign-matthew-wood-to-three-year-entry-level-contract-2025-03-29",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/shane-wright-traded-to-nashville-predators-by-seattle-kraken-for-matthew-wood"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "NSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478407,
+      "player_name": "Vince Dunn",
+      "position": "D",
+      "sweater_number": 29,
+      "birth_date": "1996-10-29",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2023-07-24",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 7350000,
+      "total_value_usd": 29400000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-agree-to-terms-with-vince-dunn-on-four-year-contract-345420086",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5400000,
+      "current_season_base_salary_usd": 5400000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 700500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 700500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 700500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 700500,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 700500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 1875000,
+          "total_salary_usd": 1875000,
+          "base_salary_usd": 1875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 7350000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 7350000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 7350000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 7350000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482858,
+      "player_name": "Ryker Evans",
+      "position": "D",
+      "sweater_number": 41,
+      "birth_date": "2001-12-13",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-08-11",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 2050000,
+      "total_value_usd": 4100000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ryker-evans-signs-two-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 897500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 2050000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2025000,
+          "signing_bonus_usd": 75000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 2050000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479985,
+      "player_name": "Cale Fleury",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "1998-11-19",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-06-25",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 890000,
+      "total_value_usd": 1780000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVQ5S3ZzeHdsSEM4bVBKdzhvSWhuVVJ5TDJLa2RockZXbDNuMi1PYmdXR2tZSE12VE1tcnhIZWxCS0pMcHRkb2NHVktSdC1YekRvSWZQYldmMXpKNm5KZF9vcDNjVU9UQldPcExtZjdpRk8yT2hWYXpfYWozcm9TWDRmVXlFQ1ZDczZrWTZGeHMxM0VkTWMycw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "MTL",
+          "aav_usd": 775833,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "MTL",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 75000
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 800000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 800000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 890000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 890000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476457,
+      "player_name": "Adam Larsson",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "1992-11-12",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-09-11",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 4,
+      "aav_usd": 5250000,
+      "total_value_usd": 21000000,
+      "start_season": "2024-25",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/adam-larsson-signs-4-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2012-13": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "NJD",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "NJD",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 4850000,
+          "base_salary_usd": 4850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "EDM",
+          "aav_usd": 4166667,
+          "total_salary_usd": 5050000,
+          "base_salary_usd": 5050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 4166667,
+          "total_salary_usd": 5100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 5250000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5250000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479324,
+      "player_name": "Ryan Lindgren",
+      "position": "D",
+      "sweater_number": 55,
+      "birth_date": "1998-02-11",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-07-03",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 4500000,
+      "total_value_usd": 18000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ryan-lindgren-signs-4-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "NYR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 3000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 4500000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479372,
+      "player_name": "Josh Mahura",
+      "position": "D",
+      "sweater_number": 28,
+      "birth_date": "1998-05-05",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2025-05-31",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 907500,
+      "total_value_usd": 1815000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/seattle-kraken-sign-josh-mahura-to-two-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 915000,
+      "current_season_base_salary_usd": 915000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 744375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 744375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 744375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 744375,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 907500,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 907500,
+          "total_salary_usd": 915000,
+          "base_salary_usd": 915000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477986,
+      "player_name": "Brandon Montour",
+      "position": "D",
+      "sweater_number": 62,
+      "birth_date": "1994-04-11",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 7142857,
+      "total_value_usd": 49999999,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/brandon-montour-signs-7-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7000000,
+      "current_season_base_salary_usd": 7000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 3387500,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 3387500,
+          "total_salary_usd": 3525000,
+          "base_salary_usd": 3525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "FLA",
+          "aav_usd": 3850000,
+          "total_salary_usd": 3850000,
+          "base_salary_usd": 3850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 3500000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 2750000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 3500000,
+          "total_salary_usd": 5250000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 4475000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482866,
+      "player_name": "Ville Ottavainen",
+      "position": "D",
+      "sweater_number": 46,
+      "birth_date": "2002-08-12",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2026-07-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/kraken/news/seattle-kraken-sign-goaltender-victor-ostman-and-defenseman-ville-ottavainen-to-one-year-deals",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 150000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 75000
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 867500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 75000
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        }
+      }
+    },
+    {
+      "player_id": 8478916,
+      "player_name": "Joey Daccord",
+      "position": "G",
+      "sweater_number": 35,
+      "birth_date": "1996-08-19",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2024-10-10",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2030)",
+      "term_years": 5,
+      "aav_usd": 5000000,
+      "total_value_usd": 25000000,
+      "start_season": "2025-26",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/joey-daccord-signs-five-year-contract-with-seattle-kraken",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 1200000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475831,
+      "player_name": "Philipp Grubauer",
+      "position": "G",
+      "sweater_number": 31,
+      "birth_date": "1991-11-25",
+      "current_team": "SEA",
+      "signing_team": "SEA",
+      "signed_date": "2021-07-28",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 5900000,
+      "total_value_usd": 35400000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/philipp-grubauer-signing-update-news-status-325806002",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4500000,
+      "current_season_base_salary_usd": 4500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/seattle-kraken",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "WSH",
+          "aav_usd": 577000,
+          "total_salary_usd": 565000,
+          "base_salary_usd": 500000,
+          "signing_bonus_usd": 65000,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "WSH",
+          "aav_usd": 577000,
+          "total_salary_usd": 585000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "WSH",
+          "aav_usd": 577000,
+          "total_salary_usd": 585000,
+          "base_salary_usd": 525000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 65000
+        },
+        "2013-14": {
+          "team": "WSH",
+          "aav_usd": 577000,
+          "total_salary_usd": 550000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 577000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 65000
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 3333333,
+          "total_salary_usd": 3350000,
+          "base_salary_usd": 3350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 3333333,
+          "total_salary_usd": 3900000,
+          "base_salary_usd": 3900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SEA",
+          "aav_usd": 3333333,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 6800000,
+          "base_salary_usd": 6800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "SEA",
+          "aav_usd": 5900000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8480813,
+      "player_name": "Joe Veleno",
+      "event_date": "2025-06-30",
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 379147,
+      "source_url": "https://www.prohockeyrumors.com/2026/10/salary-cap-deep-dive-seattle-kraken-6.html",
+      "notes": "Final year of buyout penalty."
+    }
+  ]
+}

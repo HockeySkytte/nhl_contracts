@@ -1,0 +1,979 @@
+{
+  "team": "MTL",
+  "team_name": "Montreal Canadiens",
+  "roster_count": 26,
+  "results": [
+    {
+      "player": {
+        "id": 8476981,
+        "name": "Josh Anderson",
+        "first": "Josh",
+        "last": "Anderson",
+        "pos": "R",
+        "sweater": 17
+      },
+      "birth_date": "1994-05-07",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/canadiens-sign-forward-josh-anderson-to-a-seven-year-contract-extensio-319393200",
+        "date": "2020-10-08",
+        "headline": "Canadiens sign forward Josh Anderson to a seven-year contract extension",
+        "signing_team": "MTL",
+        "start_season": "2021-22",
+        "end_season": "2027-28",
+        "start_yr": 2021,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "er Marc Bergevin announced today that the team has agreed to terms on a seven-year contract extension with forward Josh Anderson (until the end of the 2026-27 season). The deal has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2020-10-06",
+        "headline": "Canadiens acquire Josh Anderson from the Blue Jackets",
+        "url": "https://www.nhl.com/news/canadiens-acquire-josh-anderson-from-the-blue-jackets-319318650"
+      }
+    },
+    {
+      "player": {
+        "id": 8483424,
+        "name": "Owen Beck",
+        "first": "Owen",
+        "last": "Beck",
+        "pos": "C",
+        "sweater": 62
+      },
+      "birth_date": "2004-02-03",
+      "draft_team": "MTL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482132,
+        "name": "Brett Berard",
+        "first": "Brett",
+        "last": "Berard",
+        "pos": "L",
+        "sweater": 37
+      },
+      "birth_date": "2002-09-09",
+      "draft_team": "NYR",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-26",
+        "headline": "Canadiens acquire forward Brett Berard from the New York Rangers",
+        "url": "https://www.nhl.com/canadiens/news/canadiens-acquire-forward-brett-berard-from-the-new-york-rangers-june-26-2026"
+      }
+    },
+    {
+      "player": {
+        "id": 8482737,
+        "name": "Zachary Bolduc",
+        "first": "Zachary",
+        "last": "Bolduc",
+        "pos": "R",
+        "sweater": 76
+      },
+      "birth_date": "2003-02-24",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/zachary-bolduc-signs-4-year-contract-with-montreal-canadiens",
+        "date": "2026-09-13",
+        "headline": "Bolduc signs 4-year, $16.8 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4200000,
+          "total_value_usd": 16800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Zachary Bolduc signed a four-year, $16.8 million contract with the Montreal Canadiens on Sunday. It has an average annual value of $4.2 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-01",
+        "headline": "Bolduc traded to Canadiens by Blues for Mailloux",
+        "url": "https://www.nhl.com/news/zachary-bolduc-traded-to-montreal-canadiens-by-st-louis-blues-for-logan-mailloux"
+      }
+    },
+    {
+      "player": {
+        "id": 8481540,
+        "name": "Cole Caufield",
+        "first": "Cole",
+        "last": "Caufield",
+        "pos": "R",
+        "sweater": 13
+      },
+      "birth_date": "2001-01-02",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/eight-year-contract-extension-for-cole-caufield-344733474",
+        "date": "2023-06-05",
+        "headline": "Eight-year contract extension for Cole Caufield",
+        "signing_team": "MTL",
+        "start_season": "2023-24",
+        "end_season": "2030-31",
+        "start_yr": 2023,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "on Monday that the team has agreed to terms on an eight-year contract extension (2023-24 to 2030-31) with forward Cole Caufield. The deal will pay him an average salary of $7.85 million per season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476479,
+        "name": "Phillip Danault",
+        "first": "Phillip",
+        "last": "Danault",
+        "pos": "C",
+        "sweater": 24
+      },
+      "birth_date": "1993-02-24",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/danault-signs-six-year-contract-with-kings-325843750",
+        "date": "2021-07-28",
+        "headline": "Danault signs six-year, $33 million contract with Kings",
+        "signing_team": "LAK",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5500000,
+          "total_value_usd": 33000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Phillip Danault](https://www.nhl.com/player/phillip-danault-8476479) signed a six-year, $33 million contract with the Los Angeles Kings on Wednesday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-20",
+        "headline": "Danault traded to Canadiens by Kings",
+        "url": "https://www.nhl.com/news/los-angeles-kings-trade-phillip-danault-to-montreal-canadiens"
+      }
+    },
+    {
+      "player": {
+        "id": 8484984,
+        "name": "Ivan Demidov",
+        "first": "Ivan",
+        "last": "Demidov",
+        "pos": "R",
+        "sweater": 93
+      },
+      "birth_date": "2005-12-10",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/eight-year-contract-extension-for-ivan-demidov-july-1-2026",
+        "date": "2026-07-01",
+        "headline": "Eight-year contract extension for Ivan Demidov",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9150000,
+          "total_value_usd": 73200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "the team has agreed to terms on an eight-year, $73.2 million contract extension (2027-28 to 2034-35) with forward Ivan Demidov. The deal will pay him an average annual salary of $9.15 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ivan-demidov-signs-eight-year-contract-with-montreal-canadiens",
+        "date": "2026-07-01",
+        "headline": "Demidov signs 8-year, $73 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9125000,
+          "total_value_usd": 73000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ivan Demidov signed an eight-year, $73 million contract with the Montreal Canadiens on Wednesday. It begins with the 2027-28 season and has an average annual value of $9.125 million."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478133,
+        "name": "Jake Evans",
+        "first": "Jake",
+        "last": "Evans",
+        "pos": "C",
+        "sweater": 71
+      },
+      "birth_date": "1996-06-02",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jake-evans-signs-four-year-contract-with-montreal-canadiens",
+        "date": "2025-03-05",
+        "headline": "Evans signs 4-year, $11.4 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 2850000,
+          "total_value_usd": 11400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jake Evans signed a four-year, $11.4 million contract with the Montreal Canadiens on Tuesday. It has an average annual value of $2.85 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482775,
+        "name": "Oliver Kapanen",
+        "first": "Oliver",
+        "last": "Kapanen",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "2003-07-29",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-oliver-kapanen-june-15",
+        "date": "2024-06-15",
+        "headline": "Three-year, entry-level contract for Oliver Kapanen",
+        "signing_team": "MTL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "turday that the Club has agreed to terms on a three-year, entry-level contract (2024-25 to 2026-27) with forward Oliver Kapanen. Kapanen played 51 games this season with KalPa Kuopio in the Liiga, tallying 14 goals and 20 assists."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475184,
+        "name": "Chris Kreider",
+        "first": "Chris",
+        "last": "Kreider",
+        "pos": "L",
+        "sweater": 22
+      },
+      "birth_date": "1991-04-30",
+      "draft_team": "NYR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/chris-kreider-signs-with-montreal-canadiens-after-anaheim-ducks-terminate-contract",
+        "date": "2026-09-12",
+        "headline": "Kreider signs with Canadiens after Ducks terminate contract",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Chris Kreider signed a one-year contract with the Montreal Canadiens on Saturday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477946,
+        "name": "Dylan Larkin",
+        "first": "Dylan",
+        "last": "Larkin",
+        "pos": "C",
+        "sweater": 89
+      },
+      "birth_date": "1996-07-30",
+      "draft_team": "DET",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-24",
+        "headline": "Fantasy spin: Larkin has high ceiling after trade to Canadiens",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-spin-dylan-larkin-montreal-canadiens-trade-2026"
+      }
+    },
+    {
+      "player": {
+        "id": 8481618,
+        "name": "Alex Newhook",
+        "first": "Alex",
+        "last": "Newhook",
+        "pos": "C",
+        "sweater": 15
+      },
+      "birth_date": "2001-01-28",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/alex-newhook-signs-four-year-contract-with-montreal-canadiens",
+        "date": "2026-09-15",
+        "headline": "Newhook signs four-year, $22.2 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5550000,
+          "total_value_usd": 22200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Alex Newhook signed a four-year, $22.2 million contract with the Montreal Canadiens on Tuesday. It has an average annual value of $5.55 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/four-year-contract-extension-for-alex-newhook-sept-15-2026",
+        "date": "2026-09-15",
+        "headline": "Four-year contract extension for Alex Newhook",
+        "signing_team": "MTL",
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "start_yr": 2027,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "d on Tuesday that the team has agreed to terms on a four-year contract extension (2027-28 to 2030-31) with forward Alex Newhook. The deal will pay him an average annual salary of $5.55 million."
+        }
+      },
+      "trade": {
+        "date": "2023-06-27",
+        "headline": "Newhook traded to Canadiens by Avalanche",
+        "url": "https://www.nhl.com/news/montreal-acquires-alex-newhook-from-colorado-in-exchange-for-draft-pic-345043034"
+      }
+    },
+    {
+      "player": {
+        "id": 8483515,
+        "name": "Juraj Slafkovsk\u00fd",
+        "first": "Juraj",
+        "last": "Slafkovsk\u00fd",
+        "pos": "L",
+        "sweater": 20
+      },
+      "birth_date": "2004-03-30",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/eight-year-contract-extension-for-juraj-slafkovsky",
+        "date": "2024-07-01",
+        "headline": "Eight-year contract extension for Juraj Slafkovsk\u00fd",
+        "signing_team": "MTL",
+        "start_season": "2024-25",
+        "end_season": "2031-32",
+        "start_yr": 2024,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7600000,
+          "total_value_usd": 60800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "nday that the team has agreed to terms on an eight-year, $60.8 million contract (2025-26 to 2032-33) with forward Juraj Slafkovsk\u00fd. The deal will pay him an average annual salary of $7.6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480018,
+        "name": "Nick Suzuki",
+        "first": "Nick",
+        "last": "Suzuki",
+        "pos": "C",
+        "sweater": 14
+      },
+      "birth_date": "1999-08-10",
+      "draft_team": "VGK",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/eight-year-contract-extension-for-nick-suzuki-326754204",
+        "date": "2021-10-12",
+        "headline": "Eight-year contract extension for Nick Suzuki",
+        "signing_team": "MTL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 7875000,
+          "total_value_usd": 63000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "at the team has agreed to terms on an eight-year, $63 million contract extension (2022-23 to 2029-30) with forward Nick Suzuki. The deal will pay him an average annual salary of $7.875 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480074,
+        "name": "Alexandre Texier",
+        "first": "Alexandre",
+        "last": "Texier",
+        "pos": "L",
+        "sweater": 85
+      },
+      "birth_date": "1999-09-13",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/two-year-contract-extension-for-alexandre-texier-2026",
+        "date": "2026-01-14",
+        "headline": "Two-year contract extension for Alexandre Texier\u00a0",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2500000,
+          "total_value_usd": 5000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Hughes announced on Wednesday that the team has agreed to terms on a two-year contract extension with forward Alexandre Texier (2026-27 to 2027-28) which carries an average annual value of $2.5 million. Texier has appeared in 25 games with the Canadiens this season, registering seven goals and nine assists."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484403,
+        "name": "Florian Xhekaj",
+        "first": "Florian",
+        "last": "Xhekaj",
+        "pos": "L",
+        "sweater": 63
+      },
+      "birth_date": "2004-06-27",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-florian-xhekaj-2024",
+        "date": "2024-04-09",
+        "headline": "Three-year, entry-level contract for Florian Xhekaj",
+        "signing_team": "MTL",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "ughes announced on Tuesday that the team has agreed to terms on a three-year, entry-level contract with forward Florian Xhekaj (2024-25 to 2026-27). Xhekaj also signed a professional tryout offer allowing him to join the Laval Rocket for the remainder of the 2023-24 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478851,
+        "name": "Alexandre Carrier",
+        "first": "Alexandre",
+        "last": "Carrier",
+        "pos": "D",
+        "sweater": 45
+      },
+      "birth_date": "1996-10-08",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-agree-to-terms-with-alexandre-carrier-on-three-year-11-25-million-contract",
+        "date": "2024-07-01",
+        "headline": "Predators Agree to Terms with Alexandre Carrier on Three-Year, $11.25 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3750000,
+          "total_value_usd": 11250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "4) \u2013** Nashville Predators General Manager Barry Trotz announced today that the team has agreed to terms with Alexandre Carrier on a three-year, $11.25 million contract ($3.75 million AAV). Carrier, 27 (10/8/96), recorded 20 points (4g-16a) in 73 games with the Predators during the 2023-24 season, his fourth as a full-"
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-19",
+        "headline": "Predators Acquire Justin Barron From Montreal",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-justin-barron-from-montreal-2024-12-18"
+      }
+    },
+    {
+      "player": {
+        "id": 8480865,
+        "name": "Noah Dobson",
+        "first": "Noah",
+        "last": "Dobson",
+        "pos": "D",
+        "sweater": 53
+      },
+      "birth_date": "2000-01-07",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/noah-dobson-traded-to-canadiens-by-islanders-gets-eight-year-contract",
+        "date": "2025-06-28",
+        "headline": "Dobson traded to Canadiens by Islanders, signs 8-year contract",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 9500000,
+          "total_value_usd": 76000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Noah Dobson was traded to the Montreal Canadiens by the New York Islanders on Friday and signed an eight-year, $76 million contract. It has an average annual value of $9.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-28",
+        "headline": "Dobson traded to Canadiens by Islanders, signs 8-year contract",
+        "url": "https://www.nhl.com/news/noah-dobson-traded-to-canadiens-by-islanders-gets-eight-year-contract"
+      }
+    },
+    {
+      "player": {
+        "id": 8483686,
+        "name": "Adam Engstrom",
+        "first": "Adam",
+        "last": "Engstrom",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "2003-11-17",
+      "draft_team": "MTL",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482087,
+        "name": "Kaiden Guhle",
+        "first": "Kaiden",
+        "last": "Guhle",
+        "pos": "D",
+        "sweater": 21
+      },
+      "birth_date": "2002-01-18",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/six-year-contract-extension-for-kaiden-guhle-july-31",
+        "date": "2024-07-31",
+        "headline": "Six-year contract extension for Kaiden Guhle",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 5550000,
+          "total_value_usd": 33300000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "he team has agreed to terms on a six-year, $33.3 million contract extension (2025-26 to 2030-31) with defenseman Kaiden Guhle. The deal will pay him an average annual salary of $5.55 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483457,
+        "name": "Lane Hutson",
+        "first": "Lane",
+        "last": "Hutson",
+        "pos": "D",
+        "sweater": 48
+      },
+      "birth_date": "2004-02-14",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/lane-hutson-signs-8-year-contract-extension-with-montreal-canadiens",
+        "date": "2025-10-13",
+        "headline": "Hutson signs 8-year, $70.8 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 8850000,
+          "total_value_usd": 70800000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Lane Hutson signed an eight-year, $70.8 million contract with the Montreal Canadiens on Monday. It has an average annual value of $8.85 million and begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476875,
+        "name": "Mike Matheson",
+        "first": "Mike",
+        "last": "Matheson",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1994-02-27",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mike-matheson-signs-5-year-deal-with-montreal",
+        "date": "2025-11-30",
+        "headline": "Matheson signs 5-year, $30 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 6000000,
+          "total_value_usd": 30000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mike Matheson signed a five-year, $30 million contract with the Montreal Canadiens on Friday. It has an average annual value of $6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484220,
+        "name": "David Reinbacher",
+        "first": "David",
+        "last": "Reinbacher",
+        "pos": "D",
+        "sweater": 64
+      },
+      "birth_date": "2004-10-25",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/three-year-entry-level-contract-for-david-reinbacher-345221606",
+        "date": "2023-07-05",
+        "headline": "Three-year, entry-level contract for David Reinbacher",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "es announced on Wednesday that the team has agreed to terms on a three-year, entry-level contract with defenseman David Reinbacher (2023-24 to 2025-26). Reinbacher, 18, tallied 22 points (3 goals, 19 assists) in 46 games last season with Kloten HC in the Swiss National League before adding a goal and an assist in three"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482964,
+        "name": "Arber Xhekaj",
+        "first": "Arber",
+        "last": "Xhekaj",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "2001-01-30",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/alex-newhook-signs-four-year-contract-with-montreal-canadiens",
+        "date": "2026-09-15",
+        "headline": "Newhook signs four-year, $22.2 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1500000,
+          "total_value_usd": 1500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "assists) in 51 playoff games. He won the Stanley Cup with Colorado in 2022."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482487,
+        "name": "Jakub Dobes",
+        "first": "Jakub",
+        "last": "Dobes",
+        "pos": "G",
+        "sweater": 75
+      },
+      "birth_date": "2001-05-27",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/three-year-contract-extension-for-jakub-dobes-july-2-2026",
+        "date": "2026-07-02",
+        "headline": "Three-year contract extension for Jakub Dobes",
+        "signing_team": "MTL",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "hursday that the team has agreed to terms on a three-year contract extension (2027-28 to 2029-30) with goaltender Jakub Dobes. The deal will pay him an average annual salary of $5,357,575."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jakub-dobes-signs-three-year-contract-with-montreal-canadiens",
+        "date": "2026-07-02",
+        "headline": "Dobes signs 3-year, $16.05 million contract with Canadiens",
+        "signing_team": "MTL",
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "start_yr": 2027,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5350000,
+          "total_value_usd": 16050000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jakub Dobes signed a three-year, $16.05 million contract with the Montreal Canadiens on Thursday. It has an average annual value of $5.35 million and begins next season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484170,
+        "name": "Jacob Fowler",
+        "first": "Jacob",
+        "last": "Fowler",
+        "pos": "G",
+        "sweater": 32
+      },
+      "birth_date": "2004-11-24",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/canadiens/news/three-year-entry-level-contract-for-jacob-fowler",
+        "date": "2025-04-04",
+        "headline": "Three-year, entry-level contract for Jacob Fowler",
+        "signing_team": "MTL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "iday that the team has agreed to terms on a three-year, entry-level contract (2025-26 to 2027-28) with goaltender Jacob Fowler. Fowler also signed a one-year, one-way AHL contract for the remainder of the 2024-25 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

@@ -1,0 +1,1047 @@
+{
+  "team": "CHI",
+  "team_name": "Chicago Blackhawks",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8484144,
+        "name": "Connor Bedard",
+        "first": "Connor",
+        "last": "Bedard",
+        "pos": "C",
+        "sweater": 98
+      },
+      "birth_date": "2005-07-17",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/connor-bedard-signs-five-year-contract-with-chicago-blackhawks",
+        "date": "2026-07-20",
+        "headline": "Bedard signs 5-year, $75 million contract with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 15000000,
+          "total_value_usd": 75000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Connor Bedard signed a five-year, $75 million contract with the Chicago Blackhawks on Saturday. It has an average annual value of $15 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477479,
+        "name": "Tyler Bertuzzi",
+        "first": "Tyler",
+        "last": "Bertuzzi",
+        "pos": "L",
+        "sweater": 59
+      },
+      "birth_date": "1995-02-24",
+      "draft_team": "DET",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/teuvo-teravainen-signs-3-year-contract-with-chicago-blackhawks",
+        "date": "2024-07-01",
+        "headline": "Bertuzzi, Teravainen each sign with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2027-28",
+        "start_yr": 2024,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 5500000,
+          "total_value_usd": 22000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tyler Bertuzzi and Teuvo Teravainen each signed a contract with the Chicago Blackhawks on Monday. Bertuzzi, a 29-year-old forward, signed a four-year, $22 million contract."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477987,
+        "name": "Ryan Donato",
+        "first": "Ryan",
+        "last": "Donato",
+        "pos": "C",
+        "sweater": 8
+      },
+      "birth_date": "1996-04-09",
+      "draft_team": "BOS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ryan-donato-signs-4-year-contract-with-chicago-blackhawks",
+        "date": "2025-06-18",
+        "headline": "Donato signs 4-year, $16 million contract with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4000000,
+          "total_value_usd": 16000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ryan Donato signed a four-year, $16 million contract with the Chicago Blackhawks on Wednesday. It has an average annual value of $4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485391,
+        "name": "Anton Frondell",
+        "first": "Anton",
+        "last": "Frondell",
+        "pos": "C",
+        "sweater": 16
+      },
+      "birth_date": "2007-05-07",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-anton-frondell-to-three-year-entry-level-contract",
+        "date": "2025-07-15",
+        "headline": "RELEASE: Blackhawks Sign Anton Frondell to Three-Year, Entry-level Contract",
+        "signing_team": "CHI",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 975000,
+          "total_value_usd": 2925000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": "ELC",
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward [Anton Frondell](https://www.nhl.com/blackhawks/player/anton-frondell-8485391) on a three-year, entry-level contract that runs through the 2027-28 season ($975,000 salary cap hit). Frondell, 18, posted 25 points (11G, 14A) in 29 regul"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476822,
+        "name": "Luke Glendening",
+        "first": "Luke",
+        "last": "Glendening",
+        "pos": "C",
+        "sweater": 23
+      },
+      "birth_date": "1989-04-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/luke-glendening-signs-one-year-deal-with-new-york-rangers",
+        "date": "2026-10-22",
+        "headline": "Glendening signs one-year, $850,000 contract with Rangers",
+        "signing_team": "NYR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 850000,
+          "total_value_usd": 850000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luke Glendening signed a one-year, $850,000 contract with the New York Rangers on Thursday. The 37-year-old forward split last season between the New Jersey Devils and Philadelphia Flyers, putting up nine points (two goals, seven assists) in 70 games."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-22",
+        "headline": "RELEASE: Blackhawks Claim Forward Luke Glendening Off Waivers",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-claim-forward-luke-glendening-off-waivers"
+      }
+    },
+    {
+      "player": {
+        "id": 8483450,
+        "name": "Ryan Greene",
+        "first": "Ryan",
+        "last": "Greene",
+        "pos": "C",
+        "sweater": 20
+      },
+      "birth_date": "2003-10-21",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ryan-greene-to-entry-level-deal",
+        "date": "2025-04-13",
+        "headline": "RELEASE: Blackhawks Sign Ryan Greene to Entry-Level Deal",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 950000,
+          "total_value_usd": 2850000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": "ELC",
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **Ryan Greene** on a three-year, entry-level contract that runs through the 2026-27 season ($950,000 salary cap hit). Greene, 21, recorded 38 points (13G, 25A) in 40 games during his junior season with Boston University (NCAA) in 2024"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478413,
+        "name": "Jordan Greenway",
+        "first": "Jordan",
+        "last": "Greenway",
+        "pos": "L",
+        "sweater": 12
+      },
+      "birth_date": "1997-02-16",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jordan-greenway-signs-two-year-contract-with-buffalo-sabres",
+        "date": "2025-03-06",
+        "headline": "Greenway signs 2-year, $8 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4000000,
+          "total_value_usd": 8000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jordan Greenway signed a two-year, $8 million contract with the Buffalo Sabres on Wednesday. It has an average annual value of $4 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "RELEASE: Blackhawks Acquire Bowen Byram and Jordan Greenway in Trade with Buffalo",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-acquire-bowen-byram-and-jordan-greenway-in-trade-with-buffalo"
+      }
+    },
+    {
+      "player": {
+        "id": 8474141,
+        "name": "Patrick Kane",
+        "first": "Patrick",
+        "last": "Kane",
+        "pos": "R",
+        "sweater": 88
+      },
+      "birth_date": "1988-11-19",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-forward-patrick-kane-on-two-year-contract",
+        "date": "2026-07-23",
+        "headline": "RELEASE: Blackhawks Agree to Terms with Forward Patrick Kane on Two-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 8000000,
+          "total_value_usd": 16000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **[Patrick Kane](https://www.nhl.com/player/patrick-kane-8474141)** on a two-year contract ($8 million salary cap hit). The contract will run through the 2027-28 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-03-01",
+        "headline": "RELEASE: Blackhawks Trade Patrick Kane to Rangers in Three-Team Deal",
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-trade-patrick-kane-to-rangers-in-three-team-deal-341615496"
+      }
+    },
+    {
+      "player": {
+        "id": 8484390,
+        "name": "Roman Kantserov",
+        "first": "Roman",
+        "last": "Kantserov",
+        "pos": "R",
+        "sweater": 80
+      },
+      "birth_date": "2004-09-20",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-roman-kantserov-on-three-year-entry-level-contract",
+        "date": "2026-05-14",
+        "headline": "RELEASE: Blackhawks Agree to Terms with Roman Kantserov on Three-Year, Entry-Level Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1075000,
+          "total_value_usd": 3225000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2028-29",
+          "status_hint": "ELC",
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **Roman Kantserov** on a three-year, entry-level contract ($1,075,000 salary cap hit). The contract will begin in the 2026-27 season and will run through the 2028-29 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478233,
+        "name": "Andrew Mangiapane",
+        "first": "Andrew",
+        "last": "Mangiapane",
+        "pos": "L",
+        "sweater": 26
+      },
+      "birth_date": "1996-04-04",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/andrew-mangiapane-signs-2-year-contract-with-edmonton-oilers",
+        "date": "2025-07-02",
+        "headline": "Mangiapane signs 2-year, $7.2 million contract with Oilers",
+        "signing_team": "EDM",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 3600000,
+          "total_value_usd": 7200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Andrew Mangiapane signed a two-year, $7.2 million contract with the Edmonton Oilers on Tuesday. It has an average annual value of $3.6 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Dickinson, Dach traded to Oilers by Blackhawks for Mangiapane, pick",
+        "url": "https://www.nhl.com/news/chicago-blackhawks-trade-jason-dickinson-colton-dach-to-edmonton-oilers-for-andrew-mangiapane"
+      }
+    },
+    {
+      "player": {
+        "id": 8484197,
+        "name": "Oliver Moore",
+        "first": "Oliver",
+        "last": "Moore",
+        "pos": "C",
+        "sweater": 11
+      },
+      "birth_date": "2005-01-22",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-moore-and-rinzel-to-entry-level-deals",
+        "date": "2025-03-29",
+        "headline": "RELEASE: Blackhawks Sign Moore and Rinzel to Entry-Level Deals",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 950000,
+          "total_value_usd": 2850000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": "ELC",
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward [Oliver Moore](https://www.nhl.com/blackhawks/player/oliver-moore-8484197) and defenseman [Sam Rinzel](https://www.nhl.com/blackhawks/player/sam-rinzel-8483506) on three-year, entry-level contracts that run through the 2026-27 season "
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-oliver-moore-to-five-year-contract-extension",
+        "date": "2026-09-24",
+        "headline": "RELEASE: Blackhawks Sign Oliver Moore to Five-Year Contract Extension",
+        "signing_team": "CHI",
+        "start_season": "2027-28",
+        "end_season": "2031-32",
+        "start_yr": 2027,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 4250000,
+          "total_value_usd": 21250000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": "2031-32",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **[Oliver Moore](https://www.nhl.com/player/8484197)** on a five-year contract extension ($4.25 million salary cap hit). The contract will begin in the 2027-28 season and will run through the 2031-32 season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483493,
+        "name": "Frank Nazar",
+        "first": "Frank",
+        "last": "Nazar",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "2004-01-14",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/frank-nazar-signs-7-year-contract-with-chicago-blackhawks",
+        "date": "2025-08-22",
+        "headline": "Nazar signs 7-year, $46.13 million contract with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2032-33",
+        "start_yr": 2026,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 6590000,
+          "total_value_usd": 46130000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Frank Nazar signed a seven-year, $46.13 million contract with the Chicago Blackhawks on Thursday. The contract, which has an average annual value of $6.59 million, will begin in 2026-27."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482062,
+        "name": "Cole Smith",
+        "first": "Cole",
+        "last": "Smith",
+        "pos": "R",
+        "sweater": 22
+      },
+      "birth_date": "1995-10-28",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/copy-of-release-xx",
+        "date": "2026-07-01",
+        "headline": "RELEASE: Blackhawks Sign Cole Smith to Three-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 3000000,
+          "total_value_usd": 9000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **[Cole Smith](https://www.nhl.com/player/cole-smith-8482062)** on a three-year contract ($3 million salary cap hit). The contract will begin in the 2026-27 season and will run through the 2028-29 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476882,
+        "name": "Teuvo Teravainen",
+        "first": "Teuvo",
+        "last": "Teravainen",
+        "pos": "C",
+        "sweater": 86
+      },
+      "birth_date": "1994-09-11",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-teuvo-teravainen-to-two-year-deal",
+        "date": "2024-07-01",
+        "headline": "RELEASE: Blackhawks Sign Teuvo Teravainen to Three-Year Deal",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5400000,
+          "total_value_usd": 16200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward **Teuvo Teravainen** (TAY-voh tair-uh-VIGH-nehn) on a three-year contract that runs through the 2026-27 season ($5,400,000 salary cap hit). \"We're thrilled to have Teuvo back in Chicago,\" Blackhawks General Manager Kyle Davidson said."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476952,
+        "name": "Dominic Toninato",
+        "first": "Dominic",
+        "last": "Toninato",
+        "pos": "C",
+        "sweater": 25
+      },
+      "birth_date": "1994-03-09",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-dominic-toninato-to-two-year-two-way-contract",
+        "date": "2025-07-01",
+        "headline": "RELEASE: Blackhawks Sign Dominic Toninato to Two-Year, Two-Way Contract",
+        "signing_team": "CHI",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 850000,
+          "total_value_usd": 1700000,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with forward [Dominic Toninato](https://www.nhl.com/player/dominic-toninato-8476952) on a two-year, two-way contract that runs through the 2026-27 season ($850,000 salary cap hit). Toninato, 31, appeared in five regular-season games and two Stanle"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481524,
+        "name": "Bowen Byram",
+        "first": "Bowen",
+        "last": "Byram",
+        "pos": "D",
+        "sweater": 24
+      },
+      "birth_date": "2001-06-13",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/bowen-byram-signs-two-year-contract-with-buffalo-sabres",
+        "date": "2025-07-15",
+        "headline": "Byram signs 2-year, $12.5 million contract with Sabres",
+        "signing_team": "BUF",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 6250000,
+          "total_value_usd": 12500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Bowen Byram signed a two-year, $12.5 million contract with the Buffalo Sabres on Monday. It has an average annual value of $6.25 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-bowen-byram-to-six-year-contract-extension",
+        "date": "2026-07-01",
+        "headline": "RELEASE: Blackhawks Sign Bowen Byram to Six-Year Contract Extension",
+        "signing_team": "CHI",
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "start_yr": 2027,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 12500000,
+          "total_value_usd": 75000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2027-28",
+          "explicit_end": "2032-33",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman **[Bowen Byram](https://www.nhl.com/blackhawks/player/bowen-byram-8481524)** on a six-year contract extension ($12.5 million salary cap hit). The contract will begin in the 2027-28 season and will run through the 2032-33 season."
+        }
+      },
+      "trade": {
+        "date": "2026-06-25",
+        "headline": "FEATURE: Bowen Byram Eager to Call Chicago Home After Blockbuster Trade",
+        "url": "https://www.nhl.com/blackhawks/news/feature-bowen-byram-eager-to-call-chicago-home-after-blockbuster-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8474013,
+        "name": "Ian Cole",
+        "first": "Ian",
+        "last": "Cole",
+        "pos": "D",
+        "sweater": 28
+      },
+      "birth_date": "1989-02-21",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ian-cole-to-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "RELEASE: Blackhawks Sign Ian Cole to One-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 4000000,
+          "total_value_usd": 4000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman **[Ian Cole](https://www.nhl.com/player/ian-cole-8474013)** on a one-year contract ($4 million salary cap hit). The contract will run through the 2026-27 season.Cole, 37, posted 23 points (3G, 20A) in 82 regular-season games with t"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482807,
+        "name": "Ethan Del Mastro",
+        "first": "Ethan",
+        "last": "Del Mastro",
+        "pos": "D",
+        "sweater": 38
+      },
+      "birth_date": "2003-01-15",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-ethan-del-mastro-to-two-year-contract",
+        "date": "2026-09-16",
+        "headline": "RELEASE: Blackhawks Sign Ethan Del Mastro to Two-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 950000,
+          "total_value_usd": 1900000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman **[Ethan Del Mastro](https://www.nhl.com/blackhawks/player/ethan-del-mastro-8482807/stats)** on a two-year contract ($950,000 salary cap hit). The contract will begin in the 2026-27 season and will run through the 2027-28 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482176,
+        "name": "Wyatt Kaiser",
+        "first": "Wyatt",
+        "last": "Kaiser",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "2002-07-31",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/wyatt-kaiser-signs-2-year-contract-with-chicago-blackhawks",
+        "date": "2025-09-18",
+        "headline": "Kaiser signs 2-year, $3.4 million contract with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1700000,
+          "total_value_usd": 3400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Wyatt Kaiser signed a two-year, $3.4 million contract with the Chicago Blackhawks on Wednesday. It has an average annual value of $1.7 million."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483466,
+        "name": "Kevin Korchinski",
+        "first": "Kevin",
+        "last": "Korchinski",
+        "pos": "D",
+        "sweater": 14
+      },
+      "birth_date": "2004-06-21",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-kevin-korchinski-to-two-year-contract",
+        "date": "2026-08-29",
+        "headline": "RELEASE: Blackhawks Sign Kevin Korchinski to Two-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1325000,
+          "total_value_usd": 2650000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman **[Kevin Korchinski](https://www.nhl.com/blackhawks/player/kevin-korchinski-8483466)** on a two-year contract ($1,325,000 salary cap hit). The contract will begin in the 2026-27 season and will run through the 2027-28 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484783,
+        "name": "Artyom Levshunov",
+        "first": "Artyom",
+        "last": "Levshunov",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "2005-10-28",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-artyom-levshunov-to-entry-level-deal",
+        "date": "2024-07-06",
+        "headline": "RELEASE: Blackhawks Sign Artyom Levshunov to Entry-Level Deal",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 975000,
+          "total_value_usd": 2925000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": "ELC",
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman Artyom Levshunov on a three-year, entry-level contract that runs through the 2026-27 season ($975,000 salary cap hit). The Blackhawks selected Levshunov with the second overall pick in the 2024 NHL Draft."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483506,
+        "name": "Sam Rinzel",
+        "first": "Sam",
+        "last": "Rinzel",
+        "pos": "D",
+        "sweater": 6
+      },
+      "birth_date": "2004-06-25",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-moore-and-rinzel-to-entry-level-deals",
+        "date": "2025-03-29",
+        "headline": "RELEASE: Blackhawks Sign Moore and Rinzel to Entry-Level Deals",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 950000,
+          "total_value_usd": 2850000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": "ELC",
+          "quote": "ed to terms with forward [Oliver Moore](https://www.nhl.com/blackhawks/player/oliver-moore-8484197) and defenseman [Sam Rinzel](https://www.nhl.com/blackhawks/player/sam-rinzel-8483506) on three-year, entry-level contracts that run through the 2026-27 season ($950,000 salary cap hit). ## Oliver Moore Moore, 20, compile"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481568,
+        "name": "Alex Vlasic",
+        "first": "Alex",
+        "last": "Vlasic",
+        "pos": "D",
+        "sweater": 72
+      },
+      "birth_date": "2001-06-05",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-alex-vlasic-to-six-year-contract-extension",
+        "date": "2024-04-25",
+        "headline": "RELEASE: Blackhawks Sign Alex Vlasic to Six-Year Contract Extension",
+        "signing_team": "CHI",
+        "start_season": "2024-25",
+        "end_season": "2029-30",
+        "start_yr": 2024,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 4600000,
+          "total_value_usd": 27600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2029-30",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with defenseman **Alex Vlasic** on a six-year contract that runs through the 2029-30 season ($4,600,000 salary cap hit). \u201cAlex made enormous strides this year and proved he is a legitimate top-four defenseman in the NHL,\u201d said Blackhawks General M"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482123,
+        "name": "Drew Commesso",
+        "first": "Drew",
+        "last": "Commesso",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "2002-07-19",
+      "draft_team": "CHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-agree-to-terms-with-goaltender-drew-commesso-on-two-year-contract",
+        "date": "2026-07-06",
+        "headline": "RELEASE: Blackhawks Agree to Terms With Goaltender Drew Commesso on Two-Year Contract",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 875000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with goaltender **[Drew Commesso](https://www.nhl.com/player/8482123)** on a two-year contract ($875,000 salary cap hit). The contract will run through the 2027-28 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481519,
+        "name": "Spencer Knight",
+        "first": "Spencer",
+        "last": "Knight",
+        "pos": "G",
+        "sweater": 30
+      },
+      "birth_date": "2001-04-19",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/spencer-knight-signs-3-year-contract-extension-with-chicago-blackhawks",
+        "date": "2025-09-13",
+        "headline": "Knight signs 3-year, $17.5 million contract with Blackhawks",
+        "signing_team": "CHI",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5830000,
+          "total_value_usd": 17500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Spencer Knight signed a three-year, $17.5 million contract with the Chicago Blackhawks on Saturday. It has an average annual value of $5.83 million and begins with the 2026-27 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-sign-spencer-knight-to-three-year-contract-extension",
+        "date": "2025-09-13",
+        "headline": "RELEASE: Blackhawks Sign Spencer Knight to Three-Year Contract Extension",
+        "signing_team": "CHI",
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "start_yr": 2027,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5830000,
+          "total_value_usd": 17490000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2029-30",
+          "status_hint": null,
+          "quote": "The Chicago Blackhawks today announced that the team has agreed to terms with goaltender [Spencer Knight](https://www.nhl.com/blackhawks/player/spencer-knight-8481519) on a three-year contract extension that runs through the 2029-30 season ($5.83 million salary cap hit). \u201cAfter joining the team in March, Spencer quickl"
+        }
+      },
+      "trade": {
+        "date": "2025-03-04",
+        "headline": "Knight to begin new chapter with Blackhawks after trade from Panthers",
+        "url": "https://www.nhl.com/news/spencer-knight-begins-new-chapter-in-chicago-after-trade-from-florida"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1063 @@
+{
+  "team": "ANA",
+  "team_name": "Anaheim Ducks",
+  "roster_count": 27,
+  "results": [
+    {
+      "player": {
+        "id": 8484153,
+        "name": "Leo Carlsson",
+        "first": "Leo",
+        "last": "Carlsson",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "2004-12-26",
+      "draft_team": "ANA",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-07-09",
+        "headline": "Carlsson thrilled to have Ducks match offer sheet from Flyers",
+        "url": "https://www.nhl.com/news/leo-carlsson-thrilled-ducks-matched-offer-sheet-from-flyers"
+      }
+    },
+    {
+      "player": {
+        "id": 8481538,
+        "name": "Judd Caulfield",
+        "first": "Judd",
+        "last": "Caulfield",
+        "pos": "R",
+        "sweater": 28
+      },
+      "birth_date": "2001-03-19",
+      "draft_team": "PIT",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXzlPb0tWd2w2LWFGVERYTTB6S0xZVU9UWEhFUDA3MmtwNGNpN2xpVHJvMldTNmtza0hENkZ0dm16anBwVVdHTF9BaUt2YzVFb2JxTmlxVi1GMzVGNlJURll1cGw1WFlxRC1BMjFIWWc1WFZHUktmOUJmT0FsMUpCWW4tTktvakE?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-07-01",
+        "headline": "Ducks Sign Caulfield to Two-Year, Two-Way Contract | Anaheim Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks Sign Caulfield to Two-Year, Two-Way Contract | Anaheim Ducks"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482118,
+        "name": "Sam Colangelo",
+        "first": "Sam",
+        "last": "Colangelo",
+        "pos": "R",
+        "sweater": 12
+      },
+      "birth_date": "2001-12-26",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-colangelo-to-two-year-contract",
+        "date": "2025-08-04",
+        "headline": "Ducks Sign Colangelo to Two-Year Contract",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Ducks have signed right wing Sam Colangelo to a two-year contract through the 2026-27 NHL season (two-way in 2025-26, one-way contract in 2026-27). Colangelo, 23 (12/26/01), scored 10-2=12 points in 32 NHL games with Anaheim in 2024-25, ranking third among all NHL rookies in goals per game (.31)."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483445,
+        "name": "Cutter Gauthier",
+        "first": "Cutter",
+        "last": "Gauthier",
+        "pos": "L",
+        "sweater": 61
+      },
+      "birth_date": "2004-01-19",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cutter-gauthier-signs-six-year-contract-with-anaheim-ducks",
+        "date": "2026-09-16",
+        "headline": "Gauthier signs 6-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cutter Gauthier signed a six-year contract with the Anaheim Ducks on Tuesday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2024-01-11",
+        "headline": "Gauthier says trade from Flyers to Ducks is \u2018personal matter\u2019",
+        "url": "https://www.nhl.com/news/cutter-gauthier-discusses-trade-from-flyers-to-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8475798,
+        "name": "Mikael Granlund",
+        "first": "Mikael",
+        "last": "Granlund",
+        "pos": "C",
+        "sweater": 64
+      },
+      "birth_date": "1992-02-26",
+      "draft_team": "MIN",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOURBTGo5dkJrTVFBeV9tMFNWTkZka194bUVHTHhwb2QwMFAyTUQ1NFBrNFUwUTQ5MFBOd0wzUWNrYTY2dUZlNU8zXzZnTFk1VHFwRnE1Z05tTzUxMlh3dDlEQk5zTExyNXNCbHJCcXJ5R3RyQmsxUTRibFRIVFk1LUg3bDY1MFVlM2pPSUFfX0Q4a2Zw?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-07-01",
+        "headline": "Mikael Granlund signs three-year, $21M deal with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 7000000,
+          "total_value_usd": 21000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mikael Granlund signs three-year, $21M deal with Ducks"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/mikael-granlund-signs-three-year-contract-with-anaheim-ducks",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478421,
+        "name": "A.J. Greer",
+        "first": "A.J.",
+        "last": "Greer",
+        "pos": "L",
+        "sweater": 18
+      },
+      "birth_date": "1996-12-14",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/aj-greer-signs-four-year-contract-with-anaheim-ducks",
+        "date": "2026-07-01",
+        "headline": "Greer signs 4-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "A.J. Greer signed a four-year contract with the Anaheim Ducks on Wednesday."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-29",
+        "headline": "Gudas traded to Panthers by Ducks for Greer",
+        "url": "https://www.nhl.com/news/radko-gudas-traded-to-florida-by-anaheim-for-aj-greer"
+      }
+    },
+    {
+      "player": {
+        "id": 8473986,
+        "name": "Alex Killorn",
+        "first": "Alex",
+        "last": "Killorn",
+        "pos": "L",
+        "sweater": 17
+      },
+      "birth_date": "1989-09-14",
+      "draft_team": "TBL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/anaheim-ducks-sign-alex-killorn-to-four-year-contract-344912326",
+        "date": "2023-07-01",
+        "headline": "Killorn signs 4-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2023-24",
+        "end_season": "2026-27",
+        "start_yr": 2023,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "[Alex Killorn](https://www.nhl.com/player/alex-killorn-8473986) signed a four-year contract with the Anaheim Ducks on Saturday. Financial terms were not announced."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482408,
+        "name": "Jeff Malott",
+        "first": "Jeff",
+        "last": "Malott",
+        "pos": "L",
+        "sweater": 39
+      },
+      "birth_date": "1996-08-07",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-malott-to-three-year-contract",
+        "date": "2026-07-01",
+        "headline": "Ducks Sign Malott to Three-Year Contract",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "The Ducks have signed left wing Jeff Malott to a three-year contract through the 2028-29 NHL season. Malott, 29 (8/7/96), has appeared in 71 career NHL games with Los Angeles (2024-26) and Winnipeg (2021-22), earning 3-7=10 points with 64 penalty minutes (PIM)."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485400,
+        "name": "Roger McQueen",
+        "first": "Roger",
+        "last": "McQueen",
+        "pos": "C",
+        "sweater": 95
+      },
+      "birth_date": "2006-10-02",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/roger-mcqueen-signs-entry-level-contract-with-anaheim-ducks",
+        "date": "2026-04-18",
+        "headline": "McQueen signs entry-level contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Roger McQueen signed a three-year, entry-level contract with the Anaheim Ducks on Saturday. The deal begins next season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484201,
+        "name": "Nico Myatovic",
+        "first": "Nico",
+        "last": "Myatovic",
+        "pos": "L",
+        "sweater": 48
+      },
+      "birth_date": "2004-12-01",
+      "draft_team": "ANA",
+      "active": {
+        "source": "Daily Faceoff",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQThRMG45blNsbjJwZUJXTklMQWgxMUpkaDJrMGNUeWdmWnF6cjlRSUxxQjdZQVE5Vm55Ui1BckN3SG9PQm5YeV90WkpNc2FnT2NZQjJYbE9Rdk1Zb2pHT0o0S1ctR3NMZk5VWlRxUUNRaHZ2Z1NCZWtPV2xuYkdrSG82dmJDTWxDRjU4V1pmUVR3Y3VqMkd6RDBLWDJPQ3lrNTFF?oc=5",
+        "source_domain": "https://www.dailyfaceoff.com",
+        "date": "2024-03-29",
+        "headline": "Anaheim Ducks sign Nico Myatovic to three-year, entry-level contract",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Anaheim Ducks sign Nico Myatovic to three-year, entry-level contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481754,
+        "name": "Nikita Nesterenko",
+        "first": "Nikita",
+        "last": "Nesterenko",
+        "pos": "C",
+        "sweater": 13
+      },
+      "birth_date": "2001-09-10",
+      "draft_team": "MIN",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObThXN3BHUzhpSjdONE9uZ3NnZXljcXlqY3draFdRTWs3b2gzS2ZWTi0ydXExaDJBTk5feXhKVmVTVlEwOEZpRUpsNXNyc0F2R2dlbVMwRVdkV1ROSzlDeWZ1ZVFTMy1EdUo5eGpwNW14QVRZVjg0WDlHUkVacWNKTXZGT0NnM0I5elBR?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2025-06-18",
+        "headline": "Ducks Sign Nesterenko to Two-Year Contract Extension | Anaheim Ducks",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks Sign Nesterenko to Two-Year Contract Extension | Anaheim Ducks"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480068,
+        "name": "Ryan Poehling",
+        "first": "Ryan",
+        "last": "Poehling",
+        "pos": "C",
+        "sweater": 25
+      },
+      "birth_date": "1999-01-03",
+      "draft_team": "MTL",
+      "active": {
+        "source": "ESPN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEZ5NXhwelgxU0pLdzNHS3RoUWQxWlZxd0dfb3lKemxPNldnWkRtS0hUaElPSGpMeTI2bjktMGhJYVcyMjFaSDJxek5ZRFVVU2FRS2tTdUJwTHhRcXc3eUNJTVBjNlgxV1BJS3cxOXVzM3NqMWhRZWctS21TcHpINnFmc1U0Z1JyWjlOVW0xeERkMm1PaDk2SjI1X3E1M296MGFn?oc=5",
+        "source_domain": "https://www.espn.com",
+        "date": "2026-03-05",
+        "headline": "Ducks, Ryan Poehling agree to four-year, $15 million extension",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 3750000,
+          "total_value_usd": 15000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks, Ryan Poehling agree to four-year, $15 million extension"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/anaheim-ducks-sign-ryan-poehling-to-four-year-contract",
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-23",
+        "headline": "Zegras traded to Flyers by Ducks for Poehling, draft picks",
+        "url": "https://www.nhl.com/news/trevor-zegras-traded-to-flyers-from-ducks"
+      }
+    },
+    {
+      "player": {
+        "id": 8484762,
+        "name": "Beckett Sennecke",
+        "first": "Beckett",
+        "last": "Sennecke",
+        "pos": "R",
+        "sweater": 45
+      },
+      "birth_date": "2006-01-28",
+      "draft_team": "ANA",
+      "active": null,
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478873,
+        "name": "Troy Terry",
+        "first": "Troy",
+        "last": "Terry",
+        "pos": "R",
+        "sweater": 19
+      },
+      "birth_date": "1997-09-10",
+      "draft_team": "ANA",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVi1tT2pCZVVibUFVWWpUbGxoOVJJWkRCUHo0bjRXYXgzaTN5amJ6ZmRVRjVhOVkwamVKQWNjWHVaYjh2RGpUYV9RNTBfWkQzWHludzZWSnJON0pBVHlBNXE1TkxJQ0RsSDdXT3ZNX1JHOWxMVzNwbGhuR0NrT2FEUUJLZF9JRjVhVlNZVmVNZ25yaW9oRnV4SHdkcw?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2023-08-02",
+        "headline": "Ducks, forward Troy Terry agree to seven-year, $49M contract",
+        "signing_team": "ANA",
+        "start_season": "2023-24",
+        "end_season": "2029-30",
+        "start_yr": 2023,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 7000000,
+          "total_value_usd": 49000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks, forward Troy Terry agree to seven-year, $49M contract"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/troy-terry-signs-seven-year-contract-with-anaheim-ducks-344917572",
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478366,
+        "name": "Frank Vatrano",
+        "first": "Frank",
+        "last": "Vatrano",
+        "pos": "R",
+        "sweater": 77
+      },
+      "birth_date": "1994-03-14",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/frank-vatrano-signs-3-year-contract-with-anaheim-ducks",
+        "date": "2025-01-06",
+        "headline": "Vatrano signs 3-year, $18 million contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4570000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Frank Vatrano signed a three-year, $18 million contract with the Anaheim Ducks on Sunday. \u201cAll I wanted (for) a long time was to be a Duck."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485512,
+        "name": "Tim Washe",
+        "first": "Tim",
+        "last": "Washe",
+        "pos": "C",
+        "sweater": 42
+      },
+      "birth_date": "2001-08-25",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-washe-to-two-year-contract",
+        "date": "2025-08-04",
+        "headline": "Ducks Sign Washe to Two-Year Contract",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Ducks have signed center Tim Washe to a two-year contract through the 2026-27 NHL season (two-way in 2025-26, one-way contract in 2026-27). Washe, 23 (8/25/01), made his NHL debut with Anaheim April 15, 2025 at Minnesota while appearing in two games with the Ducks in 2024-25."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tim-washe-signs-4-year-contract-with-anaheim-ducks",
+        "date": "2026-09-19",
+        "headline": "Washe signs 4-year-contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "start_yr": 2027,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Tim Washe signed a four-year contract with the Anaheim Ducks on Saturday. Financial terms were not disclosed for the deal, which begins next season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481563,
+        "name": "Drew Helleson",
+        "first": "Drew",
+        "last": "Helleson",
+        "pos": "D",
+        "sweater": 14
+      },
+      "birth_date": "2001-03-26",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-helleson-to-two-year-contract",
+        "date": "2025-07-18",
+        "headline": "Ducks Sign Helleson to Two-Year Contract",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Ducks announced today that the National Hockey League (NHL) club has signed defenseman Drew Helleson to a two-year contract through the 2026-27 NHL season. Helleson, 24 (3/26/01), recorded 4-9=13 points with a +6 rating and 47 penalty minutes (PIM) in 56 games with Anaheim in 2024-25."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482731,
+        "name": "Tyson Hinds",
+        "first": "Tyson",
+        "last": "Hinds",
+        "pos": "D",
+        "sweater": 55
+      },
+      "birth_date": "2003-03-12",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-hinds-to-two-year-contract-extension",
+        "date": "2026-07-07",
+        "headline": "Ducks Sign Hinds to Two-Year Contract Extension",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Ducks have signed defenseman Tyson Hinds to a two-year, one-way contract extension through the 2027-28 NHL season. Hinds, 23 (3/12/03), made his NHL debut with the Ducks in 2025-26, appearing in six games while recording a +1 rating and two penalty minutes (PIM)."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481605,
+        "name": "Jackson LaCombe",
+        "first": "Jackson",
+        "last": "LaCombe",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "2001-01-09",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jackson-lacombe-signs-8-year-contract-with-anaheim-ducks",
+        "date": "2025-10-02",
+        "headline": "LaCombe signs 8-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2033-34",
+        "start_yr": 2026,
+        "end_yr": 2033,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Jackson LaCombe signed an eight-year contract with the Anaheim Ducks on Thursday. Financial terms were not disclosed for the deal, which begins with the 2026-27 season."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483482,
+        "name": "Tristan Luneau",
+        "first": "Tristan",
+        "last": "Luneau",
+        "pos": "D",
+        "sweater": 67
+      },
+      "birth_date": "2004-01-12",
+      "draft_team": "ANA",
+      "active": {
+        "source": "NHL.com",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0VuYUpXVnpBR3U4MERxX21samstWW5OU0pQMHhnNGFTOFVYUjdnMmw3Y3U4aTRRdFZYM29BTUZUNjJqaXZySE9uazJOOVE3Y0dIekJmRTBRN3RKTTE3cVZWRFdMaHRfY3pHSWNIei1kVC14UmE4cXFsQ192dEJwdVlZRmRuNVUwV0hF?oc=5",
+        "source_domain": "https://www.nhl.com",
+        "date": "2026-10-03",
+        "headline": "Luneau signs six-year, $43.2 million contract with Ducks after 14 games of NHL experience",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 7200000,
+          "total_value_usd": 43200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Luneau signs six-year, $43.2 million contract with Ducks after 14 games of NHL experience"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/tristain-luneau-signs-six-year-contract-with-anaheim-ducks",
+        "date": "2026-10-03",
+        "headline": "Luneau signs six-year, $43.2 million contract with Ducks after 14 games of NHL experience\u00a0",
+        "signing_team": "ANA",
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "start_yr": 2027,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 7200000,
+          "total_value_usd": 43200000,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Tristan Luneau signed a six-year, $43.2 million contract with the Anaheim Ducks on Thursday. It has an average annual value of $7.2 million and begins next season."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483490,
+        "name": "Pavel Mintyukov",
+        "first": "Pavel",
+        "last": "Mintyukov",
+        "pos": "D",
+        "sweater": 98
+      },
+      "birth_date": "2003-11-25",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/pavel-mintyukov-signs-5-year-contract-with-anaheim-ducks",
+        "date": "2026-07-05",
+        "headline": "Mintyukov signs 5-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Pavel Mintyukov signed a five-year contract with the Anaheim Ducks on Sunday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484262,
+        "name": "Travis Mitchell",
+        "first": "Travis",
+        "last": "Mitchell",
+        "pos": "D",
+        "sweater": 34
+      },
+      "birth_date": "1999-11-25",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-mitchell-to-one-year-two-way-contract",
+        "date": "2026-07-02",
+        "headline": "Ducks Sign Mitchell to One-Year, Two-Way Contract",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "The Ducks have signed defenseman Travis Mitchell to a one-year, two-way contract through the end of the 2026-27 NHL season. Mitchell, 26 (11/25/99), made his NHL debut in 2025-26 with the New York Islanders, scoring his first NHL goal in nine games (1-0=1)."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482178,
+        "name": "Ian Moore",
+        "first": "Ian",
+        "last": "Moore",
+        "pos": "D",
+        "sweater": 3
+      },
+      "birth_date": "2002-01-04",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ian-moore-signs-two-year-contract-with-anaheim-ducks",
+        "date": "2026-06-25",
+        "headline": "Moore signs 2-year contract with Ducks",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ian Moore signed a two-year contract with the Anaheim Ducks on Thursday. Financial terms were not disclosed."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484859,
+        "name": "Stian Solberg",
+        "first": "Stian",
+        "last": "Solberg",
+        "pos": "D",
+        "sweater": 50
+      },
+      "birth_date": "2005-12-29",
+      "draft_team": "ANA",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWF3dElzQUIxeEliVVFKby1KeDBDMm1nUXE3WUFydHV3czZ2eVNnd3JtaUdKTFloZnFfZ1hZaFVNaTU2VWVyYkljczRqYTV4WW5QZXJNb1I5UURQUFJUb2FTMVJMa3RMVzMtM2JhcEt4NGhyOUFudnlfNnA5czlGcFpnTmg0by05YmI2ZkVIMkdqTmEwQ1N2ZHN0YkZ6dw?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2024-07-05",
+        "headline": "Ducks sign Stian Solberg to three-year, entry-level contract",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": true,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "ELC",
+          "quote": "Ducks sign Stian Solberg to three-year, entry-level contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476316,
+        "name": "Laurent Brossoit",
+        "first": "Laurent",
+        "last": "Brossoit",
+        "pos": "G",
+        "sweater": 31
+      },
+      "birth_date": "1993-03-23",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/ducks/news/ducks-sign-brossoit-to-one-year-contract",
+        "date": "2026-07-01",
+        "headline": "Ducks Sign Brossoit to One-Year Contract",
+        "signing_team": "ANA",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Ducks have signed goaltender Laurent Brossoit to a one-year contract through the 2026-27 NHL season. Brossoit, 33 (3/23/93), helped Vegas to a Stanley Cup in the 2022-23 season, posting a 5-2 record in eight postseason games en route to a championship."
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480843,
+        "name": "Lukas Dostal",
+        "first": "Lukas",
+        "last": "Dostal",
+        "pos": "G",
+        "sweater": 1
+      },
+      "birth_date": "2000-06-22",
+      "draft_team": "ANA",
+      "active": {
+        "source": "Sportsnet.ca",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHNtZ2dsRjRTRXF6RUx1Y3lCUGJ0VWFOU0d0eXllb0hEYWpOZWVwX2xMSHY0a3VKZU9iWEQ0MVZ0bXRoX2txR0Q0RENuN2h3aFdOSk04eWp5Q2ljSHZOZFY0U3V3NHZRV1NYV29IenEtYzQ0RHRfNGRNR29rZlhNckhoaFYwT3l1NEsxWGNYZ2RXajZXd3FwRnJteFNtTzVpM1c5eVJB?oc=5",
+        "source_domain": "https://www.sportsnet.ca",
+        "date": "2025-07-22",
+        "headline": "Ducks re-sign goaltender Lukas Dostal to five-year, $32.5M contract",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 6500000,
+          "total_value_usd": 32500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks re-sign goaltender Lukas Dostal to five-year, $32.5M contract"
+        }
+      },
+      "official_nhl_url": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478024,
+        "name": "Ville Husso",
+        "first": "Ville",
+        "last": "Husso",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "1995-02-06",
+      "draft_team": "STL",
+      "active": {
+        "source": "TSN",
+        "dedicated": true,
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUNzVXlvREk3RmJNdU5JdkNQRlBiTGxBSEpWT1gyTEo3X2JwYUUya0lnY01NVXVEV1FRREJSYlFGbjBSLVAxVHZpMkhKdDQ0U1FFdV85cHZzZERmZ0xnUXk1SHRDNk5KVy1HRHJxVEN3dTRXU0l5aUxTejFkblNGSldsUmtLRUJNRmxKWFRIeEc1QQ?oc=5",
+        "source_domain": "https://www.tsn.ca",
+        "date": "2025-06-29",
+        "headline": "Ducks re-sign G Husso to two-year, $4.4 million extension",
+        "signing_team": "ANA",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 2200000,
+          "total_value_usd": 4400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ducks re-sign G Husso to two-year, $4.4 million extension"
+        }
+      },
+      "official_nhl_url": "https://www.nhl.com/news/ville-husso-signs-2-year-contract-to-remain-with-anaheim-ducks",
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-25",
+        "headline": "Husso traded to Ducks by Red Wings for future considerations",
+        "url": "https://www.nhl.com/news/ville-husso-traded-to-anaheim-ducks-by-detroit-red-wings-for-future-considerations"
+      }
+    }
+  ]
+}

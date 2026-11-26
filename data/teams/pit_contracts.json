@@ -1,0 +1,2716 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "PIT",
+  "team_name": "Pittsburgh Penguins",
+  "generated_at_utc": "2026-11-26T22:49:29Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/PIT/current",
+  "summary": {
+    "roster_players": 26,
+    "contracts_with_verified_source_url": 26,
+    "contracts_matched_nhlpa": 26,
+    "contracts_with_public_aav": 26,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 94111110,
+    "cap_penalties_count": 0,
+    "total_cap_penalties_usd": 0,
+    "combined_roster_plus_penalties_usd": 94111110
+  },
+  "contracts": [
+    {
+      "player_id": 8479638,
+      "player_name": "Justin Brazeau",
+      "position": "R",
+      "sweater_number": 16,
+      "birth_date": "1998-02-02",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1500000,
+      "total_value_usd": 3000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/penguins/news/penguins-sign-justin-brazeau-parker-wotherspoon-and-caleb-jones-to-two-year-contracts",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "BOS",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 135000
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 165000
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482475,
+      "player_name": "Egor Chinakhov",
+      "position": "R",
+      "sweater_number": 59,
+      "birth_date": "2001-02-01",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-05",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 6250000,
+      "total_value_usd": 18750000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/egor-chinakhov-gets-3-year-deal-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/yegor-chinakhov-traded-to-pittsburgh-penguins-by-columbus-blue-jackets-for-danton-heinen-draft-picks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6250000,
+      "current_season_base_salary_usd": 6250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CBJ",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 6250000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8471675,
+      "player_name": "Sidney Crosby",
+      "position": "C",
+      "sweater_number": 87,
+      "birth_date": "1987-08-07",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2024-09-16",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 8700000,
+      "total_value_usd": 17400000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/sidney-crosby-signs-two-year-contract-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-pushing-for-stanley-cup-after-erik-karlsson-trade-345537402"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7620000,
+      "current_season_base_salary_usd": 1090000,
+      "current_season_signing_bonus_usd": 6530000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 10900000,
+          "base_salary_usd": 10900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 10900000,
+          "base_salary_usd": 10900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9600000,
+          "base_salary_usd": 9600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9780000,
+          "base_salary_usd": 780000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 7620000,
+          "base_salary_usd": 1090000,
+          "signing_bonus_usd": 6530000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480980,
+      "player_name": "Connor Dewar",
+      "position": "C",
+      "sweater_number": 19,
+      "birth_date": "1999-06-26",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-05-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2250000,
+      "total_value_usd": 4500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWxkMEhhQW0tT01NbWdBMlpDcTBCQkJNMktyQ0dEb2JOYjFNbDNqYndCOVgzd0JqRTdvOVNFT3k5SlJpWGtlcEtTYU0wQUpTTHBnSlBaUW9BVFh2ajZaeXNibFg3Yjljbk9Tb2xSZUdtMVcyRS00U0lwRWdkVTA5RmhOU1g0elYy?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "MIN",
+          "aav_usd": 825833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "MIN",
+          "aav_usd": 825833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "MIN",
+          "aav_usd": 825833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "MIN",
+          "aav_usd": 800000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 800000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 1180000,
+          "total_salary_usd": 1180000,
+          "base_salary_usd": 780000,
+          "signing_bonus_usd": 400000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482993,
+      "player_name": "Avery Hayes",
+      "position": "R",
+      "sweater_number": 85,
+      "birth_date": "2002-10-10",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2025-03-13",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 867500,
+      "total_value_usd": 1735000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHdVeG9aR0VhVThmdFRGVXE4UllPbVRjYkhWMHhRVW9kLTF4TWN1NWxIOWoyQjRPZS1oaUZxZEN1cXlKRjAwazIwODV3MU5GQWt3Q0ZNNVFoVi1nY1hpaGdMRzNhMWtISUt5ZkY1ZUo2T2VzSEFKTXZXSVl4ajRkNUw1d2N2MmZDam50VXUwZ2xldDFzdnpJeE5oLWNoY05SODQzYw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 905000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 55000,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 867500,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 867500,
+          "total_salary_usd": 905000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8485414,
+      "player_name": "Ben Kindel",
+      "position": "C",
+      "sweater_number": 81,
+      "birth_date": "2007-04-19",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2025-07-08",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 21 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 982500,
+      "total_value_usd": 2947500,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXBzVU1GV0xkSXRnaFNKZWJpNmFHRnIwMVYxZnhXeUxEVmh1czJ6YnRScWM2Zld4ZGpjc01BN1Z3cV9rOUtnMDIydmlvalBkNV92eXFYR1ctY3dMR3FzYThjZGlZSFBmQXJqSnZZWVcxdFZJVWdsZUxBV0gwRUpZdVNIbU9mbjY1dHJJWUEwVzBuZmZVTlUta3N1UFRNcnNWS3RrZjdOdWpSUU9QdGs2Sg?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 982500,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482758,
+      "player_name": "Ville Koivunen",
+      "position": "R",
+      "sweater_number": 41,
+      "birth_date": "2003-06-13",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-08-06",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2034)",
+      "term_years": 8,
+      "aav_usd": 4000000,
+      "total_value_usd": 32000000,
+      "start_season": "2026-27",
+      "end_season": "2033-34",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ville-koivunen-signs-eight-year-contract-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/ville-koivunen-not-yet-feeling-pressure-with-pittburgh"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CAR",
+          "aav_usd": 820500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CAR",
+          "aav_usd": 820500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 820500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 820500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 820500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 4000000,
+          "total_salary_usd": 2850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483808,
+      "player_name": "Andrei Kuzmenko",
+      "position": "L",
+      "sweater_number": 62,
+      "birth_date": "1996-02-04",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 5000000,
+      "total_value_usd": 5000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kuzmenko-carlile-van-riemsdyk-sign-contracts-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "CGY",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "LAK",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 4300000,
+          "total_salary_usd": 4300000,
+          "base_salary_usd": 3300000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482148,
+      "player_name": "Hendrix Lapierre",
+      "position": "C",
+      "sweater_number": 22,
+      "birth_date": "2002-02-09",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-03",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1300000,
+      "total_value_usd": 2600000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/penguins/news/penguins-sign-forward-hendrix-lapierre-to-a-two-year-contract",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG9QUVlOMUdaVWFaa1dQSEhxYmk4MWpJdHRidmdCT1VTR0UzUC1PRlZYeEdydTNzUHdJNml1MGZ2TlJ5dkVWZkNyZ20tQkttbW9xcDBJMGRuNnB6S3ZQWjhxMkVpT0dYdEJYM1RhYldVaHpZeFdNa0lzbElJYVA5TkMtYWxYS3RHWTFGVUIwNW5TNkh6cjYwamVtN3Q3MzN0dHc2dA?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1475000,
+      "current_season_base_salary_usd": 1475000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 1300000,
+          "total_salary_usd": 1475000,
+          "base_salary_usd": 1475000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481481,
+      "player_name": "Blake Lizotte",
+      "position": "C",
+      "sweater_number": 46,
+      "birth_date": "1997-12-13",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-01-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2029)",
+      "term_years": 3,
+      "aav_usd": 2250000,
+      "total_value_usd": 6750000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/blake-lizotte-signs-3-year-contract-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2250000,
+      "current_season_base_salary_usd": 2250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 1675000,
+          "total_salary_usd": 1675000,
+          "base_salary_usd": 1675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 1675000,
+          "total_salary_usd": 1675000,
+          "base_salary_usd": 1675000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 1850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 1850000,
+          "total_salary_usd": 1850000,
+          "base_salary_usd": 1850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 2250000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8471215,
+      "player_name": "Evgeni Malkin",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "1986-07-31",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-05-26",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 40 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 5500000,
+      "total_value_usd": 5500000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/evgeni-malkin-signs-one-year-contract-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/pittsburgh-penguins-pushing-for-stanley-cup-after-erik-karlsson-trade-345537402"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 3000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "PIT",
+          "aav_usd": 8700000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 9500000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 4500000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 5600000,
+          "base_salary_usd": 5600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3800000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483487,
+      "player_name": "Rutger McGroarty",
+      "position": "R",
+      "sweater_number": 2,
+      "birth_date": "2004-03-30",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 950000,
+      "total_value_usd": null,
+      "start_season": "2024-25",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/winnipeg-trades-rutger-mcgroarty-to-pittsburgh-for-brayden-yager"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 95000,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8478438,
+      "player_name": "Tommy Novak",
+      "position": "C",
+      "sweater_number": 18,
+      "birth_date": "1997-04-28",
+      "current_team": "PIT",
+      "signing_team": "NSH",
+      "signed_date": "2024-03-04",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3500000,
+      "total_value_usd": 10500000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tommy-novak-signs-three-year-deal-with-nashville",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 3,
+        "aav_usd": 4650000,
+        "total_value_usd": 13950000,
+        "start_season": "2027-28",
+        "end_season": "2029-30",
+        "signed_date": "2026-07-31",
+        "source_url": "https://www.nhl.com/news/tommy-novak-signs-three-year-contract-with-pittsburgh-penguins"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-michael-bunting-fourth-round-pick-in-2026-nhl-draft-from-pittsburgh-2025-03-05"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 817500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 817500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476483,
+      "player_name": "Rickard Rakell",
+      "position": "R",
+      "sweater_number": 67,
+      "birth_date": "1993-05-05",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2022-07-12",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2028)",
+      "term_years": 6,
+      "aav_usd": 5000000,
+      "total_value_usd": 30000000,
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/penguins-sign-rickard-rakell-to-six-year-contract-334789752",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/rickard-rakell-traded-to-pittsburgh-penguins-by-anaheim-ducks-331856986"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3600000,
+      "current_season_base_salary_usd": 3600000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2013-14": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "ANA",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 3800000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 6000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3600000,
+          "base_salary_usd": 3600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481582,
+      "player_name": "Nick Robertson",
+      "position": "L",
+      "sweater_number": 14,
+      "birth_date": "2001-09-11",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-14",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3250000,
+      "total_value_usd": 6500000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nicholas-robertson-signs-2-year-contract-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nicholas-robertson-traded-to-pittsburgh-penguins-by-toronto-maple-leafs"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3250000,
+      "current_season_base_salary_usd": 3250000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "TOR",
+          "aav_usd": 818000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 818000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "TOR",
+          "aav_usd": 818000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 818000,
+          "total_salary_usd": 765000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 818000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "TOR",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 875000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 1825000,
+          "total_salary_usd": 1825000,
+          "base_salary_usd": 1825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475810,
+      "player_name": "Bryan Rust",
+      "position": "R",
+      "sweater_number": 17,
+      "birth_date": "1992-05-11",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2022-05-23",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 6,
+      "aav_usd": 5125000,
+      "total_value_usd": 30750000,
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/pittsburgh-penguins-sign-bryan-rust-to-six-year-contract-334235686",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3660000,
+      "current_season_base_salary_usd": 3660000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 652500,
+          "total_salary_usd": 640000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 652500,
+          "total_salary_usd": 665000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 640000,
+          "total_salary_usd": 620000,
+          "base_salary_usd": 620000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 640000,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 660000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 5125000,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 6100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 5125000,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 6100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 5125000,
+          "total_salary_usd": 6100000,
+          "base_salary_usd": 6100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 5125000,
+          "total_salary_usd": 5130000,
+          "base_salary_usd": 5130000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 5125000,
+          "total_salary_usd": 3660000,
+          "base_salary_usd": 3660000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481725,
+      "player_name": "Elmer Soderblom",
+      "position": "L",
+      "sweater_number": 25,
+      "birth_date": "2001-07-05",
+      "current_team": "PIT",
+      "signing_team": "DET",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1125000,
+      "total_value_usd": 2250000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/redwings/news/happy-to-re-sign-two-year-deal-with-detroit-soderblom-confident-offseason-work-will-pay-off",
+      "secondary_source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkJORG9CNlVxR0tTQWI5R2xldGNjV0ttMXFUc1pibXFpUWZDQmNwTEVhOUhyWE1xTFJIX0tVWkZ2NmI2LTU3X0k4TVB4Q3pLWGRMZTQzaExBM0VtdTRWUGJNdTBYWlU2OGo4cDM4THZSUDg0YjkteTB3Qi1NVDllZm9tcDNYY3lxcEdLN1Y3MVAxSjMxSGdRU2VRQzNtRzhfcnc?oc=5",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1150000,
+      "current_season_base_salary_usd": 1150000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 878333,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 878333,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "DET",
+          "aav_usd": 878333,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 1125000,
+          "total_salary_usd": 1150000,
+          "base_salary_usd": 1150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483398,
+      "player_name": "Declan Carlile",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "2000-05-18",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1500000,
+      "total_value_usd": 3000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVh1T1JyRENOWDVfMzdyTWt3NmtjdEpoYmlIWTV6Z1l3aTlGXzMtRXN6Z0xVMF9jdE1fcEZFNlhVdzc1dkwzMU4zQVNWZ0cyZmVPVHdQQ29YWGJ1LVdyc0ZEZUljejdTZ2FCSHZuc1pvZlp4RzhoU0YySXdXTWZFQ0pzMGJJVG1YQkd5bTBVVm4?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "TBL",
+          "aav_usd": 855000,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "TBL",
+          "aav_usd": 855000,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "TBL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479398,
+      "player_name": "Samuel Girard",
+      "position": "D",
+      "sweater_number": 49,
+      "birth_date": "1998-05-12",
+      "current_team": "PIT",
+      "signing_team": "COL",
+      "signed_date": "2019-07-31",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 7,
+      "aav_usd": 5000000,
+      "total_value_usd": 35000000,
+      "start_season": "2020-21",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/samuel-girard-signs-seven-year-deal-with-colorado-308402552",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/samuel-girard-traded-to-pittsburgh-by-colorado-for-brett-kulak"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "NSH",
+          "aav_usd": 713125,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "COL",
+          "aav_usd": 713125,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 713125,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 713125,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "COL",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "COL",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "COL",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "COL",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8474578,
+      "player_name": "Erik Karlsson",
+      "position": "D",
+      "sweater_number": 65,
+      "birth_date": "1990-05-31",
+      "current_team": "PIT",
+      "signing_team": "SJS",
+      "signed_date": "2019-06-17",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 37 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 11500000,
+      "total_value_usd": 92000000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/erik-karlsson-and-san-jose-sharks-agree-to-contract-307876282",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/erik-karlsson-focused-on-winning-stanley-cup-with-pittsburgh-penguins-not-trade-deadline"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 6000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "OTT",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2011-12": {
+          "team": "OTT",
+          "aav_usd": 875000,
+          "total_salary_usd": 875000,
+          "base_salary_usd": 787500,
+          "signing_bonus_usd": 87500,
+          "minor_league_salary_usd": 65000
+        },
+        "2012-13": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "SJS",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 7500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "SJS",
+          "aav_usd": 11500000,
+          "total_salary_usd": 14500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 11000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "SJS",
+          "aav_usd": 11500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 11500000,
+          "total_salary_usd": 14500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 9000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 11500000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 10000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 11500000,
+          "total_salary_usd": 11500000,
+          "base_salary_usd": 10500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 11500000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 11500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 11500000,
+          "total_salary_usd": 7500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 6000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481527,
+      "player_name": "Kaedan Korczak",
+      "position": "D",
+      "sweater_number": 6,
+      "birth_date": "2001-01-29",
+      "current_team": "PIT",
+      "signing_team": "VGK",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 3250000,
+      "total_value_usd": 13000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kaedan-korczak-signs-4-year-contract-with-vegas-golden-knights",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3250000,
+      "current_season_base_salary_usd": 1250000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 790500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 790500,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 790500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 790500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "VGK",
+          "aav_usd": 790500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "VGK",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8471724,
+      "player_name": "Kris Letang",
+      "position": "D",
+      "sweater_number": 58,
+      "birth_date": "1987-04-24",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2022-07-08",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 41 on June 30, 2028)",
+      "term_years": 6,
+      "aav_usd": 6100000,
+      "total_value_usd": 36600000,
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/kris-letang-hopes-pittsburgh-penguins-can-sign-evgeni-malkin-334868366",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/kris-letang-says-pittsburgh-in-strange-spot-ahead-of-trade-deadline"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 3800000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2011-12": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "PIT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 7250000,
+          "total_salary_usd": 7250000,
+          "base_salary_usd": 7250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 4000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 6200000,
+          "base_salary_usd": 6200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 6100000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3800000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481056,
+      "player_name": "Spencer Stastney",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "2000-01-04",
+      "current_team": "PIT",
+      "signing_team": "EDM",
+      "signed_date": "2026-07-05",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 27 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 1525000,
+      "total_value_usd": 1525000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/shakir-mukhamadullin-spencer-stastney-each-sign-with-edmonton-oilers",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1525000,
+      "current_season_base_salary_usd": 1525000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "NSH",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2025-26": {
+          "team": "EDM",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 1525000,
+          "total_salary_usd": 1525000,
+          "base_salary_usd": 1525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477845,
+      "player_name": "Trevor van Riemsdyk",
+      "position": "D",
+      "sweater_number": 57,
+      "birth_date": "1991-07-24",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 36 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 4000000,
+      "total_value_usd": 8000000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmgwQmF0UmFIbG9IX21DdzlYSER0ZUh5X1ZZOGZkaW50Mk9XYTB5S3JUcmxfVDI2V0RiZ182RnJPZHVlVHV1OGpDTDR1OGtuaDVhZzZod01WTWJIcTluajd6RkNqLThGY1dwQ1BJOHMyOUIxdVpPSG1BZmFqazU5TFFuU0lLTTcxQnpIb2lpeDVpaHBSVEFB?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4000000,
+      "current_season_base_salary_usd": 4000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "CHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "CAR",
+          "aav_usd": 825000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 825000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 2300000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 950000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 1250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 4000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483703,
+      "player_name": "Sergei Murashov",
+      "position": "G",
+      "sweater_number": 1,
+      "birth_date": "2004-04-01",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2024-07-30",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 886110,
+      "total_value_usd": 2658330,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLURmZ3lka01RMWhtMUNjZzA4Z1RMcV9zMlhkRXFlVUc4djlPOTl4QzBmV1hvcDAwV3hBLXFSblJjN0h4dktTdXJiSTFpSXQtdEhLcGVKNEZHMkZXSngzN3RZckVlVnR6Mm1idnozVk5lWVRHSS1idE1kb3dNWXBxRE8xREd5aDduUjhUUlNCYlFxV1Robmdka3dxSTdKM3oyWXpaRlpJR0MxMUR5dE44eg?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 936110,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 86110,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 886110,
+          "total_salary_usd": 861110,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 86110,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 886110,
+          "total_salary_usd": 861110,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 86110,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 886110,
+          "total_salary_usd": 936110,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 86110,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8481668,
+      "player_name": "Arturs Silovs",
+      "position": "G",
+      "sweater_number": 37,
+      "birth_date": "2001-03-22",
+      "current_team": "PIT",
+      "signing_team": "PIT",
+      "signed_date": "2026-07-05",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 2800000,
+      "total_value_usd": 2800000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/egor-chinakhov-gets-3-year-deal-with-pittsburgh-penguins",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/vancouver-canucks-trade-arturs-silovs-to-pittsburgh-penguins"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2800000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 300000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/pittsburgh-penguins",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "VAN",
+          "aav_usd": 785000,
+          "total_salary_usd": 785000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VAN",
+          "aav_usd": 785000,
+          "total_salary_usd": 785000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "VAN",
+          "aav_usd": 785000,
+          "total_salary_usd": 830000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "VAN",
+          "aav_usd": 785000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "VAN",
+          "aav_usd": 785000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 850000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "PIT",
+          "aav_usd": 850000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "PIT",
+          "aav_usd": 2800000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 300000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": []
+}

@@ -1,0 +1,2630 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "OTT",
+  "team_name": "Ottawa Senators",
+  "generated_at_utc": "2026-11-26T22:49:29Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/OTT/current",
+  "summary": {
+    "roster_players": 25,
+    "contracts_with_verified_source_url": 25,
+    "contracts_matched_nhlpa": 25,
+    "contracts_with_public_aav": 25,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 99375000,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 875000,
+    "combined_roster_plus_penalties_usd": 100250000
+  },
+  "contracts": [
+    {
+      "player_id": 8478020,
+      "player_name": "Michael Amadio",
+      "position": "R",
+      "sweater_number": 22,
+      "birth_date": "1996-05-13",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 2600000,
+      "total_value_usd": 7800000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk5jYUtLUF9UcWNRQ2dtcVdFaGhnNXVfZXJNd2NhN2paUEZpNkY2MDVNVTY0QTVvMW51cXdMNlhLdVRDYUdrZW1pSFd5c1B6TlMxY0x3c042eUIxQ2RTcUQtcjVhMDdqQ3BfU3VSVk5JZHlKOWZIRVQ3Qm15WmIwaDhEV0lzU2RRcnFUNmpzVnl1elA0TnRn0gGgAUFVX3lxTE5md21BbDFjQXhiVUpzLUM3cGh0TlFTTnFhY2tlcW1vLTVRWGRjcGpkSkltbGluZ203WWV1QUtwUElmLXNwS0ZjcmtfdVJzbGxKYWZ3OGVzTm5PeTFXZjFKZVVqUHVIOUJTenBKZ0FYUXlpcmxSVEd5RVNuTmVMdERuNGoxQVdMbU01VnN0ZHZTSEpYZF84VV9faGZaMWRnMUw?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2500000,
+      "current_season_base_salary_usd": 2500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "LAK",
+          "aav_usd": 717500,
+          "total_salary_usd": 667500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "LAK",
+          "aav_usd": 717500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "LAK",
+          "aav_usd": 717500,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "LAK",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 150000
+        },
+        "2020-21": {
+          "team": "TOR",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "VGK",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 400000
+        },
+        "2022-23": {
+          "team": "VGK",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2800000,
+          "base_salary_usd": 2800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480208,
+      "player_name": "Drake Batherson",
+      "position": "R",
+      "sweater_number": 19,
+      "birth_date": "1998-04-27",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2021-09-03",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2027)",
+      "term_years": 6,
+      "aav_usd": 4975000,
+      "total_value_usd": 29850000,
+      "start_season": "2021-22",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/drake-batherson-agrees-to-deal-with-ottawa-326074380",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 10750000,
+        "total_value_usd": 86000000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-09-16",
+        "source_url": "https://www.nhl.com/news/drake-batherson-signs-eight-year-contract-with-ottawa-senators"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6550000,
+      "current_season_base_salary_usd": 6550000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 735000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 735000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 735000,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 735000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 4975000,
+          "total_salary_usd": 6550000,
+          "base_salary_usd": 6550000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478104,
+      "player_name": "Sammy Blais",
+      "position": "L",
+      "sweater_number": 79,
+      "birth_date": "1996-06-17",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 925000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 437500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "STL",
+          "aav_usd": 666875,
+          "total_salary_usd": 647500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 72500,
+          "minor_league_salary_usd": 60000
+        },
+        "2016-17": {
+          "team": "STL",
+          "aav_usd": 666875,
+          "total_salary_usd": 647500,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 72500,
+          "minor_league_salary_usd": 60000
+        },
+        "2017-18": {
+          "team": "STL",
+          "aav_usd": 666875,
+          "total_salary_usd": 722500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 72500,
+          "minor_league_salary_usd": 65000
+        },
+        "2018-19": {
+          "team": "STL",
+          "aav_usd": 666875,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "STL",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NYR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "NYR",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 1525000,
+          "total_salary_usd": 1525000,
+          "base_salary_usd": 1525000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 437500
+        }
+      }
+    },
+    {
+      "player_id": 8482674,
+      "player_name": "Tyler Boucher",
+      "position": "R",
+      "sweater_number": 54,
+      "birth_date": "2003-01-16",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-07-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 24 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/senators/news/senators-agree-to-terms-with-forward-tyler-boucher-on-a-one-year-two-way-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 90000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        }
+      }
+    },
+    {
+      "player_id": 8477444,
+      "player_name": "Andre Burakovsky",
+      "position": "L",
+      "sweater_number": 95,
+      "birth_date": "1995-02-09",
+      "current_team": "OTT",
+      "signing_team": "SEA",
+      "signed_date": "2022-07-13",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2027)",
+      "term_years": 5,
+      "aav_usd": 5500000,
+      "total_value_usd": 27500000,
+      "start_season": "2022-23",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/seattle-kraken-sign-andre-burakovsky-to-five-year-contract-334785118",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/senators/news/ottawa-senators-acquire-andre-burakovsky-from-chicago-in-exchange-for-a-sixth-round-draft-pick"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3750000,
+      "current_season_base_salary_usd": 3750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2013-14": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2014-15": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "WSH",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 3000000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 500000,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 3000000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 3250000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "COL",
+          "aav_usd": 4900000,
+          "total_salary_usd": 4400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "SEA",
+          "aav_usd": 4900000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 5400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "SEA",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 3750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476393,
+      "player_name": "Nick Cousins",
+      "position": "C",
+      "sweater_number": 21,
+      "birth_date": "1993-07-20",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 1587500,
+      "total_value_usd": 3175000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/nick-cousins-signs-two-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "PHI",
+          "aav_usd": 806875,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 60000
+        },
+        "2013-14": {
+          "team": "PHI",
+          "aav_usd": 806875,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 60000
+        },
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 806875,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 806875,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "ARI",
+          "aav_usd": 840000,
+          "total_salary_usd": 840000,
+          "base_salary_usd": 840000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "ARI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "ARI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1050000,
+          "base_salary_usd": 1050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 1500000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "FLA",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 350000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 325000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 1587500,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481528,
+      "player_name": "Dylan Cozens",
+      "position": "C",
+      "sweater_number": 24,
+      "birth_date": "2001-02-09",
+      "current_team": "OTT",
+      "signing_team": "BUF",
+      "signed_date": "2023-02-09",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 7,
+      "aav_usd": 7100000,
+      "total_value_usd": 49700000,
+      "start_season": "2022-23",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/dylan-cozens-signs-seven-year-contract-with-buffalo-sabres-340793564",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/dylan-cozens-traded-to-ottawa-senators-by-buffalo-sabres-for-josh-norris"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7100000,
+      "current_season_base_salary_usd": 7100000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 901875,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 7100000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 5100000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 7100000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 7100000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 7100000,
+          "total_salary_usd": 7100000,
+          "base_salary_usd": 7100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482667,
+      "player_name": "William Eklund",
+      "position": "L",
+      "sweater_number": 27,
+      "birth_date": "2002-10-12",
+      "current_team": "OTT",
+      "signing_team": "SJS",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 5600000,
+      "total_value_usd": 16800000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sharks/news/william-eklund-signs-3-year-contract-with-san-jose-x0487",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/william-eklund-has-no-hard-feelings-for-san-jose-after-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5400000,
+      "current_season_base_salary_usd": 4400000,
+      "current_season_signing_bonus_usd": 1000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "SJS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "SJS",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 5600000,
+          "total_salary_usd": 5400000,
+          "base_salary_usd": 4400000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8477998,
+      "player_name": "Warren Foegele",
+      "position": "L",
+      "sweater_number": 37,
+      "birth_date": "1996-04-01",
+      "current_team": "OTT",
+      "signing_team": "LAK",
+      "signed_date": "2024-07-18",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 3500000,
+      "total_value_usd": 10500000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2024-25-season",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/warren-foegele-traded-to-ottawa-senators-by-los-angeles-kings"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "CAR",
+          "aav_usd": 746667,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "CAR",
+          "aav_usd": 746667,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "CAR",
+          "aav_usd": 746667,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 2150000,
+          "total_salary_usd": 2150000,
+          "base_salary_usd": 2150000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2900000,
+          "base_salary_usd": 2900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 2750000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "LAK",
+          "aav_usd": 3500000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 3500000,
+          "total_salary_usd": 3000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8473512,
+      "player_name": "Claude Giroux",
+      "position": "R",
+      "sweater_number": 28,
+      "birth_date": "1988-01-12",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-07-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 39 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 2000000,
+      "total_value_usd": 2000000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/claude-giroux-signs-one-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2000000,
+      "current_season_base_salary_usd": 2000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2010-11": {
+          "team": "PHI",
+          "aav_usd": 828750,
+          "total_salary_usd": 765000,
+          "base_salary_usd": 765000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 62500
+        },
+        "2011-12": {
+          "team": "PHI",
+          "aav_usd": 3750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2012-13": {
+          "team": "PHI",
+          "aav_usd": 3750000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2013-14": {
+          "team": "PHI",
+          "aav_usd": 3750000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2014-15": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 3000000,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PHI",
+          "aav_usd": 8275000,
+          "total_salary_usd": 7200000,
+          "base_salary_usd": 7200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 8275000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 6500000,
+          "total_salary_usd": 5500000,
+          "base_salary_usd": 5500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482092,
+      "player_name": "Ridly Greig",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "2002-08-08",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2025-01-10",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 4,
+      "aav_usd": 3250000,
+      "total_value_usd": 13000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ridly-greig-signs-4-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2750000,
+      "current_season_base_salary_usd": 2750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 3250000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483676,
+      "player_name": "Stephen Halliday",
+      "position": "C",
+      "sweater_number": 34,
+      "birth_date": "2002-07-02",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-05-05",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 80 career NHL GP (24 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 1075000,
+      "total_value_usd": 2150000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/senators/news/senators-agree-to-two-year-contract-extension-with-centre-stephen-halliday",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 975000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 1075000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478173,
+      "player_name": "Hayden Hodgson",
+      "position": "R",
+      "sweater_number": 42,
+      "birth_date": "1996-03-02",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 812500,
+      "total_value_usd": null,
+      "start_season": "2025-26",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 350000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 50000,
+          "minor_league_salary_usd": 175000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 800000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 325000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        }
+      }
+    },
+    {
+      "player_id": 8481596,
+      "player_name": "Shane Pinto",
+      "position": "C",
+      "sweater_number": 12,
+      "birth_date": "2000-11-12",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2025-11-14",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 7500000,
+      "total_value_usd": 30000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/shane-pinto-signs-deal-with-ottawa",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6500000,
+      "current_season_base_salary_usd": 6500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 3750000,
+          "total_salary_usd": 2500000,
+          "base_salary_usd": 2500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 3750000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 7500000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482116,
+      "player_name": "Tim St\u00fctzle",
+      "position": "C",
+      "sweater_number": 18,
+      "birth_date": "2002-01-15",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2022-09-07",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2031)",
+      "term_years": 8,
+      "aav_usd": 8350000,
+      "total_value_usd": 66800000,
+      "start_season": "2023-24",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tim-stutzle-signs-eight-year-contract-with-ottawa-senators-335486642",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 9000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 8350000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 8350000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 8350000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 8350000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 9000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481577,
+      "player_name": "Philip Tomasino",
+      "position": "R",
+      "sweater_number": 62,
+      "birth_date": "2001-07-28",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 900000,
+      "total_value_usd": null,
+      "start_season": "2026-27",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 900000,
+      "current_season_base_salary_usd": 900000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 600000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "NSH",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 825000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 1750000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 600000
+        }
+      }
+    },
+    {
+      "player_id": 8480188,
+      "player_name": "Fabian Zetterlund",
+      "position": "L",
+      "sweater_number": 20,
+      "birth_date": "1999-08-25",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2025-06-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 3,
+      "aav_usd": 4275000,
+      "total_value_usd": 12825000,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/fabian-zetterlund-signs-3-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/senators/news/senators-acquire-zetterlund-robins-from-sharks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4300000,
+      "current_season_base_salary_usd": 4300000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "NJD",
+          "aav_usd": 809167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "NJD",
+          "aav_usd": 809167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "NJD",
+          "aav_usd": 809167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "SJS",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 125000
+        },
+        "2023-24": {
+          "team": "SJS",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 4275000,
+          "total_salary_usd": 3800000,
+          "base_salary_usd": 3800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 4275000,
+          "total_salary_usd": 4300000,
+          "base_salary_usd": 4300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8478469,
+      "player_name": "Thomas Chabot",
+      "position": "D",
+      "sweater_number": 72,
+      "birth_date": "1997-01-30",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2019-09-19",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2027)",
+      "term_years": 8,
+      "aav_usd": 8000000,
+      "total_value_usd": 64000000,
+      "start_season": "2019-20",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/thomas-chabot-signs-deal-with-ottawa-309299398",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 10000000,
+      "current_season_base_salary_usd": 10000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 8000000,
+          "total_salary_usd": 10000000,
+          "base_salary_usd": 10000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482095,
+      "player_name": "Tyler Kleven",
+      "position": "D",
+      "sweater_number": 43,
+      "birth_date": "2002-01-10",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2025-06-02",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 1600000,
+      "total_value_usd": 3200000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tyler-kleven-signs-2-year-deal-with-ottawa",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1700000,
+      "current_season_base_salary_usd": 1700000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 1600000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484321,
+      "player_name": "Nikolas Matinpalo",
+      "position": "D",
+      "sweater_number": 33,
+      "birth_date": "1998-10-05",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2025-05-05",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 875000,
+      "total_value_usd": 1750000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek11VjJqcHVpcEVYTHctRENIQ0FsOHZ6YmVRemJVbWY0SDRkaWYyemRXTnREUTduRUgxZ2Y3NzR4REE3QjRRVkFSS2ZMdmxRMGJnU09fb1c5R0EwbnV5TW9hU0M0QzNDbHlHdDlhUlB6eVRBNXFGTElqaFEwVGJUZUJxSUFuam4wUFNPbFZtSk10OWE1c09GdE42Tmc1X3RWSms4?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 925000,
+      "current_season_base_salary_usd": 925000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 885000,
+          "total_salary_usd": 885000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 85000,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 875000,
+          "total_salary_usd": 825000,
+          "base_salary_usd": 825000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 875000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482105,
+      "player_name": "Jake Sanderson",
+      "position": "D",
+      "sweater_number": 85,
+      "birth_date": "2002-07-08",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2023-09-07",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 8,
+      "aav_usd": 8050000,
+      "total_value_usd": 64400000,
+      "start_season": "2020-21",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/senators-sanderson-8-year-contract",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8050000,
+      "current_season_base_salary_usd": 8050000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 8050000,
+          "total_salary_usd": 8050000,
+          "base_salary_usd": 8050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 8050000,
+          "total_salary_usd": 8050000,
+          "base_salary_usd": 8050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 8050000,
+          "total_salary_usd": 8050000,
+          "base_salary_usd": 8050000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481606,
+      "player_name": "Jordan Spence",
+      "position": "D",
+      "sweater_number": 10,
+      "birth_date": "2001-02-24",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-06-26",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 5000000,
+      "total_value_usd": 20000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jordan-spence-signs-four-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/senators/news/jordan-spence-set-to-play-former-team-for-first-time-since-draft-day-trade"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "LAK",
+          "aav_usd": 813125,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "LAK",
+          "aav_usd": 813125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "LAK",
+          "aav_usd": 813125,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "LAK",
+          "aav_usd": 813125,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 300000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1700000,
+          "base_salary_usd": 1700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482245,
+      "player_name": "Artem Zub",
+      "position": "D",
+      "sweater_number": 2,
+      "birth_date": "1995-10-03",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2022-12-21",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2027)",
+      "term_years": 4,
+      "aav_usd": 4600000,
+      "total_value_usd": 18400000,
+      "start_season": "2023-24",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/artem-zub-signs-deal-with-ottawa-339046402",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4800000,
+      "current_season_base_salary_usd": 4800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 2500000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 2500000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 4600000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481035,
+      "player_name": "Samuel Ersson",
+      "position": "G",
+      "sweater_number": 30,
+      "birth_date": "1999-10-20",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2028)",
+      "term_years": 2,
+      "aav_usd": 2200000,
+      "total_value_usd": 4400000,
+      "start_season": "2026-27",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/samuel-ersson-signs-2-year-contract-with-ottawa-senators",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/samuel-ersson-traded-to-ottawa-by-toronto-for-draft-pick"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1750000,
+      "current_season_base_salary_usd": 1750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "PHI",
+          "aav_usd": 859167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "PHI",
+          "aav_usd": 859167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "PHI",
+          "aav_usd": 859167,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "PHI",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1300000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 300000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 2200000,
+          "total_salary_usd": 1750000,
+          "base_salary_usd": 1750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476999,
+      "player_name": "Linus Ullmark",
+      "position": "G",
+      "sweater_number": 35,
+      "birth_date": "1993-07-31",
+      "current_team": "OTT",
+      "signing_team": "OTT",
+      "signed_date": "2024-10-09",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 8250000,
+      "total_value_usd": 33000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/linus-ullmark-signs-4-year-deal-with-ottawa",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/bruins-trade-linus-ullmark-to-senators"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8000000,
+      "current_season_base_salary_usd": 8000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/ottawa-senators",
+      "yearly_compensation": {
+        "2014-15": {
+          "team": "BUF",
+          "aav_usd": 775833,
+          "total_salary_usd": 642500,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2015-16": {
+          "team": "BUF",
+          "aav_usd": 775833,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "BUF",
+          "aav_usd": 775833,
+          "total_salary_usd": 892500,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 750000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 750000,
+          "total_salary_usd": 800000,
+          "base_salary_usd": 800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 1325000,
+          "total_salary_usd": 1325000,
+          "base_salary_usd": 1325000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 2600000,
+          "total_salary_usd": 2600000,
+          "base_salary_usd": 2600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 5000000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 6000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "OTT",
+          "aav_usd": 5000000,
+          "total_salary_usd": 4500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "OTT",
+          "aav_usd": 8250000,
+          "total_salary_usd": 7000000,
+          "base_salary_usd": 7000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "OTT",
+          "aav_usd": 8250000,
+          "total_salary_usd": 8000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8478400,
+      "player_name": "Colin White",
+      "event_date": "2022-07-06",
+      "start_season": "2022-23",
+      "end_season": "2027-28",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 875000,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-ottawa-senators-10.html",
+      "notes": "6-year buyout penalty ($875K/yr through 2027-28)."
+    }
+  ]
+}

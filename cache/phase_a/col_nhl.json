@@ -1,0 +1,860 @@
+{
+  "team": "COL",
+  "team_name": "Colorado Avalanche",
+  "roster_count": 25,
+  "results": [
+    {
+      "player": {
+        "id": 8481550,
+        "name": "Adam Beckman",
+        "first": "Adam",
+        "last": "Beckman",
+        "pos": "L",
+        "sweater": 34
+      },
+      "birth_date": "2001-05-10",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/avalanche/news/avalanche-signs-beckman",
+        "date": "2026-07-01",
+        "headline": "Avalanche Signs Beckman",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "***DENVER*** \u2013 The Colorado Avalanche Hockey Club announced today that the team has signed forward **Adam Beckman** to a two-year contract through the 2027-28 season. **Beckman**, 25, played for the American Hockey League\u2019s Bridgeport Islanders in 2025-26, recording 51 points (30g/21a) in 68 contests."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484149,
+        "name": "Gavin Brindley",
+        "first": "Gavin",
+        "last": "Brindley",
+        "pos": "C",
+        "sweater": 54
+      },
+      "birth_date": "2004-10-05",
+      "draft_team": "CBJ",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-06-30",
+        "headline": "Coyle, Wood traded to Blue Jackets by Avalanche",
+        "url": "https://www.nhl.com/news/charlie-coyle-and-miles-wood-traded-to-columbus-blue-jackets-by-colorado-avalanche"
+      }
+    },
+    {
+      "player": {
+        "id": 8486171,
+        "name": "T.J. Hughes",
+        "first": "T.J.",
+        "last": "Hughes",
+        "pos": "R",
+        "sweater": 13
+      },
+      "birth_date": "2001-11-09",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475172,
+        "name": "Nazem Kadri",
+        "first": "Nazem",
+        "last": "Kadri",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "1990-10-06",
+      "draft_team": "TOR",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Kadri traded back to Avalanche by Flames for Olofsson, draft picks",
+        "url": "https://www.nhl.com/news/nazem-kadri-traded-to-colorado-avalanche-by-calgary-flames"
+      }
+    },
+    {
+      "player": {
+        "id": 8480448,
+        "name": "Parker Kelly",
+        "first": "Parker",
+        "last": "Kelly",
+        "pos": "C",
+        "sweater": 17
+      },
+      "birth_date": "1999-05-14",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482742,
+        "name": "Zachary L'Heureux",
+        "first": "Zachary",
+        "last": "L'Heureux",
+        "pos": "L",
+        "sweater": 68
+      },
+      "birth_date": "2003-05-15",
+      "draft_team": "NSH",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Drury traded to Predators by Avalanche",
+        "url": "https://www.nhl.com/news/jack-drury-traded-to-nashville-predators-by-colorado-avalanche"
+      }
+    },
+    {
+      "player": {
+        "id": 8476455,
+        "name": "Gabriel Landeskog",
+        "first": "Gabriel",
+        "last": "Landeskog",
+        "pos": "L",
+        "sweater": 92
+      },
+      "birth_date": "1992-11-23",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/avalanche-hope-to-re-sign-landeskog-grubauer-325799440",
+        "date": "2021-07-24",
+        "headline": "Avalanche still hope to re-sign Landeskog, Grubauer after Makar contract",
+        "signing_team": "COL",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 9000000,
+          "total_value_usd": 54000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "The Colorado Avalanche still hope to re-sign forward Gabriel Landeskog and goalie Philipp Grubauer, general manager Joe Sakic said Saturday. Landeskog and Grubauer each can become an unrestricted free agent July 28."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477476,
+        "name": "Artturi Lehkonen",
+        "first": "Artturi",
+        "last": "Lehkonen",
+        "pos": "L",
+        "sweater": 62
+      },
+      "birth_date": "1995-07-04",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/avalanche-re-signs-artturi-lehkonen-334962848",
+        "date": "2022-07-13",
+        "headline": "Avalanche Re-Signs Artturi Lehkonen",
+        "signing_team": "COL",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Colorado Avalanche Hockey Club announced today that the team has re-signed forward Artturi Lehkonen to a five-year contract through the 2026-27 season. Lehkonen, 27, combined with Montreal and Colorado to set career highs in goals (19) and points (38) in 2021-22."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-22",
+        "headline": "Lehkonen traded to Avalanche by Canadiens",
+        "url": "https://www.nhl.com/news/artturi-lehkonen-traded-to-colorado-avalanche-by-montreal-canadiens-331845962"
+      }
+    },
+    {
+      "player": {
+        "id": 8477492,
+        "name": "Nathan MacKinnon",
+        "first": "Nathan",
+        "last": "MacKinnon",
+        "pos": "C",
+        "sweater": 29
+      },
+      "birth_date": "1995-09-01",
+      "draft_team": "COL",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2025-02-27",
+        "headline": "Necas having fun playing with MacKinnon, Avalanche after blockbuster trade",
+        "url": "https://www.nhl.com/news/martin-necas-having-fun-playing-for-colorado-after-trade"
+      }
+    },
+    {
+      "player": {
+        "id": 8480039,
+        "name": "Martin Necas",
+        "first": "Martin",
+        "last": "Necas",
+        "pos": "C",
+        "sweater": 88
+      },
+      "birth_date": "1999-01-15",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/martin-necas-signs-8-year-deal-with-colorado",
+        "date": "2025-10-30",
+        "headline": "Necas signs 8-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2025-26",
+        "end_season": "2032-33",
+        "start_yr": 2025,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Martin Necas signed an eight-year contract with the Colorado Avalanche on Thursday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-04-17",
+        "headline": "Necas at home with Avalanche after trade, ready for playoffs",
+        "url": "https://www.nhl.com/news/martin-necas-at-home-with-colorado-set-for-postseason"
+      }
+    },
+    {
+      "player": {
+        "id": 8475754,
+        "name": "Brock Nelson",
+        "first": "Brock",
+        "last": "Nelson",
+        "pos": "C",
+        "sweater": 11
+      },
+      "birth_date": "1991-10-15",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/brock-nelson-signs-3-year-contract-to-stay-with-colorado-avalanche",
+        "date": "2025-06-04",
+        "headline": "Nelson signs 3-year contract to stay with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2025-26",
+        "end_season": "2027-28",
+        "start_yr": 2025,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Brock Nelson signed a three-year contract with the Colorado Avalanche on Wednesday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-12-04",
+        "headline": "Nelson set for 1st game at Islanders since trade to Avalanche",
+        "url": "https://www.nhl.com/news/brock-nelson-returns-to-face-new-york-islanders-with-colorado-avalanche"
+      }
+    },
+    {
+      "player": {
+        "id": 8481186,
+        "name": "Logan O'Connor",
+        "first": "Logan",
+        "last": "O'Connor",
+        "pos": "R",
+        "sweater": 25
+      },
+      "birth_date": "1996-08-14",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478462,
+        "name": "Nicolas Roy",
+        "first": "Nicolas",
+        "last": "Roy",
+        "pos": "C",
+        "sweater": 10
+      },
+      "birth_date": "1997-02-05",
+      "draft_team": "CAR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/nicolas-roy-signs-five-year-contract-with-vegas-golden-knights-335217682",
+        "date": "2022-08-08",
+        "headline": "Roy signs five-year, $15 million contract with Golden Knights",
+        "signing_team": "VGK",
+        "start_season": "2022-23",
+        "end_season": "2026-27",
+        "start_yr": 2022,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 3000000,
+          "total_value_usd": 15000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Nicolas Roy signed a five-year, $15 million contract with the Vegas Golden Knights on Monday. It has an average annual value of $3 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Roy traded to Avalanche by Maple Leafs for 2 draft picks",
+        "url": "https://www.nhl.com/news/nicolas-roy-traded-to-colorado-avalanche-by-toronto-maple-leafs"
+      }
+    },
+    {
+      "player": {
+        "id": 8475768,
+        "name": "Jaden Schwartz",
+        "first": "Jaden",
+        "last": "Schwartz",
+        "pos": "L",
+        "sweater": 71
+      },
+      "birth_date": "1992-06-25",
+      "draft_team": "STL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jaden-schwartz-signs-3-year-contract-with-colorado-avalanche",
+        "date": "2026-07-02",
+        "headline": "Schwartz signs 3-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jaden Schwartz signed a three-year contract with the Colorado Avalanche on Thursday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482768,
+        "name": "Fedor Svechkov",
+        "first": "Fedor",
+        "last": "Svechkov",
+        "pos": "C",
+        "sweater": 9
+      },
+      "birth_date": "2003-04-05",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/predators/news/predators-sign-fedor-svechkov-to-two-year-2-5-million-contract-2026-03-23",
+        "date": "2026-03-23",
+        "headline": "Predators Sign Fedor Svechkov to Two-Year, $2.5 Million Contract",
+        "signing_team": "NSH",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1250000,
+          "total_value_usd": 2500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "arch 23, 2026) \u2013 Nashville Predators General Manager Barry Trotz announced today that the team has signed forward Fedor Svechkov to a two-year, $2.5 million contract. Svechkov, 22 (4/5/03), has appeared in 58 games for Nashville this season, posting 13 points (3g-10a) in 11:56 of average ice time."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-24",
+        "headline": "Predators Acquire Jack Drury, Chase Bradley, Third-Round Pick in 2029 NHL Draft From Colorado",
+        "url": "https://www.nhl.com/predators/news/predators-acquire-jack-drury-chase-bradley-third-round-pick-in-2029-nhl-draft-from-colorado-2026-06-24"
+      }
+    },
+    {
+      "player": {
+        "id": 8470613,
+        "name": "Brent Burns",
+        "first": "Brent",
+        "last": "Burns",
+        "pos": "D",
+        "sweater": 84
+      },
+      "birth_date": "1985-03-09",
+      "draft_team": "MIN",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-burns",
+        "date": "2026-06-26",
+        "headline": "Avalanche Re-Signs Burns",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "***DENVER*** \u2013 The Colorado Avalanche Hockey Club announced today the team has signed defenseman **Brent Burns** to a one-year contract extension for the 2026-27 season. **Burns**, 41, recorded 35 points (12g/23a), five game-winning goals, a career-best plus-33 rating and logged 18:53 time on ice per game over 82 showi"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478454,
+        "name": "Noah Juulsen",
+        "first": "Noah",
+        "last": "Juulsen",
+        "pos": "D",
+        "sweater": 47
+      },
+      "birth_date": "1997-04-02",
+      "draft_team": "MTL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/avalanche/news/avalanche-signs-juulsen",
+        "date": "2026-07-01",
+        "headline": "Avalanche Signs Juulsen",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "***DENVER*** \u2013 The Colorado Avalanche Hockey Club announced today the team has signed defenseman **Noah Juulsen** to a two-year contract through the 2027-28 season. Juulsen, 29, recorded 10 points (1g/9a) and a plus-three rating in 52 games with the Philadelphia Flyers last season and added two points (0g/2a) in five S"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476967,
+        "name": "Brett Kulak",
+        "first": "Brett",
+        "last": "Kulak",
+        "pos": "D",
+        "sweater": 27
+      },
+      "birth_date": "1994-01-06",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/avalanche/news/avalanche-re-signs-kulak",
+        "date": "2026-06-26",
+        "headline": "Avalanche Re-Signs Kulak",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2030-31",
+        "start_yr": 2026,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "***DENVER*** \u2013 The Colorado Avalanche Hockey Club announced today the team has signed defenseman **Brett Kulak** to a five-year contract extension through the 2030-31 season. **Kulak**, 32, was originally acquired by the Avalanche in a trade with Pittsburgh on Feb."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-02-25",
+        "headline": "Girard traded to Penguins by Avalanche for Kulak",
+        "url": "https://www.nhl.com/news/samuel-girard-traded-to-pittsburgh-by-colorado-for-brett-kulak"
+      }
+    },
+    {
+      "player": {
+        "id": 8480069,
+        "name": "Cale Makar",
+        "first": "Cale",
+        "last": "Makar",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1998-10-30",
+      "draft_team": "COL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/colorado-avalanche-cale-makar-contract-325776806",
+        "date": "2021-07-24",
+        "headline": "Makar signs six-year, $54 million contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2021-22",
+        "end_season": "2026-27",
+        "start_yr": 2021,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 9000000,
+          "total_value_usd": 54000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cale Makar signed a six-year, $54 million contract with the Colorado Avalanche on Saturday. It has an average annual value of $9 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cale-makar-signs-eight-year-contract-with-colorado-avalanche",
+        "date": "2026-08-31",
+        "headline": "Makar signs record 8-year, $163.2 million contract with Avalanche, worth $20.4M annually \u00a0",
+        "signing_team": "COL",
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "start_yr": 2027,
+        "end_yr": 2034,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": 20400000,
+          "total_value_usd": 163200000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cale Makar became the NHL's first $20 million man on Friday. The 27-year-old defenseman signed an eight-year, $163.2 million contract with the Colorado Avalanche."
+        }
+      },
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484258,
+        "name": "Sam Malinski",
+        "first": "Sam",
+        "last": "Malinski",
+        "pos": "D",
+        "sweater": 70
+      },
+      "birth_date": "1998-07-27",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sam-malinski-signs-4-year-contract-with-colorado-avalanche",
+        "date": "2026-01-27",
+        "headline": "Malinski signs 4-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2029-30",
+        "start_yr": 2026,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Sam Malinski signed a four-year contract with the Colorado Avalanche on Tuesday. Financial terms were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8476312,
+        "name": "Josh Manson",
+        "first": "Josh",
+        "last": "Manson",
+        "pos": "D",
+        "sweater": 42
+      },
+      "birth_date": "1991-10-07",
+      "draft_team": "ANA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/josh-manson-signs-2-year-contract-with-colorado-avalanche",
+        "date": "2025-07-10",
+        "headline": "Manson signs 2-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": "UFA",
+          "quote": "Josh Manson signed a two-year contract with the Colorado Avalanche on Thursday. Financial terms were not disclosed for the contract, which will run through the 2027-28 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2022-03-16",
+        "headline": "Manson traded to Avalanche by Ducks",
+        "url": "https://www.nhl.com/news/josh-manson-traded-to-colorado-avalanche-by-anaheim-ducks-331834666"
+      }
+    },
+    {
+      "player": {
+        "id": 8476422,
+        "name": "Mike Reilly",
+        "first": "Mike",
+        "last": "Reilly",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "1993-07-13",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/hurricanes/news/canes-sign-reilly-to-one-year-two-way-contract",
+        "date": "2026-09-10",
+        "headline": "Canes Sign Reilly To One-Year, Two-Way Contract",
+        "signing_team": "CAR",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": true,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Manager of the National Hockey League\u2019s Carolina Hurricanes, today announced that the team has signed defenseman **Mike Reilly** to a one-year, two-way contract. Reilly will be paid $850,000 on the NHL level or $450,000 on the American Hockey League (AHL) level."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-11-15",
+        "headline": "Avalanche Claim Mike Reilly Off Waivers",
+        "url": "https://www.nhl.com/avalanche/news/avalanche-claim-mike-reilly-off-waivers"
+      }
+    },
+    {
+      "player": {
+        "id": 8478038,
+        "name": "Devon Toews",
+        "first": "Devon",
+        "last": "Toews",
+        "pos": "D",
+        "sweater": 7
+      },
+      "birth_date": "1994-02-21",
+      "draft_team": "NYI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/devon-toews-signs-seven-year-contract-with-colorado",
+        "date": "2023-10-13",
+        "headline": "Toews signs 7-year contract to remain with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2024-25",
+        "end_season": "2030-31",
+        "start_yr": 2024,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Devon Toews signed a seven-year contract with the Colorado Avalanche on Friday. Financial terms were not announced on the contract, which begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2020-10-15",
+        "headline": "Avs Trade For Depth To Go On Deep Playoff Run",
+        "url": "https://www.nhl.com/news/avalanche-trades-for-depth-for-deep-playoff-run-319459378"
+      }
+    },
+    {
+      "player": {
+        "id": 8478406,
+        "name": "Mackenzie Blackwood",
+        "first": "Mackenzie",
+        "last": "Blackwood",
+        "pos": "G",
+        "sweater": 39
+      },
+      "birth_date": "1996-12-09",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mackenzie-blackwood-signs-5-year-deal-with-colorado",
+        "date": "2024-12-28",
+        "headline": "Blackwood signs 5-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2025-26",
+        "end_season": "2029-30",
+        "start_yr": 2025,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Mackenzie Blackwood signed a five-year contract with the Colorado Avalanche on Friday. Financial terms were not disclosed regarding the contract, which begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-09",
+        "headline": "Georgiev traded to Sharks by Avalanche for Blackwood\u00a0",
+        "url": "https://www.nhl.com/sharks/news/alexandar-georgiev-traded-to-san-jose-from-colorado-for-mackenzie-blackwood-x3843"
+      }
+    },
+    {
+      "player": {
+        "id": 8475809,
+        "name": "Scott Wedgewood",
+        "first": "Scott",
+        "last": "Wedgewood",
+        "pos": "G",
+        "sweater": 41
+      },
+      "birth_date": "1992-08-14",
+      "draft_team": "NJD",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/scott-wedgewood-signs-deal-with-colorado",
+        "date": "2025-11-13",
+        "headline": "Wedgewood signs 1-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Scott Wedgewood signed a one-year contract with the Colorado Avalanche on Thursday. Financial terms were not disclosed for the contract, which begins next season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-12-01",
+        "headline": "Wedgewood traded to Avalanche by Predators for Annunen",
+        "url": "https://www.nhl.com/news/nashville-trades-justus-annunen-to-colorado-for-scott-wedgewood"
+      }
+    }
+  ]
+}

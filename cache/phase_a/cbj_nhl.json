@@ -1,0 +1,817 @@
+{
+  "team": "CBJ",
+  "team_name": "Columbus Blue Jackets",
+  "roster_count": 24,
+  "results": [
+    {
+      "player": {
+        "id": 8475745,
+        "name": "Charlie Coyle",
+        "first": "Charlie",
+        "last": "Coyle",
+        "pos": "C",
+        "sweater": 3
+      },
+      "birth_date": "1992-03-02",
+      "draft_team": "SJS",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/charlie-coyle-signs-6-year-contract-with-columbus-blue-jackets",
+        "date": "2026-05-12",
+        "headline": "Coyle signs 6-year, $36 million contract to stay with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 6000000,
+          "total_value_usd": 36000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "UFA",
+          "quote": "Charlie Coyle signed a six-year, $36 million contract with the Columbus Blue Jackets on Tuesday. It has an average annual value of $6 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2025-07-15",
+        "headline": "Blue Jackets add depth with trade for Coyle, Wood",
+        "url": "https://www.nhl.com/news/columbus-blue-jackets-roster-changes-for-2025-26-season"
+      }
+    },
+    {
+      "player": {
+        "id": 8483432,
+        "name": "Luca Del Bel Belluz",
+        "first": "Luca",
+        "last": "Del Bel Belluz",
+        "pos": "C",
+        "sweater": 93
+      },
+      "birth_date": "2003-11-10",
+      "draft_team": "CBJ",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8484166,
+        "name": "Adam Fantilli",
+        "first": "Adam",
+        "last": "Fantilli",
+        "pos": "C",
+        "sweater": 19
+      },
+      "birth_date": "2004-10-12",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/adam-fantilli-gets-6-year-contract-with-columbus",
+        "date": "2026-09-25",
+        "headline": "Fantilli signs 6-year, $82.5 million contract to end impasse with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2031-32",
+        "start_yr": 2026,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 13750000,
+          "total_value_usd": 82500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "**COLUMBUS --** Adam Fantilli is ready to get back to work for the Columbus Blue Jackets after signing a six-year, $82.5 million contract on Thursday. \u201cI don't feel like I'm far behind at all,\u201d said Fantilli, who has missed the first eight days of training camp, including three preseason games, because of contract nego"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478856,
+        "name": "Conor Garland",
+        "first": "Conor",
+        "last": "Garland",
+        "pos": "R",
+        "sweater": 83
+      },
+      "birth_date": "1996-03-11",
+      "draft_team": "ARI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/thatcher-demko-signs-3-year-contract-with-vancouver-canucks",
+        "date": "2025-07-01",
+        "headline": "Demko, Garland each signs contract with Canucks",
+        "signing_team": "VAN",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 8500000,
+          "total_value_usd": 25500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "2026-27",
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Thatcher Demko and Conor Garland each signed a contract with the Vancouver Canucks on Tuesday. Demko, a goalie, signed a three-year, $25.5 million contract ($8.5 million average annual value); Garland, a forward, signed a six-year, $36 million contract ($6 million AAV)."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-03-06",
+        "headline": "Garland traded to Blue Jackets by Canucks for draft picks",
+        "url": "https://www.nhl.com/news/conor-garland-traded-to-columbus-blue-jackets-by-vancouver-canucks"
+      }
+    },
+    {
+      "player": {
+        "id": 8482660,
+        "name": "Kent Johnson",
+        "first": "Kent",
+        "last": "Johnson",
+        "pos": "C",
+        "sweater": 91
+      },
+      "birth_date": "2002-10-18",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/kent-johnson-signs-three-contract-with-columbus-blue-jackets",
+        "date": "2024-07-27",
+        "headline": "Kent Johnson signs 3-year, $5.4 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2024-25",
+        "end_season": "2026-27",
+        "start_yr": 2024,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 1800000,
+          "total_value_usd": 5400000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Kent Johnson signed a three-year, $5.4 million contract with the Columbus Blue Jackets on Saturday. It has an average annual value of $1.8 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482720,
+        "name": "Matthew Knies",
+        "first": "Matthew",
+        "last": "Knies",
+        "pos": "L",
+        "sweater": 89
+      },
+      "birth_date": "2002-10-17",
+      "draft_team": "TOR",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/matthew-knies-signs-six-year-contract-with-toronto-maple-leafs",
+        "date": "2025-07-02",
+        "headline": "Knies signs 6-year, $46.5 million contract to remain with Maple Leafs",
+        "signing_team": "TOR",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 7750000,
+          "total_value_usd": 46500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "Matthew Knies signed a six-year, $46.5 million contract to remain with the Toronto Maple Leafs on Tuesday. It has an average annual value of $7.75 million."
+        }
+      },
+      "future_extension": {
+        "source": "nhl.com",
+        "dedicated": false,
+        "url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies",
+        "date": "2026-09-29",
+        "headline": "Marchenko traded to Maple Leafs from Blue Jackets, signs six-year deal",
+        "signing_team": "CBJ",
+        "start_season": "2027-28",
+        "end_season": "2032-33",
+        "start_yr": 2027,
+        "end_yr": 2032,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 12500000,
+          "total_value_usd": 75000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": "NEXT_SEASON",
+          "explicit_end": null,
+          "status_hint": "RFA",
+          "quote": "raded to the Toronto Maple Leafs from the Columbus Blue Jackets on Monday as part of a six-player deal that saw Matthew Knies go back to Columbus. Marchenko, who could have become a restricted free agent after this season, signed a six-year, $75 million contract ($12.5 million average annual value) with the Maple Leafs"
+        }
+      },
+      "trade": {
+        "date": "2026-09-29",
+        "headline": "Marchenko traded to Maple Leafs from Blue Jackets, signs six-year deal",
+        "url": "https://www.nhl.com/news/maple-leafs-acquire-kirill-marchenko-in-trade-with-blue-jackets-for-matthew-knies"
+      }
+    },
+    {
+      "player": {
+        "id": 8479066,
+        "name": "Ryan Lomberg",
+        "first": "Ryan",
+        "last": "Lomberg",
+        "pos": "L",
+        "sweater": 94
+      },
+      "birth_date": "1994-12-09",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-ryan-lomberg-to-two-year-contract",
+        "date": "2026-07-01",
+        "headline": "Blue Jackets sign forward Ryan Lomberg to two-year contract",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2027-28",
+        "start_yr": 2026,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 1300000,
+          "total_value_usd": 2600000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "The Columbus Blue Jackets have signed forward Ryan Lomberg to a two-year, $2.6 million contract ($1.3 million AAV) through the 2027-28 National Hockey League season, club President of Hockey Operations and General Manager Don Waddell announced today. \u201cWe\u2019re very pleased to add Ryan Lomberg to the Blue Jackets family,\u201d "
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8480806,
+        "name": "Isac Lundestr\u00f6m",
+        "first": "Isac",
+        "last": "Lundestr\u00f6m",
+        "pos": "C",
+        "sweater": 21
+      },
+      "birth_date": "1999-11-06",
+      "draft_team": "ANA",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477497,
+        "name": "Sean Monahan",
+        "first": "Sean",
+        "last": "Monahan",
+        "pos": "C",
+        "sweater": 23
+      },
+      "birth_date": "1994-10-12",
+      "draft_team": "CGY",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/sean-monahan-signs-5-year-deal-with-columbus",
+        "date": "2024-07-01",
+        "headline": "Monahan signs 5-year, $27.5 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2024-25",
+        "end_season": "2028-29",
+        "start_yr": 2024,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 5,
+          "aav_usd": 5500000,
+          "total_value_usd": 27500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Sean Monahan signed a five-year, $27.5 million contract with the Columbus Blue Jackets on Monday. It has an average annual value of $5.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8477501,
+        "name": "Valeri Nichushkin",
+        "first": "Valeri",
+        "last": "Nichushkin",
+        "pos": "R",
+        "sweater": 43
+      },
+      "birth_date": "1995-03-04",
+      "draft_team": "DAL",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/avalanche-nichushkin-eight-year-contract-334785604",
+        "date": "2022-07-12",
+        "headline": "Nichushkin signs eight-year contract with Avalanche",
+        "signing_team": "COL",
+        "start_season": "2022-23",
+        "end_season": "2029-30",
+        "start_yr": 2022,
+        "end_yr": 2029,
+        "terms": {
+          "term_years": 8,
+          "aav_usd": null,
+          "total_value_usd": null,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Valeri Nichushkin signed an eight-year contract with the Colorado Avalanche on Monday. Financial details were not disclosed."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-06-25",
+        "headline": "Nichushkin traded to Blue Jackets by Avalanche",
+        "url": "https://www.nhl.com/news/valeri-nichushkin-traded-to-columbus-blue-jackets-by-colorado-avalanche"
+      }
+    },
+    {
+      "player": {
+        "id": 8479671,
+        "name": "Mathieu Olivier",
+        "first": "Mathieu",
+        "last": "Olivier",
+        "pos": "R",
+        "sweater": 24
+      },
+      "birth_date": "1997-02-11",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/mathieu-olivier-signs-six-year-contract-with-columbus-blue-jackets",
+        "date": "2025-03-05",
+        "headline": "Olivier signs 6-year, $18 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2025-26",
+        "end_season": "2030-31",
+        "start_yr": 2025,
+        "end_yr": 2030,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 3000000,
+          "total_value_usd": 18000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2030-31",
+          "status_hint": null,
+          "quote": "Mathieu Olivier signed a 6-year, $18 million contract with the Columbus Blue Jackets on Wednesday. It has an average annual value of $3 million through the 2030-31 season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482451,
+        "name": "Mikael Pyyhtia",
+        "first": "Mikael",
+        "last": "Pyyhtia",
+        "pos": "L",
+        "sweater": 82
+      },
+      "birth_date": "2001-12-17",
+      "draft_team": "CBJ",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8482705,
+        "name": "Cole Sillinger",
+        "first": "Cole",
+        "last": "Sillinger",
+        "pos": "C",
+        "sweater": 4
+      },
+      "birth_date": "2003-05-16",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cole-sillinger-signs-three-year-contract-with-columbus-blue-jackets",
+        "date": "2026-07-25",
+        "headline": "Sillinger signs 3-year, $13.875 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 4625000,
+          "total_value_usd": 13875000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cole Sillinger signed a three-year, $13.875 million contract with the Columbus Blue Jackets on Saturday, avoiding an arbitration hearing. It has an average annual value of $4.625 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481716,
+        "name": "Dmitri Voronkov",
+        "first": "Dmitri",
+        "last": "Voronkov",
+        "pos": "L",
+        "sweater": 10
+      },
+      "birth_date": "2000-09-10",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dmitri-voronkov-signs-two-year-contract-with-blue-jackets",
+        "date": "2025-07-05",
+        "headline": "Voronkov signs 2-year, $8.35 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 4175000,
+          "total_value_usd": 8350000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Dmitri Voronkov signed a two-year, $8.35 million contract with the Columbus Blue Jackets on Saturday. It has an average annual value of $4.175 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8485469,
+        "name": "Jack Williams",
+        "first": "Jack",
+        "last": "Williams",
+        "pos": "C",
+        "sweater": 92
+      },
+      "birth_date": "2002-03-02",
+      "draft_team": null,
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8481161,
+        "name": "Jake Christiansen",
+        "first": "Jake",
+        "last": "Christiansen",
+        "pos": "D",
+        "sweater": 2
+      },
+      "birth_date": "1999-09-12",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/bluejackets/news/blue-jackets-sign-jake-christiansen-to-two-year-contract-extension",
+        "date": "2025-01-17",
+        "headline": "Blue Jackets sign Jake Christiansen to two-year extension",
+        "signing_team": "CBJ",
+        "start_season": "2025-26",
+        "end_season": "2026-27",
+        "start_yr": 2025,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 2,
+          "aav_usd": 975000,
+          "total_value_usd": 1950000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2026-27",
+          "status_hint": null,
+          "quote": "The Columbus Blue Jackets have signed defenseman Jake Christiansen to a two-year, $1.95 million contract extension ($975,000 AAV) through the 2026-27 National Hockey League season, club President of Hockey Operations and General Manager Don Waddell announced today. Christiansen, 25, has recorded two goals and 12 assist"
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8479371,
+        "name": "Dante Fabbro",
+        "first": "Dante",
+        "last": "Fabbro",
+        "pos": "D",
+        "sweater": 15
+      },
+      "birth_date": "1998-06-20",
+      "draft_team": "NSH",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/dante-fabbro-signs-4-year-contract-to-remain-with-columbus-blue-jackets",
+        "date": "2025-06-30",
+        "headline": "Fabbro signs 4-year, $16.5 million contract to remain with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2025-26",
+        "end_season": "2028-29",
+        "start_yr": 2025,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 4,
+          "aav_usd": 4125000,
+          "total_value_usd": 16500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2028-29",
+          "status_hint": null,
+          "quote": "Dante Fabbro signed a four-year, $16,5 million contract with the Columbus Blue Jackets on Sunday. It has an average annual value of $4.125 million and runs through the 2028-29 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2024-11-10",
+        "headline": "Blue Jackets claim defenseman Dante Fabbro off waivers",
+        "url": "https://www.nhl.com/bluejackets/news/blue-jackets-claim-dante-fabbro-place-kent-johnson-on-injured-reserve"
+      }
+    },
+    {
+      "player": {
+        "id": 8475790,
+        "name": "Erik Gudbranson",
+        "first": "Erik",
+        "last": "Gudbranson",
+        "pos": "D",
+        "sweater": 44
+      },
+      "birth_date": "1992-01-07",
+      "draft_team": "FLA",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/erik-gudbranson-signs-1-year-contract-with-columbus-blue-jackets",
+        "date": "2026-07-02",
+        "headline": "Gudbranson signs 1-year, $1.75 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 1750000,
+          "total_value_usd": 1750000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Erik Gudbranson signed a one-year, $1.75 million contract with the Columbus Blue Jackets on Thursday. The 34-year-old defenseman had three points (one goal, two assists) in 37 games for the Blue Jackets last season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8483485,
+        "name": "Denton Mateychuk",
+        "first": "Denton",
+        "last": "Mateychuk",
+        "pos": "D",
+        "sweater": 5
+      },
+      "birth_date": "2004-07-12",
+      "draft_team": "CBJ",
+      "active": null,
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8478500,
+        "name": "Ivan Provorov",
+        "first": "Ivan",
+        "last": "Provorov",
+        "pos": "D",
+        "sweater": 9
+      },
+      "birth_date": "1997-01-13",
+      "draft_team": "PHI",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/ivan-provorov-signs-7-year-contract-with-columbus-blue-jackets",
+        "date": "2025-07-01",
+        "headline": "Provorov signs 7-year, $59.5 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2025-26",
+        "end_season": "2031-32",
+        "start_yr": 2025,
+        "end_yr": 2031,
+        "terms": {
+          "term_years": 7,
+          "aav_usd": 8500000,
+          "total_value_usd": 59500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Ivan Provorov signed a seven-year, $59.5 million contract with the Columbus Blue Jackets on Tuesday. It has an average annual value of $8.5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2023-06-06",
+        "headline": "Provorov goes to Blue Jackets in 3-team trade with Flyers, Kings",
+        "url": "https://www.nhl.com/news/ivan-provorov-traded-to-columbus-in-3-team-trade-344759764"
+      }
+    },
+    {
+      "player": {
+        "id": 8476923,
+        "name": "Damon Severson",
+        "first": "Damon",
+        "last": "Severson",
+        "pos": "D",
+        "sweater": 78
+      },
+      "birth_date": "1994-08-07",
+      "draft_team": "NJD",
+      "active": null,
+      "future_extension": null,
+      "trade": {
+        "date": "2023-06-09",
+        "headline": "Severson traded to Blue Jackets after signing 8-year contract with Devils",
+        "url": "https://www.nhl.com/news/damon-severson-traded-to-columbus-344794714"
+      }
+    },
+    {
+      "player": {
+        "id": 8478460,
+        "name": "Zach Werenski",
+        "first": "Zach",
+        "last": "Werenski",
+        "pos": "D",
+        "sweater": 8
+      },
+      "birth_date": "1997-07-19",
+      "draft_team": "CBJ",
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/blue-jackets-sign-zach-werenski-to-six-year-contract-extension-325875476",
+        "date": "2021-07-30",
+        "headline": "Werenski signs six-year contract extension with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2022-23",
+        "end_season": "2027-28",
+        "start_yr": 2022,
+        "end_yr": 2027,
+        "terms": {
+          "term_years": 6,
+          "aav_usd": 9580000,
+          "total_value_usd": 57500000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": "2027-28",
+          "status_hint": null,
+          "quote": "Zach Werenski signed a six-year, $57.5 million contract extension with the Columbus Blue Jackets on Thursday that will begin next season. It has an average annual value of $9.58 million through the 2027-28 season."
+        }
+      },
+      "future_extension": null,
+      "trade": {
+        "date": "2026-09-09",
+        "headline": "Werenski says \u2018Columbus is where I want to be\u2019 after offseason trade chatter",
+        "url": "https://www.nhl.com/news/zach-werenski-says-columbus-is-where-i-want-to-be"
+      }
+    },
+    {
+      "player": {
+        "id": 8482982,
+        "name": "Jet Greaves",
+        "first": "Jet",
+        "last": "Greaves",
+        "pos": "G",
+        "sweater": 73
+      },
+      "birth_date": "2001-03-30",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/jet-greaves-signs-three-year-contract-with-columbus-blue-jackets",
+        "date": "2026-07-28",
+        "headline": "Greaves signs 3-year, $15 million contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2028-29",
+        "start_yr": 2026,
+        "end_yr": 2028,
+        "terms": {
+          "term_years": 3,
+          "aav_usd": 5000000,
+          "total_value_usd": 15000000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Jet Greaves signed a three-year, $15 million contract with the Columbus Blue Jackets on Thursday. It has an average annual value of $5 million."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    },
+    {
+      "player": {
+        "id": 8475660,
+        "name": "Cam Talbot",
+        "first": "Cam",
+        "last": "Talbot",
+        "pos": "G",
+        "sweater": 33
+      },
+      "birth_date": "1987-07-05",
+      "draft_team": null,
+      "active": {
+        "source": "nhl.com",
+        "dedicated": true,
+        "url": "https://www.nhl.com/news/cam-talbot-signs-1-year-contract-with-columbus-blue-jackets",
+        "date": "2026-09-15",
+        "headline": "Talbot signs 1-year contract with Blue Jackets",
+        "signing_team": "CBJ",
+        "start_season": "2026-27",
+        "end_season": "2026-27",
+        "start_yr": 2026,
+        "end_yr": 2026,
+        "terms": {
+          "term_years": 1,
+          "aav_usd": 950000,
+          "total_value_usd": 950000,
+          "is_elc": false,
+          "two_way": false,
+          "explicit_start": null,
+          "explicit_end": null,
+          "status_hint": null,
+          "quote": "Cam Talbot signed a one-year, $950,000 contract with the Columbus Blue Jackets on Monday. The goalie was 12-9-6 with a 3.19 goals-against average and .883 save percentage in 34 games (25 starts) for the Detroit Red Wings last season."
+        }
+      },
+      "future_extension": null,
+      "trade": null
+    }
+  ]
+}

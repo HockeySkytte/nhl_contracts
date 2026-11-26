@@ -1,0 +1,2537 @@
+{
+  "license": "CC0-1.0",
+  "season": "2026-27",
+  "team": "BUF",
+  "team_name": "Buffalo Sabres",
+  "generated_at_utc": "2026-11-26T22:49:24Z",
+  "roster_source": "https://api-web.nhle.com/v1/roster/BUF/current",
+  "summary": {
+    "roster_players": 26,
+    "contracts_with_verified_source_url": 26,
+    "contracts_matched_nhlpa": 26,
+    "contracts_with_public_aav": 26,
+    "contracts_missing_public_aav": 0,
+    "total_active_roster_aav_usd": 95067155,
+    "cap_penalties_count": 1,
+    "total_cap_penalties_usd": 6444444,
+    "combined_roster_plus_penalties_usd": 101511599
+  },
+  "contracts": [
+    {
+      "player_id": 8484145,
+      "player_name": "Zach Benson",
+      "position": "L",
+      "sweater_number": 6,
+      "birth_date": "2005-05-12",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-06-25",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 7500000,
+      "total_value_usd": 52500000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/zach-benson-signs-7-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9000000,
+      "current_season_base_salary_usd": 5250000,
+      "current_season_signing_bonus_usd": 3750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 950000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 7500000,
+          "total_salary_usd": 9000000,
+          "base_salary_usd": 5250000,
+          "signing_bonus_usd": 3750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475842,
+      "player_name": "Sam Carrick",
+      "position": "C",
+      "sweater_number": 10,
+      "birth_date": "1992-02-04",
+      "current_team": "BUF",
+      "signing_team": "NYR",
+      "signed_date": "2024-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 3,
+      "aav_usd": 1000000,
+      "total_value_usd": 3000000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/rangers-expected-to-sign-sam-carrick-to-three-year-deal.html",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/sam-carrick-traded-to-buffalo-sabres-by-new-york-rangers"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1000000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2012-13": {
+          "team": "TOR",
+          "aav_usd": 631667,
+          "total_salary_usd": 605000,
+          "base_salary_usd": 550000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 60000
+        },
+        "2013-14": {
+          "team": "TOR",
+          "aav_usd": 631667,
+          "total_salary_usd": 630000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 55000,
+          "minor_league_salary_usd": 60000
+        },
+        "2014-15": {
+          "team": "TOR",
+          "aav_usd": 631667,
+          "total_salary_usd": 660000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 60000,
+          "minor_league_salary_usd": 60000
+        },
+        "2015-16": {
+          "team": "TOR",
+          "aav_usd": 600000,
+          "total_salary_usd": 600000,
+          "base_salary_usd": 600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 100000
+        },
+        "2016-17": {
+          "team": "ANA",
+          "aav_usd": 575000,
+          "total_salary_usd": 575000,
+          "base_salary_usd": 575000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        },
+        "2017-18": {
+          "team": "ANA",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2018-19": {
+          "team": "ANA",
+          "aav_usd": 650000,
+          "total_salary_usd": 650000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        },
+        "2019-20": {
+          "team": "ANA",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "ANA",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "NYR",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "NYR",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 100000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479941,
+      "player_name": "Justin Danforth",
+      "position": "R",
+      "sweater_number": 15,
+      "birth_date": "1993-03-15",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-02",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1800000,
+      "total_value_usd": 3600000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sabres/news/buffalo-sabres-sign-justin-danforth-free-agency",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1800000,
+      "current_season_base_salary_usd": 1800000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CBJ",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "CBJ",
+          "aav_usd": 975000,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 975000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 1800000,
+          "total_salary_usd": 1800000,
+          "base_salary_usd": 1800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482659,
+      "player_name": "Josh Doan",
+      "position": "R",
+      "sweater_number": 91,
+      "birth_date": "2002-02-01",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-01-23",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2033)",
+      "term_years": 7,
+      "aav_usd": 6950000,
+      "total_value_usd": 48650000,
+      "start_season": "2026-27",
+      "end_season": "2032-33",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/josh-doan-signs-7-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/buffalo-sabres-trade-jj-peterka-to-utah-mammoth"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 6950000,
+      "current_season_base_salary_usd": 3450000,
+      "current_season_signing_bonus_usd": 3500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2023-24": {
+          "team": "UTA",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 6950000,
+          "total_salary_usd": 6950000,
+          "base_salary_usd": 3450000,
+          "signing_bonus_usd": 3500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484797,
+      "player_name": "Konsta Helenius",
+      "position": "C",
+      "sweater_number": 94,
+      "birth_date": "2006-05-11",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2024-07-08",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 956250,
+      "total_value_usd": 2868750,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": true,
+      "source_url": "https://www.prohockeyrumors.com/2024/07/sabres-sign-first-rounder-konsta-helenius.html",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 975000,
+      "current_season_base_salary_usd": 877500,
+      "current_season_signing_bonus_usd": 97500,
+      "minor_league_salary_usd": 85000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 956250,
+          "total_salary_usd": 975000,
+          "base_salary_usd": 877500,
+          "signing_bonus_usd": 97500,
+          "minor_league_salary_usd": 85000
+        }
+      }
+    },
+    {
+      "player_id": 8482896,
+      "player_name": "Tyson Kozak",
+      "position": "C",
+      "sweater_number": 48,
+      "birth_date": "2002-12-29",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2028 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 841667,
+      "total_value_usd": 2525001,
+      "start_season": "2025-26",
+      "end_season": "2027-28",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/sabres/news/buffalo-sabres-tyson-kozak-free-agency-rochester-americans-amerks",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 850000,
+          "total_salary_usd": 833333,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 83333,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 850000,
+          "total_salary_usd": 861111,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 86111,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 850000,
+          "total_salary_usd": 855556,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 80556,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 841667,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 841667,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481522,
+      "player_name": "Peyton Krebs",
+      "position": "C",
+      "sweater_number": 19,
+      "birth_date": "2001-01-26",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-07-13",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2030)",
+      "term_years": 4,
+      "aav_usd": 4500000,
+      "total_value_usd": 18000000,
+      "start_season": "2026-27",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/peyton-krebs-signs-4-year-deal-with-buffalo",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/nhl-fantasy-hockey-eichel-trade-vegas-buffalo-impact-327563888"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 3000000,
+      "current_season_signing_bonus_usd": 2000000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "VGK",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1450000,
+          "total_salary_usd": 1450000,
+          "base_salary_usd": 1450000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 4500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483468,
+      "player_name": "Jiri Kulich",
+      "position": "C",
+      "sweater_number": 20,
+      "birth_date": "2004-04-14",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "",
+      "signing_status": null,
+      "expiry_status": null,
+      "expiry_status_note": null,
+      "term_years": null,
+      "aav_usd": 912000,
+      "total_value_usd": null,
+      "start_season": "2022-23",
+      "end_season": null,
+      "two_way": true,
+      "source_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8479359,
+      "player_name": "Beck Malenstyn",
+      "position": "L",
+      "sweater_number": 29,
+      "birth_date": "1998-02-04",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-06-29",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2032)",
+      "term_years": 6,
+      "aav_usd": 2916667,
+      "total_value_usd": 17500002,
+      "start_season": "2026-27",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/beck-malenstyn-signs-6-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/capitals/news/capitals-acquire-second-round-in-2024-draft-from-buffalo-for-beck-malenstyn"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 1000000,
+      "current_season_signing_bonus_usd": 2500000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "WSH",
+          "aav_usd": 735000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "WSH",
+          "aav_usd": 735000,
+          "total_salary_usd": 730000,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "WSH",
+          "aav_usd": 735000,
+          "total_salary_usd": 780000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 80000,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "WSH",
+          "aav_usd": 735000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "WSH",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 90000
+        },
+        "2022-23": {
+          "team": "WSH",
+          "aav_usd": 762500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 110000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 762500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1350000,
+          "total_salary_usd": 1350000,
+          "base_salary_usd": 1350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 2916667,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 2500000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480802,
+      "player_name": "Ryan McLeod",
+      "position": "C",
+      "sweater_number": 71,
+      "birth_date": "1999-09-21",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 4,
+      "aav_usd": 5000000,
+      "total_value_usd": 20000000,
+      "start_season": "2025-26",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ryan-mcleod-signs-four-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/matthew-savoie-traded-to-oilers-by-sabres"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 5000000,
+      "current_season_base_salary_usd": 5000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "EDM",
+          "aav_usd": 834167,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "EDM",
+          "aav_usd": 834167,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "EDM",
+          "aav_usd": 834167,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "EDM",
+          "aav_usd": 798000,
+          "total_salary_usd": 798000,
+          "base_salary_usd": 798000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 2100000,
+          "total_salary_usd": 2100000,
+          "base_salary_usd": 2100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480064,
+      "player_name": "Josh Norris",
+      "position": "C",
+      "sweater_number": 9,
+      "birth_date": "1999-05-05",
+      "current_team": "BUF",
+      "signing_team": "OTT",
+      "signed_date": "2022-07-15",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 31 on June 30, 2030)",
+      "term_years": 8,
+      "aav_usd": 7950000,
+      "total_value_usd": 63600000,
+      "start_season": "2022-23",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/senators-sign-josh-norris-to-eight-year-contract-334788960",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/dylan-cozens-traded-to-ottawa-senators-by-buffalo-sabres-for-josh-norris"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 9500000,
+      "current_season_base_salary_usd": 9500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2019-20": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "OTT",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "OTT",
+          "aav_usd": 7950000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "OTT",
+          "aav_usd": 7950000,
+          "total_salary_usd": 6500000,
+          "base_salary_usd": 6500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 7950000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 7950000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 7950000,
+          "total_salary_usd": 9500000,
+          "base_salary_usd": 9500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8483500,
+      "player_name": "Noah Ostlund",
+      "position": "C",
+      "sweater_number": 86,
+      "birth_date": "2004-03-11",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2022-07-15",
+      "signing_status": "ELC",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 23 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 912000,
+      "total_value_usd": 2736000,
+      "start_season": "2024-25",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/sabres/news/buffalo-sabres-sign-first-round-picks-matt-savoie-jiri-kulich-noah-ost-335006690",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+      "future_extension": {
+        "term_years": 8,
+        "aav_usd": 6600000,
+        "total_value_usd": 52800000,
+        "start_season": "2027-28",
+        "end_season": "2034-35",
+        "signed_date": "2026-09-14",
+        "source_url": "https://www.nhl.com/news/noah-ostlund-signs-8-year-contract-with-buffalo-sabres"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 855000,
+      "current_season_base_salary_usd": 855000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 82500,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 95000,
+          "minor_league_salary_usd": 82500
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 912000,
+          "total_salary_usd": 855000,
+          "base_salary_usd": 855000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 82500
+        }
+      }
+    },
+    {
+      "player_id": 8482097,
+      "player_name": "Jack Quinn",
+      "position": "R",
+      "sweater_number": 22,
+      "birth_date": "2001-09-19",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-06-27",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 3375000,
+      "total_value_usd": 6750000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jack-quinn-signs-2-year-deal-with-buffalo",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3500000,
+      "current_season_base_salary_usd": 3500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 888000,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 3375000,
+          "total_salary_usd": 3250000,
+          "base_salary_usd": 3250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 3375000,
+          "total_salary_usd": 3500000,
+          "base_salary_usd": 3500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479420,
+      "player_name": "Tage Thompson",
+      "position": "C",
+      "sweater_number": 72,
+      "birth_date": "1997-10-30",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2022-09-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2030)",
+      "term_years": 7,
+      "aav_usd": 7142857,
+      "total_value_usd": 49999999,
+      "start_season": "2023-24",
+      "end_season": "2029-30",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/tage-thompson-agrees-to-seven-year-contract-with-buffalo-sabres-335425272",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 7142857,
+      "current_season_base_salary_usd": 7142857,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2017-18": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1200000,
+          "base_salary_usd": 1200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1600000,
+          "base_salary_usd": 1600000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7142858,
+          "base_salary_usd": 5142858,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7142857,
+          "base_salary_usd": 7142857,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7142857,
+          "base_salary_usd": 7142857,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 7142857,
+          "total_salary_usd": 7142857,
+          "base_salary_usd": 7142857,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8475722,
+      "player_name": "Jason Zucker",
+      "position": "L",
+      "sweater_number": 17,
+      "birth_date": "1992-01-16",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-03-07",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 35 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 4750000,
+      "total_value_usd": 9500000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/jason-zucker-signs-two-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4750000,
+      "current_season_base_salary_usd": 4750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2011-12": {
+          "team": "MIN",
+          "aav_usd": 771667,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 630000,
+          "signing_bonus_usd": 70000,
+          "minor_league_salary_usd": 67500
+        },
+        "2012-13": {
+          "team": "MIN",
+          "aav_usd": 771667,
+          "total_salary_usd": 715000,
+          "base_salary_usd": 625000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2013-14": {
+          "team": "MIN",
+          "aav_usd": 771667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 810000,
+          "signing_bonus_usd": 90000,
+          "minor_league_salary_usd": 67500
+        },
+        "2014-15": {
+          "team": "MIN",
+          "aav_usd": 900250,
+          "total_salary_usd": 850500,
+          "base_salary_usd": 850500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 67500
+        },
+        "2015-16": {
+          "team": "MIN",
+          "aav_usd": 900250,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2016-17": {
+          "team": "MIN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2017-18": {
+          "team": "MIN",
+          "aav_usd": 2000000,
+          "total_salary_usd": 2000000,
+          "base_salary_usd": 2000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2018-19": {
+          "team": "MIN",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 5000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "PIT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "PIT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 4800000,
+          "base_salary_usd": 4800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "PIT",
+          "aav_usd": 5500000,
+          "total_salary_usd": 6250000,
+          "base_salary_usd": 6250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "ARI",
+          "aav_usd": 5500000,
+          "total_salary_usd": 5200000,
+          "base_salary_usd": 5200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 5300000,
+          "total_salary_usd": 5300000,
+          "base_salary_usd": 5300000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 5000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 3750000,
+          "signing_bonus_usd": 1000000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481806,
+      "player_name": "Louis Crevier",
+      "position": "D",
+      "sweater_number": 46,
+      "birth_date": "2001-05-04",
+      "current_team": "BUF",
+      "signing_team": "CHI",
+      "signed_date": "2025-07-17",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 26 on June 30, 2027 (<27 and <7 accrued seasons)",
+      "term_years": 2,
+      "aav_usd": 900000,
+      "total_value_usd": 1800000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/blackhawks/news/release-blackhawks-re-sign-crevier-to-two-year-deal",
+      "secondary_source_url": null,
+      "future_extension": {
+        "term_years": 4,
+        "aav_usd": 4000000,
+        "total_value_usd": 16000000,
+        "start_season": "2027-28",
+        "end_season": "2030-31",
+        "signed_date": "2026-10-01",
+        "source_url": "https://www.nhl.com/news/louis-crevier-signs-4-year-deal-with-buffalo"
+      },
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 950000,
+      "current_season_base_salary_usd": 950000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "CHI",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "CHI",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "CHI",
+          "aav_usd": 850833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "CHI",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 275000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 900000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 900000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480839,
+      "player_name": "Rasmus Dahlin",
+      "position": "D",
+      "sweater_number": 26,
+      "birth_date": "2000-04-13",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2023-10-09",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 32 on June 30, 2032)",
+      "term_years": 8,
+      "aav_usd": 11000000,
+      "total_value_usd": 88000000,
+      "start_season": "2024-25",
+      "end_season": "2031-32",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/rasmus-dahlin-signs-8-year-deal-with-buffalo",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 11000000,
+      "current_season_base_salary_usd": 11000000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5000000,
+          "base_salary_usd": 3000000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 6000000,
+          "total_salary_usd": 5800000,
+          "base_salary_usd": 5800000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 6000000,
+          "total_salary_usd": 7200000,
+          "base_salary_usd": 7200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 11000000,
+          "total_salary_usd": 13000000,
+          "base_salary_usd": 8000000,
+          "signing_bonus_usd": 5000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 11000000,
+          "total_salary_usd": 12000000,
+          "base_salary_usd": 12000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 11000000,
+          "total_salary_usd": 11000000,
+          "base_salary_usd": 11000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8476891,
+      "player_name": "Matt Grzelcyk",
+      "position": "D",
+      "sweater_number": 24,
+      "birth_date": "1994-01-05",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-09-25",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 33 on June 30, 2027)",
+      "term_years": 1,
+      "aav_usd": 850000,
+      "total_value_usd": 850000,
+      "start_season": "2026-27",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlh2QW8yZkJXNVB4QVJsbmRrazc0OTlwUW9WQUZCWWFEMG12SkR3S0U3WmRnNks4UVl5X2VSeVhRM0hwR3BsYXp1UHBTNzF5Nzd2b3dvY0U3dzNqWTQ0SXNLNkYwOXpZaEMwTXUwb0tvUHhuNk9BbFpRblZ0VHZ0ZGFzSjA5eVU?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2016-17": {
+          "team": "BOS",
+          "aav_usd": 858750,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "BOS",
+          "aav_usd": 858750,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "BOS",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2019-20": {
+          "team": "BOS",
+          "aav_usd": 1400000,
+          "total_salary_usd": 1400000,
+          "base_salary_usd": 1400000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "BOS",
+          "aav_usd": 3687500,
+          "total_salary_usd": 2250000,
+          "base_salary_usd": 2250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "BOS",
+          "aav_usd": 3687500,
+          "total_salary_usd": 4000000,
+          "base_salary_usd": 4000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "BOS",
+          "aav_usd": 3687500,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "PIT",
+          "aav_usd": 3687500,
+          "total_salary_usd": 4250000,
+          "base_salary_usd": 4250000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "PIT",
+          "aav_usd": 2750000,
+          "total_salary_usd": 2750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "CHI",
+          "aav_usd": 1000000,
+          "total_salary_usd": 1000000,
+          "base_salary_usd": 1000000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 850000,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8484305,
+      "player_name": "Zach Metsa",
+      "position": "D",
+      "sweater_number": 73,
+      "birth_date": "1998-10-19",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-02",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXk3dHZzaHJ0eVB6WkFUSUM4YnhUTkxaWDdKbEIwczVyYV9KMk4yWEg1UjhBVTdHQUpiZENndkNwYjYtYjBlLWwzamNOVnZxNk4xWEx6Z0dVb0MydE02aUtmNzRlSFlMejV2b3MzQUF2cnRxTDdNT24xTzh0T2VSZU03TTlmT1J4OUhJTlhqU3lzNnBoaDZsMzdKU29oUjk1VFdYcjRR?oc=5",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 300000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 300000
+        }
+      }
+    },
+    {
+      "player_id": 8482671,
+      "player_name": "Owen Power",
+      "position": "D",
+      "sweater_number": 25,
+      "birth_date": "2002-11-22",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2023-10-12",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2031)",
+      "term_years": 7,
+      "aav_usd": 8350000,
+      "total_value_usd": 58450000,
+      "start_season": "2024-25",
+      "end_season": "2030-31",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/owen-power-signs-seven-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 8350000,
+      "current_season_base_salary_usd": 8350000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 916667,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 807500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 916667,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 8350000,
+          "total_salary_usd": 8350000,
+          "base_salary_usd": 6350000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 8350000,
+          "total_salary_usd": 8350000,
+          "base_salary_usd": 8350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 8350000,
+          "total_salary_usd": 8350000,
+          "base_salary_usd": 8350000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8480807,
+      "player_name": "Mattias Samuelsson",
+      "position": "D",
+      "sweater_number": 23,
+      "birth_date": "2000-03-14",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2022-10-12",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 29 on June 30, 2029)",
+      "term_years": 7,
+      "aav_usd": 4285714,
+      "total_value_usd": 29999998,
+      "start_season": "2022-23",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/mattias-samuelsson-signs-deal-with-buffalo-336275078",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4285714,
+      "current_season_base_salary_usd": 4285714,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 4285714,
+          "total_salary_usd": 4285716,
+          "base_salary_usd": 2285716,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 4285714,
+          "total_salary_usd": 4285714,
+          "base_salary_usd": 4285714,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 4285714,
+          "total_salary_usd": 4285714,
+          "base_salary_usd": 4285714,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 4285714,
+          "total_salary_usd": 4285714,
+          "base_salary_usd": 4285714,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479982,
+      "player_name": "Conor Timmins",
+      "position": "D",
+      "sweater_number": 21,
+      "birth_date": "1998-09-18",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-27",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 28 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 2200000,
+      "total_value_usd": 4400000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/conor-timmins-avoids-salary-arbitration-hearing-gets-2-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/connor-clifton-traded-to-pittsburgh-penguins-by-buffalo-sabres"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 2200000,
+      "current_season_base_salary_usd": 2200000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "COL",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "ARI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "ARI",
+          "aav_usd": 850000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2022-23": {
+          "team": "TOR",
+          "aav_usd": 850000,
+          "total_salary_usd": 950000,
+          "base_salary_usd": 950000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2023-24": {
+          "team": "TOR",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 1100000,
+          "total_salary_usd": 1100000,
+          "base_salary_usd": 1100000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 2200000,
+          "total_salary_usd": 2200000,
+          "base_salary_usd": 2200000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8482803,
+      "player_name": "Olen Zellweger",
+      "position": "D",
+      "sweater_number": 8,
+      "birth_date": "2003-09-10",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2026-07-01",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "Age 25 on June 30, 2029 (<27 and <7 accrued seasons)",
+      "term_years": 3,
+      "aav_usd": 3100000,
+      "total_value_usd": 9300000,
+      "start_season": "2026-27",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/olen-zellweger-signs-3-year-deal-with-buffalo",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "trade",
+        "url": "https://www.nhl.com/news/olen-zellweger-traded-to-buffalo-sabres-by-anaheim-ducks"
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 3100000,
+      "current_season_base_salary_usd": 2350000,
+      "current_season_signing_bonus_usd": 750000,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "ANA",
+          "aav_usd": 843500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2022-23": {
+          "team": "ANA",
+          "aav_usd": 843500,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2023-24": {
+          "team": "ANA",
+          "aav_usd": 843500,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 80000
+        },
+        "2024-25": {
+          "team": "ANA",
+          "aav_usd": 843500,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 843500,
+          "total_salary_usd": 832500,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 80000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 3100000,
+          "total_salary_usd": 3100000,
+          "base_salary_usd": 2350000,
+          "signing_bonus_usd": 750000,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8481551,
+      "player_name": "Colten Ellis",
+      "position": "G",
+      "sweater_number": 92,
+      "birth_date": "2000-10-05",
+      "current_team": "BUF",
+      "signing_team": "STL",
+      "signed_date": "2025-03-06",
+      "signing_status": "RFA",
+      "expiry_status": "RFA",
+      "expiry_status_note": "RFA if reaching 28 career NHL GP (4 more GP needed); otherwise Group 6 UFA",
+      "term_years": 2,
+      "aav_usd": 812500,
+      "total_value_usd": 1625000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": true,
+      "source_url": "https://www.nhl.com/blues/news/ellis-agrees-to-two-year-extension-with-blues",
+      "secondary_source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 850000,
+      "current_season_base_salary_usd": 850000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 225000,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2021-22": {
+          "team": "STL",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "STL",
+          "aav_usd": 850833,
+          "total_salary_usd": 842500,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2023-24": {
+          "team": "STL",
+          "aav_usd": 850833,
+          "total_salary_usd": 867500,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2024-25": {
+          "team": "STL",
+          "aav_usd": 775000,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 85000
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 812500,
+          "total_salary_usd": 775000,
+          "base_salary_usd": 775000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 175000
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 812500,
+          "total_salary_usd": 850000,
+          "base_salary_usd": 850000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 225000
+        }
+      }
+    },
+    {
+      "player_id": 8480045,
+      "player_name": "Ukko-Pekka Luukkonen",
+      "position": "G",
+      "sweater_number": 1,
+      "birth_date": "1999-03-09",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2024-07-24",
+      "signing_status": "RFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 30 on June 30, 2029)",
+      "term_years": 5,
+      "aav_usd": 4750000,
+      "total_value_usd": 23750000,
+      "start_season": "2024-25",
+      "end_season": "2028-29",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/ukko-pekka-luukkonen-signs-5-year-contract-with-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "draft",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 4750000,
+      "current_season_base_salary_usd": 4750000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2018-19": {
+          "team": "BUF",
+          "aav_usd": 769375,
+          "total_salary_usd": 742500,
+          "base_salary_usd": 650000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2019-20": {
+          "team": "BUF",
+          "aav_usd": 769375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2020-21": {
+          "team": "BUF",
+          "aav_usd": 769375,
+          "total_salary_usd": 792500,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2021-22": {
+          "team": "BUF",
+          "aav_usd": 769375,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2022-23": {
+          "team": "BUF",
+          "aav_usd": 837500,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 350000
+        },
+        "2023-24": {
+          "team": "BUF",
+          "aav_usd": 837500,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 925000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 2750000,
+          "signing_bonus_usd": 2000000,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 4750000,
+          "total_salary_usd": 4750000,
+          "base_salary_usd": 4750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    },
+    {
+      "player_id": 8479312,
+      "player_name": "Alex Lyon",
+      "position": "G",
+      "sweater_number": 34,
+      "birth_date": "1992-12-09",
+      "current_team": "BUF",
+      "signing_team": "BUF",
+      "signed_date": "2025-07-01",
+      "signing_status": "UFA",
+      "expiry_status": "UFA",
+      "expiry_status_note": "Group 3 UFA (age 34 on June 30, 2027)",
+      "term_years": 2,
+      "aav_usd": 1500000,
+      "total_value_usd": 3000000,
+      "start_season": "2025-26",
+      "end_season": "2026-27",
+      "two_way": false,
+      "source_url": "https://www.nhl.com/news/alex-lyon-signs-two-year-contract-with-buffalo-sabres",
+      "secondary_source_url": null,
+      "future_extension": null,
+      "notes": null,
+      "acquisition": {
+        "method": "free_agency",
+        "url": null
+      },
+      "aav_source": "nhlpa",
+      "current_season_salary_usd": 1500000,
+      "current_season_base_salary_usd": 1500000,
+      "current_season_signing_bonus_usd": 0,
+      "minor_league_salary_usd": 0,
+      "nhlpa_url": "https://www.nhlpa.com/compensation/buffalo-sabres",
+      "yearly_compensation": {
+        "2015-16": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2016-17": {
+          "team": "PHI",
+          "aav_usd": 925000,
+          "total_salary_usd": 925000,
+          "base_salary_usd": 832500,
+          "signing_bonus_usd": 92500,
+          "minor_league_salary_usd": 70000
+        },
+        "2017-18": {
+          "team": "PHI",
+          "aav_usd": 874125,
+          "total_salary_usd": 874125,
+          "base_salary_usd": 874125,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 70000
+        },
+        "2018-19": {
+          "team": "PHI",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 250000
+        },
+        "2019-20": {
+          "team": "PHI",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2020-21": {
+          "team": "CAR",
+          "aav_usd": 700000,
+          "total_salary_usd": 700000,
+          "base_salary_usd": 700000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2021-22": {
+          "team": "FLA",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 200000
+        },
+        "2022-23": {
+          "team": "DET",
+          "aav_usd": 750000,
+          "total_salary_usd": 750000,
+          "base_salary_usd": 750000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 310000
+        },
+        "2023-24": {
+          "team": "DET",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2024-25": {
+          "team": "BUF",
+          "aav_usd": 900000,
+          "total_salary_usd": 900000,
+          "base_salary_usd": 900000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        },
+        "2025-26": {
+          "team": "BUF",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1250000,
+          "signing_bonus_usd": 250000,
+          "minor_league_salary_usd": 0
+        },
+        "2026-27": {
+          "team": "BUF",
+          "aav_usd": 1500000,
+          "total_salary_usd": 1500000,
+          "base_salary_usd": 1500000,
+          "signing_bonus_usd": 0,
+          "minor_league_salary_usd": 0
+        }
+      }
+    }
+  ],
+  "cap_penalties": [
+    {
+      "penalty_type": "buyout",
+      "player_id": 8475784,
+      "player_name": "Jeff Skinner",
+      "event_date": "2024-06-30",
+      "start_season": "2024-25",
+      "end_season": "2029-30",
+      "current_season": "2026-27",
+      "current_season_cap_hit_usd": 6444444,
+      "source_url": "https://www.prohockeyrumors.com/2026/08/salary-cap-deep-dive-buffalo-sabres-10.html",
+      "notes": "Peak year ($6.44M) of 6-year buyout; drops to $2,444,444/yr for 2027-28 through 2029-30."
+    }
+  ]
+}

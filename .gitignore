@@ -1,0 +1,21 @@
+# Raw HTTP response cache (340+ MB — rebuilt on demand)
+cache/http/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Environment variables & local secrets
+.env
+.env.*
+
+# Scratch / temporary / OS files
+scratch/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
